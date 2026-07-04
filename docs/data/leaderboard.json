@@ -1,82 +1,54 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "items": [
     {
       "rank": 1,
-      "word": "AI",
-      "count": 18,
-      "change": 0,
-      "days_on_chart": 2
-    },
-    {
-      "rank": 2,
       "word": "SpaceX",
-      "count": 9,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 3,
-      "word": "無人機",
       "count": 5,
-      "change": -1,
-      "days_on_chart": 2
-    },
-    {
-      "rank": 4,
-      "word": "ETF",
-      "count": 3,
-      "change": 0,
-      "days_on_chart": 2
-    },
-    {
-      "rank": 5,
-      "word": "電動車",
-      "count": 2,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 6,
-      "word": "面板",
-      "count": 2,
       "change": 1,
       "days_on_chart": 2
     },
     {
-      "rank": 7,
-      "word": "國防產業",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 8,
-      "word": "太陽能",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 9,
-      "word": "生技",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 10,
-      "word": "PCB",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 11,
-      "word": "被動元件",
-      "count": 1,
-      "change": -8,
+      "rank": 2,
+      "word": "AI",
+      "count": 4,
+      "change": -1,
       "days_on_chart": 3
+    },
+    {
+      "rank": 3,
+      "word": "ETF",
+      "count": 3,
+      "change": 1,
+      "days_on_chart": 3
+    },
+    {
+      "rank": 4,
+      "word": "無人機",
+      "count": 2,
+      "change": -1,
+      "days_on_chart": 3
+    },
+    {
+      "rank": 5,
+      "word": "Fed",
+      "count": 2,
+      "change": "NEW",
+      "days_on_chart": 1
+    },
+    {
+      "rank": 6,
+      "word": "AI晶片",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 1
+    },
+    {
+      "rank": 7,
+      "word": "氫能",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 1
     }
   ]
 }
