@@ -1,6 +1,6 @@
 {
   "台積電": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-29",
     "total_count": 146
   },
@@ -20,9 +20,9 @@
     "total_count": 89
   },
   "半導體": {
-    "streak": 0,
-    "last_seen": "2026-06-27",
-    "total_count": 99
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 111
   },
   "電子": {
     "streak": 0,
@@ -170,9 +170,9 @@
     "total_count": 8
   },
   "股早盤": {
-    "streak": 0,
-    "last_seen": "2026-06-15",
-    "total_count": 8
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 16
   },
   "三大": {
     "streak": 0,
@@ -190,9 +190,9 @@
     "total_count": 54
   },
   "道瓊": {
-    "streak": 0,
-    "last_seen": "2026-06-18",
-    "total_count": 28
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 52
   },
   "早盤": {
     "streak": 0,
@@ -245,9 +245,9 @@
     "total_count": 28
   },
   "tw": {
-    "streak": 0,
-    "last_seen": "2026-06-17",
-    "total_count": 8
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 17
   },
   "新高": {
     "streak": 0,
@@ -345,9 +345,9 @@
     "total_count": 16
   },
   "反彈": {
-    "streak": 0,
-    "last_seen": "2026-06-18",
-    "total_count": 8
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 20
   },
   "美股收": {
     "streak": 0,
@@ -430,9 +430,9 @@
     "total_count": 10
   },
   "發展": {
-    "streak": 0,
-    "last_seen": "2026-06-25",
-    "total_count": 20
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 30
   },
   "股開盤": {
     "streak": 0,
@@ -577,6 +577,26 @@
   "進場": {
     "streak": 0,
     "last_seen": "2026-06-27",
+    "total_count": 10
+  },
+  "大指數": {
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 12
+  },
+  "專家": {
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 12
+  },
+  "尾盤": {
+    "streak": 1,
+    "last_seen": "2026-06-30",
+    "total_count": 10
+  },
+  "看好": {
+    "streak": 1,
+    "last_seen": "2026-06-30",
     "total_count": 10
   }
 }
