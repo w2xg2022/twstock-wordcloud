@@ -39,21 +39,21 @@
     },
     {
       "rank": 6,
-      "word": "人形機器人",
+      "word": "軍工",
       "count": 22,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 7,
-      "word": "AI晶片",
-      "count": 21,
+      "word": "人形機器人",
+      "count": 22,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 8,
-      "word": "軍工",
+      "word": "AI晶片",
       "count": 21,
       "change": "NEW",
       "days_on_chart": 1
@@ -158,36 +158,36 @@
     },
     {
       "rank": 23,
-      "word": "ASIC",
+      "word": "玻璃基板",
       "count": 9,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 24,
-      "word": "低軌道衛星",
+      "word": "ASIC",
       "count": 9,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 25,
-      "word": "交換器",
+      "word": "低軌道衛星",
       "count": 9,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 26,
-      "word": "PCB",
+      "word": "交換器",
       "count": 9,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 27,
-      "word": "玻璃基板",
-      "count": 8,
+      "word": "PCB",
+      "count": 9,
       "change": "NEW",
       "days_on_chart": 1
     },
