@@ -1,0 +1,126 @@
+{
+  "半導體封裝": [
+    { "name": "CoWoS", "synonyms": ["CoWoS"] },
+    { "name": "InFO", "synonyms": ["InFO"] },
+    { "name": "SoIC", "synonyms": ["SoIC"] },
+    { "name": "ABF載板", "synonyms": ["ABF載板", "ABF基板"] },
+    { "name": "玻璃基板", "synonyms": ["玻璃基板", "Glass Substrate"] },
+    { "name": "Chiplet", "synonyms": ["Chiplet", "小晶片"] },
+    { "name": "先進封裝", "synonyms": ["先進封裝", "Advanced Packaging"] },
+    { "name": "晶圓代工", "synonyms": ["晶圓代工", "Foundry"] },
+    { "name": "矽光子", "synonyms": ["矽光子", "Silicon Photonics"] },
+    { "name": "覆晶封裝", "synonyms": ["覆晶封裝", "Flip Chip"] },
+    { "name": "IC載板", "synonyms": ["IC載板", "載板"] },
+    { "name": "扇出型封裝", "synonyms": ["扇出型封裝", "Fan-Out"] }
+  ],
+  "AI": [
+    { "name": "AIPC", "synonyms": ["AIPC", "AI PC"] },
+    { "name": "AI伺服器", "synonyms": ["AI伺服器", "AI Server"] },
+    { "name": "AI晶片", "synonyms": ["AI晶片", "AI Chip"] },
+    { "name": "ASIC", "synonyms": ["ASIC"] },
+    { "name": "邊緣運算", "synonyms": ["邊緣運算", "邊緣計算", "Edge Computing"] },
+    { "name": "生成式AI", "synonyms": ["生成式AI", "Generative AI"] },
+    { "name": "大型語言模型", "synonyms": ["大型語言模型", "LLM"] },
+    { "name": "智慧眼鏡", "synonyms": ["智慧眼鏡", "AI眼鏡", "AR眼鏡"] },
+    { "name": "NPU", "synonyms": ["NPU"] },
+    { "name": "機器學習", "synonyms": ["機器學習", "Machine Learning"] }
+  ],
+  "記憶體": [
+    { "name": "HBM", "synonyms": ["HBM"] },
+    { "name": "DRAM", "synonyms": ["DRAM"] },
+    { "name": "NAND Flash", "synonyms": ["NAND Flash", "NAND快閃記憶體"] },
+    { "name": "記憶體模組", "synonyms": ["記憶體模組"] },
+    { "name": "固態硬碟", "synonyms": ["固態硬碟", "SSD"] },
+    { "name": "CXL", "synonyms": ["CXL"] },
+    { "name": "DDR5", "synonyms": ["DDR5"] },
+    { "name": "儲存晶片", "synonyms": ["儲存晶片", "Storage Chip"] }
+  ],
+  "軍工國防": [
+    { "name": "軍工", "synonyms": ["軍工", "軍工股"] },
+    { "name": "國防產業", "synonyms": ["國防產業", "Defense Industry"] },
+    { "name": "潛艦國造", "synonyms": ["潛艦國造"] },
+    { "name": "無人機", "synonyms": ["無人機", "Drone"] },
+    { "name": "反艦飛彈", "synonyms": ["反艦飛彈"] },
+    { "name": "軍用衛星", "synonyms": ["軍用衛星"] },
+    { "name": "國艦國造", "synonyms": ["國艦國造"] },
+    { "name": "戰機零組件", "synonyms": ["戰機零組件"] },
+    { "name": "軍用通訊", "synonyms": ["軍用通訊"] },
+    { "name": "防禦系統", "synonyms": ["防禦系統", "Defense System"] }
+  ],
+  "衛星通訊": [
+    { "name": "低軌道衛星", "synonyms": ["低軌道衛星", "低軌衛星", "LEO衛星"] },
+    { "name": "衛星通訊", "synonyms": ["衛星通訊", "Satellite Communication"] },
+    { "name": "非地面網路", "synonyms": ["非地面網路", "NTN"] },
+    { "name": "地面站", "synonyms": ["地面站", "Ground Station"] },
+    { "name": "衛星地面設備", "synonyms": ["衛星地面設備"] },
+    { "name": "太空產業", "synonyms": ["太空產業", "Space Industry"] },
+    { "name": "火箭發射", "synonyms": ["火箭發射"] },
+    { "name": "星鏈", "synonyms": ["星鏈", "Starlink"] }
+  ],
+  "電動車": [
+    { "name": "電動車", "synonyms": ["電動車", "EV", "Electric Vehicle"] },
+    { "name": "車用電子", "synonyms": ["車用電子", "Automotive Electronics"] },
+    { "name": "車用晶片", "synonyms": ["車用晶片", "Automotive Chip"] },
+    { "name": "充電樁", "synonyms": ["充電樁", "Charging Station"] },
+    { "name": "自動駕駛", "synonyms": ["自動駕駛", "Autonomous Driving"] },
+    { "name": "車用鏡頭", "synonyms": ["車用鏡頭"] },
+    { "name": "動力電池", "synonyms": ["動力電池"] },
+    { "name": "固態電池", "synonyms": ["固態電池", "Solid-State Battery"] },
+    { "name": "車用面板", "synonyms": ["車用面板"] },
+    { "name": "線控底盤", "synonyms": ["線控底盤"] }
+  ],
+  "機器人自動化": [
+    { "name": "機器人", "synonyms": ["機器人", "Robot"] },
+    { "name": "工業機器人", "synonyms": ["工業機器人", "Industrial Robot"] },
+    { "name": "人形機器人", "synonyms": ["人形機器人", "Humanoid Robot"] },
+    { "name": "協作機器人", "synonyms": ["協作機器人", "Cobot"] },
+    { "name": "自動化設備", "synonyms": ["自動化設備"] },
+    { "name": "減速機", "synonyms": ["減速機"] },
+    { "name": "伺服馬達", "synonyms": ["伺服馬達", "Servo Motor"] },
+    { "name": "機械手臂", "synonyms": ["機械手臂", "Robotic Arm"] }
+  ],
+  "綠能儲能": [
+    { "name": "太陽能", "synonyms": ["太陽能", "Solar"] },
+    { "name": "光伏", "synonyms": ["光伏", "Photovoltaic"] },
+    { "name": "風力發電", "synonyms": ["風力發電", "Wind Power"] },
+    { "name": "儲能系統", "synonyms": ["儲能系統", "Energy Storage"] },
+    { "name": "綠電", "synonyms": ["綠電", "Green Power"] },
+    { "name": "氫能", "synonyms": ["氫能", "Hydrogen Energy"] },
+    { "name": "燃料電池", "synonyms": ["燃料電池", "Fuel Cell"] },
+    { "name": "電網", "synonyms": ["電網", "Power Grid"] },
+    { "name": "離岸風電", "synonyms": ["離岸風電", "Offshore Wind"] },
+    { "name": "再生能源", "synonyms": ["再生能源", "Renewable Energy"] }
+  ],
+  "通訊網路": [
+    { "name": "5G", "synonyms": ["5G"] },
+    { "name": "6G", "synonyms": ["6G"] },
+    { "name": "衛星互聯網", "synonyms": ["衛星互聯網", "Satellite Internet"] },
+    { "name": "光通訊", "synonyms": ["光通訊", "Optical Communication"] },
+    { "name": "矽光子模組", "synonyms": ["矽光子模組"] },
+    { "name": "資料中心", "synonyms": ["資料中心", "Data Center"] },
+    { "name": "網通設備", "synonyms": ["網通設備", "Networking Equipment"] },
+    { "name": "交換器", "synonyms": ["交換器", "Switch"] }
+  ],
+  "生技醫療": [
+    { "name": "生技", "synonyms": ["生技", "Biotech"] },
+    { "name": "疫苗", "synonyms": ["疫苗", "Vaccine"] },
+    { "name": "新藥", "synonyms": ["新藥", "New Drug"] },
+    { "name": "基因治療", "synonyms": ["基因治療", "Gene Therapy"] },
+    { "name": "醫材", "synonyms": ["醫材", "Medical Device"] },
+    { "name": "精準醫療", "synonyms": ["精準醫療", "Precision Medicine"] },
+    { "name": "CDMO", "synonyms": ["CDMO"] },
+    { "name": "細胞治療", "synonyms": ["細胞治療", "Cell Therapy"] }
+  ],
+  "其他題材": [
+    { "name": "量子電腦", "synonyms": ["量子電腦", "Quantum Computer"] },
+    { "name": "PCB", "synonyms": ["PCB", "印刷電路板"] },
+    { "name": "被動元件", "synonyms": ["被動元件", "Passive Component"] },
+    { "name": "散熱", "synonyms": ["散熱", "Thermal Solution"] },
+    { "name": "機殼", "synonyms": ["機殼", "Chassis"] },
+    { "name": "重電", "synonyms": ["重電", "Heavy Electrical"] },
+    { "name": "高股息ETF", "synonyms": ["高股息ETF", "高息ETF"] },
+    { "name": "IC設計", "synonyms": ["IC設計", "IC Design"] },
+    { "name": "面板", "synonyms": ["面板", "Panel"] },
+    { "name": "散熱模組", "synonyms": ["散熱模組", "Thermal Module"] }
+  ]
+}

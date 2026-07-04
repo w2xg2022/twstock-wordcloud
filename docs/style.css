@@ -1,0 +1,87 @@
+* { box-sizing: border-box; }
+body {
+  font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  margin: 0;
+  background: #f5f6f8;
+  color: #222;
+}
+header {
+  padding: 24px 16px;
+  text-align: center;
+  background: #1f2937;
+  color: #fff;
+}
+header h1 { margin: 0 0 8px; }
+.subtitle { margin: 0; color: #cbd5e1; font-size: 14px; }
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+.tabs {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+.tab-btn {
+  padding: 8px 20px;
+  border: 1px solid #1f2937;
+  background: #fff;
+  color: #1f2937;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.tab-btn.active {
+  background: #1f2937;
+  color: #fff;
+}
+.wordcloud-section, .trend-section, .download-section, .leaderboard-section {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+#leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+#leaderboard-table th, #leaderboard-table td {
+  padding: 8px 10px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+#leaderboard-table th {
+  color: #666;
+  font-weight: normal;
+}
+#leaderboard-table td:nth-child(2) {
+  text-align: left;
+  font-weight: bold;
+}
+.chg-up { color: #dc2626; font-weight: bold; }
+.chg-down { color: #16a34a; font-weight: bold; }
+.chg-new { color: #ea580c; font-weight: bold; }
+.chg-flat { color: #999; }
+#wordcloud-canvas {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.status { text-align: center; color: #888; font-size: 13px; }
+.download-section a {
+  display: inline-block;
+  margin-top: 8px;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  padding: 16px;
+  color: #888;
+  font-size: 13px;
+}
