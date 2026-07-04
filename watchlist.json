@@ -20,7 +20,7 @@
     "total_count": 89
   },
   "半導體": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-21",
     "total_count": 73
   },
@@ -110,9 +110,9 @@
     "total_count": 37
   },
   "指數": {
-    "streak": 0,
-    "last_seen": "2026-06-18",
-    "total_count": 83
+    "streak": 1,
+    "last_seen": "2026-06-22",
+    "total_count": 93
   },
   "休市": {
     "streak": 0,
@@ -265,7 +265,7 @@
     "total_count": 46
   },
   "創新高": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-21",
     "total_count": 26
   },
@@ -372,6 +372,16 @@
   "無人": {
     "streak": 0,
     "last_seen": "2026-06-19",
+    "total_count": 8
+  },
+  "預測": {
+    "streak": 1,
+    "last_seen": "2026-06-22",
+    "total_count": 8
+  },
+  "合作": {
+    "streak": 1,
+    "last_seen": "2026-06-22",
     "total_count": 8
   }
 }
