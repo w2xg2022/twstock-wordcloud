@@ -18,7 +18,6 @@ KEYWORDS_PATH = ROOT / "keywords.json"
 WATCHLIST_PATH = ROOT / "watchlist.json"
 
 TREND_DAYS = 15
-LEADERBOARD_WINDOW = 7
 LEADERBOARD_TOP_N = 30
 
 # 候選新題材：連續達標天數門檻(轉正)、每日最少出現次數、每天最多留幾個候選(避免watchlist失控膨脹)
@@ -281,11 +280,12 @@ def write_csv(counter: Counter, path: Path):
 
 
 def build_leaderboard(all_dates: list[str], anchor: str):
+    """排行榜以「當天」題材熱度排名；漲跌對比前一天名次；入榜天數看近15天。"""
     anchor_dt = datetime.fromisoformat(anchor).date()
     prev_anchor = (anchor_dt - timedelta(days=1)).isoformat()
 
-    total_today = aggregate(window_dates(all_dates, LEADERBOARD_WINDOW, anchor))
-    total_prev = aggregate(window_dates(all_dates, LEADERBOARD_WINDOW, prev_anchor))
+    total_today = Counter(load_freq(anchor))
+    total_prev = Counter(load_freq(prev_anchor))
 
     ranked_today = [w for w, _ in total_today.most_common(LEADERBOARD_TOP_N)]
     rank_prev = {
@@ -314,7 +314,7 @@ def build_leaderboard(all_dates: list[str], anchor: str):
 
     (DOCS_DATA_DIR / "leaderboard.json").write_text(
         json.dumps(
-            {"date": anchor, "window": LEADERBOARD_WINDOW, "items": items},
+            {"date": anchor, "items": items},
             ensure_ascii=False, indent=2,
         ),
         encoding="utf-8",

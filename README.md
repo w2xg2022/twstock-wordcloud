@@ -1,41 +1,82 @@
 # twstock-wordcloud
 
-每日自動抓取台股財經新聞（以台股為主、亞股/美股為輔），統計關鍵字詞頻並產生詞雲，
-透過 GitHub Pages 展示、GitHub Release 提供每日資料下載。
+台股財經新聞「題材熱度」詞雲與排行榜。每日自動抓取財經／科技新聞，比對題材關鍵字庫計算各題材當日聲量，
+產生詞雲圖與熱詞排行榜，透過 GitHub Pages 展示、GitHub Release 提供每日資料下載。
 
-## 資料來源
+線上展示：<https://w2xg2022.github.io/twstock-wordcloud/>
 
-- Google News RSS（`https://news.google.com/rss/search`）
-- [GDELT Project](https://www.gdeltproject.org/) DOC 2.0 API
+## 運作原理
+
+不是統計「所有出現過的詞」，而是維護一份**題材關鍵字庫**（`keywords.json`，約 110 個題材、分 11 類，
+每個題材可含多個同義詞，例如「邊緣運算＝邊緣計算＝Edge Computing」）：
+
+1. **抓新聞**：一次抓多個廣泛頻道（Google News 財經／科技主題＋台股／美股／產業搜尋）加上 Yahoo 股市官方 RSS
+   （直訂媒體、確保不漏），彙整成當日原始新聞。
+2. **算熱度**：逐一比對題材關鍵字（含同義詞）是否出現在新聞標題／摘要，命中的新聞則數即為該題材「當日熱度」。
+3. **新題材發現**：對同一批新聞跑「新詞發現」（互信息 PMI ＋ 邊界熵），找出還不在關鍵字庫裡的候選新題材，
+   寫入 `watchlist.json`；候選詞連續 3 天達標會自動「轉正」併入 `keywords.json`，之後正式追蹤。
+   兼顧「人工維護的精準關鍵字」與「自動發現新題材」。
+
+## 展示內容（GitHub Pages）
+
+- **題材熱度詞雲**：近 3／7／15 日三張，可切換（Python `wordcloud` 產生的高品質 PNG）。
+- **財經熱詞排行榜（當日）**：名次、熱詞、當日聲量、對比前一天的漲跌、近 15 日入榜天數。
 
 ## 目錄結構
 
 ```
+keywords.json          題材關鍵字庫（11 類、含同義詞，可手動編輯）
+watchlist.json         候選新題材觀察名單（連續達標天數）
+stopwords_zh.txt       中文停用詞（過濾新詞發現的雜訊）
+stopwords_en.txt       英文停用詞
 scripts/
-  fetch_news.py        抓取當日新聞 -> data/YYYY-MM-DD.json
-  process_text.py      斷詞統計 -> docs/data/*.json、output/wordfreq_*.csv
-  generate_wordcloud.py 產生靜態詞雲圖 -> output/wordcloud_*.png
-docs/                   GitHub Pages 前端（3/7/15日切換詞雲 + 熱門詞趨勢圖）
+  fetch_news.py        抓當日新聞 -> data/YYYY-MM-DD.json（支援 --backfill 回溯抓取）
+  process_text.py      題材熱度統計＋新詞發現 -> docs/data/*.json、output/wordfreq_*.csv
+  generate_wordcloud.py 產生詞雲 PNG -> docs/wordcloud/*.png（網頁用）、output/*.png（Release 用）
+docs/                   GitHub Pages 前端（3/7/15 日切換詞雲 + 當日熱詞排行榜）
 data/                   每日原始新聞（累積保存）
-stopwords_zh.txt        中文停用詞表
 ```
+
+## 資料來源
+
+- Google News RSS（主題頻道與關鍵字搜尋）
+- Yahoo 股市官方 RSS（直訂，避免特定媒體漏接）
 
 ## 本地手動執行
 
 ```bash
-pip install -r requirements.txt
-python scripts/fetch_news.py
+pip install -r requirements.txt   # feedparser / wordcloud / Pillow
+python scripts/fetch_news.py       # 可加日期參數 YYYY-MM-DD，預設今天
 python scripts/process_text.py
 python scripts/generate_wordcloud.py
 ```
 
+需安裝中文字型（Debian/Ubuntu：`sudo apt install fonts-noto-cjk`）。
+
+### 回溯抓取歷史資料
+
+Google News 主題頻道／Yahoo 官方 RSS 只有「當下最新」沒有歷史資料，只有關鍵字搜尋支援日期範圍，
+所以回溯模式只用「台股／美股／產業」三組廣泛搜尋，覆蓋率會比即時模式窄一些：
+
+```bash
+python scripts/fetch_news.py 2026-06-15 --backfill
+```
+
+會抓「2026-06-14 18:00 到 2026-06-15 18:00（台灣時間）」這個區間內、依實際發布時間精篩過的新聞，
+寫入 `data/2026-06-15.json`，之後照樣跑 `process_text.py`／`generate_wordcloud.py` 統計即可。
+
 ## GitHub Pages 設定
 
-Repo Settings -> Pages -> Source 選擇 `main` 分支 `/docs` 目錄。
+Repo Settings → Pages → Source 選擇 `main` 分支 `/docs` 目錄。
 
 ## 每日自動化
 
-`.github/workflows/daily.yml` 排程於台灣時間每日15:00（收盤後）執行，
-抓新聞、統計、產圖後：
-1. 更新 `data/`、`docs/data/` 並 commit 回 repo（GitHub Pages 隨之更新）
-2. 打包 `twstock-wordcloud-YYYYMMDD.zip`（含當日新聞JSON、3/7/15日詞頻CSV、詞雲PNG）建立當日 Release
+`.github/workflows/daily.yml` 排程於台灣時間每日 09:00／12:00／15:00／18:00 各抓一次
+（一天 4 次、避免漏新聞），只有最後一次（18:00）會跑完整統計、產圖並：
+
+1. 更新 `data/`、`docs/data/`、`docs/wordcloud/`、`keywords.json`、`watchlist.json` 並 commit 回 repo
+   （GitHub Pages 隨之更新）。
+2. 打包 `twstock-wordcloud-YYYYMMDD.zip`（含當日新聞 JSON、3/7/15 日詞頻 CSV、詞雲 PNG、keywords.json）
+   建立當日 GitHub Release。
+
+手動觸發時可勾選 `force_final` 直接跑完整流程，方便測試。
