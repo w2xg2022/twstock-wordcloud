@@ -14,8 +14,20 @@
    （直訂媒體、確保不漏），彙整成當日原始新聞。
 2. **算熱度**：逐一比對題材關鍵字（含同義詞）是否出現在新聞標題／摘要，命中的新聞則數即為該題材「當日熱度」。
 3. **新題材發現**：對同一批新聞跑「新詞發現」（互信息 PMI ＋ 邊界熵），找出還不在關鍵字庫裡的候選新題材，
-   寫入 `watchlist.json`；候選詞連續 3 天達標會自動「轉正」併入 `keywords.json`，之後正式追蹤。
-   兼顧「人工維護的精準關鍵字」與「自動發現新題材」。
+   寫入 `watchlist.json`；候選詞連續 3 天達標會進入 `pending_keywords.json`（待審核清單），
+   **不會自動寫進 `keywords.json`**——曾經發生「重挫」「ETF」「指數」這種通用詞被自動收錄污染詞雲的狀況，
+   所以改成需要人工核准才正式收錄，兼顧「自動發現新題材」與「品質把關」。
+
+### 審核候選新題材
+
+```bash
+python scripts/approve_keyword.py --list                      # 列出待審核候選
+python scripts/approve_keyword.py --approve 詞 分類 [同義詞...] # 核准，寫進keywords.json
+python scripts/approve_keyword.py --reject 詞                  # 拒絕，移除候選
+```
+
+判斷標準：是不是一個具體的「概念股題材」（供應鏈環節、技術名詞、產業趨勢），
+而不是「股市漲跌用語」（重挫、大漲）、「商品類型」（ETF、ADR）或「過於籠統的字」（指數、科技股、AI 這種本身已是好幾個題材共同詞根的字）。
 
 ## 展示內容（GitHub Pages）
 
@@ -25,14 +37,16 @@
 ## 目錄結構
 
 ```
-keywords.json          題材關鍵字庫（11 類、含同義詞，可手動編輯）
-watchlist.json         候選新題材觀察名單（連續達標天數）
-stopwords_zh.txt       中文停用詞（過濾新詞發現的雜訊）
-stopwords_en.txt       英文停用詞
+keywords.json           題材關鍵字庫（11 類、含同義詞，可手動編輯）
+watchlist.json          候選新題材觀察名單（連續達標天數）
+pending_keywords.json   達標候選、待人工審核（未正式生效）
+stopwords_zh.txt        中文停用詞（過濾新詞發現的雜訊）
+stopwords_en.txt        英文停用詞
 scripts/
-  fetch_news.py        抓當日新聞 -> data/YYYY-MM-DD.json（支援 --backfill 回溯抓取）
-  process_text.py      題材熱度統計＋新詞發現 -> docs/data/*.json、output/wordfreq_*.csv
+  fetch_news.py         抓當日新聞 -> data/YYYY-MM-DD.json（支援 --backfill 回溯抓取）
+  process_text.py       題材熱度統計＋新詞發現 -> docs/data/*.json、output/wordfreq_*.csv
   generate_wordcloud.py 產生詞雲 PNG -> docs/wordcloud/*.png（網頁用）、output/*.png（Release 用）
+  approve_keyword.py    審核 pending_keywords.json 裡的候選新題材
 docs/                   GitHub Pages 前端（3/7/15 日切換詞雲 + 當日熱詞排行榜）
 data/                   每日原始新聞（累積保存）
 ```
@@ -74,9 +88,12 @@ Repo Settings → Pages → Source 選擇 `main` 分支 `/docs` 目錄。
 `.github/workflows/daily.yml` 排程於台灣時間每日 09:00／12:00／15:00／18:00 各抓一次
 （一天 4 次、避免漏新聞），只有最後一次（18:00）會跑完整統計、產圖並：
 
-1. 更新 `data/`、`docs/data/`、`docs/wordcloud/`、`keywords.json`、`watchlist.json` 並 commit 回 repo
-   （GitHub Pages 隨之更新）。
+1. 更新 `data/`、`docs/data/`、`docs/wordcloud/`、`keywords.json`、`watchlist.json`、`pending_keywords.json`
+   並 commit 回 repo（GitHub Pages 隨之更新）。
 2. 打包 `twstock-wordcloud-YYYYMMDD.zip`（含當日新聞 JSON、3/7/15 日詞頻 CSV、詞雲 PNG、keywords.json）
    建立當日 GitHub Release。
 
-手動觸發時可勾選 `force_final` 直接跑完整流程，方便測試。
+手動觸發（Actions 頁面 Run workflow）時可勾選：
+- `force_final`：強制當作當天最後一次，跑完整統計/產圖/發 Release，方便測試。
+- `skip_fetch`：跳過抓新聞，只用現有資料重新統計/產圖。**改了 `keywords.json`、`stopwords_zh.txt` 或核准了候選新題材之後，
+  勾這個就能立刻重新產生詞雲，不用等下次排程、也不會浪費一次抓取。**
