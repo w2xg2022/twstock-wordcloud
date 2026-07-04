@@ -50,9 +50,9 @@
     "total_count": 45
   },
   "英特爾": {
-    "streak": 0,
-    "last_seen": "2026-07-04",
-    "total_count": 44
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 52
   },
   "川普": {
     "streak": 0,
@@ -110,9 +110,9 @@
     "total_count": 37
   },
   "指數": {
-    "streak": 1,
-    "last_seen": "2026-06-17",
-    "total_count": 51
+    "streak": 2,
+    "last_seen": "2026-06-18",
+    "total_count": 83
   },
   "休市": {
     "streak": 0,
@@ -120,7 +120,7 @@
     "total_count": 37
   },
   "重挫": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 54
   },
@@ -145,9 +145,9 @@
     "total_count": 39
   },
   "協議": {
-    "streak": 0,
-    "last_seen": "2026-06-15",
-    "total_count": 22
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 34
   },
   "油價": {
     "streak": 0,
@@ -160,14 +160,14 @@
     "total_count": 14
   },
   "夜盤": {
-    "streak": 0,
-    "last_seen": "2026-06-15",
-    "total_count": 12
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 24
   },
   "ADR": {
-    "streak": 0,
-    "last_seen": "2026-06-15",
-    "total_count": 12
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 22
   },
   "開盤": {
     "streak": 0,
@@ -185,14 +185,9 @@
     "total_count": 8
   },
   "三大": {
-    "streak": 0,
-    "last_seen": "2026-06-16",
-    "total_count": 14
-  },
-  "Fed": {
-    "streak": 2,
-    "last_seen": "2026-06-17",
-    "total_count": 18
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 34
   },
   "多頭": {
     "streak": 0,
@@ -200,68 +195,173 @@
     "total_count": 8
   },
   "費半": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 24
   },
   "道瓊": {
-    "streak": 1,
-    "last_seen": "2026-06-17",
-    "total_count": 18
+    "streak": 2,
+    "last_seen": "2026-06-18",
+    "total_count": 28
   },
   "早盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 16
   },
   "金融": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 14
   },
   "企業": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 14
   },
   "歷史": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 10
   },
   "開低": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 10
   },
   "結算": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 10
   },
   "無人機產業": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 8
   },
   "黑翻紅": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 8
   },
   "與產業": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 8
   },
   "族群": {
-    "streak": 1,
+    "streak": 2,
+    "last_seen": "2026-06-18",
+    "total_count": 28
+  },
+  "tw": {
+    "streak": 0,
     "last_seen": "2026-06-17",
     "total_count": 8
   },
-  "tw": {
+  "新高": {
     "streak": 1,
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
+    "total_count": 46
+  },
+  "創新高": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 18
+  },
+  "升息": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 18
+  },
+  "科技股": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 16
+  },
+  "產業鏈": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 14
+  },
+  "端午": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 14
+  },
+  "盤中": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 12
+  },
+  "國防": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 12
+  },
+  "利率": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 10
+  },
+  "總統": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 10
+  },
+  "成果": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 10
+  },
+  "帶動": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 10
+  },
+  "CNA": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 9
+  },
+  "股盤中": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "競爭力": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "風險": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "領軍": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "強勢": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "爆量": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "成長": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "反彈": {
+    "streak": 1,
+    "last_seen": "2026-06-18",
     "total_count": 8
   }
 }
