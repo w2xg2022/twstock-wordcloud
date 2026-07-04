@@ -19,14 +19,14 @@
       "rank": 3,
       "word": "電動車",
       "count": 58,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
       "rank": 4,
       "word": "DRAM",
       "count": 38,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
@@ -54,7 +54,7 @@
       "rank": 8,
       "word": "AI晶片",
       "count": 21,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 6
     },
     {
@@ -68,42 +68,42 @@
       "rank": 10,
       "word": "資料中心",
       "count": 18,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 4
     },
     {
       "rank": 11,
       "word": "電網",
       "count": 17,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
       "rank": 12,
       "word": "先進封裝",
       "count": 15,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
       "rank": 13,
       "word": "IC載板",
       "count": 15,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 5
     },
     {
       "rank": 14,
       "word": "面板",
       "count": 15,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 4
     },
     {
       "rank": 15,
       "word": "AI伺服器",
       "count": 14,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 3
     },
     {
@@ -117,7 +117,7 @@
       "rank": 17,
       "word": "晶圓代工",
       "count": 12,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
@@ -138,14 +138,14 @@
       "rank": 20,
       "word": "光通訊",
       "count": 11,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
       "rank": 21,
       "word": "被動元件",
       "count": 11,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 3
     },
     {
@@ -159,21 +159,21 @@
       "rank": 23,
       "word": "玻璃基板",
       "count": 9,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
       "rank": 24,
       "word": "ASIC",
       "count": 9,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 2
     },
     {
       "rank": 25,
       "word": "低軌道衛星",
       "count": 9,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 3
     },
     {
@@ -187,7 +187,7 @@
       "rank": 27,
       "word": "PCB",
       "count": 9,
-      "change": "NEW",
+      "change": "-",
       "days_on_chart": 4
     },
     {

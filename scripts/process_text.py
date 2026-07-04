@@ -307,7 +307,13 @@ def build_leaderboard(all_dates: list[str], anchor: str):
     items = []
     for rank, word in enumerate(ranked_today, start=1):
         prev_rank = rank_prev.get(word)
-        change = "NEW" if prev_rank is None else (prev_rank - rank)
+        if prev_rank is not None:
+            change = prev_rank - rank
+        elif days_on_chart.get(word, 0) > 1:
+            # 近15天內上榜過，只是昨天剛好沒進榜，不算真的NEW，只是無法比較昨天名次
+            change = "-"
+        else:
+            change = "NEW"
         items.append({
             "rank": rank,
             "word": word,
