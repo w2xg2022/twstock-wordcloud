@@ -2,7 +2,7 @@ name: Daily News Wordcloud
 
 on:
   schedule:
-    - cron: "0 0,6,12,18 * * *"  # UTC 0/6/12/18 = 台灣時間 08:00/14:00/20:00/02:00，一天抓4次避免漏新聞
+    - cron: "0 1,4,7,10 * * *"  # UTC 1/4/7/10 = 台灣時間 09:00/12:00/15:00/18:00，一天抓4次避免漏新聞
   workflow_dispatch:
     inputs:
       force_final:
@@ -34,7 +34,7 @@ jobs:
         run: |
           echo "today=$(date -u +%F)" >> "$GITHUB_OUTPUT"
           hour=$(date -u +%H)
-          if [ "$hour" = "18" ] || [ "${{ github.event.inputs.force_final }}" = "true" ]; then
+          if [ "$hour" = "10" ] || [ "${{ github.event.inputs.force_final }}" = "true" ]; then
             echo "is_final=true" >> "$GITHUB_OUTPUT"
           else
             echo "is_final=false" >> "$GITHUB_OUTPUT"
