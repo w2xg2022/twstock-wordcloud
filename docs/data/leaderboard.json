@@ -1,96 +1,96 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "items": [
     {
       "rank": 1,
       "word": "AI",
-      "count": 16,
+      "count": 14,
       "change": 0,
-      "days_on_chart": 14
+      "days_on_chart": 15
     },
     {
       "rank": 2,
       "word": "指數",
-      "count": 11,
+      "count": 6,
       "change": 0,
-      "days_on_chart": 5
+      "days_on_chart": 6
     },
     {
       "rank": 3,
-      "word": "科技股",
-      "count": 11,
-      "change": "NEW",
-      "days_on_chart": 4
+      "word": "ETF",
+      "count": 4,
+      "change": 3,
+      "days_on_chart": 15
     },
     {
       "rank": 4,
       "word": "ADR",
-      "count": 7,
-      "change": "NEW",
-      "days_on_chart": 3
-    },
-    {
-      "rank": 5,
-      "word": "無人機",
       "count": 4,
-      "change": -2,
-      "days_on_chart": 13
-    },
-    {
-      "rank": 6,
-      "word": "ETF",
-      "count": 4,
-      "change": -1,
-      "days_on_chart": 14
-    },
-    {
-      "rank": 7,
-      "word": "IC載板",
-      "count": 3,
-      "change": "NEW",
+      "change": 0,
       "days_on_chart": 4
     },
     {
-      "rank": 8,
-      "word": "SpaceX",
-      "count": 3,
+      "rank": 5,
+      "word": "科技股",
+      "count": 2,
+      "change": -2,
+      "days_on_chart": 5
+    },
+    {
+      "rank": 6,
+      "word": "AI晶片",
+      "count": 1,
       "change": "NEW",
-      "days_on_chart": 8
+      "days_on_chart": 5
+    },
+    {
+      "rank": 7,
+      "word": "軍工",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 2
+    },
+    {
+      "rank": 8,
+      "word": "無人機",
+      "count": 1,
+      "change": -3,
+      "days_on_chart": 14
     },
     {
       "rank": 9,
-      "word": "ABF載板",
+      "word": "資料中心",
       "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
+      "change": 3,
+      "days_on_chart": 3
     },
     {
       "rank": 10,
-      "word": "先進封裝",
+      "word": "生技",
       "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
+      "change": 3,
+      "days_on_chart": 8
     },
     {
       "rank": 11,
-      "word": "晶圓代工",
+      "word": "精準醫療",
       "count": 1,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 12,
-      "word": "資料中心",
+      "word": "被動元件",
       "count": 1,
       "change": "NEW",
-      "days_on_chart": 2
+      "days_on_chart": 4
     },
     {
       "rank": 13,
-      "word": "生技",
+      "word": "Fed",
       "count": 1,
-      "change": -4,
-      "days_on_chart": 7
+      "change": "NEW",
+      "days_on_chart": 5
     }
   ]
 }

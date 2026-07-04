@@ -20,7 +20,7 @@
     "total_count": 89
   },
   "半導體": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 111
   },
@@ -170,14 +170,14 @@
     "total_count": 8
   },
   "股早盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 16
   },
   "三大": {
-    "streak": 0,
-    "last_seen": "2026-06-25",
-    "total_count": 42
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 56
   },
   "多頭": {
     "streak": 0,
@@ -190,7 +190,7 @@
     "total_count": 54
   },
   "道瓊": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 52
   },
@@ -245,7 +245,7 @@
     "total_count": 28
   },
   "tw": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 17
   },
@@ -345,7 +345,7 @@
     "total_count": 16
   },
   "反彈": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 20
   },
@@ -415,9 +415,9 @@
     "total_count": 26
   },
   "創新": {
-    "streak": 0,
-    "last_seen": "2026-06-26",
-    "total_count": 18
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 26
   },
   "拋售": {
     "streak": 0,
@@ -430,7 +430,7 @@
     "total_count": 10
   },
   "發展": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 30
   },
@@ -580,23 +580,53 @@
     "total_count": 10
   },
   "大指數": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 12
   },
   "專家": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 12
   },
   "尾盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 10
   },
   "看好": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-30",
     "total_count": 10
+  },
+  "延長": {
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 22
+  },
+  "年最佳": {
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 10
+  },
+  "表現": {
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 10
+  },
+  "延長交易": {
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 8
+  },
+  "三大指數": {
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 8
+  },
+  "第二季": {
+    "streak": 1,
+    "last_seen": "2026-07-01",
+    "total_count": 8
   }
 }
