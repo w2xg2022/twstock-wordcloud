@@ -165,7 +165,7 @@
     "total_count": 24
   },
   "ADR": {
-    "streak": 2,
+    "streak": 0,
     "last_seen": "2026-06-19",
     "total_count": 32
   },
@@ -365,12 +365,12 @@
     "total_count": 8
   },
   "美股收": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-19",
     "total_count": 8
   },
   "無人": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-19",
     "total_count": 8
   }
