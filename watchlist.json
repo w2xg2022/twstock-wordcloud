@@ -2,12 +2,12 @@
   "台積電": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 291
+    "total_count": 448
   },
   "晶片": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 251
+    "total_count": 385
   },
   "三星": {
     "streak": 0,
@@ -17,12 +17,12 @@
   "記憶體": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 193
+    "total_count": 297
   },
   "半導體": {
     "streak": 2,
     "last_seen": "2026-07-04",
-    "total_count": 185
+    "total_count": 305
   },
   "電子": {
     "streak": 0,
@@ -32,7 +32,7 @@
   "漲停": {
     "streak": 2,
     "last_seen": "2026-07-04",
-    "total_count": 123
+    "total_count": 194
   },
   "封裝": {
     "streak": 0,
@@ -52,7 +52,7 @@
   "英特爾": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 96
+    "total_count": 148
   },
   "川普": {
     "streak": 0,
@@ -82,7 +82,7 @@
   "示警": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 98
+    "total_count": 157
   },
   "衛星": {
     "streak": 0,
@@ -132,12 +132,12 @@
   "Meta": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 96
+    "total_count": 153
   },
   "協議": {
     "streak": 0,
     "last_seen": "2026-06-18",
-    "total_count": 34
+    "total_count": 68
   },
   "油價": {
     "streak": 0,
@@ -147,12 +147,12 @@
   "基金": {
     "streak": 0,
     "last_seen": "2026-06-23",
-    "total_count": 26
+    "total_count": 52
   },
   "夜盤": {
     "streak": 0,
     "last_seen": "2026-06-26",
-    "total_count": 34
+    "total_count": 68
   },
   "開盤": {
     "streak": 0,
@@ -167,12 +167,12 @@
   "股早盤": {
     "streak": 0,
     "last_seen": "2026-06-30",
-    "total_count": 16
+    "total_count": 32
   },
   "三大": {
     "streak": 0,
     "last_seen": "2026-07-01",
-    "total_count": 56
+    "total_count": 112
   },
   "多頭": {
     "streak": 0,
@@ -182,22 +182,22 @@
   "費半": {
     "streak": 0,
     "last_seen": "2026-06-27",
-    "total_count": 54
+    "total_count": 108
   },
   "道瓊": {
     "streak": 0,
     "last_seen": "2026-06-30",
-    "total_count": 52
+    "total_count": 104
   },
   "早盤": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 40
+    "total_count": 80
   },
   "金融": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 22
+    "total_count": 44
   },
   "企業": {
     "streak": 0,
@@ -222,7 +222,7 @@
   "無人機產業": {
     "streak": 0,
     "last_seen": "2026-07-02",
-    "total_count": 18
+    "total_count": 36
   },
   "黑翻紅": {
     "streak": 0,
@@ -237,12 +237,12 @@
   "族群": {
     "streak": 0,
     "last_seen": "2026-06-18",
-    "total_count": 28
+    "total_count": 56
   },
   "tw": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 36
+    "total_count": 72
   },
   "新高": {
     "streak": 0,
@@ -252,7 +252,7 @@
   "創新高": {
     "streak": 0,
     "last_seen": "2026-06-21",
-    "total_count": 26
+    "total_count": 52
   },
   "升息": {
     "streak": 0,
@@ -262,7 +262,7 @@
   "產業鏈": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 28
+    "total_count": 56
   },
   "端午": {
     "streak": 0,
@@ -302,7 +302,7 @@
   "CNA": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 18
+    "total_count": 36
   },
   "股盤中": {
     "streak": 0,
@@ -317,7 +317,7 @@
   "風險": {
     "streak": 0,
     "last_seen": "2026-07-02",
-    "total_count": 18
+    "total_count": 36
   },
   "領軍": {
     "streak": 0,
@@ -327,7 +327,7 @@
   "強勢": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 18
+    "total_count": 36
   },
   "爆量": {
     "streak": 0,
@@ -337,7 +337,7 @@
   "成長": {
     "streak": 0,
     "last_seen": "2026-06-26",
-    "total_count": 16
+    "total_count": 32
   },
   "反彈": {
     "streak": 0,
@@ -367,7 +367,7 @@
   "千點": {
     "streak": 0,
     "last_seen": "2026-06-26",
-    "total_count": 50
+    "total_count": 100
   },
   "賣壓": {
     "streak": 0,
@@ -377,12 +377,12 @@
   "暴跌": {
     "streak": 0,
     "last_seen": "2026-06-26",
-    "total_count": 32
+    "total_count": 64
   },
   "原因": {
     "streak": 0,
     "last_seen": "2026-06-26",
-    "total_count": 18
+    "total_count": 36
   },
   "南亞": {
     "streak": 0,
@@ -402,17 +402,17 @@
   "美光": {
     "streak": 0,
     "last_seen": "2026-06-25",
-    "total_count": 66
+    "total_count": 132
   },
   "美光財報": {
     "streak": 0,
     "last_seen": "2026-06-25",
-    "total_count": 26
+    "total_count": 52
   },
   "創新": {
     "streak": 0,
     "last_seen": "2026-07-01",
-    "total_count": 26
+    "total_count": 52
   },
   "拋售": {
     "streak": 0,
@@ -427,7 +427,7 @@
   "發展": {
     "streak": 1,
     "last_seen": "2026-07-04",
-    "total_count": 65
+    "total_count": 138
   },
   "股開盤": {
     "streak": 0,
@@ -487,7 +487,7 @@
   "攜手": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 44
+    "total_count": 88
   },
   "航空產業": {
     "streak": 0,
@@ -507,7 +507,7 @@
   "那指": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 18
+    "total_count": 36
   },
   "跌停": {
     "streak": 0,
@@ -537,7 +537,7 @@
   "逆勢": {
     "streak": 0,
     "last_seen": "2026-07-02",
-    "total_count": 22
+    "total_count": 44
   },
   "產業交流": {
     "streak": 0,
@@ -567,7 +567,7 @@
   "技術": {
     "streak": 0,
     "last_seen": "2026-07-03",
-    "total_count": 20
+    "total_count": 40
   },
   "進場": {
     "streak": 0,
@@ -685,8 +685,28 @@
     "total_count": 8
   },
   "Online": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-04",
     "total_count": 35
+  },
+  "無人機條例": {
+    "streak": 0,
+    "last_seen": "2026-07-04",
+    "total_count": 34
+  },
+  "歐洲": {
+    "streak": 0,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "加速": {
+    "streak": 0,
+    "last_seen": "2026-06-18",
+    "total_count": 8
+  },
+  "復甦": {
+    "streak": 0,
+    "last_seen": "2026-06-18",
+    "total_count": 8
   }
 }

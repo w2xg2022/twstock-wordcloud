@@ -91,3 +91,6 @@ bitget
 moomoo
 media
 twa00
+ai
+etf
+adr

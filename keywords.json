@@ -713,18 +713,6 @@
   ],
   "自動新增題材": [
     {
-      "name": "AI",
-      "synonyms": [
-        "AI"
-      ]
-    },
-    {
-      "name": "ETF",
-      "synonyms": [
-        "ETF"
-      ]
-    },
-    {
       "name": "SpaceX",
       "synonyms": [
         "SpaceX"
@@ -734,30 +722,6 @@
       "name": "Fed",
       "synonyms": [
         "Fed"
-      ]
-    },
-    {
-      "name": "指數",
-      "synonyms": [
-        "指數"
-      ]
-    },
-    {
-      "name": "ADR",
-      "synonyms": [
-        "ADR"
-      ]
-    },
-    {
-      "name": "科技股",
-      "synonyms": [
-        "科技股"
-      ]
-    },
-    {
-      "name": "重挫",
-      "synonyms": [
-        "重挫"
       ]
     }
   ]

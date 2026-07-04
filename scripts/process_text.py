@@ -16,15 +16,15 @@ STOPWORDS_ZH_PATH = ROOT / "stopwords_zh.txt"
 STOPWORDS_EN_PATH = ROOT / "stopwords_en.txt"
 KEYWORDS_PATH = ROOT / "keywords.json"
 WATCHLIST_PATH = ROOT / "watchlist.json"
+PENDING_KEYWORDS_PATH = ROOT / "pending_keywords.json"
 
 TREND_DAYS = 15
 LEADERBOARD_TOP_N = 30
 
-# 候選新題材：連續達標天數門檻(轉正)、每日最少出現次數、每天最多留幾個候選(避免watchlist失控膨脹)
+# 候選新題材：連續達標天數門檻(進審核清單)、每日最少出現次數、每天最多留幾個候選(避免watchlist失控膨脹)
 CANDIDATE_MIN_COUNT = 8
 CANDIDATE_TOP_N = 30
 PROMOTE_STREAK = 3
-PROMOTE_CATEGORY = "自動新增題材"
 
 CJK_RE = re.compile(r"[一-鿿]+")
 LATIN_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9+\-]{1,14}")
@@ -226,14 +226,18 @@ def update_watchlist(target_date: str, candidates: Counter):
     )
 
     if promoted:
-        keywords = json.loads(KEYWORDS_PATH.read_text(encoding="utf-8"))
-        bucket = keywords.setdefault(PROMOTE_CATEGORY, [])
+        # 達標的候選詞不會直接寫入keywords.json，而是進審核清單，
+        # 由人工用 scripts/approve_keyword.py 確認是不是真的題材後才正式收錄。
+        pending = json.loads(PENDING_KEYWORDS_PATH.read_text(encoding="utf-8")) if PENDING_KEYWORDS_PATH.exists() else {}
         for word in promoted:
-            bucket.append({"name": word, "synonyms": [word]})
-        KEYWORDS_PATH.write_text(
-            json.dumps(keywords, ensure_ascii=False, indent=2), encoding="utf-8"
+            pending[word] = {
+                "first_promoted": target_date,
+                "total_count": candidates.get(word, 0),
+            }
+        PENDING_KEYWORDS_PATH.write_text(
+            json.dumps(pending, ensure_ascii=False, indent=2), encoding="utf-8"
         )
-        print(f"{target_date}: 候選新題材轉正 -> {', '.join(promoted)}")
+        print(f"{target_date}: 候選新題材達標，待審核 -> {', '.join(promoted)}")
 
 
 NON_DATE_FILES = ("index", "trend", "leaderboard")
