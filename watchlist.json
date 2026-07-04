@@ -15,9 +15,9 @@
     "total_count": 110
   },
   "記憶體": {
-    "streak": 0,
-    "last_seen": "2026-07-04",
-    "total_count": 89
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 101
   },
   "半導體": {
     "streak": 0,
@@ -80,9 +80,9 @@
     "total_count": 39
   },
   "示警": {
-    "streak": 0,
-    "last_seen": "2026-06-24",
-    "total_count": 49
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 57
   },
   "衛星": {
     "streak": 0,
@@ -115,9 +115,9 @@
     "total_count": 37
   },
   "重挫": {
-    "streak": 0,
-    "last_seen": "2026-06-26",
-    "total_count": 122
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 146
   },
   "世界": {
     "streak": 0,
@@ -135,9 +135,9 @@
     "total_count": 35
   },
   "Meta": {
-    "streak": 0,
-    "last_seen": "2026-07-04",
-    "total_count": 39
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 57
   },
   "協議": {
     "streak": 0,
@@ -175,7 +175,7 @@
     "total_count": 16
   },
   "三大": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 56
   },
@@ -225,9 +225,9 @@
     "total_count": 10
   },
   "無人機產業": {
-    "streak": 0,
-    "last_seen": "2026-06-17",
-    "total_count": 8
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 18
   },
   "黑翻紅": {
     "streak": 0,
@@ -245,9 +245,9 @@
     "total_count": 28
   },
   "tw": {
-    "streak": 0,
-    "last_seen": "2026-06-30",
-    "total_count": 17
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 25
   },
   "新高": {
     "streak": 0,
@@ -320,9 +320,9 @@
     "total_count": 8
   },
   "風險": {
-    "streak": 0,
-    "last_seen": "2026-06-18",
-    "total_count": 8
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 18
   },
   "領軍": {
     "streak": 0,
@@ -415,7 +415,7 @@
     "total_count": 26
   },
   "創新": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 26
   },
@@ -490,9 +490,9 @@
     "total_count": 14
   },
   "攜手": {
-    "streak": 0,
-    "last_seen": "2026-06-27",
-    "total_count": 22
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 30
   },
   "航空產業": {
     "streak": 0,
@@ -540,9 +540,9 @@
     "total_count": 12
   },
   "逆勢": {
-    "streak": 0,
-    "last_seen": "2026-06-26",
-    "total_count": 12
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 22
   },
   "產業交流": {
     "streak": 0,
@@ -600,33 +600,48 @@
     "total_count": 10
   },
   "延長": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 22
   },
   "年最佳": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 10
   },
   "表現": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 10
   },
   "延長交易": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 8
   },
   "三大指數": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
     "total_count": 8
   },
   "第二季": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-07-01",
+    "total_count": 8
+  },
+  "智慧產業學院": {
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 14
+  },
+  "竹苗": {
+    "streak": 1,
+    "last_seen": "2026-07-02",
+    "total_count": 10
+  },
+  "培育": {
+    "streak": 1,
+    "last_seen": "2026-07-02",
     "total_count": 8
   }
 }
