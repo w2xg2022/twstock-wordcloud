@@ -1,103 +1,54 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "items": [
     {
       "rank": 1,
       "word": "AI",
-      "count": 19,
+      "count": 15,
       "change": 0,
-      "days_on_chart": 10
+      "days_on_chart": 11
     },
     {
       "rank": 2,
-      "word": "ETF",
-      "count": 10,
-      "change": 0,
-      "days_on_chart": 10
+      "word": "指數",
+      "count": 5,
+      "change": 2,
+      "days_on_chart": 3
     },
     {
       "rank": 3,
       "word": "ADR",
-      "count": 7,
-      "change": "NEW",
-      "days_on_chart": 1
+      "count": 4,
+      "change": 0,
+      "days_on_chart": 2
     },
     {
       "rank": 4,
-      "word": "指數",
-      "count": 6,
-      "change": -1,
-      "days_on_chart": 2
+      "word": "無人機",
+      "count": 3,
+      "change": 3,
+      "days_on_chart": 11
     },
     {
       "rank": 5,
       "word": "科技股",
-      "count": 6,
-      "change": "NEW",
-      "days_on_chart": 1
+      "count": 3,
+      "change": 0,
+      "days_on_chart": 2
     },
     {
       "rank": 6,
-      "word": "IC載板",
-      "count": 2,
-      "change": 0,
+      "word": "電動車",
+      "count": 1,
+      "change": "NEW",
       "days_on_chart": 3
     },
     {
       "rank": 7,
-      "word": "無人機",
-      "count": 2,
-      "change": 1,
-      "days_on_chart": 10
-    },
-    {
-      "rank": 8,
-      "word": "CoWoS",
+      "word": "ETF",
       "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 9,
-      "word": "國防產業",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 10,
-      "word": "低軌道衛星",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 11,
-      "word": "機器人",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 4
-    },
-    {
-      "rank": 12,
-      "word": "醫材",
-      "count": 1,
-      "change": -3,
-      "days_on_chart": 2
-    },
-    {
-      "rank": 13,
-      "word": "PCB",
-      "count": 1,
-      "change": -3,
-      "days_on_chart": 5
-    },
-    {
-      "rank": 14,
-      "word": "SpaceX",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 6
+      "change": -5,
+      "days_on_chart": 11
     }
   ]
 }

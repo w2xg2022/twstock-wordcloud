@@ -20,9 +20,9 @@
     "total_count": 89
   },
   "半導體": {
-    "streak": 1,
-    "last_seen": "2026-06-26",
-    "total_count": 89
+    "streak": 2,
+    "last_seen": "2026-06-27",
+    "total_count": 99
   },
   "電子": {
     "streak": 0,
@@ -115,7 +115,7 @@
     "total_count": 37
   },
   "重挫": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 122
   },
@@ -155,7 +155,7 @@
     "total_count": 26
   },
   "夜盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 34
   },
@@ -185,9 +185,9 @@
     "total_count": 8
   },
   "費半": {
-    "streak": 1,
-    "last_seen": "2026-06-26",
-    "total_count": 42
+    "streak": 2,
+    "last_seen": "2026-06-27",
+    "total_count": 54
   },
   "道瓊": {
     "streak": 0,
@@ -340,7 +340,7 @@
     "total_count": 8
   },
   "成長": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 16
   },
@@ -370,7 +370,7 @@
     "total_count": 8
   },
   "千點": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 50
   },
@@ -380,12 +380,12 @@
     "total_count": 16
   },
   "暴跌": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 32
   },
   "原因": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 18
   },
@@ -415,7 +415,7 @@
     "total_count": 26
   },
   "創新": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 18
   },
@@ -490,9 +490,9 @@
     "total_count": 14
   },
   "攜手": {
-    "streak": 0,
-    "last_seen": "2026-06-25",
-    "total_count": 14
+    "streak": 1,
+    "last_seen": "2026-06-27",
+    "total_count": 22
   },
   "航空產業": {
     "streak": 0,
@@ -515,63 +515,68 @@
     "total_count": 8
   },
   "跌停": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 26
   },
   "史上第": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 18
   },
   "收盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 16
   },
   "月線": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 14
   },
   "泡沫": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 12
   },
   "逆勢": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 12
   },
   "產業交流": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 10
   },
   "漲價": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 10
   },
   "下殺": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 8
   },
   "訊號": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 8
   },
   "即時": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 8
   },
   "技術": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-26",
     "total_count": 8
+  },
+  "進場": {
+    "streak": 1,
+    "last_seen": "2026-06-27",
+    "total_count": 10
   }
 }
