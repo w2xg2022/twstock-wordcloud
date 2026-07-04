@@ -723,6 +723,12 @@
       "synonyms": [
         "ETF"
       ]
+    },
+    {
+      "name": "SpaceX",
+      "synonyms": [
+        "SpaceX"
+      ]
     }
   ]
 }

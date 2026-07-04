@@ -110,9 +110,9 @@
     "total_count": 37
   },
   "指數": {
-    "streak": 0,
-    "last_seen": "2026-07-04",
-    "total_count": 37
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 51
   },
   "休市": {
     "streak": 0,
@@ -120,9 +120,9 @@
     "total_count": 37
   },
   "重挫": {
-    "streak": 0,
-    "last_seen": "2026-07-04",
-    "total_count": 36
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 54
   },
   "世界": {
     "streak": 0,
@@ -159,11 +159,6 @@
     "last_seen": "2026-06-15",
     "total_count": 14
   },
-  "SpaceX": {
-    "streak": 2,
-    "last_seen": "2026-06-16",
-    "total_count": 26
-  },
   "夜盤": {
     "streak": 0,
     "last_seen": "2026-06-15",
@@ -190,18 +185,83 @@
     "total_count": 8
   },
   "三大": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-16",
     "total_count": 14
   },
   "Fed": {
-    "streak": 1,
-    "last_seen": "2026-06-16",
-    "total_count": 10
+    "streak": 2,
+    "last_seen": "2026-06-17",
+    "total_count": 18
   },
   "多頭": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-16",
+    "total_count": 8
+  },
+  "費半": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 24
+  },
+  "道瓊": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 18
+  },
+  "早盤": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 16
+  },
+  "金融": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 14
+  },
+  "企業": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 14
+  },
+  "歷史": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 10
+  },
+  "開低": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 10
+  },
+  "結算": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 10
+  },
+  "無人機產業": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 8
+  },
+  "黑翻紅": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 8
+  },
+  "與產業": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 8
+  },
+  "族群": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
+    "total_count": 8
+  },
+  "tw": {
+    "streak": 1,
+    "last_seen": "2026-06-17",
     "total_count": 8
   }
 }
