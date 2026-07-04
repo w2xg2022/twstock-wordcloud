@@ -237,10 +237,13 @@ def update_watchlist(target_date: str, candidates: Counter):
         print(f"{target_date}: 候選新題材轉正 -> {', '.join(promoted)}")
 
 
+NON_DATE_FILES = ("index", "trend", "leaderboard")
+
+
 def rebuild_index() -> list[str]:
     dates = sorted(
         p.stem for p in DOCS_DATA_DIR.glob("*.json")
-        if p.stem not in ("index", "trend")
+        if p.stem not in NON_DATE_FILES
     )
     (DOCS_DATA_DIR / "index.json").write_text(
         json.dumps(dates, ensure_ascii=False, indent=2), encoding="utf-8"
