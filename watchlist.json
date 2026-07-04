@@ -1,9 +1,4 @@
 {
-  "AI": {
-    "streak": 2,
-    "last_seen": "2026-06-15",
-    "total_count": 433
-  },
   "台積電": {
     "streak": 0,
     "last_seen": "2026-07-04",
@@ -28,11 +23,6 @@
     "streak": 0,
     "last_seen": "2026-07-04",
     "total_count": 65
-  },
-  "ETF": {
-    "streak": 2,
-    "last_seen": "2026-06-15",
-    "total_count": 71
   },
   "電子": {
     "streak": 0,
@@ -155,48 +145,63 @@
     "total_count": 39
   },
   "協議": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 22
   },
   "油價": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 20
   },
   "基金": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 14
   },
   "SpaceX": {
-    "streak": 1,
-    "last_seen": "2026-06-15",
-    "total_count": 14
+    "streak": 2,
+    "last_seen": "2026-06-16",
+    "total_count": 26
   },
   "夜盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 12
   },
   "ADR": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 12
   },
   "開盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 10
   },
   "力行產業道路": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
     "total_count": 8
   },
   "股早盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-15",
+    "total_count": 8
+  },
+  "三大": {
+    "streak": 1,
+    "last_seen": "2026-06-16",
+    "total_count": 14
+  },
+  "Fed": {
+    "streak": 1,
+    "last_seen": "2026-06-16",
+    "total_count": 10
+  },
+  "多頭": {
+    "streak": 1,
+    "last_seen": "2026-06-16",
     "total_count": 8
   }
 }

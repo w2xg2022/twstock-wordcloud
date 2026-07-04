@@ -1,44 +1,16 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "items": [
     {
       "rank": 1,
-      "word": "InFO",
+      "word": "電網",
       "count": 1,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
       "rank": 2,
-      "word": "DDR5",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 3,
-      "word": "低軌道衛星",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 4,
-      "word": "電動車",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 5,
-      "word": "生技",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 6,
-      "word": "PCB",
+      "word": "被動元件",
       "count": 1,
       "change": "NEW",
       "days_on_chart": 1
