@@ -65,37 +65,6 @@ async function loadWordCloud(days) {
   renderWordCloud(freq);
 }
 
-let trendChart;
-
-async function loadTrend() {
-  const trend = await fetchJSON(`${DATA_DIR}/trend.json`);
-  const ctx = document.getElementById("trend-chart");
-  const words = Object.keys(trend.words).slice(0, 8);
-  const palette = [
-    "#2563eb", "#dc2626", "#16a34a", "#ca8a04",
-    "#7c3aed", "#0891b2", "#db2777", "#ea580c",
-  ];
-
-  const datasets = words.map((w, i) => ({
-    label: w,
-    data: trend.words[w],
-    borderColor: palette[i % palette.length],
-    fill: false,
-    tension: 0.3,
-  }));
-
-  if (trendChart) trendChart.destroy();
-  trendChart = new Chart(ctx, {
-    type: "line",
-    data: { labels: trend.dates, datasets },
-    options: {
-      responsive: true,
-      interaction: { mode: "index", intersect: false },
-      scales: { y: { beginAtZero: true } },
-    },
-  });
-}
-
 function formatChange(change) {
   if (change === "NEW") return '<span class="chg-new">NEW</span>';
   if (change > 0) return `<span class="chg-up">▲${change}</span>`;
@@ -135,7 +104,6 @@ async function init() {
   setupTabs();
   allDates = await fetchJSON(`${DATA_DIR}/index.json`);
   await loadWordCloud(currentDays);
-  await loadTrend();
   await loadLeaderboard();
 }
 

@@ -18,7 +18,6 @@ KEYWORDS_PATH = ROOT / "keywords.json"
 WATCHLIST_PATH = ROOT / "watchlist.json"
 
 TREND_DAYS = 15
-TREND_TOP_N = 20
 LEADERBOARD_WINDOW = 7
 LEADERBOARD_TOP_N = 30
 
@@ -278,24 +277,6 @@ def write_csv(counter: Counter, path: Path):
             writer.writerow([word, count])
 
 
-def build_trend(all_dates: list[str], anchor: str):
-    days = window_dates(all_dates, TREND_DAYS, anchor)
-    days.sort()
-    total = aggregate(days)
-    top_words = [w for w, _ in total.most_common(TREND_TOP_N)]
-
-    series = {w: [] for w in top_words}
-    for d in days:
-        day_freq = load_freq(d)
-        for w in top_words:
-            series[w].append(day_freq.get(w, 0))
-
-    trend = {"dates": days, "words": series}
-    (DOCS_DATA_DIR / "trend.json").write_text(
-        json.dumps(trend, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-
-
 def build_leaderboard(all_dates: list[str], anchor: str):
     anchor_dt = datetime.fromisoformat(anchor).date()
     prev_anchor = (anchor_dt - timedelta(days=1)).isoformat()
@@ -354,7 +335,6 @@ def main():
         counter = aggregate(days)
         write_csv(counter, OUTPUT_DIR / f"wordfreq_{n}d.csv")
 
-    build_trend(all_dates, target_date)
     build_leaderboard(all_dates, target_date)
     print(f"{target_date}: 題材熱度統計完成，共 {len(all_dates)} 天資料，候選新題材 {len(candidates)} 個")
 
