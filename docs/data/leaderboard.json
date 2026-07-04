@@ -1,53 +1,74 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "items": [
     {
       "rank": 1,
       "word": "AI",
       "count": 15,
       "change": 0,
-      "days_on_chart": 8
+      "days_on_chart": 9
     },
     {
       "rank": 2,
-      "word": "生技",
-      "count": 3,
-      "change": 8,
-      "days_on_chart": 5
+      "word": "ETF",
+      "count": 6,
+      "change": 1,
+      "days_on_chart": 9
     },
     {
       "rank": 3,
-      "word": "ETF",
-      "count": 3,
-      "change": 0,
-      "days_on_chart": 8
+      "word": "指數",
+      "count": 4,
+      "change": "NEW",
+      "days_on_chart": 1
     },
     {
       "rank": 4,
-      "word": "AI晶片",
+      "word": "生技",
       "count": 2,
-      "change": 3,
-      "days_on_chart": 3
+      "change": -2,
+      "days_on_chart": 6
     },
     {
       "rank": 5,
-      "word": "無人機",
-      "count": 2,
-      "change": -3,
-      "days_on_chart": 8
+      "word": "InFO",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 2
     },
     {
       "rank": 6,
-      "word": "機器人",
+      "word": "IC載板",
       "count": 1,
-      "change": 2,
-      "days_on_chart": 3
+      "change": "NEW",
+      "days_on_chart": 2
     },
     {
       "rank": 7,
-      "word": "面板",
+      "word": "AI伺服器",
       "count": 1,
-      "change": 4,
+      "change": "NEW",
+      "days_on_chart": 2
+    },
+    {
+      "rank": 8,
+      "word": "無人機",
+      "count": 1,
+      "change": -3,
+      "days_on_chart": 9
+    },
+    {
+      "rank": 9,
+      "word": "醫材",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 1
+    },
+    {
+      "rank": 10,
+      "word": "PCB",
+      "count": 1,
+      "change": "NEW",
       "days_on_chart": 4
     }
   ]

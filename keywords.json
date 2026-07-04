@@ -741,6 +741,18 @@
       "synonyms": [
         "指數"
       ]
+    },
+    {
+      "name": "ADR",
+      "synonyms": [
+        "ADR"
+      ]
+    },
+    {
+      "name": "科技股",
+      "synonyms": [
+        "科技股"
+      ]
     }
   ]
 }

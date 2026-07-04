@@ -80,7 +80,7 @@
     "total_count": 39
   },
   "示警": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 49
   },
@@ -115,7 +115,7 @@
     "total_count": 37
   },
   "重挫": {
-    "streak": 2,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 94
   },
@@ -159,11 +159,6 @@
     "last_seen": "2026-06-18",
     "total_count": 24
   },
-  "ADR": {
-    "streak": 2,
-    "last_seen": "2026-06-24",
-    "total_count": 56
-  },
   "開盤": {
     "streak": 0,
     "last_seen": "2026-06-23",
@@ -180,9 +175,9 @@
     "total_count": 8
   },
   "三大": {
-    "streak": 0,
-    "last_seen": "2026-06-18",
-    "total_count": 34
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 42
   },
   "多頭": {
     "streak": 0,
@@ -268,11 +263,6 @@
     "streak": 0,
     "last_seen": "2026-06-18",
     "total_count": 18
-  },
-  "科技股": {
-    "streak": 2,
-    "last_seen": "2026-06-24",
-    "total_count": 56
   },
   "產業鏈": {
     "streak": 0,
@@ -390,7 +380,7 @@
     "total_count": 16
   },
   "暴跌": {
-    "streak": 2,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 20
   },
@@ -415,63 +405,113 @@
     "total_count": 8
   },
   "美光": {
-    "streak": 1,
-    "last_seen": "2026-06-24",
-    "total_count": 36
+    "streak": 2,
+    "last_seen": "2026-06-25",
+    "total_count": 66
   },
   "美光財報": {
-    "streak": 1,
-    "last_seen": "2026-06-24",
-    "total_count": 18
+    "streak": 2,
+    "last_seen": "2026-06-25",
+    "total_count": 26
   },
   "創新": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 10
   },
   "拋售": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 10
   },
   "臺灣": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 10
   },
   "發展": {
-    "streak": 1,
-    "last_seen": "2026-06-24",
-    "total_count": 10
+    "streak": 2,
+    "last_seen": "2026-06-25",
+    "total_count": 20
   },
   "股開盤": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 8
   },
   "黃金": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 8
   },
   "史上": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 8
   },
   "盤後": {
-    "streak": 1,
-    "last_seen": "2026-06-24",
-    "total_count": 8
+    "streak": 2,
+    "last_seen": "2026-06-25",
+    "total_count": 22
   },
   "新能": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
     "total_count": 8
   },
   "文化": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-24",
+    "total_count": 8
+  },
+  "航空": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 18
+  },
+  "財報": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 18
+  },
+  "人才": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 16
+  },
+  "盤前": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 14
+  },
+  "指期": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 14
+  },
+  "攜手": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 14
+  },
+  "航空產業": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 10
+  },
+  "登場": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 10
+  },
+  "商機": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
+    "total_count": 8
+  },
+  "那指": {
+    "streak": 1,
+    "last_seen": "2026-06-25",
     "total_count": 8
   }
 }
