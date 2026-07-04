@@ -1,96 +1,82 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "items": [
     {
       "rank": 1,
       "word": "AI",
-      "count": 12,
+      "count": 20,
       "change": 0,
       "days_on_chart": 15
     },
     {
       "rank": 2,
-      "word": "ADR",
-      "count": 8,
+      "word": "科技股",
+      "count": 5,
       "change": 2,
-      "days_on_chart": 5
-    },
-    {
-      "rank": 3,
-      "word": "指數",
-      "count": 7,
-      "change": -1,
       "days_on_chart": 7
     },
     {
+      "rank": 3,
+      "word": "ETF",
+      "count": 4,
+      "change": 4,
+      "days_on_chart": 15
+    },
+    {
       "rank": 4,
-      "word": "科技股",
-      "count": 6,
-      "change": 1,
+      "word": "ADR",
+      "count": 4,
+      "change": -2,
       "days_on_chart": 6
     },
     {
       "rank": 5,
       "word": "無人機",
-      "count": 5,
-      "change": 3,
+      "count": 3,
+      "change": 0,
       "days_on_chart": 14
     },
     {
       "rank": 6,
-      "word": "機器人",
-      "count": 3,
-      "change": "NEW",
-      "days_on_chart": 6
-    },
-    {
-      "rank": 7,
-      "word": "ETF",
-      "count": 3,
-      "change": -4,
-      "days_on_chart": 15
-    },
-    {
-      "rank": 8,
       "word": "生技",
-      "count": 2,
+      "count": 3,
       "change": 2,
       "days_on_chart": 9
     },
     {
+      "rank": 7,
+      "word": "指數",
+      "count": 3,
+      "change": -4,
+      "days_on_chart": 8
+    },
+    {
+      "rank": 8,
+      "word": "軍工",
+      "count": 2,
+      "change": "NEW",
+      "days_on_chart": 3
+    },
+    {
       "rank": 9,
-      "word": "矽光子",
+      "word": "機器人",
+      "count": 2,
+      "change": -3,
+      "days_on_chart": 7
+    },
+    {
+      "rank": 10,
+      "word": "生成式AI",
       "count": 1,
       "change": "NEW",
       "days_on_chart": 1
     },
     {
-      "rank": 10,
-      "word": "AI晶片",
-      "count": 1,
-      "change": -4,
-      "days_on_chart": 6
-    },
-    {
       "rank": 11,
-      "word": "低軌道衛星",
+      "word": "HBM",
       "count": 1,
       "change": "NEW",
       "days_on_chart": 2
-    },
-    {
-      "rank": 12,
-      "word": "資料中心",
-      "count": 1,
-      "change": -3,
-      "days_on_chart": 3
-    },
-    {
-      "rank": 13,
-      "word": "SpaceX",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 9
     }
   ]
 }
