@@ -1,54 +1,33 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "items": [
     {
       "rank": 1,
       "word": "AI",
-      "count": 15,
+      "count": 8,
       "change": 0,
-      "days_on_chart": 11
+      "days_on_chart": 12
     },
     {
       "rank": 2,
-      "word": "指數",
-      "count": 5,
+      "word": "ETF",
+      "count": 2,
+      "change": 5,
+      "days_on_chart": 12
+    },
+    {
+      "rank": 3,
+      "word": "科技股",
+      "count": 2,
       "change": 2,
       "days_on_chart": 3
     },
     {
-      "rank": 3,
-      "word": "ADR",
-      "count": 4,
-      "change": 0,
-      "days_on_chart": 2
-    },
-    {
       "rank": 4,
-      "word": "無人機",
-      "count": 3,
-      "change": 3,
-      "days_on_chart": 11
-    },
-    {
-      "rank": 5,
-      "word": "科技股",
-      "count": 3,
-      "change": 0,
-      "days_on_chart": 2
-    },
-    {
-      "rank": 6,
-      "word": "電動車",
+      "word": "SpaceX",
       "count": 1,
       "change": "NEW",
-      "days_on_chart": 3
-    },
-    {
-      "rank": 7,
-      "word": "ETF",
-      "count": 1,
-      "change": -5,
-      "days_on_chart": 11
+      "days_on_chart": 7
     }
   ]
 }
