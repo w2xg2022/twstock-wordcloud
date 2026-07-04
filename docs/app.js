@@ -1,6 +1,7 @@
 const DATA_DIR = "data";
-let allDates = [];
+const WC_DIR = "wordcloud";
 let currentDays = 3;
+let cacheBust = "";
 
 async function fetchJSON(path) {
   const res = await fetch(path, { cache: "no-store" });
@@ -8,61 +9,18 @@ async function fetchJSON(path) {
   return res.json();
 }
 
-function windowDates(dates, days) {
-  if (!dates.length) return [];
-  const anchor = new Date(dates[dates.length - 1]);
-  const cutoff = new Date(anchor);
-  cutoff.setDate(cutoff.getDate() - (days - 1));
-  return dates.filter((d) => new Date(d) >= cutoff);
-}
-
-async function aggregateFreq(days) {
-  const freq = {};
-  await Promise.all(
-    days.map(async (d) => {
-      try {
-        const dayData = await fetchJSON(`${DATA_DIR}/${d}.json`);
-        for (const [word, count] of Object.entries(dayData.freq || {})) {
-          freq[word] = (freq[word] || 0) + count;
-        }
-      } catch (e) {
-        console.warn(e);
-      }
-    })
-  );
-  return freq;
-}
-
-function renderWordCloud(freq) {
-  const canvas = document.getElementById("wordcloud-canvas");
-  const entries = Object.entries(freq)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 150);
-
+function loadWordCloud(days) {
+  const img = document.getElementById("wordcloud-img");
   const status = document.getElementById("wordcloud-status");
-  if (!entries.length) {
-    status.textContent = "目前尚無資料";
-    const ctx = canvas.getContext("2d");
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    return;
-  }
-  status.textContent = `共 ${entries.length} 個關鍵詞`;
-
-  WordCloud(canvas, {
-    list: entries,
-    gridSize: 8,
-    weightFactor: (size) => Math.pow(size, 0.7) * 6,
-    fontFamily: '"Noto Sans TC", "Microsoft JhengHei", sans-serif",',
-    color: "random-dark",
-    backgroundColor: "#ffffff",
-    rotateRatio: 0.2,
-  });
-}
-
-async function loadWordCloud(days) {
-  const windowed = windowDates(allDates, days);
-  const freq = await aggregateFreq(windowed);
-  renderWordCloud(freq);
+  const src = `${WC_DIR}/wordcloud_${days}d.png${cacheBust}`;
+  img.onerror = () => {
+    img.removeAttribute("src");
+    status.textContent = "目前尚無詞雲圖";
+  };
+  img.onload = () => {
+    status.textContent = `近 ${days} 日題材熱度詞雲`;
+  };
+  img.src = src;
 }
 
 function formatChange(change) {
@@ -91,19 +49,25 @@ async function loadLeaderboard() {
 
 function setupTabs() {
   document.querySelectorAll(".tab-btn").forEach((btn) => {
-    btn.addEventListener("click", async () => {
+    btn.addEventListener("click", () => {
       document.querySelectorAll(".tab-btn").forEach((b) => b.classList.remove("active"));
       btn.classList.add("active");
       currentDays = Number(btn.dataset.days);
-      await loadWordCloud(currentDays);
+      loadWordCloud(currentDays);
     });
   });
 }
 
 async function init() {
   setupTabs();
-  allDates = await fetchJSON(`${DATA_DIR}/index.json`);
-  await loadWordCloud(currentDays);
+  // 用最新資料日期當快取破壞參數，確保每天更新的詞雲圖不會被瀏覽器舊快取擋住
+  try {
+    const dates = await fetchJSON(`${DATA_DIR}/index.json`);
+    if (dates.length) cacheBust = `?v=${dates[dates.length - 1]}`;
+  } catch (e) {
+    console.warn(e);
+  }
+  loadWordCloud(currentDays);
   await loadLeaderboard();
 }
 

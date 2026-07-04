@@ -66,10 +66,11 @@ main {
 .chg-down { color: #16a34a; font-weight: bold; }
 .chg-new { color: #ea580c; font-weight: bold; }
 .chg-flat { color: #999; }
-#wordcloud-canvas {
+#wordcloud-img {
   width: 100%;
   height: auto;
   display: block;
+  border-radius: 4px;
 }
 .status { text-align: center; color: #888; font-size: 13px; }
 .download-section a {
