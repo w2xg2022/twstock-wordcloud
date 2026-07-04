@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>候選新題材審核後台</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  main { max-width: 720px; }
+  .token-box, .pending-item, .log-box {
+    background: #fff; border-radius: 8px; padding: 16px;
+    margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  .token-box input[type="password"] { width: 100%; padding: 8px; box-sizing: border-box; }
+  .pending-item { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .pending-item .word { font-weight: bold; font-size: 16px; min-width: 90px; }
+  .pending-item .meta { color: #888; font-size: 12px; width: 100%; }
+  .pending-item select, .pending-item input[type="text"] { padding: 6px; }
+  .pending-item input[type="text"] { flex: 1; min-width: 120px; }
+  button.approve { background: #16a34a; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; }
+  button.reject { background: #dc2626; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; }
+  button.reload { background: #1f2937; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; }
+  .log-box { font-size: 13px; color: #444; white-space: pre-wrap; max-height: 200px; overflow-y: auto; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>候選新題材審核後台</h1>
+    <p class="subtitle">審核 pending_keywords.json，核准後直接透過 GitHub API 寫回 keywords.json</p>
+  </header>
+
+  <main>
+    <section class="token-box">
+      <label for="token-input">GitHub Personal Access Token（需要 repo 權限，只存在你這台瀏覽器）</label>
+      <input type="password" id="token-input" placeholder="ghp_xxxxxxxxxxxx">
+      <button class="reload" id="reload-btn" style="margin-top:8px;">載入待審核清單</button>
+    </section>
+
+    <section id="pending-list"></section>
+
+    <section class="log-box" id="log-box">尚未載入</section>
+  </main>
+
+  <footer>
+    <p><a href="index.html">回主頁</a></p>
+  </footer>
+
+  <script src="admin.js"></script>
+</body>
+</html>
