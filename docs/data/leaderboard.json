@@ -1,82 +1,54 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "items": [
     {
       "rank": 1,
       "word": "AI",
-      "count": 13,
+      "count": 15,
       "change": 0,
-      "days_on_chart": 7
+      "days_on_chart": 8
     },
     {
       "rank": 2,
-      "word": "無人機",
-      "count": 5,
-      "change": 1,
-      "days_on_chart": 7
+      "word": "生技",
+      "count": 3,
+      "change": 8,
+      "days_on_chart": 5
     },
     {
       "rank": 3,
       "word": "ETF",
-      "count": 5,
-      "change": -1,
-      "days_on_chart": 7
+      "count": 3,
+      "change": 0,
+      "days_on_chart": 8
     },
     {
       "rank": 4,
-      "word": "SpaceX",
-      "count": 4,
-      "change": 0,
-      "days_on_chart": 5
+      "word": "AI晶片",
+      "count": 2,
+      "change": 3,
+      "days_on_chart": 3
     },
     {
       "rank": 5,
-      "word": "玻璃基板",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
+      "word": "無人機",
+      "count": 2,
+      "change": -3,
+      "days_on_chart": 8
     },
     {
       "rank": 6,
-      "word": "AI伺服器",
+      "word": "機器人",
       "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
+      "change": 2,
+      "days_on_chart": 3
     },
     {
       "rank": 7,
-      "word": "AI晶片",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 8,
-      "word": "機器人",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 9,
-      "word": "光通訊",
-      "count": 1,
-      "change": "NEW",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 10,
-      "word": "生技",
-      "count": 1,
-      "change": -3,
-      "days_on_chart": 4
-    },
-    {
-      "rank": 11,
       "word": "面板",
       "count": 1,
-      "change": "NEW",
-      "days_on_chart": 3
+      "change": 4,
+      "days_on_chart": 4
     }
   ]
 }
