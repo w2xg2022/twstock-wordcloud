@@ -1,33 +1,75 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "items": [
     {
       "rank": 1,
       "word": "AI",
-      "count": 8,
+      "count": 9,
       "change": 0,
-      "days_on_chart": 12
+      "days_on_chart": 13
     },
     {
       "rank": 2,
-      "word": "ETF",
-      "count": 2,
-      "change": 5,
-      "days_on_chart": 12
+      "word": "指數",
+      "count": 8,
+      "change": "NEW",
+      "days_on_chart": 4
     },
     {
       "rank": 3,
-      "word": "科技股",
-      "count": 2,
-      "change": 2,
-      "days_on_chart": 3
+      "word": "無人機",
+      "count": 4,
+      "change": "NEW",
+      "days_on_chart": 12
     },
     {
       "rank": 4,
-      "word": "SpaceX",
+      "word": "Fed",
+      "count": 3,
+      "change": "NEW",
+      "days_on_chart": 4
+    },
+    {
+      "rank": 5,
+      "word": "ETF",
+      "count": 2,
+      "change": -3,
+      "days_on_chart": 13
+    },
+    {
+      "rank": 6,
+      "word": "AI晶片",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 4
+    },
+    {
+      "rank": 7,
+      "word": "太空產業",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 2
+    },
+    {
+      "rank": 8,
+      "word": "機器人",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 5
+    },
+    {
+      "rank": 9,
+      "word": "生技",
       "count": 1,
       "change": "NEW",
       "days_on_chart": 7
+    },
+    {
+      "rank": 10,
+      "word": "面板",
+      "count": 1,
+      "change": "NEW",
+      "days_on_chart": 5
     }
   ]
 }
