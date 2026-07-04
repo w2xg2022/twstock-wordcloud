@@ -5,9 +5,9 @@
     "total_count": 134
   },
   "晶片": {
-    "streak": 0,
-    "last_seen": "2026-07-04",
-    "total_count": 117
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 133
   },
   "三星": {
     "streak": 0,
@@ -20,9 +20,9 @@
     "total_count": 89
   },
   "半導體": {
-    "streak": 0,
-    "last_seen": "2026-06-21",
-    "total_count": 73
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 81
   },
   "電子": {
     "streak": 0,
@@ -110,9 +110,9 @@
     "total_count": 37
   },
   "指數": {
-    "streak": 1,
-    "last_seen": "2026-06-22",
-    "total_count": 93
+    "streak": 2,
+    "last_seen": "2026-06-23",
+    "total_count": 107
   },
   "休市": {
     "streak": 0,
@@ -120,9 +120,9 @@
     "total_count": 37
   },
   "重挫": {
-    "streak": 0,
-    "last_seen": "2026-06-17",
-    "total_count": 54
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 74
   },
   "世界": {
     "streak": 0,
@@ -155,9 +155,9 @@
     "total_count": 20
   },
   "基金": {
-    "streak": 0,
-    "last_seen": "2026-06-15",
-    "total_count": 14
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 26
   },
   "夜盤": {
     "streak": 0,
@@ -165,14 +165,14 @@
     "total_count": 24
   },
   "ADR": {
-    "streak": 0,
-    "last_seen": "2026-06-19",
-    "total_count": 32
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 40
   },
   "開盤": {
-    "streak": 0,
-    "last_seen": "2026-06-15",
-    "total_count": 10
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 28
   },
   "力行產業道路": {
     "streak": 0,
@@ -205,9 +205,9 @@
     "total_count": 28
   },
   "早盤": {
-    "streak": 0,
-    "last_seen": "2026-06-17",
-    "total_count": 16
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 28
   },
   "金融": {
     "streak": 0,
@@ -275,9 +275,9 @@
     "total_count": 18
   },
   "科技股": {
-    "streak": 0,
-    "last_seen": "2026-06-18",
-    "total_count": 16
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 36
   },
   "產業鏈": {
     "streak": 0,
@@ -375,13 +375,48 @@
     "total_count": 8
   },
   "預測": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-22",
     "total_count": 8
   },
   "合作": {
-    "streak": 1,
+    "streak": 0,
     "last_seen": "2026-06-22",
+    "total_count": 8
+  },
+  "千點": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 34
+  },
+  "賣壓": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 16
+  },
+  "暴跌": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 12
+  },
+  "原因": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 10
+  },
+  "南亞": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 8
+  },
+  "拉回": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
+    "total_count": 8
+  },
+  "兩大": {
+    "streak": 1,
+    "last_seen": "2026-06-23",
     "total_count": 8
   }
 }
