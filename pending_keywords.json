@@ -48,8 +48,8 @@
     "total_count": 38
   },
   "金融股": {
-    "first_promoted": "2026-06-27",
-    "total_count": 30
+    "first_promoted": "2026-06-15",
+    "total_count": 32
   },
   "華邦電": {
     "first_promoted": "2026-06-29",
@@ -60,8 +60,8 @@
     "total_count": 64
   },
   "玻璃": {
-    "first_promoted": "2026-06-30",
-    "total_count": 32
+    "first_promoted": "2026-06-17",
+    "total_count": 38
   },
   "友達": {
     "first_promoted": "2026-07-01",
@@ -70,10 +70,6 @@
   "算力": {
     "first_promoted": "2026-07-02",
     "total_count": 38
-  },
-  "功率半導體": {
-    "first_promoted": "2026-07-02",
-    "total_count": 36
   },
   "Google": {
     "first_promoted": "2026-07-03",
@@ -90,10 +86,6 @@
   "商機": {
     "first_promoted": "2026-06-15",
     "total_count": 40
-  },
-  "金融股": {
-    "first_promoted": "2026-06-15",
-    "total_count": 32
   },
   "回補": {
     "first_promoted": "2026-06-15",
@@ -114,10 +106,6 @@
   "狂掃": {
     "first_promoted": "2026-06-16",
     "total_count": 30
-  },
-  "玻璃": {
-    "first_promoted": "2026-06-17",
-    "total_count": 38
   },
   "帶動": {
     "first_promoted": "2026-06-17",
@@ -182,9 +170,5 @@
   "熱潮": {
     "first_promoted": "2026-07-02",
     "total_count": 40
-  },
-  "功率半導體": {
-    "first_promoted": "2026-07-05",
-    "total_count": 36
   }
 }
