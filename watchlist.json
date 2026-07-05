@@ -35,9 +35,9 @@
     "days_seen": 1
   },
   "升息": {
-    "last_seen": "2026-06-18",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-07-05",
+    "total_count": 28,
+    "days_seen": 2
   },
   "端午": {
     "last_seen": "2026-06-18",
@@ -325,9 +325,9 @@
     "days_seen": 1
   },
   "非農": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-07-05",
+    "total_count": 24,
+    "days_seen": 2
   },
   "寵物": {
     "last_seen": "2026-07-03",
@@ -459,11 +459,6 @@
     "total_count": 27,
     "days_seen": 1
   },
-  "投資人": {
-    "last_seen": "2026-07-04",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "製程": {
     "last_seen": "2026-07-04",
     "total_count": 26,
@@ -547,6 +542,71 @@
   "股票": {
     "last_seen": "2026-07-04",
     "total_count": 25,
+    "days_seen": 1
+  },
+  "法說": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "行情": {
+    "last_seen": "2026-07-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "解析": {
+    "last_seen": "2026-07-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股震盪": {
+    "last_seen": "2026-07-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "金流": {
+    "last_seen": "2026-07-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "來最": {
+    "last_seen": "2026-07-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "政治": {
+    "last_seen": "2026-07-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "外資賣": {
+    "last_seen": "2026-07-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股基金": {
+    "last_seen": "2026-07-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "這個": {
+    "last_seen": "2026-07-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "撐盤": {
+    "last_seen": "2026-07-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "週漲": {
+    "last_seen": "2026-07-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "槓桿": {
+    "last_seen": "2026-07-05",
+    "total_count": 8,
     "days_seen": 1
   }
 }
