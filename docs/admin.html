@@ -20,6 +20,9 @@
   button.approve { background: #16a34a; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; }
   button.reject { background: #dc2626; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; }
   button.reload { background: #1f2937; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; }
+  .finish-box { background: #fff; border-radius: 8px; padding: 16px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+  .finish-box p { margin: 0 0 8px; font-size: 14px; color: #444; }
+  button.finish { background: #ea580c; color: #fff; border: none; padding: 10px 18px; border-radius: 4px; cursor: pointer; font-weight: bold; }
   .log-box { font-size: 13px; color: #444; white-space: pre-wrap; max-height: 200px; overflow-y: auto; }
 </style>
 </head>
@@ -37,6 +40,11 @@
     </section>
 
     <section id="pending-list"></section>
+
+    <section class="finish-box">
+      <p>核准想要的題材後，剩下未處理的可一鍵拒絕（都會加入停用詞，不再重複出現）：</p>
+      <button class="finish" id="finish-btn">完成審核（將其餘候選全部拒絕）</button>
+    </section>
 
     <section class="log-box" id="log-box">尚未載入</section>
   </main>

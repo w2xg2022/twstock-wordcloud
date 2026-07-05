@@ -86,10 +86,12 @@ async function addStopword(word) {
 }
 
 let categoriesCache = [];
+let pendingCount = 0;
 
 function renderPending(pending) {
   const container = document.getElementById("pending-list");
   const words = Object.keys(pending);
+  pendingCount = words.length;
   if (!words.length) {
     container.innerHTML = "<p>目前沒有待審核的候選新題材。</p>";
     return;
@@ -184,7 +186,56 @@ async function reject(word) {
   }
 }
 
+// 一次把剩下所有未處理的候選拒絕(加停用詞)，比逐一點省事
+async function batchRejectRemaining() {
+  try {
+    const pendingFile = await ghGetFile("pending_keywords.json");
+    const words = Object.keys(pendingFile.json);
+    if (!words.length) {
+      log("沒有未處理的候選");
+      return;
+    }
+    if (!confirm(`還有 ${words.length} 個未核准的候選：\n${words.join("、")}\n\n要全部拒絕(加入停用詞)嗎？`)) {
+      return;
+    }
+    log(`批次拒絕 ${words.length} 個候選 ...`);
+
+    // 中英文分開，各自讀一次停用詞檔、把新詞一次補上、一次commit
+    for (const path of ["stopwords_zh.txt", "stopwords_en.txt"]) {
+      const isZh = path.endsWith("zh.txt");
+      const add = words
+        .filter((w) => isZh === [...w].some((c) => c.codePointAt(0) > 0x2e80))
+        .map((w) => (isZh ? w : w.toLowerCase()));
+      if (!add.length) continue;
+      const file = await ghGetText(path);
+      const existing = new Set(file.text.split("\n").map((l) => l.trim()));
+      const fresh = add.filter((w) => !existing.has(w));
+      if (!fresh.length) continue;
+      const newText = file.text.replace(/\n?$/, "\n") + fresh.join("\n") + "\n";
+      await ghPutRaw(path, newText, file.sha, `批次拒絕加入停用詞: ${fresh.join(", ")}`);
+    }
+
+    // 清空 pending
+    const latest = await ghGetFile("pending_keywords.json");
+    await ghPutFile("pending_keywords.json", {}, latest.sha, `批次拒絕 ${words.length} 個候選`);
+
+    log(`已批次拒絕：${words.join("、")}`);
+    loadPending();
+  } catch (e) {
+    log("錯誤：" + e.message);
+  }
+}
+
 document.getElementById("reload-btn").addEventListener("click", loadPending);
+document.getElementById("finish-btn").addEventListener("click", batchRejectRemaining);
+
+// 離開頁面前，若還有未處理候選，提醒使用者
+window.addEventListener("beforeunload", (e) => {
+  if (pendingCount > 0) {
+    e.preventDefault();
+    e.returnValue = "";
+  }
+});
 
 const saved = localStorage.getItem(TOKEN_KEY);
 if (saved) document.getElementById("token-input").value = saved;
