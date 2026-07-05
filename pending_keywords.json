@@ -3,304 +3,64 @@
     "first_promoted": "2026-07-05",
     "total_count": 46
   },
-  "狂飆": {
-    "first_promoted": "2026-07-04",
-    "total_count": 32
-  },
   "油價": {
-    "first_promoted": "2026-06-17",
-    "total_count": 34
-  },
-  "升息": {
-    "first_promoted": "2026-07-03",
-    "total_count": 38
-  },
-  "央行": {
-    "first_promoted": "2026-06-18",
+    "first_promoted": "2026-06-26",
     "total_count": 36
   },
   "和平協議": {
     "first_promoted": "2026-06-16",
     "total_count": 32
   },
-  "突破": {
-    "first_promoted": "2026-06-16",
-    "total_count": 30
-  },
-  "聯準會": {
-    "first_promoted": "2026-06-18",
-    "total_count": 38
-  },
-  "專家": {
-    "first_promoted": "2026-07-03",
-    "total_count": 54
-  },
-  "賣超": {
-    "first_promoted": "2026-07-05",
-    "total_count": 32
-  },
-  "盤前": {
-    "first_promoted": "2026-06-26",
-    "total_count": 36
-  },
-  "預期": {
-    "first_promoted": "2026-07-04",
-    "total_count": 36
-  },
-  "時代": {
-    "first_promoted": "2026-06-17",
-    "total_count": 31
-  },
-  "利率": {
-    "first_promoted": "2026-06-18",
-    "total_count": 46
-  },
-  "作者": {
-    "first_promoted": "2026-06-18",
-    "total_count": 72
-  },
-  "上市": {
-    "first_promoted": "2026-06-18",
-    "total_count": 52
-  },
-  "轉型": {
+  "MoneyDJ": {
     "first_promoted": "2026-06-30",
-    "total_count": 32
-  },
-  "爆量": {
-    "first_promoted": "2026-06-26",
-    "total_count": 38
-  },
-  "數據": {
-    "first_promoted": "2026-07-05",
-    "total_count": 38
-  },
-  "製造": {
-    "first_promoted": "2026-07-01",
-    "total_count": 40
-  },
-  "接棒": {
-    "first_promoted": "2026-07-02",
-    "total_count": 38
-  },
-  "端午": {
-    "first_promoted": "2026-06-19",
-    "total_count": 34
-  },
-  "再創": {
-    "first_promoted": "2026-06-18",
-    "total_count": 44
-  },
-  "買超": {
-    "first_promoted": "2026-07-01",
-    "total_count": 36
-  },
-  "成交": {
-    "first_promoted": "2026-06-29",
     "total_count": 46
-  },
-  "史上": {
-    "first_promoted": "2026-06-30",
-    "total_count": 44
-  },
-  "亮燈": {
-    "first_promoted": "2026-06-22",
-    "total_count": 46
-  },
-  "今年": {
-    "first_promoted": "2026-07-04",
-    "total_count": 40
-  },
-  "未來": {
-    "first_promoted": "2026-06-19",
-    "total_count": 36
-  },
-  "理財": {
-    "first_promoted": "2026-06-20",
-    "total_count": 38
-  },
-  "賣壓": {
-    "first_promoted": "2026-06-26",
-    "total_count": 42
-  },
-  "創高": {
-    "first_promoted": "2026-06-23",
-    "total_count": 44
-  },
-  "熔斷": {
-    "first_promoted": "2026-06-23",
-    "total_count": 32
-  },
-  "即時": {
-    "first_promoted": "2026-06-23",
-    "total_count": 32
-  },
-  "美光財報": {
-    "first_promoted": "2026-06-25",
-    "total_count": 36
-  },
-  "拖累": {
-    "first_promoted": "2026-07-02",
-    "total_count": 38
-  },
-  "拋售": {
-    "first_promoted": "2026-06-24",
-    "total_count": 30
   },
   "晶片股": {
     "first_promoted": "2026-07-04",
     "total_count": 36
   },
-  "美國經濟": {
-    "first_promoted": "2026-06-26",
-    "total_count": 38
-  },
-  "股收盤": {
-    "first_promoted": "2026-07-03",
-    "total_count": 38
-  },
-  "拋售潮": {
-    "first_promoted": "2026-06-24",
-    "total_count": 32
-  },
-  "狂瀉": {
-    "first_promoted": "2026-06-24",
-    "total_count": 30
-  },
-  "估值": {
-    "first_promoted": "2026-06-24",
-    "total_count": 34
-  },
-  "萬張": {
-    "first_promoted": "2026-06-25",
-    "total_count": 30
-  },
-  "聯發科": {
-    "first_promoted": "2026-06-25",
-    "total_count": 36
-  },
-  "航空": {
-    "first_promoted": "2026-06-25",
-    "total_count": 34
-  },
-  "一度": {
-    "first_promoted": "2026-06-25",
-    "total_count": 46
-  },
-  "MoneyDJ": {
-    "first_promoted": "2026-06-30",
-    "total_count": 46
-  },
-  "領軍": {
+  "黃金": {
     "first_promoted": "2026-07-04",
     "total_count": 34
   },
-  "史上第": {
-    "first_promoted": "2026-06-26",
-    "total_count": 50
-  },
-  "股重挫": {
-    "first_promoted": "2026-06-27",
+  "能源": {
+    "first_promoted": "2026-06-24",
     "total_count": 30
   },
-  "漲價": {
-    "first_promoted": "2026-06-26",
-    "total_count": 46
-  },
-  "跌破": {
-    "first_promoted": "2026-06-26",
-    "total_count": 36
-  },
-  "月線": {
-    "first_promoted": "2026-06-26",
-    "total_count": 54
-  },
-  "亞洲": {
-    "first_promoted": "2026-07-02",
-    "total_count": 40
-  },
-  "行情": {
-    "first_promoted": "2026-07-05",
-    "total_count": 30
-  },
-  "IPO": {
-    "first_promoted": "2026-06-27",
-    "total_count": 30
-  },
-  "資料": {
-    "first_promoted": "2026-07-02",
+  "競爭": {
+    "first_promoted": "2026-06-24",
     "total_count": 34
   },
-  "泡沫": {
-    "first_promoted": "2026-07-02",
+  "聯發科": {
+    "first_promoted": "2026-06-25",
+    "total_count": 44
+  },
+  "IPO": {
+    "first_promoted": "2026-07-03",
     "total_count": 30
   },
   "期貨": {
-    "first_promoted": "2026-06-26",
-    "total_count": 40
+    "first_promoted": "2026-07-03",
+    "total_count": 32
   },
   "OpenAI": {
     "first_promoted": "2026-06-27",
     "total_count": 38
   },
-  "加碼": {
-    "first_promoted": "2026-06-22",
-    "total_count": 38
-  },
-  "為何": {
-    "first_promoted": "2026-06-26",
-    "total_count": 42
-  },
-  "恒指": {
-    "first_promoted": "2026-06-29",
-    "total_count": 34
-  },
-  "投信": {
-    "first_promoted": "2026-06-30",
+  "金融股": {
+    "first_promoted": "2026-06-27",
     "total_count": 30
   },
   "華邦電": {
     "first_promoted": "2026-06-29",
     "total_count": 36
   },
-  "上半年": {
-    "first_promoted": "2026-07-02",
-    "total_count": 34
-  },
   "美伊": {
     "first_promoted": "2026-06-30",
     "total_count": 64
   },
-  "大指數": {
+  "玻璃": {
     "first_promoted": "2026-06-30",
-    "total_count": 52
-  },
-  "重返": {
-    "first_promoted": "2026-06-30",
-    "total_count": 38
-  },
-  "收復": {
-    "first_promoted": "2026-06-30",
-    "total_count": 34
-  },
-  "尾盤": {
-    "first_promoted": "2026-06-30",
-    "total_count": 32
-  },
-  "史上最": {
-    "first_promoted": "2026-06-30",
-    "total_count": 32
-  },
-  "延長": {
-    "first_promoted": "2026-07-01",
-    "total_count": 48
-  },
-  "三大指數": {
-    "first_promoted": "2026-07-01",
-    "total_count": 34
-  },
-  "勁揚": {
-    "first_promoted": "2026-07-01",
     "total_count": 32
   },
   "友達": {
@@ -308,72 +68,16 @@
     "total_count": 32
   },
   "算力": {
-    "first_promoted": "2026-07-05",
-    "total_count": 40
+    "first_promoted": "2026-07-02",
+    "total_count": 38
   },
-  "就業": {
-    "first_promoted": "2026-07-03",
-    "total_count": 68
-  },
-  "非農": {
-    "first_promoted": "2026-07-03",
-    "total_count": 52
-  },
-  "降溫": {
-    "first_promoted": "2026-07-03",
-    "total_count": 48
-  },
-  "報告": {
-    "first_promoted": "2026-07-03",
-    "total_count": 46
-  },
-  "設備": {
-    "first_promoted": "2026-07-03",
-    "total_count": 32
-  },
-  "輪動": {
-    "first_promoted": "2026-07-03",
-    "total_count": 48
-  },
-  "點名": {
-    "first_promoted": "2026-07-03",
-    "total_count": 44
-  },
-  "論壇": {
-    "first_promoted": "2026-07-03",
-    "total_count": 32
+  "功率半導體": {
+    "first_promoted": "2026-07-02",
+    "total_count": 36
   },
   "Google": {
     "first_promoted": "2026-07-03",
     "total_count": 42
-  },
-  "資訊": {
-    "first_promoted": "2026-07-03",
-    "total_count": 44
-  },
-  "股盤中": {
-    "first_promoted": "2026-07-03",
-    "total_count": 30
-  },
-  "下一": {
-    "first_promoted": "2026-07-04",
-    "total_count": 40
-  },
-  "有望": {
-    "first_promoted": "2026-07-04",
-    "total_count": 38
-  },
-  "提款": {
-    "first_promoted": "2026-07-04",
-    "total_count": 32
-  },
-  "聚焦": {
-    "first_promoted": "2026-07-05",
-    "total_count": 32
-  },
-  "股震盪": {
-    "first_promoted": "2026-07-05",
-    "total_count": 32
   },
   "南亞": {
     "first_promoted": "2026-07-05",

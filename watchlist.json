@@ -10,14 +10,14 @@
     "days_seen": 1
   },
   "掛牌": {
-    "last_seen": "2026-06-15",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-06-24",
+    "total_count": 26,
+    "days_seen": 2
   },
   "股開盤": {
-    "last_seen": "2026-06-15",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 26,
+    "days_seen": 2
   },
   "太空": {
     "last_seen": "2026-06-15",
@@ -44,32 +44,97 @@
     "total_count": 10,
     "days_seen": 1
   },
+  "主要": {
+    "last_seen": "2026-06-30",
+    "total_count": 22,
+    "days_seen": 2
+  },
+  "警告": {
+    "last_seen": "2026-06-19",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "力行產業道路": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股三大指數": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "早盤漲": {
+    "last_seen": "2026-07-03",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "權值股": {
+    "last_seen": "2026-06-26",
+    "total_count": 28,
+    "days_seen": 3
+  },
+  "製造業": {
+    "last_seen": "2026-07-01",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "創歷史": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "指數首": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "結構": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "怎麼": {
+    "last_seen": "2026-07-02",
+    "total_count": 26,
+    "days_seen": 3
+  },
+  "同步": {
+    "last_seen": "2026-06-23",
+    "total_count": 28,
+    "days_seen": 3
+  },
+  "首度": {
+    "last_seen": "2026-06-22",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "課程": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "逼近": {
+    "last_seen": "2026-06-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
   "千億": {
     "last_seen": "2026-06-16",
     "total_count": 16,
     "days_seen": 1
   },
   "消費": {
-    "last_seen": "2026-06-16",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 24,
+    "days_seen": 2
   },
   "台指期": {
     "last_seen": "2026-06-16",
     "total_count": 12,
     "days_seen": 1
   },
-  "助攻": {
-    "last_seen": "2026-06-16",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "籌碼": {
-    "last_seen": "2026-06-16",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "第一": {
     "last_seen": "2026-06-16",
     "total_count": 12,
     "days_seen": 1
@@ -84,27 +149,72 @@
     "total_count": 10,
     "days_seen": 1
   },
+  "降息": {
+    "last_seen": "2026-06-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "天價": {
+    "last_seen": "2026-06-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "加息": {
+    "last_seen": "2026-06-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "協議促": {
+    "last_seen": "2026-06-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "光學": {
+    "last_seen": "2026-06-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "出關": {
+    "last_seen": "2026-06-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "散戶": {
+    "last_seen": "2026-06-28",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "地緣": {
+    "last_seen": "2026-06-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "首次": {
+    "last_seen": "2026-06-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "震撼": {
+    "last_seen": "2026-06-18",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "政策": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "空單": {
+    "last_seen": "2026-06-24",
+    "total_count": 20,
+    "days_seen": 2
+  },
   "費半重": {
     "last_seen": "2026-06-17",
     "total_count": 16,
     "days_seen": 1
   },
-  "華許": {
-    "last_seen": "2026-06-17",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "決策": {
-    "last_seen": "2026-06-17",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "半導體產": {
-    "last_seen": "2026-06-17",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "股盤前": {
     "last_seen": "2026-06-17",
     "total_count": 12,
     "days_seen": 1
@@ -120,23 +230,113 @@
     "days_seen": 1
   },
   "進入": {
-    "last_seen": "2026-06-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-06-29",
+    "total_count": 20,
+    "days_seen": 2
   },
   "日韓": {
-    "last_seen": "2026-06-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-06-18",
+    "total_count": 24,
+    "days_seen": 2
   },
   "華許首": {
     "last_seen": "2026-06-17",
     "total_count": 10,
     "days_seen": 1
   },
-  "首秀": {
+  "還能": {
+    "last_seen": "2026-06-22",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "開低": {
+    "last_seen": "2026-06-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "年底": {
     "last_seen": "2026-06-18",
     "total_count": 22,
+    "days_seen": 2
+  },
+  "先跌": {
+    "last_seen": "2026-06-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "客戶": {
+    "last_seen": "2026-06-24",
+    "total_count": 22,
+    "days_seen": 2
+  },
+  "表現": {
+    "last_seen": "2026-06-30",
+    "total_count": 28,
+    "days_seen": 3
+  },
+  "黑翻紅": {
+    "last_seen": "2026-07-03",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "資金轉": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "艾克爾": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "與產業": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "日韓股": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "是這": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "收斂": {
+    "last_seen": "2026-07-02",
+    "total_count": 22,
+    "days_seen": 2
+  },
+  "主席": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "飆升": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "集團": {
+    "last_seen": "2026-06-30",
+    "total_count": 24,
+    "days_seen": 3
+  },
+  "不是": {
+    "last_seen": "2026-07-02",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "量產": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "引擎": {
+    "last_seen": "2026-06-17",
+    "total_count": 8,
     "days_seen": 1
   },
   "中鋼": {
@@ -149,22 +349,12 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "數位": {
-    "last_seen": "2026-06-18",
-    "total_count": 17,
-    "days_seen": 1
-  },
   "TechNews": {
-    "last_seen": "2026-06-18",
-    "total_count": 17,
-    "days_seen": 1
+    "last_seen": "2026-07-02",
+    "total_count": 26,
+    "days_seen": 2
   },
   "產能": {
-    "last_seen": "2026-06-18",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "競爭": {
     "last_seen": "2026-06-18",
     "total_count": 16,
     "days_seen": 1
@@ -174,10 +364,90 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "警告": {
-    "last_seen": "2026-06-19",
-    "total_count": 8,
+  "買進": {
+    "last_seen": "2026-06-18",
+    "total_count": 14,
     "days_seen": 1
+  },
+  "生態": {
+    "last_seen": "2026-06-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "和平協議": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "競爭力": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "指數收": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股東會": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "十年": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "鷹派": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "成果": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "封測": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "政府": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "宣布": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "驅動": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "總統": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "強攻": {
+    "last_seen": "2026-06-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "下周": {
+    "last_seen": "2026-06-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "韌性": {
+    "last_seen": "2026-06-28",
+    "total_count": 20,
+    "days_seen": 2
   },
   "電力": {
     "last_seen": "2026-06-19",
@@ -185,11 +455,6 @@
     "days_seen": 1
   },
   "核心": {
-    "last_seen": "2026-06-19",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "EPS": {
     "last_seen": "2026-06-19",
     "total_count": 8,
     "days_seen": 1
@@ -209,25 +474,30 @@
     "total_count": 12,
     "days_seen": 1
   },
+  "CoPoS": {
+    "last_seen": "2026-06-28",
+    "total_count": 18,
+    "days_seen": 2
+  },
   "攜手產官學": {
     "last_seen": "2026-06-20",
     "total_count": 8,
     "days_seen": 1
   },
   "狂潮": {
-    "last_seen": "2026-06-20",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-06-24",
+    "total_count": 18,
+    "days_seen": 2
   },
   "品牌": {
     "last_seen": "2026-06-20",
     "total_count": 8,
     "days_seen": 1
   },
-  "策略": {
-    "last_seen": "2026-06-22",
-    "total_count": 14,
-    "days_seen": 1
+  "CTWANT": {
+    "last_seen": "2026-06-27",
+    "total_count": 17,
+    "days_seen": 2
   },
   "財經焦點": {
     "last_seen": "2026-06-22",
@@ -254,20 +524,95 @@
     "total_count": 10,
     "days_seen": 1
   },
+  "翻倍": {
+    "last_seen": "2026-06-30",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "通膨": {
+    "last_seen": "2026-07-02",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "主題": {
+    "last_seen": "2026-06-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "逆市": {
+    "last_seen": "2026-06-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體產業": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "美伊談判": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "海清智元": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "格林斯潘": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "斯達克": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "投資熱": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "前主席": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "配息": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "效應": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "美債": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "受惠": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "押注": {
+    "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
   "湧現": {
     "last_seen": "2026-06-23",
     "total_count": 16,
     "days_seen": 1
   },
-  "拉回": {
-    "last_seen": "2026-06-23",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "崩跌": {
-    "last_seen": "2026-06-23",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-06-24",
+    "total_count": 28,
+    "days_seen": 2
   },
   "無人": {
     "last_seen": "2026-06-23",
@@ -284,39 +629,94 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "材料": {
-    "last_seen": "2026-06-23",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "量子": {
-    "last_seen": "2026-06-23",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-06-24",
+    "total_count": 24,
+    "days_seen": 2
   },
   "創高後": {
     "last_seen": "2026-06-23",
     "total_count": 12,
     "days_seen": 1
   },
-  "加速": {
-    "last_seen": "2026-06-23",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "模型": {
-    "last_seen": "2026-06-23",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "ETtoday": {
-    "last_seen": "2026-06-23",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-06-26",
+    "total_count": 26,
+    "days_seen": 2
   },
   "創歷史新": {
     "last_seen": "2026-06-23",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "市值蒸發": {
+    "last_seen": "2026-06-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "鴻海": {
+    "last_seen": "2026-06-27",
+    "total_count": 24,
+    "days_seen": 2
+  },
+  "回檔": {
+    "last_seen": "2026-06-25",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "應用": {
+    "last_seen": "2026-06-27",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "伊朗": {
+    "last_seen": "2026-06-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "科技股遭": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "先進製程": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "雙引擎發": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "財經皓角": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "葛林斯潘": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "跌千點": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "盤重挫": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "急殺": {
+    "last_seen": "2026-07-02",
+    "total_count": 22,
+    "days_seen": 2
+  },
+  "槓桿": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
     "days_seen": 1
   },
   "挫逾": {
@@ -334,22 +734,72 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "引爆": {
+  "SK": {
+    "last_seen": "2026-06-30",
+    "total_count": 24,
+    "days_seen": 2
+  },
+  "跌逾千點": {
     "last_seen": "2026-06-24",
-    "total_count": 14,
+    "total_count": 12,
     "days_seen": 1
   },
-  "全面": {
+  "最慘": {
     "last_seen": "2026-06-24",
-    "total_count": 14,
+    "total_count": 12,
     "days_seen": 1
+  },
+  "單日": {
+    "last_seen": "2026-06-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "真正": {
+    "last_seen": "2026-07-05",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "臺灣": {
+    "last_seen": "2026-06-27",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "個月": {
+    "last_seen": "2026-06-29",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "金轉": {
+    "last_seen": "2026-06-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "概念股逆勢": {
+    "last_seen": "2026-06-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "史上最大": {
+    "last_seen": "2026-06-25",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "支撐": {
+    "last_seen": "2026-06-29",
+    "total_count": 26,
+    "days_seen": 2
+  },
+  "走高": {
+    "last_seen": "2026-06-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "研發": {
+    "last_seen": "2026-06-30",
+    "total_count": 18,
+    "days_seen": 2
   },
   "最大": {
-    "last_seen": "2026-06-25",
-    "total_count": 28,
-    "days_seen": 1
-  },
-  "人才": {
     "last_seen": "2026-06-25",
     "total_count": 28,
     "days_seen": 1
@@ -384,6 +834,91 @@
     "total_count": 12,
     "days_seen": 1
   },
+  "盤後大漲": {
+    "last_seen": "2026-06-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "航空產業": {
+    "last_seen": "2026-06-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股走勢": {
+    "last_seen": "2026-06-29",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "財測": {
+    "last_seen": "2026-06-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "研究": {
+    "last_seen": "2026-07-01",
+    "total_count": 26,
+    "days_seen": 3
+  },
+  "價飆": {
+    "last_seen": "2026-06-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "智邦": {
+    "last_seen": "2026-06-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "ABF": {
+    "last_seen": "2026-06-30",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "概念股盤中": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "盤後飆": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "力積電": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "日股收": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "慘遭": {
+    "last_seen": "2026-06-26",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "出貨": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "背後": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "展望": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "產品": {
+    "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
   "領跌": {
     "last_seen": "2026-06-26",
     "total_count": 26,
@@ -414,24 +949,79 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "操作": {
+  "逾千": {
     "last_seen": "2026-06-26",
     "total_count": 14,
     "days_seen": 1
   },
-  "進場": {
-    "last_seen": "2026-06-27",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "科技股拋售": {
-    "last_seen": "2026-06-27",
+  "影響": {
+    "last_seen": "2026-06-26",
     "total_count": 14,
     "days_seen": 1
   },
-  "鴻海": {
-    "last_seen": "2026-06-27",
+  "成本": {
+    "last_seen": "2026-06-26",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "解析": {
+    "last_seen": "2026-06-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "下殺": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "重摔": {
+    "last_seen": "2026-06-28",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "延後": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "罕見": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "跌幅": {
+    "last_seen": "2026-07-02",
+    "total_count": 28,
+    "days_seen": 3
+  },
+  "衝擊": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "食品": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "機械": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "PCE": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "TradingView": {
+    "last_seen": "2026-06-26",
+    "total_count": 11,
+    "days_seen": 1
+  },
+  "產業交流": {
+    "last_seen": "2026-06-26",
+    "total_count": 10,
     "days_seen": 1
   },
   "科技股拋售潮": {
@@ -474,11 +1064,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "跌幅": {
-    "last_seen": "2026-06-27",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "自己": {
     "last_seen": "2026-06-27",
     "total_count": 8,
@@ -494,6 +1079,21 @@
     "total_count": 8,
     "days_seen": 1
   },
+  "板塊": {
+    "last_seen": "2026-07-01",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "醫療": {
+    "last_seen": "2026-06-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "AA+": {
+    "last_seen": "2026-06-29",
+    "total_count": 16,
+    "days_seen": 2
+  },
   "跌逾": {
     "last_seen": "2026-06-28",
     "total_count": 12,
@@ -504,27 +1104,7 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "第三": {
-    "last_seen": "2026-06-28",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "散戶": {
-    "last_seen": "2026-06-28",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "韌性": {
-    "last_seen": "2026-06-28",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "單周": {
-    "last_seen": "2026-06-28",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "重摔": {
     "last_seen": "2026-06-28",
     "total_count": 8,
     "days_seen": 1
@@ -532,11 +1112,6 @@
   "PMI": {
     "last_seen": "2026-06-28",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "支撐": {
-    "last_seen": "2026-06-29",
-    "total_count": 16,
     "days_seen": 1
   },
   "反攻": {
@@ -564,6 +1139,46 @@
     "total_count": 10,
     "days_seen": 1
   },
+  "集體": {
+    "last_seen": "2026-06-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "費半重挫": {
+    "last_seen": "2026-06-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "上調": {
+    "last_seen": "2026-06-30",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "長線": {
+    "last_seen": "2026-06-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "大戶": {
+    "last_seen": "2026-06-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "存儲": {
+    "last_seen": "2026-06-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "維持": {
+    "last_seen": "2026-06-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "OpenAI": {
+    "last_seen": "2026-06-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
   "科技股反彈": {
     "last_seen": "2026-06-30",
     "total_count": 16,
@@ -574,25 +1189,85 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "股全面": {
-    "last_seen": "2026-06-30",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "台指期夜盤": {
-    "last_seen": "2026-06-30",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "資金輪動": {
     "last_seen": "2026-06-30",
     "total_count": 12,
     "days_seen": 1
   },
-  "走勢丨": {
+  "法說會": {
     "last_seen": "2026-06-30",
-    "total_count": 12,
+    "total_count": 10,
     "days_seen": 1
+  },
+  "龍頭": {
+    "last_seen": "2026-06-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "紅燈": {
+    "last_seen": "2026-06-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "通訊": {
+    "last_seen": "2026-06-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "公告": {
+    "last_seen": "2026-06-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "美股三大指數": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "投資人": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "創史上": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "半年結": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "單季": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "南電": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "海外": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "結盟": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "吸金": {
+    "last_seen": "2026-06-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "推動": {
+    "last_seen": "2026-07-04",
+    "total_count": 16,
+    "days_seen": 2
   },
   "時間": {
     "last_seen": "2026-07-01",
@@ -609,11 +1284,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "第二": {
-    "last_seen": "2026-07-01",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "信心": {
     "last_seen": "2026-07-01",
     "total_count": 14,
@@ -622,6 +1292,11 @@
   "延長交易": {
     "last_seen": "2026-07-01",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "MoneyDJ": {
+    "last_seen": "2026-07-01",
+    "total_count": 11,
     "days_seen": 1
   },
   "股上半年": {
@@ -644,19 +1319,69 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "電子股": {
+  "大摩": {
     "last_seen": "2026-07-01",
     "total_count": 10,
     "days_seen": 1
   },
-  "趨勢": {
-    "last_seen": "2026-07-02",
-    "total_count": 16,
+  "出口": {
+    "last_seen": "2026-07-01",
+    "total_count": 10,
     "days_seen": 1
   },
-  "點火": {
+  "科技股領軍": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "林修銘": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "研議": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "神山": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "帶頭": {
     "last_seen": "2026-07-02",
-    "total_count": 16,
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "白銀": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "季度": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "紀錄": {
+    "last_seen": "2026-07-03",
+    "total_count": 22,
+    "days_seen": 2
+  },
+  "油價": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "回升": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "部署": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
     "days_seen": 1
   },
   "智慧產業學院": {
@@ -669,24 +1394,74 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "收斂": {
-    "last_seen": "2026-07-02",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "急殺": {
-    "last_seen": "2026-07-02",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "華爾街": {
     "last_seen": "2026-07-02",
     "total_count": 12,
     "days_seen": 1
   },
-  "壓力": {
+  "機器人概念股": {
     "last_seen": "2026-07-03",
     "total_count": 22,
+    "days_seen": 2
+  },
+  "無人機產業": {
+    "last_seen": "2026-07-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "科技股走": {
+    "last_seen": "2026-07-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "即將": {
+    "last_seen": "2026-07-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "雲端": {
+    "last_seen": "2026-07-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "竹苗": {
+    "last_seen": "2026-07-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "汽車": {
+    "last_seen": "2026-07-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "急拉": {
+    "last_seen": "2026-07-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "模式": {
+    "last_seen": "2026-07-03",
+    "total_count": 20,
+    "days_seen": 2
+  },
+  "不怕": {
+    "last_seen": "2026-07-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "這樣": {
+    "last_seen": "2026-07-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "血洗": {
+    "last_seen": "2026-07-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "成為": {
+    "last_seen": "2026-07-02",
+    "total_count": 8,
     "days_seen": 1
   },
   "服務": {
@@ -699,22 +1474,7 @@
     "total_count": 17,
     "days_seen": 1
   },
-  "日經指數": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "傳產": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "塑化": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "面臨": {
     "last_seen": "2026-07-03",
     "total_count": 16,
     "days_seen": 1
@@ -734,17 +1494,72 @@
     "total_count": 14,
     "days_seen": 1
   },
+  "證券": {
+    "last_seen": "2026-07-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "員工": {
+    "last_seen": "2026-07-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "US": {
+    "last_seen": "2026-07-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "逆轉": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "累計": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "發威": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "能源": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "升級": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "計劃": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "無人機概念股": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "疲弱": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "爆冷": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
   "群創": {
     "last_seen": "2026-07-04",
     "total_count": 16,
     "days_seen": 1
   },
   "預估": {
-    "last_seen": "2026-07-04",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "關注": {
     "last_seen": "2026-07-04",
     "total_count": 14,
     "days_seen": 1
@@ -784,9 +1599,49 @@
     "total_count": 10,
     "days_seen": 1
   },
+  "IPO": {
+    "last_seen": "2026-07-04",
+    "total_count": 10,
+    "days_seen": 1
+  },
   "今年來": {
     "last_seen": "2026-07-04",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "還有": {
+    "last_seen": "2026-07-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "多空": {
+    "last_seen": "2026-07-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "年增": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "擴產": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "社區": {
+    "last_seen": "2026-07-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "力挺": {
+    "last_seen": "2026-07-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "算力": {
+    "last_seen": "2026-07-05",
+    "total_count": 16,
     "days_seen": 1
   },
   "來最": {
@@ -804,12 +1659,12 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "千金": {
+  "黃金": {
     "last_seen": "2026-07-05",
     "total_count": 10,
     "days_seen": 1
   },
-  "半導體產業": {
+  "功率半導體": {
     "last_seen": "2026-07-05",
     "total_count": 8,
     "days_seen": 1
@@ -819,17 +1674,7 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "先進製程": {
-    "last_seen": "2026-07-05",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "股基金": {
-    "last_seen": "2026-07-05",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "投資人": {
     "last_seen": "2026-07-05",
     "total_count": 8,
     "days_seen": 1
@@ -849,297 +1694,7 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "回補": {
-    "last_seen": "2026-06-18",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "玻璃": {
-    "last_seen": "2026-06-20",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "多頭": {
-    "last_seen": "2026-06-20",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "再創": {
-    "last_seen": "2026-06-22",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "最高": {
-    "last_seen": "2026-06-21",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "聯準會": {
-    "last_seen": "2026-06-22",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "未來": {
-    "last_seen": "2026-07-05",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "理財": {
-    "last_seen": "2026-07-01",
-    "total_count": 26,
-    "days_seen": 2
-  },
-  "油價": {
-    "last_seen": "2026-06-24",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "作者": {
-    "last_seen": "2026-07-02",
-    "total_count": 28,
-    "days_seen": 2
-  },
-  "上市": {
-    "last_seen": "2026-06-27",
-    "total_count": 22,
-    "days_seen": 1
-  },
-  "加碼": {
-    "last_seen": "2026-07-02",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "韓國": {
-    "last_seen": "2026-06-27",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "金融股": {
-    "last_seen": "2026-06-27",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "漲價": {
-    "last_seen": "2026-06-27",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "為何": {
-    "last_seen": "2026-07-04",
-    "total_count": 22,
-    "days_seen": 2
-  },
-  "股重挫": {
-    "last_seen": "2026-06-28",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "股賣壓": {
-    "last_seen": "2026-06-28",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "月線": {
-    "last_seen": "2026-06-29",
-    "total_count": 22,
-    "days_seen": 1
-  },
-  "卡位": {
-    "last_seen": "2026-06-29",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "亮燈": {
-    "last_seen": "2026-06-29",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "拋售": {
-    "last_seen": "2026-07-02",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "爆量": {
-    "last_seen": "2026-06-29",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "商機": {
-    "last_seen": "2026-06-29",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "修正": {
-    "last_seen": "2026-06-29",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "登場": {
-    "last_seen": "2026-06-30",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "帶動": {
-    "last_seen": "2026-06-30",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "台股收": {
-    "last_seen": "2026-06-30",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "領漲": {
-    "last_seen": "2026-07-01",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "爆發": {
-    "last_seen": "2026-07-01",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "MoneyDJ": {
-    "last_seen": "2026-07-01",
-    "total_count": 11,
-    "days_seen": 1
-  },
-  "狂掃": {
-    "last_seen": "2026-07-01",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "買超": {
-    "last_seen": "2026-07-02",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "倒貨": {
-    "last_seen": "2026-07-02",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "培育": {
-    "last_seen": "2026-07-02",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "延長": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "本周": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "外資狂": {
-    "last_seen": "2026-07-04",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "專家": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "就業": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "IPO": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "降溫": {
-    "last_seen": "2026-07-05",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "非農": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "主動": {
-    "last_seen": "2026-07-05",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "上半年": {
-    "last_seen": "2026-07-05",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "今年": {
-    "last_seen": "2026-07-04",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "下一": {
-    "last_seen": "2026-07-04",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "晶片股": {
-    "last_seen": "2026-07-04",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "領軍": {
-    "last_seen": "2026-07-04",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "有望": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "狂飆": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "提款": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "聚焦": {
-    "last_seen": "2026-07-05",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "股震盪": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "算力": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "預期": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "南亞": {
-    "last_seen": "2026-07-05",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "巨頭": {
-    "last_seen": "2026-07-05",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "功率半導體": {
+  "雙虎": {
     "last_seen": "2026-07-05",
     "total_count": 8,
     "days_seen": 1
