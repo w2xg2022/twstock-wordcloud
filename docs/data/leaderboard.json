@@ -1,40 +1,54 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "items": [
     {
       "rank": 1,
-      "word": "SpaceX",
-      "count": 5,
-      "change": 1,
-      "days_on_chart": 5
-    },
-    {
-      "rank": 2,
       "word": "無人機",
-      "count": 2,
+      "count": 3,
       "change": 1,
-      "days_on_chart": 3
-    },
-    {
-      "rank": 3,
-      "word": "Fed",
-      "count": 2,
-      "change": -2,
       "days_on_chart": 4
     },
     {
+      "rank": 2,
+      "word": "IC載板",
+      "count": 1,
+      "change": "首次入榜",
+      "days_on_chart": 1
+    },
+    {
+      "rank": 3,
+      "word": "HBM",
+      "count": 1,
+      "change": "首次入榜",
+      "days_on_chart": 1
+    },
+    {
       "rank": 4,
-      "word": "AI晶片",
+      "word": "DRAM",
       "count": 1,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
       "rank": 5,
-      "word": "氫能",
+      "word": "軍工",
       "count": 1,
       "change": "首次入榜",
       "days_on_chart": 1
+    },
+    {
+      "rank": 6,
+      "word": "SpaceX",
+      "count": 1,
+      "change": -5,
+      "days_on_chart": 6
+    },
+    {
+      "rank": 7,
+      "word": "Fed",
+      "count": 1,
+      "change": -4,
+      "days_on_chart": 5
     }
   ]
 }
