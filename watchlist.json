@@ -195,9 +195,9 @@
     "days_seen": 1
   },
   "發展": {
-    "last_seen": "2026-06-18",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-06-24",
+    "total_count": 18,
+    "days_seen": 2
   },
   "復甦": {
     "last_seen": "2026-06-18",
@@ -240,9 +240,9 @@
     "days_seen": 1
   },
   "暴跌": {
-    "last_seen": "2026-06-23",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-06-24",
+    "total_count": 20,
+    "days_seen": 2
   },
   "原因": {
     "last_seen": "2026-06-23",
@@ -261,6 +261,51 @@
   },
   "兩大": {
     "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "美光財報": {
+    "last_seen": "2026-06-24",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "創新": {
+    "last_seen": "2026-06-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "拋售": {
+    "last_seen": "2026-06-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "臺灣": {
+    "last_seen": "2026-06-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股開盤": {
+    "last_seen": "2026-06-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "黃金": {
+    "last_seen": "2026-06-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "史上": {
+    "last_seen": "2026-06-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "新能": {
+    "last_seen": "2026-06-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "文化": {
+    "last_seen": "2026-06-24",
     "total_count": 8,
     "days_seen": 1
   }
