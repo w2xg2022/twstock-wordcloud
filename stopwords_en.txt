@@ -94,3 +94,8 @@ twa00
 ai
 etf
 adr
+meta
+iphone
+online
+tw
+cna

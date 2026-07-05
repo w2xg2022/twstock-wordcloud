@@ -12,7 +12,7 @@
       "rank": 2,
       "word": "機器人",
       "count": 75,
-      "change": 2,
+      "change": 3,
       "days_on_chart": 8
     },
     {
@@ -24,192 +24,192 @@
     },
     {
       "rank": 4,
+      "word": "記憶體",
+      "count": 45,
+      "change": -1,
+      "days_on_chart": 9
+    },
+    {
+      "rank": 5,
       "word": "DRAM",
       "count": 38,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "word": "太陽能",
       "count": 25,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "word": "軍工",
       "count": 22,
       "change": -3,
       "days_on_chart": 4
     },
     {
-      "rank": 7,
+      "rank": 8,
       "word": "人形機器人",
       "count": 22,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "word": "AI晶片",
       "count": 21,
       "change": "重新入榜",
       "days_on_chart": 6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "word": "生技",
       "count": 21,
-      "change": -7,
+      "change": -8,
       "days_on_chart": 10
     },
     {
-      "rank": 10,
+      "rank": 11,
       "word": "資料中心",
       "count": 18,
       "change": "重新入榜",
       "days_on_chart": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "word": "電網",
       "count": 17,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "word": "先進封裝",
       "count": 15,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "word": "IC載板",
       "count": 15,
       "change": "重新入榜",
       "days_on_chart": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "word": "面板",
       "count": 15,
       "change": "重新入榜",
       "days_on_chart": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "word": "AI伺服器",
       "count": 14,
       "change": "重新入榜",
       "days_on_chart": 3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "word": "散熱",
       "count": 14,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "word": "晶圓代工",
       "count": 12,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "word": "星鏈",
       "count": 12,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "word": "新藥",
       "count": 12,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "word": "光通訊",
       "count": 11,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "word": "被動元件",
       "count": 11,
       "change": "重新入榜",
       "days_on_chart": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "word": "離岸風電",
       "count": 10,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "word": "玻璃基板",
       "count": 9,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "word": "ASIC",
       "count": 9,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "word": "低軌道衛星",
       "count": 9,
       "change": "重新入榜",
       "days_on_chart": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
       "word": "交換器",
       "count": 9,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "word": "PCB",
       "count": 9,
       "change": "重新入榜",
       "days_on_chart": 4
     },
     {
-      "rank": 28,
+      "rank": 29,
       "word": "5G",
       "count": 8,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "word": "生成式AI",
       "count": 7,
       "change": -24,
       "days_on_chart": 2
-    },
-    {
-      "rank": 30,
-      "word": "HBM",
-      "count": 7,
-      "change": -24,
-      "days_on_chart": 3
     }
   ]
 }
