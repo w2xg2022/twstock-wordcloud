@@ -129,11 +129,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "英特爾": {
-    "last_seen": "2026-06-18",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "風險": {
     "last_seen": "2026-07-02",
     "total_count": 18,
@@ -189,17 +184,7 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "合作": {
-    "last_seen": "2026-06-22",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "賣壓": {
-    "last_seen": "2026-06-23",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "晶片": {
     "last_seen": "2026-06-23",
     "total_count": 16,
     "days_seen": 1
@@ -359,11 +344,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "技術": {
-    "last_seen": "2026-07-03",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "費半": {
     "last_seen": "2026-06-27",
     "total_count": 12,
@@ -373,16 +353,6 @@
     "last_seen": "2026-06-27",
     "total_count": 10,
     "days_seen": 1
-  },
-  "台積電": {
-    "last_seen": "2026-06-29",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "半導體": {
-    "last_seen": "2026-07-03",
-    "total_count": 20,
-    "days_seen": 2
   },
   "大指數": {
     "last_seen": "2026-06-30",
@@ -395,11 +365,6 @@
     "days_seen": 1
   },
   "尾盤": {
-    "last_seen": "2026-06-30",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "看好": {
     "last_seen": "2026-06-30",
     "total_count": 10,
     "days_seen": 1
@@ -434,19 +399,9 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "Meta": {
-    "last_seen": "2026-07-02",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "智慧產業學院": {
     "last_seen": "2026-07-02",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "記憶體": {
-    "last_seen": "2026-07-02",
-    "total_count": 12,
     "days_seen": 1
   },
   "竹苗": {
@@ -457,11 +412,6 @@
   "培育": {
     "last_seen": "2026-07-02",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "翻紅": {
-    "last_seen": "2026-07-03",
-    "total_count": 20,
     "days_seen": 1
   },
   "非農": {

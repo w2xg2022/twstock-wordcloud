@@ -24,16 +24,16 @@
     "total_count": 34
   },
   "半導體": {
-    "first_promoted": "2026-06-27",
-    "total_count": 34
+    "first_promoted": "2026-07-04",
+    "total_count": 86
   },
   "道瓊": {
     "first_promoted": "2026-06-30",
     "total_count": 52
   },
   "發展": {
-    "first_promoted": "2026-06-30",
-    "total_count": 38
+    "first_promoted": "2026-07-04",
+    "total_count": 35
   },
   "攜手": {
     "first_promoted": "2026-07-02",
@@ -46,5 +46,117 @@
   "tw": {
     "first_promoted": "2026-07-03",
     "total_count": 36
+  },
+  "台積電": {
+    "first_promoted": "2026-07-04",
+    "total_count": 157
+  },
+  "晶片": {
+    "first_promoted": "2026-07-04",
+    "total_count": 134
+  },
+  "三星": {
+    "first_promoted": "2026-07-04",
+    "total_count": 110
+  },
+  "記憶體": {
+    "first_promoted": "2026-07-04",
+    "total_count": 104
+  },
+  "封裝": {
+    "first_promoted": "2026-07-04",
+    "total_count": 47
+  },
+  "川普": {
+    "first_promoted": "2026-07-04",
+    "total_count": 46
+  },
+  "供應鏈": {
+    "first_promoted": "2026-07-04",
+    "total_count": 45
+  },
+  "輝達": {
+    "first_promoted": "2026-07-04",
+    "total_count": 45
+  },
+  "蘋果": {
+    "first_promoted": "2026-07-04",
+    "total_count": 45
+  },
+  "英特爾": {
+    "first_promoted": "2026-07-04",
+    "total_count": 52
+  },
+  "晶圓": {
+    "first_promoted": "2026-07-04",
+    "total_count": 41
+  },
+  "衛星": {
+    "first_promoted": "2026-07-04",
+    "total_count": 39
+  },
+  "Meta": {
+    "first_promoted": "2026-07-04",
+    "total_count": 57
+  },
+  "屋頂": {
+    "first_promoted": "2026-07-04",
+    "total_count": 38
+  },
+  "黃仁勳": {
+    "first_promoted": "2026-07-04",
+    "total_count": 35
+  },
+  "Online": {
+    "first_promoted": "2026-07-04",
+    "total_count": 35
+  },
+  "無人機條例": {
+    "first_promoted": "2026-07-04",
+    "total_count": 34
+  },
+  "市值": {
+    "first_promoted": "2026-07-04",
+    "total_count": 33
+  },
+  "太陽能板": {
+    "first_promoted": "2026-07-04",
+    "total_count": 32
+  },
+  "轉向": {
+    "first_promoted": "2026-07-04",
+    "total_count": 32
+  },
+  "元件": {
+    "first_promoted": "2026-07-04",
+    "total_count": 32
+  },
+  "技術": {
+    "first_promoted": "2026-07-04",
+    "total_count": 51
+  },
+  "看好": {
+    "first_promoted": "2026-07-04",
+    "total_count": 41
+  },
+  "合作": {
+    "first_promoted": "2026-07-04",
+    "total_count": 39
+  },
+  "挑戰": {
+    "first_promoted": "2026-07-04",
+    "total_count": 31
+  },
+  "iPhone": {
+    "first_promoted": "2026-07-04",
+    "total_count": 31
+  },
+  "漲幅": {
+    "first_promoted": "2026-07-04",
+    "total_count": 30
+  },
+  "翻紅": {
+    "first_promoted": "2026-07-04",
+    "total_count": 50
   }
 }
