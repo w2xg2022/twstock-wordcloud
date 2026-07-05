@@ -3,108 +3,157 @@
   "items": [
     {
       "rank": 1,
-      "word": "無人機",
-      "count": 7,
+      "word": "記憶體",
+      "count": 12,
       "change": 0,
-      "days_on_chart": 14
+      "days_on_chart": 15
     },
     {
       "rank": 2,
-      "word": "機器人",
-      "count": 3,
-      "change": 0,
-      "days_on_chart": 9
+      "word": "無人機",
+      "count": 8,
+      "change": 3,
+      "days_on_chart": 14
     },
     {
       "rank": 3,
-      "word": "記憶體",
-      "count": 2,
-      "change": 1,
+      "word": "AI晶片",
+      "count": 3,
+      "change": 4,
       "days_on_chart": 10
     },
     {
       "rank": 4,
-      "word": "被動元件",
+      "word": "先進封裝",
       "count": 2,
-      "change": 18,
-      "days_on_chart": 4
+      "change": 7,
+      "days_on_chart": 14
     },
     {
       "rank": 5,
-      "word": "高股息ETF",
+      "word": "IC載板",
       "count": 2,
+      "change": 7,
+      "days_on_chart": 11
+    },
+    {
+      "rank": 6,
+      "word": "機器人",
+      "count": 2,
+      "change": -4,
+      "days_on_chart": 13
+    },
+    {
+      "rank": 7,
+      "word": "人形機器人",
+      "count": 2,
+      "change": -1,
+      "days_on_chart": 7
+    },
+    {
+      "rank": 8,
+      "word": "太陽能",
+      "count": 2,
+      "change": 11,
+      "days_on_chart": 4
+    },
+    {
+      "rank": 9,
+      "word": "資料中心",
+      "count": 2,
+      "change": "重新入榜",
+      "days_on_chart": 10
+    },
+    {
+      "rank": 10,
+      "word": "面板",
+      "count": 2,
+      "change": 14,
+      "days_on_chart": 13
+    },
+    {
+      "rank": 11,
+      "word": "Fed",
+      "count": 2,
+      "change": 14,
+      "days_on_chart": 12
+    },
+    {
+      "rank": 12,
+      "word": "ABF載板",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 3
+    },
+    {
+      "rank": 13,
+      "word": "晶圓代工",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 9
+    },
+    {
+      "rank": 14,
+      "word": "矽光子",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 3
+    },
+    {
+      "rank": 15,
+      "word": "AI伺服器",
+      "count": 1,
+      "change": -2,
+      "days_on_chart": 11
+    },
+    {
+      "rank": 16,
+      "word": "ASIC",
+      "count": 1,
+      "change": -2,
+      "days_on_chart": 10
+    },
+    {
+      "rank": 17,
+      "word": "軍工",
+      "count": 1,
+      "change": -14,
+      "days_on_chart": 9
+    },
+    {
+      "rank": 18,
+      "word": "電動車",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 5
+    },
+    {
+      "rank": 19,
+      "word": "自動駕駛",
+      "count": 1,
+      "change": -1,
+      "days_on_chart": 2
+    },
+    {
+      "rank": 20,
+      "word": "生技",
+      "count": 1,
+      "change": -16,
+      "days_on_chart": 12
+    },
+    {
+      "rank": 21,
+      "word": "精準醫療",
+      "count": 1,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 6,
-      "word": "ABF載板",
+      "rank": 22,
+      "word": "被動元件",
       "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 7,
-      "word": "玻璃基板",
-      "count": 1,
-      "change": 17,
-      "days_on_chart": 3
-    },
-    {
-      "rank": 8,
-      "word": "IC載板",
-      "count": 1,
-      "change": 6,
-      "days_on_chart": 5
-    },
-    {
-      "rank": 9,
-      "word": "AI晶片",
-      "count": 1,
-      "change": 0,
-      "days_on_chart": 7
-    },
-    {
-      "rank": 10,
-      "word": "HBM",
-      "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 11,
-      "word": "電動車",
-      "count": 1,
-      "change": -8,
-      "days_on_chart": 3
-    },
-    {
-      "rank": 12,
-      "word": "人形機器人",
-      "count": 1,
-      "change": -4,
-      "days_on_chart": 2
-    },
-    {
-      "rank": 13,
-      "word": "資料中心",
-      "count": 1,
-      "change": -2,
-      "days_on_chart": 5
-    },
-    {
-      "rank": 14,
-      "word": "精準醫療",
-      "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 2
-    },
-    {
-      "rank": 15,
-      "word": "Fed",
-      "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 4
+      "change": -14,
+      "days_on_chart": 11
     }
   ]
 }
