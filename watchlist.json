@@ -15,19 +15,14 @@
     "days_seen": 1
   },
   "股早盤": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-06-30",
+    "total_count": 16,
+    "days_seen": 2
   },
   "多頭": {
     "last_seen": "2026-06-16",
     "total_count": 8,
     "days_seen": 1
-  },
-  "道瓊": {
-    "last_seen": "2026-06-18",
-    "total_count": 28,
-    "days_seen": 2
   },
   "早盤": {
     "last_seen": "2026-06-23",
@@ -80,9 +75,9 @@
     "days_seen": 2
   },
   "tw": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-06-30",
+    "total_count": 17,
+    "days_seen": 2
   },
   "創新高": {
     "last_seen": "2026-06-21",
@@ -183,11 +178,6 @@
     "last_seen": "2026-06-18",
     "total_count": 8,
     "days_seen": 1
-  },
-  "發展": {
-    "last_seen": "2026-06-25",
-    "total_count": 28,
-    "days_seen": 3
   },
   "復甦": {
     "last_seen": "2026-06-18",
@@ -402,6 +392,31 @@
   "台積電": {
     "last_seen": "2026-06-29",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "半導體": {
+    "last_seen": "2026-06-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "大指數": {
+    "last_seen": "2026-06-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "專家": {
+    "last_seen": "2026-06-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "尾盤": {
+    "last_seen": "2026-06-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "看好": {
+    "last_seen": "2026-06-30",
+    "total_count": 10,
     "days_seen": 1
   }
 }

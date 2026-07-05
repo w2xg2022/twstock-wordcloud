@@ -26,5 +26,13 @@
   "半導體": {
     "first_promoted": "2026-06-27",
     "total_count": 34
+  },
+  "道瓊": {
+    "first_promoted": "2026-06-30",
+    "total_count": 52
+  },
+  "發展": {
+    "first_promoted": "2026-06-30",
+    "total_count": 38
   }
 }
