@@ -1,33 +1,54 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "items": [
     {
       "rank": 1,
       "word": "無人機",
       "count": 3,
       "change": 0,
-      "days_on_chart": 5
+      "days_on_chart": 6
     },
     {
       "rank": 2,
-      "word": "機器人",
+      "word": "SpaceX",
+      "count": 2,
+      "change": "重新入榜",
+      "days_on_chart": 7
+    },
+    {
+      "rank": 3,
+      "word": "ASIC",
       "count": 1,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
-      "rank": 3,
-      "word": "電網",
+      "rank": 4,
+      "word": "太空產業",
       "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 2
+      "change": "首次入榜",
+      "days_on_chart": 1
     },
     {
-      "rank": 4,
-      "word": "PCB",
+      "rank": 5,
+      "word": "生技",
       "count": 1,
       "change": "重新入榜",
       "days_on_chart": 3
+    },
+    {
+      "rank": 6,
+      "word": "被動元件",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 4
+    },
+    {
+      "rank": 7,
+      "word": "Fed",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 6
     }
   ]
 }
