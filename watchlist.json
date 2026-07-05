@@ -95,9 +95,9 @@
     "days_seen": 1
   },
   "創新高": {
-    "last_seen": "2026-06-18",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-06-21",
+    "total_count": 26,
+    "days_seen": 2
   },
   "升息": {
     "last_seen": "2026-06-18",
@@ -211,6 +211,11 @@
   },
   "無人": {
     "last_seen": "2026-06-19",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "半導體": {
+    "last_seen": "2026-06-21",
     "total_count": 8,
     "days_seen": 1
   }
