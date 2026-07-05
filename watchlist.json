@@ -1,9 +1,4 @@
 {
-  "協議": {
-    "last_seen": "2026-06-15",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "油價": {
     "last_seen": "2026-06-15",
     "total_count": 20,
@@ -15,9 +10,9 @@
     "days_seen": 1
   },
   "夜盤": {
-    "last_seen": "2026-06-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-06-18",
+    "total_count": 24,
+    "days_seen": 2
   },
   "力行產業道路": {
     "last_seen": "2026-06-15",
@@ -40,9 +35,9 @@
     "days_seen": 1
   },
   "道瓊": {
-    "last_seen": "2026-06-17",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-06-18",
+    "total_count": 28,
+    "days_seen": 2
   },
   "早盤": {
     "last_seen": "2026-06-17",
@@ -90,12 +85,122 @@
     "days_seen": 1
   },
   "族群": {
+    "last_seen": "2026-06-18",
+    "total_count": 28,
+    "days_seen": 2
+  },
+  "tw": {
     "last_seen": "2026-06-17",
     "total_count": 8,
     "days_seen": 1
   },
-  "tw": {
-    "last_seen": "2026-06-17",
+  "創新高": {
+    "last_seen": "2026-06-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "升息": {
+    "last_seen": "2026-06-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "產業鏈": {
+    "last_seen": "2026-06-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "端午": {
+    "last_seen": "2026-06-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "國防": {
+    "last_seen": "2026-06-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "利率": {
+    "last_seen": "2026-06-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "總統": {
+    "last_seen": "2026-06-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "成果": {
+    "last_seen": "2026-06-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "帶動": {
+    "last_seen": "2026-06-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "CNA": {
+    "last_seen": "2026-06-18",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "股盤中": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "競爭力": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "英特爾": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "風險": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "領軍": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "強勢": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "爆量": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "成長": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "歐洲": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "加速": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "發展": {
+    "last_seen": "2026-06-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "復甦": {
+    "last_seen": "2026-06-18",
     "total_count": 8,
     "days_seen": 1
   }
