@@ -37,7 +37,13 @@ DIRECT_FEEDS = [
 
 # 回溯模式：只有「關鍵字搜尋」支援 after:/before: 日期範圍語法，
 # 主題頻道(BUSINESS/TECHNOLOGY)和Yahoo股市官方RSS都只給「當下最新」沒有歷史資料，回溯時無法使用。
-BACKFILL_KEYWORDS = ["台股", "美股", "產業"]
+# 回溯模式靠關鍵字搜尋涵蓋(每組上限100則,再依發布時間精篩)，多組不同面向的關鍵字
+# 才能把覆蓋率拉近即時模式。用去重合併，重疊沒關係。
+BACKFILL_KEYWORDS = [
+    "台股", "美股", "台積電", "半導體", "科技股", "AI",
+    "產業", "財經", "盤後", "外資", "電子股", "概念股",
+    "日股", "陸股", "港股", "美國經濟",
+]
 GNEWS_SEARCH_RANGE = "https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
 
 
