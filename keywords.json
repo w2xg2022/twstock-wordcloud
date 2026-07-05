@@ -748,6 +748,12 @@
       "synonyms": [
         "法說"
       ]
+    },
+    {
+      "name": "CoPoS",
+      "synonyms": [
+        "CoPoS"
+      ]
     }
   ]
 }
