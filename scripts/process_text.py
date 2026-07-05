@@ -21,10 +21,11 @@ PENDING_KEYWORDS_PATH = ROOT / "pending_keywords.json"
 TREND_DAYS = 15
 LEADERBOARD_TOP_N = 30
 
-# 候選新題材：連續達標天數門檻(進審核清單)、每日最少出現次數、每天最多留幾個候選(避免watchlist失控膨脹)
+# 候選新題材：每日最少出現次數、每天最多留幾個候選(避免watchlist失控膨脹)、
+# 累計聲量達門檻(不用連續天數，斷過也算)才送審——門檻參考當日熱詞排行榜第30名的量級
 CANDIDATE_MIN_COUNT = 8
 CANDIDATE_TOP_N = 30
-PROMOTE_STREAK = 3
+PROMOTE_COUNT_THRESHOLD = 30
 
 CJK_RE = re.compile(r"[一-鿿]+")
 LATIN_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9+\-]{1,14}")
@@ -199,24 +200,20 @@ def discover_candidates(news: list[dict], stopwords_zh: set[str], stopwords_en: 
 
 
 def update_watchlist(target_date: str, candidates: Counter):
+    """累計聲量達門檻就送審，不要求連續天數——斷過幾天也算數，只看總量。"""
     watchlist = json.loads(WATCHLIST_PATH.read_text(encoding="utf-8")) if WATCHLIST_PATH.exists() else {}
 
-    promoted = []
+    promoted = {}
     for word, count in candidates.items():
-        entry = watchlist.get(word, {"streak": 0, "last_seen": None, "total_count": 0})
+        entry = watchlist.get(word, {"last_seen": None, "total_count": 0, "days_seen": 0})
         if entry["last_seen"] == target_date:
             continue  # 同一天重複跑process_text.py時不要重複累加
-        entry["streak"] = entry["streak"] + 1
-        entry["last_seen"] = target_date
         entry["total_count"] = entry.get("total_count", 0) + count
+        entry["days_seen"] = entry.get("days_seen", 0) + 1
+        entry["last_seen"] = target_date
         watchlist[word] = entry
-        if entry["streak"] >= PROMOTE_STREAK:
-            promoted.append(word)
-
-    # 沒在今天候選名單中的詞，streak歸零(必須連續達標才轉正)
-    for word, entry in watchlist.items():
-        if word not in candidates and entry.get("last_seen") != target_date:
-            entry["streak"] = 0
+        if entry["total_count"] >= PROMOTE_COUNT_THRESHOLD:
+            promoted[word] = entry["total_count"]
 
     for word in promoted:
         del watchlist[word]
@@ -229,10 +226,10 @@ def update_watchlist(target_date: str, candidates: Counter):
         # 達標的候選詞不會直接寫入keywords.json，而是進審核清單，
         # 由人工用 scripts/approve_keyword.py 確認是不是真的題材後才正式收錄。
         pending = json.loads(PENDING_KEYWORDS_PATH.read_text(encoding="utf-8")) if PENDING_KEYWORDS_PATH.exists() else {}
-        for word in promoted:
+        for word, total_count in promoted.items():
             pending[word] = {
                 "first_promoted": target_date,
-                "total_count": candidates.get(word, 0),
+                "total_count": total_count,
             }
         PENDING_KEYWORDS_PATH.write_text(
             json.dumps(pending, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -329,6 +326,16 @@ def build_leaderboard(all_dates: list[str], anchor: str):
         ),
         encoding="utf-8",
     )
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    with (OUTPUT_DIR / "leaderboard.csv").open("w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["名次", "熱詞", "當日次數", "漲跌", "近15日入榜天數"])
+        for item in items:
+            writer.writerow([
+                item["rank"], item["word"], item["count"],
+                item["change"], item["days_on_chart"],
+            ])
 
 
 def main():

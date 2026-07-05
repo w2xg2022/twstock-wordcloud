@@ -2,13 +2,9 @@ name: Daily News Wordcloud
 
 on:
   schedule:
-    - cron: "0 1,4,7,10 * * *"  # UTC 1/4/7/10 = 台灣時間 09:00/12:00/15:00/18:00，一天抓4次避免漏新聞
+    - cron: "0 10 * * *"  # UTC 10:00 = 台灣時間 18:00，一天一次
   workflow_dispatch:
     inputs:
-      force_final:
-        description: "強制當作當天最後一次(跑完整統計/產圖/發Release)，方便手動測試"
-        type: boolean
-        default: false
       skip_fetch:
         description: "跳過抓新聞，只用現有資料重新統計/產圖(改了keywords.json或停用詞後手動更新用)"
         type: boolean
@@ -33,42 +29,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Set date and check if final run of the day
+      - name: Set date
         id: meta
-        run: |
-          echo "today=$(date -u +%F)" >> "$GITHUB_OUTPUT"
-          hour=$(date -u +%H)
-          if [ "$hour" = "10" ] || [ "${{ github.event.inputs.force_final }}" = "true" ] || [ "${{ github.event.inputs.skip_fetch }}" = "true" ]; then
-            echo "is_final=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "is_final=false" >> "$GITHUB_OUTPUT"
-          fi
+        run: echo "today=$(date -u +%F)" >> "$GITHUB_OUTPUT"
 
-      - name: Fetch news
+      - name: Fetch news (前一天18:00到今天18:00)
         if: github.event.inputs.skip_fetch != 'true'
-        run: python scripts/fetch_news.py ${{ steps.meta.outputs.today }}
-
-      - name: Commit raw data
-        if: github.event.inputs.skip_fetch != 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "抓取新聞 ${{ steps.meta.outputs.today }} ($(date -u +%H)點UTC)"
-          git push
+        run: python scripts/fetch_news.py ${{ steps.meta.outputs.today }} --backfill
 
       - name: Process text
-        if: steps.meta.outputs.is_final == 'true'
         run: python scripts/process_text.py ${{ steps.meta.outputs.today }}
 
       - name: Generate wordclouds
-        if: steps.meta.outputs.is_final == 'true'
         run: python scripts/generate_wordcloud.py
 
       - name: Package release assets
-        if: steps.meta.outputs.is_final == 'true'
         run: |
           mkdir -p release
+          cp docs/data/leaderboard.json release/leaderboard.json
+          cp output/leaderboard.csv release/leaderboard.csv
           cp data/${{ steps.meta.outputs.today }}.json release/news_${{ steps.meta.outputs.today }}.json
           cp output/wordfreq_3d.csv release/wordfreq_3d.csv
           cp output/wordfreq_7d.csv release/wordfreq_7d.csv
@@ -79,17 +58,15 @@ jobs:
           cp keywords.json release/keywords.json
           cd release && zip -r ../twstock-wordcloud-${{ steps.meta.outputs.today }}.zip .
 
-      - name: Commit processed data
-        if: steps.meta.outputs.is_final == 'true'
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data docs/wordcloud keywords.json watchlist.json pending_keywords.json
+          git add data docs/data docs/wordcloud keywords.json watchlist.json pending_keywords.json
           git diff --cached --quiet || git commit -m "更新每日題材熱度統計 ${{ steps.meta.outputs.today }}"
           git push
 
       - name: Create release
-        if: steps.meta.outputs.is_final == 'true'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.meta.outputs.today }}
