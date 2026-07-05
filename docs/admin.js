@@ -41,8 +41,22 @@ async function ghGetFile(path) {
 }
 
 async function ghPutFile(path, obj, sha, message) {
+  return ghPutRaw(path, JSON.stringify(obj, null, 2) + "\n", sha, message);
+}
+
+async function ghGetText(path) {
   const token = getToken();
-  const content = utf8ToBase64(JSON.stringify(obj, null, 2) + "\n");
+  const res = await fetch(`${API}/${path}`, {
+    headers: { Authorization: `token ${token}`, Accept: "application/vnd.github+json" },
+    cache: "no-store",
+  });
+  if (!res.ok) throw new Error(`讀取 ${path} 失敗 (${res.status})`);
+  const data = await res.json();
+  return { text: base64ToUtf8(data.content), sha: data.sha };
+}
+
+async function ghPutRaw(path, text, sha, message) {
+  const token = getToken();
   const res = await fetch(`${API}/${path}`, {
     method: "PUT",
     headers: {
@@ -50,13 +64,25 @@ async function ghPutFile(path, obj, sha, message) {
       Accept: "application/vnd.github+json",
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({ message, content, sha }),
+    body: JSON.stringify({ message, content: utf8ToBase64(text), sha }),
   });
   if (!res.ok) {
     const detail = await res.text();
     throw new Error(`寫入 ${path} 失敗 (${res.status}): ${detail}`);
   }
   return res.json();
+}
+
+// 依是否含中日韓字元決定加到中文或英文停用詞
+async function addStopword(word) {
+  const isCjk = [...word].some((c) => c.codePointAt(0) > 0x2e80);
+  const path = isCjk ? "stopwords_zh.txt" : "stopwords_en.txt";
+  const entry = isCjk ? word : word.toLowerCase();
+  const file = await ghGetText(path);
+  const existing = file.text.split("\n").map((l) => l.trim());
+  if (existing.includes(entry)) return;
+  const newText = file.text.replace(/\n?$/, "\n") + entry + "\n";
+  await ghPutRaw(path, newText, file.sha, `拒絕候選加入停用詞: ${word}`);
 }
 
 let categoriesCache = [];
@@ -146,11 +172,12 @@ async function approve(word, category, extraSynonyms) {
 async function reject(word) {
   try {
     log(`拒絕中：${word}`);
+    await addStopword(word);
     const pendingFile = await ghGetFile("pending_keywords.json");
     const pending = pendingFile.json;
     delete pending[word];
     await ghPutFile("pending_keywords.json", pending, pendingFile.sha, `拒絕候選: ${word}`);
-    log(`已拒絕：${word}`);
+    log(`已拒絕：${word}（已加入停用詞）`);
     loadPending();
   } catch (e) {
     log("錯誤：" + e.message);

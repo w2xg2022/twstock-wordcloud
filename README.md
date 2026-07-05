@@ -24,8 +24,13 @@
 ```bash
 python scripts/approve_keyword.py --list                      # 列出待審核候選
 python scripts/approve_keyword.py --approve 詞 分類 [同義詞...] # 核准，寫進keywords.json
-python scripts/approve_keyword.py --reject 詞                  # 拒絕，移除候選
+python scripts/approve_keyword.py --reject 詞                  # 拒絕，自動加入停用詞並移除候選
 ```
+
+也可以用網頁後台 `docs/admin.html`（GitHub Pages 上的 admin.html）圖形化審核，操作等效。
+
+**拒絕會自動把該詞加入停用詞**（中文→`stopwords_zh.txt`、英文→`stopwords_en.txt`），
+這樣同一個雜訊詞之後就不會再重複達標跑回候選清單，不用一直手動拒絕同一個詞。
 
 判斷標準：是不是一個具體的「概念股題材」（供應鏈環節、技術名詞、產業趨勢），
 而不是「股市漲跌用語」（重挫、大漲）、「商品類型」（ETF、ADR）或「過於籠統的字」（指數、科技股、AI 這種本身已是好幾個題材共同詞根的字）。

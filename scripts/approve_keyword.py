@@ -4,7 +4,7 @@
 用法：
   python scripts/approve_keyword.py --list                     列出所有候選
   python scripts/approve_keyword.py --approve 詞 分類 [同義詞...]  核准，寫進keywords.json
-  python scripts/approve_keyword.py --reject 詞                  拒絕，從候選清單移除
+  python scripts/approve_keyword.py --reject 詞                  拒絕，加入停用詞並移除候選
 """
 import argparse
 import json
@@ -13,6 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 KEYWORDS_PATH = ROOT / "keywords.json"
 PENDING_PATH = ROOT / "pending_keywords.json"
+STOPWORDS_ZH_PATH = ROOT / "stopwords_zh.txt"
+STOPWORDS_EN_PATH = ROOT / "stopwords_en.txt"
 
 
 def load(path: Path) -> dict:
@@ -21,6 +23,20 @@ def load(path: Path) -> dict:
 
 def save(path: Path, data: dict):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def add_stopword(word: str):
+    """依是否含中日韓字元決定加到中文或英文停用詞；已存在則不重複加。"""
+    is_cjk = any(ord(c) > 0x2E80 for c in word)
+    path = STOPWORDS_ZH_PATH if is_cjk else STOPWORDS_EN_PATH
+    entry = word if is_cjk else word.lower()
+    existing = {
+        line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()
+    } if path.exists() else set()
+    if entry in existing:
+        return
+    with path.open("a", encoding="utf-8") as f:
+        f.write(entry + "\n")
 
 
 def main():
@@ -45,12 +61,13 @@ def main():
 
     if args.reject:
         word = args.reject
+        add_stopword(word)
         if word in pending:
             del pending[word]
             save(PENDING_PATH, pending)
-            print(f"已拒絕並移除候選：{word}")
+            print(f"已拒絕：{word}（已加入停用詞，之後不會再出現）")
         else:
-            print(f"{word} 不在候選清單中")
+            print(f"{word} 不在候選清單中，但已加入停用詞")
         return
 
     if args.approve:
