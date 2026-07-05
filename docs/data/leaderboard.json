@@ -1,39 +1,53 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "items": [
     {
       "rank": 1,
       "word": "生技",
-      "count": 3,
-      "change": 7,
-      "days_on_chart": 5
+      "count": 2,
+      "change": 0,
+      "days_on_chart": 6
     },
     {
       "rank": 2,
-      "word": "AI晶片",
-      "count": 2,
-      "change": 3,
-      "days_on_chart": 3
+      "word": "InFO",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 2
     },
     {
       "rank": 3,
-      "word": "無人機",
-      "count": 2,
-      "change": -2,
-      "days_on_chart": 8
+      "word": "IC載板",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 2
     },
     {
       "rank": 4,
-      "word": "機器人",
+      "word": "AI伺服器",
       "count": 1,
-      "change": 2,
-      "days_on_chart": 3
+      "change": "重新入榜",
+      "days_on_chart": 2
     },
     {
       "rank": 5,
-      "word": "面板",
+      "word": "無人機",
       "count": 1,
-      "change": 4,
+      "change": -2,
+      "days_on_chart": 9
+    },
+    {
+      "rank": 6,
+      "word": "醫材",
+      "count": 1,
+      "change": "首次入榜",
+      "days_on_chart": 1
+    },
+    {
+      "rank": 7,
+      "word": "PCB",
+      "count": 1,
+      "change": "重新入榜",
       "days_on_chart": 4
     }
   ]
