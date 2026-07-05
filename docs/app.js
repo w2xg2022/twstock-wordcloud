@@ -24,7 +24,8 @@ function loadWordCloud(days) {
 }
 
 function formatChange(change) {
-  if (change === "NEW") return '<span class="chg-new">NEW</span>';
+  if (change === "首次入榜") return '<span class="chg-new">首次入榜</span>';
+  if (change === "重新入榜") return '<span class="chg-back">重新入榜</span>';
   if (change > 0) return `<span class="chg-up">▲${change}</span>`;
   if (change < 0) return `<span class="chg-down">▼${Math.abs(change)}</span>`;
   return '<span class="chg-flat">-</span>';

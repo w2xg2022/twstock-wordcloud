@@ -65,6 +65,7 @@ main {
 .chg-up { color: #dc2626; font-weight: bold; }
 .chg-down { color: #16a34a; font-weight: bold; }
 .chg-new { color: #ea580c; font-weight: bold; }
+.chg-back { color: #0891b2; font-weight: bold; }
 .chg-flat { color: #999; }
 #wordcloud-img {
   width: 100%;
