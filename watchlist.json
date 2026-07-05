@@ -240,9 +240,9 @@
     "days_seen": 2
   },
   "創新": {
-    "last_seen": "2026-06-26",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-07-01",
+    "total_count": 26,
+    "days_seen": 3
   },
   "拋售": {
     "last_seen": "2026-06-24",
@@ -417,6 +417,36 @@
   "看好": {
     "last_seen": "2026-06-30",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "延長": {
+    "last_seen": "2026-07-01",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "年最佳": {
+    "last_seen": "2026-07-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "表現": {
+    "last_seen": "2026-07-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "延長交易": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "三大指數": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "第二季": {
+    "last_seen": "2026-07-01",
+    "total_count": 8,
     "days_seen": 1
   }
 }
