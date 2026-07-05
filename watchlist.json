@@ -9,11 +9,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "夜盤": {
-    "last_seen": "2026-06-18",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "力行產業道路": {
     "last_seen": "2026-06-15",
     "total_count": 8,
@@ -27,11 +22,6 @@
   "多頭": {
     "last_seen": "2026-06-16",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "費半": {
-    "last_seen": "2026-06-17",
-    "total_count": 24,
     "days_seen": 1
   },
   "道瓊": {
@@ -180,9 +170,9 @@
     "days_seen": 1
   },
   "成長": {
-    "last_seen": "2026-06-18",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-06-26",
+    "total_count": 16,
+    "days_seen": 2
   },
   "歐洲": {
     "last_seen": "2026-06-18",
@@ -215,9 +205,9 @@
     "days_seen": 1
   },
   "半導體": {
-    "last_seen": "2026-06-23",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-06-26",
+    "total_count": 24,
+    "days_seen": 3
   },
   "預測": {
     "last_seen": "2026-06-22",
@@ -239,15 +229,10 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "暴跌": {
-    "last_seen": "2026-06-24",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "原因": {
-    "last_seen": "2026-06-23",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-06-26",
+    "total_count": 18,
+    "days_seen": 2
   },
   "南亞": {
     "last_seen": "2026-06-23",
@@ -270,9 +255,9 @@
     "days_seen": 2
   },
   "創新": {
-    "last_seen": "2026-06-24",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-06-26",
+    "total_count": 18,
+    "days_seen": 2
   },
   "拋售": {
     "last_seen": "2026-06-24",
@@ -356,6 +341,56 @@
   },
   "那指": {
     "last_seen": "2026-06-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "史上第": {
+    "last_seen": "2026-06-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "月線": {
+    "last_seen": "2026-06-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "泡沫": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "逆勢": {
+    "last_seen": "2026-06-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "產業交流": {
+    "last_seen": "2026-06-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "漲價": {
+    "last_seen": "2026-06-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "下殺": {
+    "last_seen": "2026-06-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "訊號": {
+    "last_seen": "2026-06-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "即時": {
+    "last_seen": "2026-06-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "技術": {
+    "last_seen": "2026-06-26",
     "total_count": 8,
     "days_seen": 1
   }

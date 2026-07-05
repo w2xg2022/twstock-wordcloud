@@ -1,54 +1,68 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "items": [
     {
       "rank": 1,
-      "word": "生技",
+      "word": "IC載板",
       "count": 2,
-      "change": 0,
-      "days_on_chart": 6
+      "change": 2,
+      "days_on_chart": 3
     },
     {
       "rank": 2,
-      "word": "InFO",
-      "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 2
+      "word": "無人機",
+      "count": 2,
+      "change": 3,
+      "days_on_chart": 10
     },
     {
       "rank": 3,
-      "word": "IC載板",
+      "word": "CoWoS",
       "count": 1,
-      "change": "重新入榜",
-      "days_on_chart": 2
+      "change": "首次入榜",
+      "days_on_chart": 1
     },
     {
       "rank": 4,
-      "word": "AI伺服器",
+      "word": "國防產業",
       "count": 1,
       "change": "重新入榜",
       "days_on_chart": 2
     },
     {
       "rank": 5,
-      "word": "無人機",
+      "word": "低軌道衛星",
       "count": 1,
-      "change": -2,
-      "days_on_chart": 9
+      "change": "重新入榜",
+      "days_on_chart": 2
     },
     {
       "rank": 6,
-      "word": "醫材",
-      "count": 1,
-      "change": "首次入榜",
-      "days_on_chart": 1
-    },
-    {
-      "rank": 7,
-      "word": "PCB",
+      "word": "機器人",
       "count": 1,
       "change": "重新入榜",
       "days_on_chart": 4
+    },
+    {
+      "rank": 7,
+      "word": "醫材",
+      "count": 1,
+      "change": -1,
+      "days_on_chart": 2
+    },
+    {
+      "rank": 8,
+      "word": "PCB",
+      "count": 1,
+      "change": -1,
+      "days_on_chart": 5
+    },
+    {
+      "rank": 9,
+      "word": "SpaceX",
+      "count": 1,
+      "change": "重新入榜",
+      "days_on_chart": 9
     }
   ]
 }
