@@ -204,11 +204,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "半導體": {
-    "last_seen": "2026-06-26",
-    "total_count": 24,
-    "days_seen": 3
-  },
   "預測": {
     "last_seen": "2026-06-22",
     "total_count": 8,
@@ -320,9 +315,9 @@
     "days_seen": 1
   },
   "攜手": {
-    "last_seen": "2026-06-25",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-06-27",
+    "total_count": 22,
+    "days_seen": 2
   },
   "航空產業": {
     "last_seen": "2026-06-25",
@@ -392,6 +387,16 @@
   "技術": {
     "last_seen": "2026-06-26",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "費半": {
+    "last_seen": "2026-06-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "進場": {
+    "last_seen": "2026-06-27",
+    "total_count": 10,
     "days_seen": 1
   }
 }
