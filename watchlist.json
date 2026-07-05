@@ -5,9 +5,9 @@
     "days_seen": 1
   },
   "基金": {
-    "last_seen": "2026-06-15",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-06-23",
+    "total_count": 26,
+    "days_seen": 2
   },
   "夜盤": {
     "last_seen": "2026-06-18",
@@ -40,9 +40,9 @@
     "days_seen": 2
   },
   "早盤": {
-    "last_seen": "2026-06-17",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-06-23",
+    "total_count": 28,
+    "days_seen": 2
   },
   "金融": {
     "last_seen": "2026-06-17",
@@ -215,9 +215,9 @@
     "days_seen": 1
   },
   "半導體": {
-    "last_seen": "2026-06-21",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-06-23",
+    "total_count": 16,
+    "days_seen": 2
   },
   "預測": {
     "last_seen": "2026-06-22",
@@ -226,6 +226,41 @@
   },
   "合作": {
     "last_seen": "2026-06-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "賣壓": {
+    "last_seen": "2026-06-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "晶片": {
+    "last_seen": "2026-06-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "暴跌": {
+    "last_seen": "2026-06-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "原因": {
+    "last_seen": "2026-06-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "南亞": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "拉回": {
+    "last_seen": "2026-06-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "兩大": {
+    "last_seen": "2026-06-23",
     "total_count": 8,
     "days_seen": 1
   }

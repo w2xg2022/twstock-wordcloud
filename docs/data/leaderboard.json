@@ -1,54 +1,68 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "items": [
     {
       "rank": 1,
       "word": "無人機",
-      "count": 3,
+      "count": 5,
       "change": 0,
-      "days_on_chart": 6
+      "days_on_chart": 7
     },
     {
       "rank": 2,
       "word": "SpaceX",
-      "count": 2,
-      "change": "重新入榜",
-      "days_on_chart": 7
+      "count": 4,
+      "change": 0,
+      "days_on_chart": 8
     },
     {
       "rank": 3,
-      "word": "ASIC",
+      "word": "玻璃基板",
       "count": 1,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
       "rank": 4,
-      "word": "太空產業",
+      "word": "AI伺服器",
       "count": 1,
       "change": "首次入榜",
       "days_on_chart": 1
     },
     {
       "rank": 5,
-      "word": "生技",
+      "word": "AI晶片",
       "count": 1,
       "change": "重新入榜",
-      "days_on_chart": 3
+      "days_on_chart": 2
     },
     {
       "rank": 6,
-      "word": "被動元件",
+      "word": "機器人",
       "count": 1,
       "change": "重新入榜",
-      "days_on_chart": 4
+      "days_on_chart": 2
     },
     {
       "rank": 7,
-      "word": "Fed",
+      "word": "光通訊",
+      "count": 1,
+      "change": "首次入榜",
+      "days_on_chart": 1
+    },
+    {
+      "rank": 8,
+      "word": "生技",
+      "count": 1,
+      "change": -3,
+      "days_on_chart": 4
+    },
+    {
+      "rank": 9,
+      "word": "面板",
       "count": 1,
       "change": "重新入榜",
-      "days_on_chart": 6
+      "days_on_chart": 3
     }
   ]
 }
