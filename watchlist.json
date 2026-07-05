@@ -24,15 +24,10 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "早盤": {
-    "last_seen": "2026-06-23",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "金融": {
-    "last_seen": "2026-06-17",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 22,
+    "days_seen": 2
   },
   "企業": {
     "last_seen": "2026-06-17",
@@ -74,11 +69,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "tw": {
-    "last_seen": "2026-07-02",
-    "total_count": 25,
-    "days_seen": 3
-  },
   "創新高": {
     "last_seen": "2026-06-21",
     "total_count": 26,
@@ -90,9 +80,9 @@
     "days_seen": 1
   },
   "產業鏈": {
-    "last_seen": "2026-06-18",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 28,
+    "days_seen": 2
   },
   "端午": {
     "last_seen": "2026-06-18",
@@ -125,9 +115,9 @@
     "days_seen": 1
   },
   "CNA": {
-    "last_seen": "2026-06-18",
-    "total_count": 9,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 18,
+    "days_seen": 2
   },
   "股盤中": {
     "last_seen": "2026-06-18",
@@ -155,9 +145,9 @@
     "days_seen": 1
   },
   "強勢": {
-    "last_seen": "2026-06-18",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 18,
+    "days_seen": 2
   },
   "爆量": {
     "last_seen": "2026-06-18",
@@ -320,9 +310,9 @@
     "days_seen": 1
   },
   "那指": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 18,
+    "days_seen": 2
   },
   "史上第": {
     "last_seen": "2026-06-26",
@@ -370,9 +360,9 @@
     "days_seen": 1
   },
   "技術": {
-    "last_seen": "2026-06-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 20,
+    "days_seen": 2
   },
   "費半": {
     "last_seen": "2026-06-27",
@@ -390,9 +380,9 @@
     "days_seen": 1
   },
   "半導體": {
-    "last_seen": "2026-06-30",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-03",
+    "total_count": 20,
+    "days_seen": 2
   },
   "大指數": {
     "last_seen": "2026-06-30",
@@ -466,6 +456,56 @@
   },
   "培育": {
     "last_seen": "2026-07-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "翻紅": {
+    "last_seen": "2026-07-03",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "非農": {
+    "last_seen": "2026-07-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "寵物": {
+    "last_seen": "2026-07-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "攜手": {
+    "last_seen": "2026-07-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "就業": {
+    "last_seen": "2026-07-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "科技產業": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "上漲": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "預期": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "支持": {
+    "last_seen": "2026-07-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "疲弱": {
+    "last_seen": "2026-07-03",
     "total_count": 8,
     "days_seen": 1
   }

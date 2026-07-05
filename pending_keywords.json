@@ -38,5 +38,13 @@
   "攜手": {
     "first_promoted": "2026-07-02",
     "total_count": 30
+  },
+  "早盤": {
+    "first_promoted": "2026-07-03",
+    "total_count": 40
+  },
+  "tw": {
+    "first_promoted": "2026-07-03",
+    "total_count": 36
   }
 }
