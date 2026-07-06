@@ -280,8 +280,9 @@ def write_csv(counter: Counter, path: Path):
             writer.writerow([word, count])
 
 
-def build_window_leaderboard(all_dates: list[str], anchor: str, n: int) -> list[dict]:
-    """近n日滾動排行榜：熱度=n日累加；漲跌對比往前推一天的同長度窗口；入榜天數=n日內有幾天有聲量。"""
+def build_window_leaderboard(all_dates: list[str], anchor: str, n: int, total_days_on_chart: Counter) -> list[dict]:
+    """近n日滾動排行榜：熱度=n日累加；漲跌對比往前推一天的同長度窗口。
+    入榜天數用「全部歷史」有幾天出現過，不受窗口大小限制才有辨識度。"""
     anchor_dt = datetime.fromisoformat(anchor).date()
     prev_anchor = (anchor_dt - timedelta(days=1)).isoformat()
 
@@ -293,13 +294,6 @@ def build_window_leaderboard(all_dates: list[str], anchor: str, n: int) -> list[
 
     ranked = [w for w, _ in total.most_common(LEADERBOARD_TOP_N)]
     rank_prev = {w: i + 1 for i, (w, _) in enumerate(total_prev.most_common(LEADERBOARD_TOP_N))}
-
-    # 入榜天數：這個窗口內，該題材有幾天出現過(當日聲量>0)
-    days_on_chart = Counter()
-    for d in win_days:
-        for w, c in load_freq(d).items():
-            if c > 0:
-                days_on_chart[w] += 1
 
     items = []
     for rank, word in enumerate(ranked, start=1):
@@ -315,14 +309,25 @@ def build_window_leaderboard(all_dates: list[str], anchor: str, n: int) -> list[
             "word": word,
             "count": total[word],
             "change": change,
-            "days_on_chart": days_on_chart.get(word, 0),
+            "days_on_chart": total_days_on_chart.get(word, 0),
         })
     return items
 
 
 def build_leaderboard(all_dates: list[str], anchor: str):
     """產生3/7/15日三個滾動排行榜，供網頁跟詞雲一起切換。"""
-    windows = {str(n): build_window_leaderboard(all_dates, anchor, n) for n in (3, 7, 15)}
+    # 入榜天數：整份歷史(截至anchor)裡，該題材有幾天出現過聲量>0
+    hist_days = [d for d in all_dates if d <= anchor]
+    total_days_on_chart = Counter()
+    for d in hist_days:
+        for w, c in load_freq(d).items():
+            if c > 0:
+                total_days_on_chart[w] += 1
+
+    windows = {
+        str(n): build_window_leaderboard(all_dates, anchor, n, total_days_on_chart)
+        for n in (3, 7, 15)
+    }
 
     (DOCS_DATA_DIR / "leaderboard.json").write_text(
         json.dumps({"date": anchor, "windows": windows}, ensure_ascii=False, indent=2),
@@ -333,7 +338,7 @@ def build_leaderboard(all_dates: list[str], anchor: str):
     for n in (3, 7, 15):
         with (OUTPUT_DIR / f"leaderboard_{n}d.csv").open("w", encoding="utf-8-sig", newline="") as f:
             writer = csv.writer(f)
-            writer.writerow(["名次", "熱詞", f"近{n}日次數", "漲跌", f"近{n}日入榜天數"])
+            writer.writerow(["名次", "熱詞", f"近{n}日次數", "漲跌", "累計入榜天數"])
             for item in windows[str(n)]:
                 writer.writerow([
                     item["rank"], item["word"], item["count"],
