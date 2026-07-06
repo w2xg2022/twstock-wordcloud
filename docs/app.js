@@ -2,6 +2,7 @@ const DATA_DIR = "data";
 const WC_DIR = "wordcloud";
 let currentDays = 3;
 let cacheBust = "";
+let leaderboardData = null;
 
 async function fetchJSON(path) {
   const res = await fetch(path, { cache: "no-store" });
@@ -31,10 +32,14 @@ function formatChange(change) {
   return '<span class="chg-flat">-</span>';
 }
 
-async function loadLeaderboard() {
-  const board = await fetchJSON(`${DATA_DIR}/leaderboard.json`);
+function renderLeaderboard(days) {
   const tbody = document.querySelector("#leaderboard-table tbody");
-  tbody.innerHTML = board.items
+  const heading = document.getElementById("leaderboard-heading");
+  if (heading) heading.textContent = `財經熱詞排行榜（近 ${days} 日）`;
+  const items = leaderboardData && leaderboardData.windows
+    ? leaderboardData.windows[String(days)] || []
+    : [];
+  tbody.innerHTML = items
     .map(
       (item) => `
       <tr>
@@ -48,6 +53,11 @@ async function loadLeaderboard() {
     .join("");
 }
 
+async function loadLeaderboard() {
+  leaderboardData = await fetchJSON(`${DATA_DIR}/leaderboard.json`);
+  renderLeaderboard(currentDays);
+}
+
 function setupTabs() {
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
@@ -55,6 +65,7 @@ function setupTabs() {
       btn.classList.add("active");
       currentDays = Number(btn.dataset.days);
       loadWordCloud(currentDays);
+      renderLeaderboard(currentDays);
     });
   });
 }

@@ -47,7 +47,9 @@ jobs:
         run: |
           mkdir -p release
           cp docs/data/leaderboard.json release/leaderboard.json
-          cp output/leaderboard.csv release/leaderboard.csv
+          cp output/leaderboard_3d.csv release/leaderboard_3d.csv
+          cp output/leaderboard_7d.csv release/leaderboard_7d.csv
+          cp output/leaderboard_15d.csv release/leaderboard_15d.csv
           cp data/${{ steps.meta.outputs.today }}.json release/news_${{ steps.meta.outputs.today }}.json
           cp output/wordfreq_3d.csv release/wordfreq_3d.csv
           cp output/wordfreq_7d.csv release/wordfreq_7d.csv
