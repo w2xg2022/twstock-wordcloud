@@ -18,5 +18,29 @@
   "回檔": {
     "first_promoted": "2026-07-03",
     "total_count": 36
+  },
+  "最大": {
+    "first_promoted": "2026-07-06",
+    "total_count": 52
+  },
+  "表現": {
+    "first_promoted": "2026-07-06",
+    "total_count": 46
+  },
+  "SK": {
+    "first_promoted": "2026-07-06",
+    "total_count": 42
+  },
+  "早盤漲": {
+    "first_promoted": "2026-07-06",
+    "total_count": 36
+  },
+  "群創": {
+    "first_promoted": "2026-07-06",
+    "total_count": 42
+  },
+  "員工": {
+    "first_promoted": "2026-07-06",
+    "total_count": 30
   }
 }
