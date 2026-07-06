@@ -1,1 +1,22 @@
-{}
+{
+  "ETtoday": {
+    "first_promoted": "2026-06-26",
+    "total_count": 43
+  },
+  "同步": {
+    "first_promoted": "2026-06-26",
+    "total_count": 38
+  },
+  "TechNews": {
+    "first_promoted": "2026-07-02",
+    "total_count": 36
+  },
+  "消費": {
+    "first_promoted": "2026-07-03",
+    "total_count": 34
+  },
+  "回檔": {
+    "first_promoted": "2026-07-03",
+    "total_count": 36
+  }
+}
