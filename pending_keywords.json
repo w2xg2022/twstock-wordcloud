@@ -4,8 +4,8 @@
     "total_count": 43
   },
   "同步": {
-    "first_promoted": "2026-06-26",
-    "total_count": 38
+    "first_promoted": "2026-07-07",
+    "total_count": 36
   },
   "TechNews": {
     "first_promoted": "2026-07-02",
@@ -42,5 +42,73 @@
   "員工": {
     "first_promoted": "2026-07-06",
     "total_count": 30
+  },
+  "股反彈": {
+    "first_promoted": "2026-07-07",
+    "total_count": 40
+  },
+  "研究": {
+    "first_promoted": "2026-07-07",
+    "total_count": 54
+  },
+  "挫逾": {
+    "first_promoted": "2026-07-07",
+    "total_count": 42
+  },
+  "樂觀": {
+    "first_promoted": "2026-07-07",
+    "total_count": 34
+  },
+  "翻黑": {
+    "first_promoted": "2026-07-07",
+    "total_count": 44
+  },
+  "板塊": {
+    "first_promoted": "2026-07-07",
+    "total_count": 48
+  },
+  "主力": {
+    "first_promoted": "2026-07-07",
+    "total_count": 46
+  },
+  "集體": {
+    "first_promoted": "2026-07-07",
+    "total_count": 38
+  },
+  "台幣": {
+    "first_promoted": "2026-07-07",
+    "total_count": 36
+  },
+  "應用": {
+    "first_promoted": "2026-07-07",
+    "total_count": 38
+  },
+  "年增": {
+    "first_promoted": "2026-07-07",
+    "total_count": 36
+  },
+  "醫療": {
+    "first_promoted": "2026-07-07",
+    "total_count": 45
+  },
+  "指數收": {
+    "first_promoted": "2026-07-07",
+    "total_count": 30
+  },
+  "製程": {
+    "first_promoted": "2026-07-07",
+    "total_count": 30
+  },
+  "金額": {
+    "first_promoted": "2026-07-07",
+    "total_count": 34
+  },
+  "開高": {
+    "first_promoted": "2026-07-07",
+    "total_count": 40
+  },
+  "怎麼": {
+    "first_promoted": "2026-07-07",
+    "total_count": 42
   }
 }
