@@ -106,3 +106,6 @@ ipo
 openai
 google
 ctwant
+ettoday
+technews
+sk
