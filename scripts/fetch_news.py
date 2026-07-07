@@ -14,6 +14,9 @@ import feedparser
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 
+# 每日回溯窗口的邊界時刻(台灣時間)，跟排程執行時間對齊(排程16:00跑，窗口就到16:00才不會漏抓)
+WINDOW_END_HOUR = 16
+
 TAG_RE = re.compile(r"<[^>]+>")
 TW_TZ = timezone(timedelta(hours=8))
 
@@ -76,9 +79,9 @@ def fetch_normal() -> list[dict]:
 
 
 def fetch_backfill(target_date: str) -> list[dict]:
-    """回溯抓 (target_date前一天)18:00 到 target_date 18:00 台灣時間的新聞。"""
+    """回溯抓 (target_date前一天)到 target_date 的 WINDOW_END_HOUR 時刻(台灣時間)區間新聞。"""
     target_dt = datetime.fromisoformat(target_date).replace(tzinfo=TW_TZ)
-    window_end = target_dt.replace(hour=18, minute=0, second=0, microsecond=0)
+    window_end = target_dt.replace(hour=WINDOW_END_HOUR, minute=0, second=0, microsecond=0)
     window_start = window_end - timedelta(days=1)
     # Google的after:/before:只能到「日」的精度，抓大一點的範圍再用實際發布時間精篩
     after_date = (window_start - timedelta(days=1)).date().isoformat()
@@ -122,7 +125,7 @@ def main():
     parser.add_argument("date", nargs="?", default=date.today().isoformat())
     parser.add_argument(
         "--backfill", action="store_true",
-        help="回溯抓取指定日期前一天18:00到當天18:00(台灣時間)的新聞，僅限支援日期搜尋的來源",
+        help="回溯抓取指定日期前一天到當天16:00(台灣時間)的新聞，僅限支援日期搜尋的來源",
     )
     args = parser.parse_args()
     target_date = args.date

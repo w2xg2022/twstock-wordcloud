@@ -2,7 +2,7 @@ name: Daily News Wordcloud
 
 on:
   schedule:
-    - cron: "0 10 * * *"  # UTC 10:00 = 台灣時間 18:00，一天一次
+    - cron: "0 8 * * *"  # UTC 08:00 = 台灣時間 16:00，一天一次（GitHub cron常延遲，給收盤後緩衝）
   workflow_dispatch:
     inputs:
       skip_fetch:
