@@ -14,11 +14,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "股開盤": {
-    "last_seen": "2026-07-03",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "太空": {
     "last_seen": "2026-06-15",
     "total_count": 12,
@@ -85,9 +80,9 @@
     "days_seen": 1
   },
   "結構": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "首度": {
     "last_seen": "2026-06-22",
@@ -140,11 +135,6 @@
     "days_seen": 1
   },
   "台指期": {
-    "last_seen": "2026-06-16",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "籌碼": {
     "last_seen": "2026-06-16",
     "total_count": 12,
     "days_seen": 1
@@ -202,11 +192,6 @@
   "震撼": {
     "last_seen": "2026-06-18",
     "total_count": 20,
-    "days_seen": 2
-  },
-  "政策": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
     "days_seen": 2
   },
   "空單": {
@@ -460,9 +445,9 @@
     "days_seen": 2
   },
   "國家": {
-    "last_seen": "2026-06-18",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-08",
+    "total_count": 26,
+    "days_seen": 2
   },
   "美債": {
     "last_seen": "2026-06-22",
@@ -954,11 +939,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "領跌": {
-    "last_seen": "2026-06-26",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "阿里": {
     "last_seen": "2026-06-26",
     "total_count": 24,
@@ -985,11 +965,6 @@
     "days_seen": 1
   },
   "逾千": {
-    "last_seen": "2026-06-26",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "影響": {
     "last_seen": "2026-06-26",
     "total_count": 14,
     "days_seen": 1
@@ -1205,9 +1180,9 @@
     "days_seen": 1
   },
   "法說會": {
-    "last_seen": "2026-06-30",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "龍頭": {
     "last_seen": "2026-06-30",
@@ -1519,11 +1494,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "證券": {
-    "last_seen": "2026-07-03",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "US": {
     "last_seen": "2026-07-03",
     "total_count": 14,
@@ -1759,17 +1729,7 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "延續": {
-    "last_seen": "2026-07-07",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "國巨": {
-    "last_seen": "2026-07-07",
-    "total_count": 22,
-    "days_seen": 1
-  },
-  "短線": {
     "last_seen": "2026-07-07",
     "total_count": 22,
     "days_seen": 1
@@ -1777,16 +1737,6 @@
   "表現": {
     "last_seen": "2026-07-07",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "族群盤中": {
-    "last_seen": "2026-07-07",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "推升": {
-    "last_seen": "2026-07-07",
-    "total_count": 20,
     "days_seen": 1
   },
   "財報季": {
@@ -1804,14 +1754,84 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "破月線": {
+  "股領漲": {
     "last_seen": "2026-07-07",
     "total_count": 16,
     "days_seen": 1
   },
-  "股領漲": {
-    "last_seen": "2026-07-07",
+  "拖累美股": {
+    "last_seen": "2026-07-08",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "重挫拖累": {
+    "last_seen": "2026-07-08",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "費半跌": {
+    "last_seen": "2026-07-08",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "前景": {
+    "last_seen": "2026-07-08",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "提前": {
+    "last_seen": "2026-07-08",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "四大": {
+    "last_seen": "2026-07-08",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "銀行": {
+    "last_seen": "2026-07-08",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "午後": {
+    "last_seen": "2026-07-08",
     "total_count": 16,
+    "days_seen": 1
+  },
+  "終場": {
+    "last_seen": "2026-07-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "升溫": {
+    "last_seen": "2026-07-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "生產": {
+    "last_seen": "2026-07-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "波動": {
+    "last_seen": "2026-07-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "長期": {
+    "last_seen": "2026-07-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "股拋售": {
+    "last_seen": "2026-07-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "雙雄": {
+    "last_seen": "2026-07-08",
+    "total_count": 14,
     "days_seen": 1
   }
 }
