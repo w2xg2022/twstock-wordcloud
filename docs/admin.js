@@ -135,17 +135,79 @@ function renderPending(pending) {
   });
 }
 
+function fillManualCategories() {
+  const sel = document.getElementById("manual-category");
+  if (!sel) return;
+  sel.innerHTML = categoriesCache
+    .map((c) => `<option value="${c}" ${c === "自動新增題材" ? "selected" : ""}>${c}</option>`)
+    .join("");
+}
+
 async function loadPending() {
   try {
     log("載入 keywords.json 與 pending_keywords.json ...");
     const kw = await ghGetFile("keywords.json");
     categoriesCache = Object.keys(kw.json);
+    fillManualCategories();
     const pending = await ghGetFile("pending_keywords.json");
     renderPending(pending.json);
     log(`載入完成，共 ${Object.keys(pending.json).length} 個候選`);
   } catch (e) {
     log("錯誤：" + e.message);
   }
+}
+
+// 手動新增題材：直接寫進 keywords.json，並從停用詞移除(以防之前拒絕過)
+async function manualAdd() {
+  try {
+    const name = document.getElementById("manual-name").value.trim();
+    if (!name) {
+      log("請先輸入題材名稱");
+      return;
+    }
+    const category = document.getElementById("manual-category").value || "自動新增題材";
+    const synonyms = document.getElementById("manual-synonyms").value
+      .split(",").map((s) => s.trim()).filter(Boolean);
+
+    log(`手動新增：${name} -> ${category}`);
+    const kwFile = await ghGetFile("keywords.json");
+    const kw = kwFile.json;
+    kw[category] = kw[category] || [];
+    const exists = Object.values(kw).some((arr) => arr.some((it) => it.name === name));
+    if (exists) {
+      log(`${name} 已經在關鍵字庫裡了`);
+      return;
+    }
+    kw[category].push({ name, synonyms: [name, ...synonyms] });
+    await ghPutFile("keywords.json", kw, kwFile.sha, `手動新增題材: ${name} (via admin.html)`);
+
+    // 若這個詞在停用詞或候選清單裡，一併清掉，避免被過濾
+    await removeStopword(name);
+    const pendingFile = await ghGetFile("pending_keywords.json");
+    if (pendingFile.json[name]) {
+      delete pendingFile.json[name];
+      await ghPutFile("pending_keywords.json", pendingFile.json, pendingFile.sha, `手動新增已移除候選: ${name}`);
+    }
+
+    document.getElementById("manual-name").value = "";
+    document.getElementById("manual-synonyms").value = "";
+    log(`已新增：${name} -> 分類「${category}」`);
+    loadPending();
+  } catch (e) {
+    log("錯誤：" + e.message);
+  }
+}
+
+// 從停用詞檔移除某詞(手動新增題材時用，以防它先前被拒絕加進停用詞)
+async function removeStopword(word) {
+  const isCjk = [...word].some((c) => c.codePointAt(0) > 0x2e80);
+  const path = isCjk ? "stopwords_zh.txt" : "stopwords_en.txt";
+  const entry = isCjk ? word : word.toLowerCase();
+  const file = await ghGetText(path);
+  const lines = file.text.split("\n");
+  const kept = lines.filter((l) => l.trim() !== entry);
+  if (kept.length === lines.length) return; // 不在停用詞裡，不用動
+  await ghPutRaw(path, kept.join("\n"), file.sha, `手動新增題材，從停用詞移除: ${word}`);
 }
 
 async function approve(word, category, extraSynonyms) {
@@ -228,6 +290,7 @@ async function batchRejectRemaining() {
 
 document.getElementById("reload-btn").addEventListener("click", loadPending);
 document.getElementById("finish-btn").addEventListener("click", batchRejectRemaining);
+document.getElementById("manual-add-btn").addEventListener("click", manualAdd);
 
 // 離開頁面前，若還有未處理候選，提醒使用者
 window.addEventListener("beforeunload", (e) => {
