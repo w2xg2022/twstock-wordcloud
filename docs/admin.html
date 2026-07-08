@@ -31,6 +31,19 @@
   .manual-row input[type="text"], .manual-row select { padding: 6px; }
   .manual-row select { min-width: 120px; }
   .manual-row #manual-synonyms { flex: 1; min-width: 140px; }
+  .view-themes { position: relative; font-size: 14px; font-weight: normal; margin-left: 10px; }
+  .view-themes a { color: #2563eb; text-decoration: none; }
+  .themes-drawer {
+    display: none; position: absolute; z-index: 10; top: 100%; left: 0;
+    width: 340px; max-height: 360px; overflow-y: auto;
+    background: #fff; border: 1px solid #ddd; border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15); padding: 12px; margin-top: 4px;
+    font-size: 13px; line-height: 1.6; color: #333; text-align: left; cursor: default;
+  }
+  .view-themes:hover .themes-drawer { display: block; }
+  .themes-drawer .cat { font-weight: bold; color: #1f2937; margin-top: 8px; }
+  .themes-drawer .cat:first-child { margin-top: 0; }
+  .themes-drawer .words { color: #555; }
 </style>
 </head>
 <body>
@@ -46,8 +59,14 @@
       <button class="reload" id="reload-btn" style="margin-top:8px;">載入待審核清單</button>
     </section>
 
+    <div id="app-body" style="display:none;">
     <section class="manual-box">
-      <h2>手動新增題材</h2>
+      <h2>手動新增題材
+        <span class="view-themes">
+          <a href="#" id="view-themes-link">查看題材</a>
+          <div class="themes-drawer" id="themes-drawer">載入後顯示現有題材</div>
+        </span>
+      </h2>
       <p>不用等系統發現，直接把你想追蹤的題材加進 keywords.json：</p>
       <div class="manual-row">
         <input type="text" id="manual-name" placeholder="題材名稱（例：矽光子）">
@@ -63,6 +82,7 @@
       <p>核准想要的題材後，剩下未處理的可一鍵拒絕（都會加入停用詞，不再重複出現）：</p>
       <button class="finish" id="finish-btn">完成審核（將其餘候選全部拒絕）</button>
     </section>
+    </div>
 
     <section class="log-box" id="log-box">尚未載入</section>
   </main>

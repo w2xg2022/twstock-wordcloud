@@ -148,14 +148,27 @@ function fillManualCategories() {
     .join("");
 }
 
+function fillThemesDrawer(keywords) {
+  const drawer = document.getElementById("themes-drawer");
+  if (!drawer) return;
+  drawer.innerHTML = Object.entries(keywords)
+    .map(([cat, items]) => {
+      const words = items.map((it) => it.name).join("、");
+      return `<div class="cat">${cat}（${items.length}）</div><div class="words">${words}</div>`;
+    })
+    .join("");
+}
+
 async function loadPending() {
   try {
     log("載入 keywords.json 與 pending_keywords.json ...");
     const kw = await ghGetFile("keywords.json");
     categoriesCache = Object.keys(kw.json);
     fillManualCategories();
+    fillThemesDrawer(kw.json);
     const pending = await ghGetFile("pending_keywords.json");
     renderPending(pending.json);
+    document.getElementById("app-body").style.display = "block";
     log(`載入完成，共 ${Object.keys(pending.json).length} 個候選`);
   } catch (e) {
     log("錯誤：" + e.message);
@@ -308,4 +321,7 @@ window.addEventListener("beforeunload", (e) => {
 fillManualCategories();
 
 const saved = localStorage.getItem(TOKEN_KEY);
-if (saved) document.getElementById("token-input").value = saved;
+if (saved) {
+  document.getElementById("token-input").value = saved;
+  loadPending(); // 已有token就自動載入並顯示內容
+}
