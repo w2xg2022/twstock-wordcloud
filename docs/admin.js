@@ -85,7 +85,12 @@ async function addStopword(word) {
   await ghPutRaw(path, newText, file.sha, `拒絕候選加入停用詞: ${word}`);
 }
 
-let categoriesCache = [];
+// 預設分類(頁面一開啟就有選項)，載入keywords.json後會用實際分類覆蓋
+const DEFAULT_CATEGORIES = [
+  "半導體封裝", "AI", "記憶體", "軍工國防", "衛星通訊", "電動車",
+  "機器人自動化", "綠能儲能", "通訊網路", "生技醫療", "其他題材", "自動新增題材",
+];
+let categoriesCache = [...DEFAULT_CATEGORIES];
 let pendingCount = 0;
 
 function renderPending(pending) {
@@ -299,6 +304,8 @@ window.addEventListener("beforeunload", (e) => {
     e.returnValue = "";
   }
 });
+
+fillManualCategories();
 
 const saved = localStorage.getItem(TOKEN_KEY);
 if (saved) document.getElementById("token-input").value = saved;
