@@ -42,5 +42,29 @@
   "FX168": {
     "first_promoted": "2026-07-09",
     "total_count": 33
+  },
+  "颱風": {
+    "first_promoted": "2026-07-10",
+    "total_count": 68
+  },
+  "颱風假": {
+    "first_promoted": "2026-07-10",
+    "total_count": 32
+  },
+  "量產": {
+    "first_promoted": "2026-07-10",
+    "total_count": 30
+  },
+  "中東": {
+    "first_promoted": "2026-07-10",
+    "total_count": 30
+  },
+  "鴻海": {
+    "first_promoted": "2026-07-10",
+    "total_count": 38
+  },
+  "解禁": {
+    "first_promoted": "2026-07-10",
+    "total_count": 32
   }
 }

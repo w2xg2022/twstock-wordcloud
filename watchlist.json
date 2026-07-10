@@ -210,9 +210,9 @@
     "days_seen": 1
   },
   "迎來": {
-    "last_seen": "2026-06-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-10",
+    "total_count": 26,
+    "days_seen": 2
   },
   "進入": {
     "last_seen": "2026-06-29",
@@ -308,11 +308,6 @@
     "last_seen": "2026-07-02",
     "total_count": 16,
     "days_seen": 2
-  },
-  "量產": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
   },
   "引擎": {
     "last_seen": "2026-06-17",
@@ -570,9 +565,9 @@
     "days_seen": 1
   },
   "押注": {
-    "last_seen": "2026-06-22",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-10",
+    "total_count": 22,
+    "days_seen": 2
   },
   "和平": {
     "last_seen": "2026-06-22",
@@ -643,11 +638,6 @@
     "last_seen": "2026-06-23",
     "total_count": 10,
     "days_seen": 1
-  },
-  "鴻海": {
-    "last_seen": "2026-06-27",
-    "total_count": 24,
-    "days_seen": 2
   },
   "科技股遭": {
     "last_seen": "2026-06-23",
@@ -1775,9 +1765,9 @@
     "days_seen": 1
   },
   "雙雄": {
-    "last_seen": "2026-07-08",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-10",
+    "total_count": 28,
+    "days_seen": 2
   },
   "博通": {
     "last_seen": "2026-07-09",
@@ -1799,22 +1789,12 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "解禁": {
-    "last_seen": "2026-07-09",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "百點": {
     "last_seen": "2026-07-09",
     "total_count": 16,
     "days_seen": 1
   },
   "美伊協議": {
-    "last_seen": "2026-07-09",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "中東": {
     "last_seen": "2026-07-09",
     "total_count": 14,
     "days_seen": 1
@@ -1845,12 +1825,112 @@
     "days_seen": 1
   },
   "半導體設備": {
+    "last_seen": "2026-07-10",
+    "total_count": 24,
+    "days_seen": 2
+  },
+  "三大指": {
     "last_seen": "2026-07-09",
     "total_count": 12,
     "days_seen": 1
   },
-  "三大指": {
-    "last_seen": "2026-07-09",
+  "少賺": {
+    "last_seen": "2026-07-10",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "下週": {
+    "last_seen": "2026-07-10",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "台股休市": {
+    "last_seen": "2026-07-10",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "大指數收": {
+    "last_seen": "2026-07-10",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "國家": {
+    "last_seen": "2026-07-10",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "開始": {
+    "last_seen": "2026-07-10",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "價值": {
+    "last_seen": "2026-07-10",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "推動": {
+    "last_seen": "2026-07-10",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "業績": {
+    "last_seen": "2026-07-10",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "高雄": {
+    "last_seen": "2026-07-10",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "放颱風假": {
+    "last_seen": "2026-07-10",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "投資人": {
+    "last_seen": "2026-07-10",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "費半漲": {
+    "last_seen": "2026-07-10",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "研院": {
+    "last_seen": "2026-07-10",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "行業": {
+    "last_seen": "2026-07-10",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "台積電代工": {
+    "last_seen": "2026-07-10",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "名單": {
+    "last_seen": "2026-07-10",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "生物": {
+    "last_seen": "2026-07-10",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Iris": {
+    "last_seen": "2026-07-10",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "大健康產業": {
+    "last_seen": "2026-07-10",
     "total_count": 12,
     "days_seen": 1
   }
