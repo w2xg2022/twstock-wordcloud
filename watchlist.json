@@ -9,11 +9,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "掛牌": {
-    "last_seen": "2026-06-24",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "太空": {
     "last_seen": "2026-06-15",
     "total_count": 12,
@@ -90,9 +85,9 @@
     "days_seen": 1
   },
   "逼近": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 24,
+    "days_seen": 2
   },
   "衝擊": {
     "last_seen": "2026-06-26",
@@ -415,9 +410,9 @@
     "days_seen": 1
   },
   "下周": {
-    "last_seen": "2026-06-18",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 22,
+    "days_seen": 2
   },
   "韌性": {
     "last_seen": "2026-06-28",
@@ -425,11 +420,6 @@
     "days_seen": 2
   },
   "配息": {
-    "last_seen": "2026-06-22",
-    "total_count": 18,
-    "days_seen": 2
-  },
-  "效應": {
     "last_seen": "2026-06-22",
     "total_count": 18,
     "days_seen": 2
@@ -509,11 +499,6 @@
     "total_count": 20,
     "days_seen": 2
   },
-  "通膨": {
-    "last_seen": "2026-07-02",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "主題": {
     "last_seen": "2026-06-22",
     "total_count": 10,
@@ -560,9 +545,9 @@
     "days_seen": 1
   },
   "受惠": {
-    "last_seen": "2026-06-22",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 22,
+    "days_seen": 2
   },
   "押注": {
     "last_seen": "2026-07-10",
@@ -610,9 +595,9 @@
     "days_seen": 1
   },
   "那斯達克": {
-    "last_seen": "2026-06-23",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 26,
+    "days_seen": 2
   },
   "大關": {
     "last_seen": "2026-06-23",
@@ -733,11 +718,6 @@
     "last_seen": "2026-06-24",
     "total_count": 12,
     "days_seen": 1
-  },
-  "真正": {
-    "last_seen": "2026-07-05",
-    "total_count": 20,
-    "days_seen": 2
   },
   "臺灣": {
     "last_seen": "2026-06-27",
@@ -940,9 +920,9 @@
     "days_seen": 1
   },
   "成本": {
-    "last_seen": "2026-06-26",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 28,
+    "days_seen": 2
   },
   "解析": {
     "last_seen": "2026-06-26",
@@ -1144,11 +1124,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "法說會": {
-    "last_seen": "2026-07-08",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "龍頭": {
     "last_seen": "2026-06-30",
     "total_count": 10,
@@ -1265,11 +1240,6 @@
     "days_seen": 1
   },
   "大摩": {
-    "last_seen": "2026-07-01",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "出口": {
     "last_seen": "2026-07-01",
     "total_count": 10,
     "days_seen": 1
@@ -1440,9 +1410,9 @@
     "days_seen": 1
   },
   "US": {
-    "last_seen": "2026-07-03",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 28,
+    "days_seen": 2
   },
   "逆轉": {
     "last_seen": "2026-07-03",
@@ -1645,9 +1615,9 @@
     "days_seen": 1
   },
   "強勁": {
-    "last_seen": "2026-07-06",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-07-11",
+    "total_count": 28,
+    "days_seen": 2
   },
   "半導體與": {
     "last_seen": "2026-07-06",
@@ -1931,6 +1901,86 @@
   },
   "大健康產業": {
     "last_seen": "2026-07-10",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "標普": {
+    "last_seen": "2026-07-11",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "掛牌首日": {
+    "last_seen": "2026-07-11",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "赴美": {
+    "last_seen": "2026-07-11",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "證監會": {
+    "last_seen": "2026-07-11",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "董事": {
+    "last_seen": "2026-07-11",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "代理": {
+    "last_seen": "2026-07-11",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "首日飆": {
+    "last_seen": "2026-07-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "回神": {
+    "last_seen": "2026-07-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "警衛": {
+    "last_seen": "2026-07-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "魏哲家": {
+    "last_seen": "2026-07-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "回落": {
+    "last_seen": "2026-07-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "落水": {
+    "last_seen": "2026-07-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "引領": {
+    "last_seen": "2026-07-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "與半導體": {
+    "last_seen": "2026-07-11",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "意外": {
+    "last_seen": "2026-07-11",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "才是": {
+    "last_seen": "2026-07-11",
     "total_count": 12,
     "days_seen": 1
   }

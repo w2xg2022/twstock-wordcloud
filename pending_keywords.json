@@ -1,1 +1,30 @@
-{}
+{
+  "掛牌": {
+    "first_promoted": "2026-07-11",
+    "total_count": 80
+  },
+  "首日": {
+    "first_promoted": "2026-07-11",
+    "total_count": 40
+  },
+  "出口": {
+    "first_promoted": "2026-07-11",
+    "total_count": 32
+  },
+  "真正": {
+    "first_promoted": "2026-07-11",
+    "total_count": 34
+  },
+  "效應": {
+    "first_promoted": "2026-07-11",
+    "total_count": 32
+  },
+  "法說會": {
+    "first_promoted": "2026-07-11",
+    "total_count": 36
+  },
+  "通膨": {
+    "first_promoted": "2026-07-11",
+    "total_count": 32
+  }
+}
