@@ -26,5 +26,33 @@
   "通膨": {
     "first_promoted": "2026-07-11",
     "total_count": 32
+  },
+  "龍頭": {
+    "first_promoted": "2026-07-12",
+    "total_count": 34
+  },
+  "四大": {
+    "first_promoted": "2026-07-12",
+    "total_count": 38
+  },
+  "押注": {
+    "first_promoted": "2026-07-12",
+    "total_count": 36
+  },
+  "危機": {
+    "first_promoted": "2026-07-12",
+    "total_count": 30
+  },
+  "訊號": {
+    "first_promoted": "2026-07-12",
+    "total_count": 36
+  },
+  "韌性": {
+    "first_promoted": "2026-07-12",
+    "total_count": 30
+  },
+  "背後": {
+    "first_promoted": "2026-07-12",
+    "total_count": 32
   }
 }
