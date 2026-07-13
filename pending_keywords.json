@@ -24,8 +24,8 @@
     "total_count": 36
   },
   "通膨": {
-    "first_promoted": "2026-07-11",
-    "total_count": 32
+    "first_promoted": "2026-07-13",
+    "total_count": 30
   },
   "龍頭": {
     "first_promoted": "2026-07-12",
@@ -54,5 +54,57 @@
   "背後": {
     "first_promoted": "2026-07-12",
     "total_count": 32
+  },
+  "概念": {
+    "first_promoted": "2026-07-13",
+    "total_count": 106
+  },
+  "兆元": {
+    "first_promoted": "2026-07-13",
+    "total_count": 32
+  },
+  "升溫": {
+    "first_promoted": "2026-07-13",
+    "total_count": 46
+  },
+  "台積電法說": {
+    "first_promoted": "2026-07-13",
+    "total_count": 50
+  },
+  "逾千": {
+    "first_promoted": "2026-07-13",
+    "total_count": 34
+  },
+  "財報季": {
+    "first_promoted": "2026-07-13",
+    "total_count": 36
+  },
+  "補漲": {
+    "first_promoted": "2026-07-13",
+    "total_count": 34
+  },
+  "買盤": {
+    "first_promoted": "2026-07-13",
+    "total_count": 46
+  },
+  "衝突": {
+    "first_promoted": "2026-07-13",
+    "total_count": 38
+  },
+  "升級": {
+    "first_promoted": "2026-07-13",
+    "total_count": 46
+  },
+  "提前": {
+    "first_promoted": "2026-07-13",
+    "total_count": 34
+  },
+  "千億": {
+    "first_promoted": "2026-07-13",
+    "total_count": 32
+  },
+  "紀錄": {
+    "first_promoted": "2026-07-13",
+    "total_count": 38
   }
 }

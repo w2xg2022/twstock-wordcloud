@@ -119,11 +119,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "千億": {
-    "last_seen": "2026-06-16",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "台指期": {
     "last_seen": "2026-06-16",
     "total_count": 12,
@@ -850,9 +845,9 @@
     "days_seen": 1
   },
   "產品": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-13",
+    "total_count": 24,
+    "days_seen": 2
   },
   "開發": {
     "last_seen": "2026-07-03",
@@ -885,11 +880,6 @@
     "days_seen": 1
   },
   "史上第三": {
-    "last_seen": "2026-06-26",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "逾千": {
     "last_seen": "2026-06-26",
     "total_count": 14,
     "days_seen": 1
@@ -1150,9 +1140,9 @@
     "days_seen": 1
   },
   "吸金": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-13",
+    "total_count": 26,
+    "days_seen": 2
   },
   "前十": {
     "last_seen": "2026-06-30",
@@ -1210,9 +1200,9 @@
     "days_seen": 1
   },
   "大摩": {
-    "last_seen": "2026-07-01",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-13",
+    "total_count": 28,
+    "days_seen": 2
   },
   "科技股領軍": {
     "last_seen": "2026-07-01",
@@ -1248,11 +1238,6 @@
     "last_seen": "2026-07-01",
     "total_count": 8,
     "days_seen": 1
-  },
-  "紀錄": {
-    "last_seen": "2026-07-03",
-    "total_count": 22,
-    "days_seen": 2
   },
   "回升": {
     "last_seen": "2026-07-01",
@@ -1399,11 +1384,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "升級": {
-    "last_seen": "2026-07-09",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "計劃": {
     "last_seen": "2026-07-03",
     "total_count": 12,
@@ -1539,11 +1519,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "買盤": {
-    "last_seen": "2026-07-06",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "外資賣": {
     "last_seen": "2026-07-06",
     "total_count": 20,
@@ -1619,11 +1594,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "財報季": {
-    "last_seen": "2026-07-07",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "港股通": {
     "last_seen": "2026-07-07",
     "total_count": 18,
@@ -1654,11 +1624,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "提前": {
-    "last_seen": "2026-07-08",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "銀行": {
     "last_seen": "2026-07-08",
     "total_count": 18,
@@ -1670,11 +1635,6 @@
     "days_seen": 1
   },
   "終場": {
-    "last_seen": "2026-07-08",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "升溫": {
     "last_seen": "2026-07-08",
     "total_count": 16,
     "days_seen": 1
@@ -1710,11 +1670,6 @@
     "days_seen": 1
   },
   "熊市": {
-    "last_seen": "2026-07-09",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "衝突": {
     "last_seen": "2026-07-09",
     "total_count": 20,
     "days_seen": 1
@@ -1949,19 +1904,9 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "台積電法說": {
-    "last_seen": "2026-07-12",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "掛牌": {
     "last_seen": "2026-07-12",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "補漲": {
-    "last_seen": "2026-07-12",
-    "total_count": 16,
     "days_seen": 1
   },
   "觀察": {
@@ -2037,6 +1982,71 @@
   "這些族群": {
     "last_seen": "2026-07-12",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "走低": {
+    "last_seen": "2026-07-13",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "龍頭": {
+    "last_seen": "2026-07-13",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "科技巨頭": {
+    "last_seen": "2026-07-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "南亞科": {
+    "last_seen": "2026-07-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "單月": {
+    "last_seen": "2026-07-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "成熟": {
+    "last_seen": "2026-07-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "基地": {
+    "last_seen": "2026-07-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "近千點": {
+    "last_seen": "2026-07-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "矽晶圓": {
+    "last_seen": "2026-07-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "最強": {
+    "last_seen": "2026-07-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "訊號": {
+    "last_seen": "2026-07-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "南方": {
+    "last_seen": "2026-07-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "外資目標價": {
+    "last_seen": "2026-07-13",
+    "total_count": 14,
     "days_seen": 1
   }
 }
