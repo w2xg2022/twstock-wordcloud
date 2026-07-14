@@ -69,11 +69,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "結構": {
-    "last_seen": "2026-07-08",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "首度": {
     "last_seen": "2026-06-22",
     "total_count": 26,
@@ -224,11 +219,6 @@
     "total_count": 20,
     "days_seen": 2
   },
-  "開低": {
-    "last_seen": "2026-06-17",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "年底": {
     "last_seen": "2026-06-18",
     "total_count": 22,
@@ -288,11 +278,6 @@
     "last_seen": "2026-07-09",
     "total_count": 22,
     "days_seen": 2
-  },
-  "集團": {
-    "last_seen": "2026-06-30",
-    "total_count": 24,
-    "days_seen": 3
   },
   "不是": {
     "last_seen": "2026-07-02",
@@ -564,11 +549,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "崩跌": {
-    "last_seen": "2026-06-24",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "無人": {
     "last_seen": "2026-06-23",
     "total_count": 16,
@@ -645,9 +625,9 @@
     "days_seen": 2
   },
   "槓桿": {
-    "last_seen": "2026-06-23",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-14",
+    "total_count": 22,
+    "days_seen": 2
   },
   "國安": {
     "last_seen": "2026-06-23",
@@ -743,11 +723,6 @@
     "last_seen": "2026-06-24",
     "total_count": 10,
     "days_seen": 1
-  },
-  "費半重挫": {
-    "last_seen": "2026-06-29",
-    "total_count": 16,
-    "days_seen": 2
   },
   "下跌": {
     "last_seen": "2026-06-25",
@@ -895,9 +870,9 @@
     "days_seen": 1
   },
   "下殺": {
-    "last_seen": "2026-06-26",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-14",
+    "total_count": 28,
+    "days_seen": 2
   },
   "重摔": {
     "last_seen": "2026-06-28",
@@ -1435,9 +1410,9 @@
     "days_seen": 1
   },
   "逾千點": {
-    "last_seen": "2026-07-04",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-14",
+    "total_count": 28,
+    "days_seen": 2
   },
   "檢測": {
     "last_seen": "2026-07-04",
@@ -1544,11 +1519,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "南韓": {
-    "last_seen": "2026-07-06",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "TechNews": {
     "last_seen": "2026-07-06",
     "total_count": 18,
@@ -1629,11 +1599,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "午後": {
-    "last_seen": "2026-07-08",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "終場": {
     "last_seen": "2026-07-08",
     "total_count": 16,
@@ -1689,22 +1654,12 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "集中": {
-    "last_seen": "2026-07-09",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "百億": {
     "last_seen": "2026-07-09",
     "total_count": 14,
     "days_seen": 1
   },
   "會議": {
-    "last_seen": "2026-07-09",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "承壓": {
     "last_seen": "2026-07-09",
     "total_count": 14,
     "days_seen": 1
@@ -1760,11 +1715,6 @@
     "days_seen": 1
   },
   "推動": {
-    "last_seen": "2026-07-10",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "業績": {
     "last_seen": "2026-07-10",
     "total_count": 18,
     "days_seen": 1
@@ -2024,11 +1974,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "矽晶圓": {
-    "last_seen": "2026-07-13",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "最強": {
     "last_seen": "2026-07-13",
     "total_count": 16,
@@ -2046,6 +1991,86 @@
   },
   "外資目標價": {
     "last_seen": "2026-07-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "油價飆": {
+    "last_seen": "2026-07-14",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "基本": {
+    "last_seen": "2026-07-14",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "封鎖": {
+    "last_seen": "2026-07-14",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "局勢": {
+    "last_seen": "2026-07-14",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "同比": {
+    "last_seen": "2026-07-14",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "營收創": {
+    "last_seen": "2026-07-14",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "上修": {
+    "last_seen": "2026-07-14",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "油價狂飆": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "基本面": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "董事會": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "緊張": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "小漲": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "景氣": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "週一": {
+    "last_seen": "2026-07-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "同比增": {
+    "last_seen": "2026-07-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "上揚": {
+    "last_seen": "2026-07-14",
     "total_count": 14,
     "days_seen": 1
   }
