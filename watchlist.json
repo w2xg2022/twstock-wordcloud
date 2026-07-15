@@ -34,11 +34,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "主要": {
-    "last_seen": "2026-06-30",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "警告": {
     "last_seen": "2026-07-12",
     "total_count": 28,
@@ -112,11 +107,6 @@
   "Anthropic": {
     "last_seen": "2026-06-15",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "台指期": {
-    "last_seen": "2026-06-16",
-    "total_count": 12,
     "days_seen": 1
   },
   "外資喊": {
@@ -213,11 +203,6 @@
     "last_seen": "2026-06-17",
     "total_count": 10,
     "days_seen": 1
-  },
-  "還能": {
-    "last_seen": "2026-06-22",
-    "total_count": 20,
-    "days_seen": 2
   },
   "年底": {
     "last_seen": "2026-06-18",
@@ -699,16 +684,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "支撐": {
-    "last_seen": "2026-06-29",
-    "total_count": 26,
-    "days_seen": 2
-  },
-  "走高": {
-    "last_seen": "2026-06-24",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "研發": {
     "last_seen": "2026-06-30",
     "total_count": 18,
@@ -795,9 +770,9 @@
     "days_seen": 1
   },
   "力積電": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-15",
+    "total_count": 24,
+    "days_seen": 2
   },
   "日股收": {
     "last_seen": "2026-06-25",
@@ -815,9 +790,9 @@
     "days_seen": 1
   },
   "展望": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-15",
+    "total_count": 22,
+    "days_seen": 2
   },
   "產品": {
     "last_seen": "2026-07-13",
@@ -1145,9 +1120,9 @@
     "days_seen": 1
   },
   "信心": {
-    "last_seen": "2026-07-01",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-15",
+    "total_count": 28,
+    "days_seen": 2
   },
   "延長交易": {
     "last_seen": "2026-07-01",
@@ -1594,11 +1569,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "銀行": {
-    "last_seen": "2026-07-08",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "終場": {
     "last_seen": "2026-07-08",
     "total_count": 16,
@@ -1949,11 +1919,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "南亞科": {
-    "last_seen": "2026-07-13",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "單月": {
     "last_seen": "2026-07-13",
     "total_count": 18,
@@ -2019,11 +1984,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "營收創": {
-    "last_seen": "2026-07-14",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "上修": {
     "last_seen": "2026-07-14",
     "total_count": 18,
@@ -2071,6 +2031,86 @@
   },
   "上揚": {
     "last_seen": "2026-07-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "激勵": {
+    "last_seen": "2026-07-15",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "ASML": {
+    "last_seen": "2026-07-15",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "強彈": {
+    "last_seen": "2026-07-15",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "業績": {
+    "last_seen": "2026-07-15",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "集團": {
+    "last_seen": "2026-07-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "週二": {
+    "last_seen": "2026-07-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "醫藥": {
+    "last_seen": "2026-07-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "四大指數": {
+    "last_seen": "2026-07-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "法說前": {
+    "last_seen": "2026-07-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "開高走": {
+    "last_seen": "2026-07-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "預計": {
+    "last_seen": "2026-07-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "崩跌": {
+    "last_seen": "2026-07-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "飆逾": {
+    "last_seen": "2026-07-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "南韓": {
+    "last_seen": "2026-07-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "明年": {
+    "last_seen": "2026-07-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "結構": {
+    "last_seen": "2026-07-15",
     "total_count": 14,
     "days_seen": 1
   }

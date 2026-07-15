@@ -42,5 +42,49 @@
   "矽晶圓": {
     "first_promoted": "2026-07-14",
     "total_count": 32
+  },
+  "通膨降溫": {
+    "first_promoted": "2026-07-15",
+    "total_count": 70
+  },
+  "IBM": {
+    "first_promoted": "2026-07-15",
+    "total_count": 36
+  },
+  "CPI": {
+    "first_promoted": "2026-07-15",
+    "total_count": 32
+  },
+  "走高": {
+    "first_promoted": "2026-07-15",
+    "total_count": 34
+  },
+  "銀行": {
+    "first_promoted": "2026-07-15",
+    "total_count": 38
+  },
+  "台指期": {
+    "first_promoted": "2026-07-15",
+    "total_count": 30
+  },
+  "還能": {
+    "first_promoted": "2026-07-15",
+    "total_count": 36
+  },
+  "南亞科": {
+    "first_promoted": "2026-07-15",
+    "total_count": 32
+  },
+  "營收創": {
+    "first_promoted": "2026-07-15",
+    "total_count": 34
+  },
+  "支撐": {
+    "first_promoted": "2026-07-15",
+    "total_count": 40
+  },
+  "主要": {
+    "first_promoted": "2026-07-15",
+    "total_count": 36
   }
 }
