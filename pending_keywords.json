@@ -86,5 +86,41 @@
   "主要": {
     "first_promoted": "2026-07-15",
     "total_count": 36
+  },
+  "資本支出": {
+    "first_promoted": "2026-07-16",
+    "total_count": 48
+  },
+  "半導體設備": {
+    "first_promoted": "2026-07-16",
+    "total_count": 54
+  },
+  "上調": {
+    "first_promoted": "2026-07-16",
+    "total_count": 40
+  },
+  "無人": {
+    "first_promoted": "2026-07-16",
+    "total_count": 38
+  },
+  "上修": {
+    "first_promoted": "2026-07-16",
+    "total_count": 38
+  },
+  "ASML": {
+    "first_promoted": "2026-07-16",
+    "total_count": 46
+  },
+  "科技巨頭": {
+    "first_promoted": "2026-07-16",
+    "total_count": 34
+  },
+  "逼近": {
+    "first_promoted": "2026-07-16",
+    "total_count": 40
+  },
+  "啟動": {
+    "first_promoted": "2026-07-16",
+    "total_count": 44
   }
 }

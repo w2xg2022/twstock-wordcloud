@@ -74,11 +74,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "逼近": {
-    "last_seen": "2026-07-11",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "衝擊": {
     "last_seen": "2026-06-26",
     "total_count": 20,
@@ -283,11 +278,6 @@
     "last_seen": "2026-06-17",
     "total_count": 8,
     "days_seen": 1
-  },
-  "啟動": {
-    "last_seen": "2026-07-03",
-    "total_count": 28,
-    "days_seen": 3
   },
   "中鋼": {
     "last_seen": "2026-06-18",
@@ -530,11 +520,6 @@
     "days_seen": 3
   },
   "湧現": {
-    "last_seen": "2026-06-23",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "無人": {
     "last_seen": "2026-06-23",
     "total_count": 16,
     "days_seen": 1
@@ -999,11 +984,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "上調": {
-    "last_seen": "2026-06-30",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "長線": {
     "last_seen": "2026-06-29",
     "total_count": 8,
@@ -1434,11 +1414,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "資本支出": {
-    "last_seen": "2026-07-05",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "大立光": {
     "last_seen": "2026-07-05",
     "total_count": 10,
@@ -1639,11 +1614,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "半導體設備": {
-    "last_seen": "2026-07-10",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "三大指": {
     "last_seen": "2026-07-09",
     "total_count": 12,
@@ -1840,9 +1810,9 @@
     "days_seen": 1
   },
   "台積法說": {
-    "last_seen": "2026-07-12",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-16",
+    "total_count": 26,
+    "days_seen": 2
   },
   "百萬": {
     "last_seen": "2026-07-12",
@@ -1914,11 +1884,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "科技巨頭": {
-    "last_seen": "2026-07-13",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "單月": {
     "last_seen": "2026-07-13",
     "total_count": 18,
@@ -1984,11 +1949,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "上修": {
-    "last_seen": "2026-07-14",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "油價狂飆": {
     "last_seen": "2026-07-14",
     "total_count": 16,
@@ -2035,11 +1995,6 @@
     "days_seen": 1
   },
   "激勵": {
-    "last_seen": "2026-07-15",
-    "total_count": 26,
-    "days_seen": 1
-  },
-  "ASML": {
     "last_seen": "2026-07-15",
     "total_count": 26,
     "days_seen": 1
@@ -2111,6 +2066,106 @@
   },
   "結構": {
     "last_seen": "2026-07-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "銀行": {
+    "last_seen": "2026-07-16",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "主要": {
+    "last_seen": "2026-07-16",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "智能": {
+    "last_seen": "2026-07-16",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "SEMI": {
+    "last_seen": "2026-07-16",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "首創": {
+    "last_seen": "2026-07-16",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "PPI": {
+    "last_seen": "2026-07-16",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "台塑": {
+    "last_seen": "2026-07-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "長鑫": {
+    "last_seen": "2026-07-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "通脹": {
+    "last_seen": "2026-07-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "戰略": {
+    "last_seen": "2026-07-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "增長": {
+    "last_seen": "2026-07-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "財報利多": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "年營收": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "不只": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "大賺": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "轉折": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "週三": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "曝光": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "週四": {
+    "last_seen": "2026-07-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "投資美國": {
+    "last_seen": "2026-07-16",
     "total_count": 14,
     "days_seen": 1
   }
