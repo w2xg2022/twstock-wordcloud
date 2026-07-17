@@ -299,11 +299,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "生態": {
-    "last_seen": "2026-06-18",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "競爭力": {
     "last_seen": "2026-06-18",
     "total_count": 12,
@@ -589,16 +584,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "急殺": {
-    "last_seen": "2026-07-02",
-    "total_count": 22,
-    "days_seen": 2
-  },
-  "槓桿": {
-    "last_seen": "2026-07-14",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "國安": {
     "last_seen": "2026-06-23",
     "total_count": 8,
@@ -634,11 +619,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "最慘": {
-    "last_seen": "2026-06-24",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "單日": {
     "last_seen": "2026-06-24",
     "total_count": 12,
@@ -663,11 +643,6 @@
     "last_seen": "2026-06-24",
     "total_count": 10,
     "days_seen": 1
-  },
-  "史上最大": {
-    "last_seen": "2026-06-25",
-    "total_count": 18,
-    "days_seen": 2
   },
   "研發": {
     "last_seen": "2026-06-30",
@@ -764,11 +739,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "慘遭": {
-    "last_seen": "2026-06-26",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "出貨": {
     "last_seen": "2026-06-25",
     "total_count": 8,
@@ -824,19 +794,9 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "解析": {
-    "last_seen": "2026-06-26",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "下殺": {
     "last_seen": "2026-07-14",
     "total_count": 28,
-    "days_seen": 2
-  },
-  "重摔": {
-    "last_seen": "2026-06-28",
-    "total_count": 20,
     "days_seen": 2
   },
   "延後": {
@@ -848,11 +808,6 @@
     "last_seen": "2026-06-26",
     "total_count": 12,
     "days_seen": 1
-  },
-  "跌幅": {
-    "last_seen": "2026-07-02",
-    "total_count": 28,
-    "days_seen": 3
   },
   "食品": {
     "last_seen": "2026-06-26",
@@ -995,9 +950,9 @@
     "days_seen": 1
   },
   "存儲": {
-    "last_seen": "2026-06-29",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-17",
+    "total_count": 26,
+    "days_seen": 2
   },
   "維持": {
     "last_seen": "2026-06-29",
@@ -1259,11 +1214,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "血洗": {
-    "last_seen": "2026-07-02",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "成為": {
     "last_seen": "2026-07-02",
     "total_count": 8,
@@ -1489,11 +1439,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "盤後交易": {
-    "last_seen": "2026-07-06",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "上演": {
     "last_seen": "2026-07-06",
     "total_count": 14,
@@ -1522,11 +1467,6 @@
   "股領漲": {
     "last_seen": "2026-07-07",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "拖累美股": {
-    "last_seen": "2026-07-08",
-    "total_count": 24,
     "days_seen": 1
   },
   "重挫拖累": {
@@ -1757,16 +1697,6 @@
   "警衛": {
     "last_seen": "2026-07-11",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "魏哲家": {
-    "last_seen": "2026-07-11",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "回落": {
-    "last_seen": "2026-07-11",
-    "total_count": 14,
     "days_seen": 1
   },
   "落水": {
@@ -2164,9 +2094,59 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "投資美國": {
-    "last_seen": "2026-07-16",
-    "total_count": 14,
+  "季線": {
+    "last_seen": "2026-07-17",
+    "total_count": 29,
+    "days_seen": 1
+  },
+  "史上最慘": {
+    "last_seen": "2026-07-17",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "Netflix": {
+    "last_seen": "2026-07-17",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "全球資": {
+    "last_seen": "2026-07-17",
+    "total_count": 21,
+    "days_seen": 1
+  },
+  "成熟製程": {
+    "last_seen": "2026-07-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "加碼投資": {
+    "last_seen": "2026-07-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "二季": {
+    "last_seen": "2026-07-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "支撐": {
+    "last_seen": "2026-07-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "費半重挫": {
+    "last_seen": "2026-07-17",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "零售銷售": {
+    "last_seen": "2026-07-17",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "法說後": {
+    "last_seen": "2026-07-17",
+    "total_count": 16,
     "days_seen": 1
   }
 }
