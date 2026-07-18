@@ -124,16 +124,16 @@
     "total_count": 44
   },
   "史上最大": {
-    "first_promoted": "2026-07-17",
-    "total_count": 64
+    "first_promoted": "2026-07-18",
+    "total_count": 30
   },
   "最大跌點": {
     "first_promoted": "2026-07-17",
     "total_count": 46
   },
   "血洗": {
-    "first_promoted": "2026-07-17",
-    "total_count": 48
+    "first_promoted": "2026-07-18",
+    "total_count": 30
   },
   "最慘": {
     "first_promoted": "2026-07-17",
@@ -194,5 +194,53 @@
   "重摔": {
     "first_promoted": "2026-07-17",
     "total_count": 36
+  },
+  "熊市": {
+    "first_promoted": "2026-07-18",
+    "total_count": 78
+  },
+  "股暴跌": {
+    "first_promoted": "2026-07-18",
+    "total_count": 62
+  },
+  "下周": {
+    "first_promoted": "2026-07-18",
+    "total_count": 46
+  },
+  "億美元": {
+    "first_promoted": "2026-07-18",
+    "total_count": 32
+  },
+  "下殺": {
+    "first_promoted": "2026-07-18",
+    "total_count": 46
+  },
+  "衝擊": {
+    "first_promoted": "2026-07-18",
+    "total_count": 36
+  },
+  "季線": {
+    "first_promoted": "2026-07-18",
+    "total_count": 43
+  },
+  "疑慮": {
+    "first_promoted": "2026-07-18",
+    "total_count": 30
+  },
+  "產能": {
+    "first_promoted": "2026-07-18",
+    "total_count": 30
+  },
+  "研發": {
+    "first_promoted": "2026-07-18",
+    "total_count": 32
+  },
+  "智能": {
+    "first_promoted": "2026-07-18",
+    "total_count": 36
+  },
+  "臺灣": {
+    "first_promoted": "2026-07-18",
+    "total_count": 34
   }
 }

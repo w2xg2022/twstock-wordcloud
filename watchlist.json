@@ -30,9 +30,9 @@
     "days_seen": 1
   },
   "繼續": {
-    "last_seen": "2026-06-15",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "警告": {
     "last_seen": "2026-07-12",
@@ -73,11 +73,6 @@
     "last_seen": "2026-06-15",
     "total_count": 8,
     "days_seen": 1
-  },
-  "衝擊": {
-    "last_seen": "2026-06-26",
-    "total_count": 20,
-    "days_seen": 2
   },
   "這兩": {
     "last_seen": "2026-06-15",
@@ -289,11 +284,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "產能": {
-    "last_seen": "2026-06-18",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "買進": {
     "last_seen": "2026-06-18",
     "total_count": 14,
@@ -353,11 +343,6 @@
     "last_seen": "2026-06-18",
     "total_count": 10,
     "days_seen": 1
-  },
-  "下周": {
-    "last_seen": "2026-07-11",
-    "total_count": 22,
-    "days_seen": 2
   },
   "配息": {
     "last_seen": "2026-06-22",
@@ -620,13 +605,8 @@
     "days_seen": 1
   },
   "單日": {
-    "last_seen": "2026-06-24",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "臺灣": {
-    "last_seen": "2026-06-27",
-    "total_count": 20,
+    "last_seen": "2026-07-18",
+    "total_count": 26,
     "days_seen": 2
   },
   "個月": {
@@ -643,11 +623,6 @@
     "last_seen": "2026-06-24",
     "total_count": 10,
     "days_seen": 1
-  },
-  "研發": {
-    "last_seen": "2026-06-30",
-    "total_count": 18,
-    "days_seen": 2
   },
   "優勢": {
     "last_seen": "2026-06-24",
@@ -672,11 +647,6 @@
   "資本": {
     "last_seen": "2026-06-25",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "億美元": {
-    "last_seen": "2026-06-25",
-    "total_count": 12,
     "days_seen": 1
   },
   "支出": {
@@ -769,11 +739,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "股暴跌": {
-    "last_seen": "2026-06-26",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "史上第二": {
     "last_seen": "2026-06-26",
     "total_count": 16,
@@ -791,11 +756,6 @@
   },
   "成本": {
     "last_seen": "2026-07-11",
-    "total_count": 28,
-    "days_seen": 2
-  },
-  "下殺": {
-    "last_seen": "2026-07-14",
     "total_count": 28,
     "days_seen": 2
   },
@@ -905,9 +865,9 @@
     "days_seen": 1
   },
   "恐慌": {
-    "last_seen": "2026-06-28",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-18",
+    "total_count": 24,
+    "days_seen": 2
   },
   "單周": {
     "last_seen": "2026-06-28",
@@ -1139,11 +1099,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "疑慮": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 2
-  },
   "Nike": {
     "last_seen": "2026-07-01",
     "total_count": 8,
@@ -1335,9 +1290,9 @@
     "days_seen": 1
   },
   "還有": {
-    "last_seen": "2026-07-04",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-18",
+    "total_count": 22,
+    "days_seen": 2
   },
   "多空": {
     "last_seen": "2026-07-04",
@@ -1517,11 +1472,6 @@
   "博通": {
     "last_seen": "2026-07-09",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "熊市": {
-    "last_seen": "2026-07-09",
-    "total_count": 20,
     "days_seen": 1
   },
   "美伊停火": {
@@ -2009,11 +1959,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "智能": {
-    "last_seen": "2026-07-16",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "SEMI": {
     "last_seen": "2026-07-16",
     "total_count": 22,
@@ -2094,11 +2039,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "季線": {
-    "last_seen": "2026-07-17",
-    "total_count": 29,
-    "days_seen": 1
-  },
   "史上最慘": {
     "last_seen": "2026-07-17",
     "total_count": 26,
@@ -2147,6 +2087,66 @@
   "法說後": {
     "last_seen": "2026-07-17",
     "total_count": 16,
+    "days_seen": 1
+  },
+  "遭血洗": {
+    "last_seen": "2026-07-18",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "融資": {
+    "last_seen": "2026-07-18",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "時新聞": {
+    "last_seen": "2026-07-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "作家": {
+    "last_seen": "2026-07-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "抄底": {
+    "last_seen": "2026-07-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "跌入熊市": {
+    "last_seen": "2026-07-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "股持續": {
+    "last_seen": "2026-07-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "槓桿": {
+    "last_seen": "2026-07-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "調整": {
+    "last_seen": "2026-07-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "跌落": {
+    "last_seen": "2026-07-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "人民": {
+    "last_seen": "2026-07-18",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "台股慘崩": {
+    "last_seen": "2026-07-18",
+    "total_count": 12,
     "days_seen": 1
   }
 }
