@@ -110,3 +110,6 @@ ettoday
 technews
 sk
 fx168
+ibm
+cpi
+asml
