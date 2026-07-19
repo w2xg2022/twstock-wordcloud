@@ -254,11 +254,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "不是": {
-    "last_seen": "2026-07-02",
-    "total_count": 16,
-    "days_seen": 2
-  },
   "引擎": {
     "last_seen": "2026-06-17",
     "total_count": 8,
@@ -317,11 +312,6 @@
   "封測": {
     "last_seen": "2026-07-06",
     "total_count": 28,
-    "days_seen": 2
-  },
-  "政府": {
-    "last_seen": "2026-07-01",
-    "total_count": 20,
     "days_seen": 2
   },
   "宣布": {
@@ -480,14 +470,14 @@
     "days_seen": 1
   },
   "健康": {
-    "last_seen": "2026-06-22",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-19",
+    "total_count": 20,
+    "days_seen": 2
   },
   "機器": {
-    "last_seen": "2026-06-22",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-19",
+    "total_count": 20,
+    "days_seen": 2
   },
   "支持": {
     "last_seen": "2026-06-22",
@@ -630,9 +620,9 @@
     "days_seen": 1
   },
   "文化": {
-    "last_seen": "2026-06-24",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-19",
+    "total_count": 20,
+    "days_seen": 2
   },
   "下跌": {
     "last_seen": "2026-06-25",
@@ -713,11 +703,6 @@
     "last_seen": "2026-06-25",
     "total_count": 8,
     "days_seen": 1
-  },
-  "展望": {
-    "last_seen": "2026-07-15",
-    "total_count": 22,
-    "days_seen": 2
   },
   "產品": {
     "last_seen": "2026-07-13",
@@ -863,11 +848,6 @@
     "last_seen": "2026-06-28",
     "total_count": 12,
     "days_seen": 1
-  },
-  "恐慌": {
-    "last_seen": "2026-07-18",
-    "total_count": 24,
-    "days_seen": 2
   },
   "單周": {
     "last_seen": "2026-06-28",
@@ -1299,11 +1279,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "擴產": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 2
-  },
   "社區": {
     "last_seen": "2026-07-04",
     "total_count": 8,
@@ -1550,9 +1525,9 @@
     "days_seen": 1
   },
   "高雄": {
-    "last_seen": "2026-07-10",
-    "total_count": 17,
-    "days_seen": 1
+    "last_seen": "2026-07-19",
+    "total_count": 27,
+    "days_seen": 2
   },
   "放颱風假": {
     "last_seen": "2026-07-10",
@@ -1784,11 +1759,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "最強": {
-    "last_seen": "2026-07-13",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "訊號": {
     "last_seen": "2026-07-13",
     "total_count": 16,
@@ -2005,9 +1975,9 @@
     "days_seen": 1
   },
   "年營收": {
-    "last_seen": "2026-07-16",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-07-19",
+    "total_count": 26,
+    "days_seen": 2
   },
   "不只": {
     "last_seen": "2026-07-16",
@@ -2049,11 +2019,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "全球資": {
-    "last_seen": "2026-07-17",
-    "total_count": 21,
-    "days_seen": 1
-  },
   "成熟製程": {
     "last_seen": "2026-07-17",
     "total_count": 18,
@@ -2090,11 +2055,6 @@
     "days_seen": 1
   },
   "遭血洗": {
-    "last_seen": "2026-07-18",
-    "total_count": 22,
-    "days_seen": 1
-  },
-  "融資": {
     "last_seen": "2026-07-18",
     "total_count": 22,
     "days_seen": 1
@@ -2147,6 +2107,91 @@
   "台股慘崩": {
     "last_seen": "2026-07-18",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "兩岸": {
+    "last_seen": "2026-07-19",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "Kimi": {
+    "last_seen": "2026-07-19",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "宣明智": {
+    "last_seen": "2026-07-19",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "世代": {
+    "last_seen": "2026-07-19",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "毛利": {
+    "last_seen": "2026-07-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "家揭": {
+    "last_seen": "2026-07-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "K3": {
+    "last_seen": "2026-07-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "平台": {
+    "last_seen": "2026-07-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "生醫": {
+    "last_seen": "2026-07-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "DeepSeek": {
+    "last_seen": "2026-07-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "半導體材料": {
+    "last_seen": "2026-07-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "產業發展": {
+    "last_seen": "2026-07-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股災": {
+    "last_seen": "2026-07-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "城市": {
+    "last_seen": "2026-07-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "時刻": {
+    "last_seen": "2026-07-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "全球資金": {
+    "last_seen": "2026-07-19",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "人工智慧": {
+    "last_seen": "2026-07-19",
+    "total_count": 8,
     "days_seen": 1
   }
 }
