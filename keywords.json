@@ -54,13 +54,6 @@
       ]
     },
     {
-      "name": "矽光子",
-      "synonyms": [
-        "矽光子",
-        "Silicon Photonics"
-      ]
-    },
-    {
       "name": "覆晶封裝",
       "synonyms": [
         "覆晶封裝",
@@ -79,6 +72,12 @@
       "synonyms": [
         "扇出型封裝",
         "Fan-Out"
+      ]
+    },
+    {
+      "name": "CoPoS",
+      "synonyms": [
+        "CoPoS"
       ]
     }
   ],
@@ -172,12 +171,6 @@
       "synonyms": [
         "NAND Flash",
         "NAND快閃記憶體"
-      ]
-    },
-    {
-      "name": "記憶體模組",
-      "synonyms": [
-        "記憶體模組"
       ]
     },
     {
@@ -292,7 +285,9 @@
       "name": "衛星通訊",
       "synonyms": [
         "衛星通訊",
-        "Satellite Communication"
+        "Satellite Communication",
+        "衛星互聯網",
+        "Satellite Internet"
       ]
     },
     {
@@ -333,6 +328,12 @@
       "synonyms": [
         "星鏈",
         "Starlink"
+      ]
+    },
+    {
+      "name": "SpaceX",
+      "synonyms": [
+        "SpaceX"
       ]
     }
   ],
@@ -467,12 +468,7 @@
       "synonyms": [
         "太陽能",
         "Solar",
-        "太陽能板"
-      ]
-    },
-    {
-      "name": "光伏",
-      "synonyms": [
+        "太陽能板",
         "光伏",
         "Photovoltaic"
       ]
@@ -548,23 +544,10 @@
       ]
     },
     {
-      "name": "衛星互聯網",
-      "synonyms": [
-        "衛星互聯網",
-        "Satellite Internet"
-      ]
-    },
-    {
       "name": "光通訊",
       "synonyms": [
         "光通訊",
         "Optical Communication"
-      ]
-    },
-    {
-      "name": "矽光子模組",
-      "synonyms": [
-        "矽光子模組"
       ]
     },
     {
@@ -586,6 +569,13 @@
       "synonyms": [
         "交換器",
         "Switch"
+      ]
+    },
+    {
+      "name": "矽光子",
+      "synonyms": [
+        "矽光子",
+        "Silicon Photonics"
       ]
     }
   ],
@@ -711,20 +701,13 @@
       ]
     },
     {
-      "name": "散熱模組",
+      "name": "功率半導體",
       "synonyms": [
-        "散熱模組",
-        "Thermal Module"
+        "功率半導體"
       ]
     }
   ],
-  "自動新增題材": [
-    {
-      "name": "SpaceX",
-      "synonyms": [
-        "SpaceX"
-      ]
-    },
+  "總經與其他": [
     {
       "name": "Fed",
       "synonyms": [
@@ -747,36 +730,6 @@
       "name": "法說",
       "synonyms": [
         "法說"
-      ]
-    },
-    {
-      "name": "CoPoS",
-      "synonyms": [
-        "CoPoS"
-      ]
-    },
-    {
-      "name": "功率半導體",
-      "synonyms": [
-        "功率半導體"
-      ]
-    },
-    {
-      "name": "玻纖布",
-      "synonyms": [
-        "玻纖布"
-      ]
-    },
-    {
-      "name": "矽晶圓",
-      "synonyms": [
-        "矽晶圓"
-      ]
-    },
-    {
-      "name": "半導體設備",
-      "synonyms": [
-        "半導體設備"
       ]
     }
   ]

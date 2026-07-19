@@ -45,7 +45,7 @@ def main():
     group.add_argument("--list", action="store_true")
     group.add_argument("--approve", metavar="WORD")
     group.add_argument("--reject", metavar="WORD")
-    parser.add_argument("category", nargs="?", default="自動新增題材", help="核准時要放入的分類")
+    parser.add_argument("category", nargs="?", default="總經與其他", help="核准時要放入的分類")
     parser.add_argument("synonyms", nargs="*", help="核准時的額外同義詞")
     args = parser.parse_args()
 

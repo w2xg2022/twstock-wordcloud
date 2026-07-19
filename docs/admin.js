@@ -88,7 +88,7 @@ async function addStopword(word) {
 // 預設分類(頁面一開啟就有選項)，載入keywords.json後會用實際分類覆蓋
 const DEFAULT_CATEGORIES = [
   "半導體封裝", "AI", "記憶體", "軍工國防", "衛星通訊", "電動車",
-  "機器人自動化", "綠能儲能", "通訊網路", "生技醫療", "其他題材", "自動新增題材",
+  "機器人自動化", "綠能儲能", "通訊網路", "生技醫療", "其他題材", "總經與其他",
 ];
 let categoriesCache = [...DEFAULT_CATEGORIES];
 let pendingCount = 0;
@@ -105,7 +105,7 @@ function renderPending(pending) {
     .map((word) => {
       const info = pending[word];
       const options = categoriesCache
-        .map((c) => `<option value="${c}" ${c === "自動新增題材" ? "selected" : ""}>${c}</option>`)
+        .map((c) => `<option value="${c}" ${c === "總經與其他" ? "selected" : ""}>${c}</option>`)
         .join("");
       return `
       <div class="pending-item" data-word="${word}">
@@ -144,7 +144,7 @@ function fillManualCategories() {
   const sel = document.getElementById("manual-category");
   if (!sel) return;
   sel.innerHTML = categoriesCache
-    .map((c) => `<option value="${c}" ${c === "自動新增題材" ? "selected" : ""}>${c}</option>`)
+    .map((c) => `<option value="${c}" ${c === "總經與其他" ? "selected" : ""}>${c}</option>`)
     .join("");
 }
 
@@ -183,7 +183,7 @@ async function manualAdd() {
       log("請先輸入題材名稱");
       return;
     }
-    const category = document.getElementById("manual-category").value || "自動新增題材";
+    const category = document.getElementById("manual-category").value || "總經與其他";
     const synonyms = document.getElementById("manual-synonyms").value
       .split(",").map((s) => s.trim()).filter(Boolean);
 
