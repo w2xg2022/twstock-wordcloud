@@ -30,5 +30,61 @@
   "政府": {
     "first_promoted": "2026-07-19",
     "total_count": 30
+  },
+  "撐盤": {
+    "first_promoted": "2026-07-20",
+    "total_count": 34
+  },
+  "聯電": {
+    "first_promoted": "2026-07-20",
+    "total_count": 32
+  },
+  "散戶": {
+    "first_promoted": "2026-07-20",
+    "total_count": 54
+  },
+  "機會": {
+    "first_promoted": "2026-07-20",
+    "total_count": 34
+  },
+  "Kimi": {
+    "first_promoted": "2026-07-20",
+    "total_count": 38
+  },
+  "觀察": {
+    "first_promoted": "2026-07-20",
+    "total_count": 32
+  },
+  "支出": {
+    "first_promoted": "2026-07-20",
+    "total_count": 30
+  },
+  "週一": {
+    "first_promoted": "2026-07-20",
+    "total_count": 34
+  },
+  "明年": {
+    "first_promoted": "2026-07-20",
+    "total_count": 32
+  },
+  "除息": {
+    "first_promoted": "2026-07-20",
+    "total_count": 32
+  },
+  "個月": {
+    "first_promoted": "2026-07-20",
+    "total_count": 36
+  },
+  "基本面": {
+    "first_promoted": "2026-07-20",
+    "total_count": 30
+  },
+  "波動": {
+    "first_promoted": "2026-07-20",
+    "total_count": 30
+  },
+  "TradingView": {
+    "first_promoted": "2026-07-20",
+    "total_count": 41
   }
 }

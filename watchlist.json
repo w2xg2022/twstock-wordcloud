@@ -134,11 +134,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "散戶": {
-    "last_seen": "2026-07-03",
-    "total_count": 28,
-    "days_seen": 3
-  },
   "地緣": {
     "last_seen": "2026-06-16",
     "total_count": 8,
@@ -165,11 +160,6 @@
     "days_seen": 1
   },
   "半導體產": {
-    "last_seen": "2026-06-17",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "機會": {
     "last_seen": "2026-06-17",
     "total_count": 12,
     "days_seen": 1
@@ -484,11 +474,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "TradingView": {
-    "last_seen": "2026-07-02",
-    "total_count": 27,
-    "days_seen": 3
-  },
   "湧現": {
     "last_seen": "2026-06-23",
     "total_count": 16,
@@ -599,11 +584,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "個月": {
-    "last_seen": "2026-06-29",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "金轉": {
     "last_seen": "2026-06-24",
     "total_count": 12,
@@ -637,11 +617,6 @@
   "資本": {
     "last_seen": "2026-06-25",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "支出": {
-    "last_seen": "2026-06-25",
-    "total_count": 12,
     "days_seen": 1
   },
   "盤後大漲": {
@@ -885,9 +860,9 @@
     "days_seen": 1
   },
   "大戶": {
-    "last_seen": "2026-06-29",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-20",
+    "total_count": 24,
+    "days_seen": 2
   },
   "存儲": {
     "last_seen": "2026-07-17",
@@ -1164,11 +1139,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "除息": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "非農就業": {
     "last_seen": "2026-07-03",
     "total_count": 14,
@@ -1245,9 +1215,9 @@
     "days_seen": 1
   },
   "先看": {
-    "last_seen": "2026-07-04",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-20",
+    "total_count": 28,
+    "days_seen": 2
   },
   "逾千點": {
     "last_seen": "2026-07-14",
@@ -1420,11 +1390,6 @@
     "days_seen": 1
   },
   "生產": {
-    "last_seen": "2026-07-08",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "波動": {
     "last_seen": "2026-07-08",
     "total_count": 16,
     "days_seen": 1
@@ -1654,11 +1619,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "觀察": {
-    "last_seen": "2026-07-12",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "這些": {
     "last_seen": "2026-07-12",
     "total_count": 14,
@@ -1804,11 +1764,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "基本面": {
-    "last_seen": "2026-07-14",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "董事會": {
     "last_seen": "2026-07-14",
     "total_count": 16,
@@ -1825,11 +1780,6 @@
     "days_seen": 1
   },
   "景氣": {
-    "last_seen": "2026-07-14",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "週一": {
     "last_seen": "2026-07-14",
     "total_count": 16,
     "days_seen": 1
@@ -1905,11 +1855,6 @@
     "days_seen": 1
   },
   "南韓": {
-    "last_seen": "2026-07-15",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "明年": {
     "last_seen": "2026-07-15",
     "total_count": 14,
     "days_seen": 1
@@ -2100,9 +2045,9 @@
     "days_seen": 1
   },
   "人民": {
-    "last_seen": "2026-07-18",
-    "total_count": 13,
-    "days_seen": 1
+    "last_seen": "2026-07-20",
+    "total_count": 29,
+    "days_seen": 2
   },
   "台股慘崩": {
     "last_seen": "2026-07-18",
@@ -2112,11 +2057,6 @@
   "兩岸": {
     "last_seen": "2026-07-19",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "Kimi": {
-    "last_seen": "2026-07-19",
-    "total_count": 18,
     "days_seen": 1
   },
   "宣明智": {
@@ -2192,6 +2132,71 @@
   "人工智慧": {
     "last_seen": "2026-07-19",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "止跌": {
+    "last_seen": "2026-07-20",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "震盪逾": {
+    "last_seen": "2026-07-20",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "出手": {
+    "last_seen": "2026-07-20",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "去槓桿": {
+    "last_seen": "2026-07-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "緯創": {
+    "last_seen": "2026-07-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "融資": {
+    "last_seen": "2026-07-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "月之暗面": {
+    "last_seen": "2026-07-20",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "風向": {
+    "last_seen": "2026-07-20",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "指期": {
+    "last_seen": "2026-07-20",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "理由": {
+    "last_seen": "2026-07-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "考驗": {
+    "last_seen": "2026-07-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "增持": {
+    "last_seen": "2026-07-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "千萬": {
+    "last_seen": "2026-07-20",
+    "total_count": 14,
     "days_seen": 1
   }
 }
