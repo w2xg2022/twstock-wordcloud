@@ -34,11 +34,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "警告": {
-    "last_seen": "2026-07-12",
-    "total_count": 28,
-    "days_seen": 3
-  },
   "力行產業道路": {
     "last_seen": "2026-06-15",
     "total_count": 8,
@@ -628,11 +623,6 @@
     "last_seen": "2026-06-25",
     "total_count": 10,
     "days_seen": 1
-  },
-  "股走勢": {
-    "last_seen": "2026-06-29",
-    "total_count": 18,
-    "days_seen": 2
   },
   "財測": {
     "last_seen": "2026-06-25",
@@ -1349,11 +1339,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "國巨": {
-    "last_seen": "2026-07-07",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "表現": {
     "last_seen": "2026-07-07",
     "total_count": 22,
@@ -1474,11 +1459,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "開始": {
-    "last_seen": "2026-07-10",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "價值": {
     "last_seen": "2026-07-10",
     "total_count": 18,
@@ -1575,11 +1555,6 @@
     "days_seen": 1
   },
   "首日飆": {
-    "last_seen": "2026-07-11",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "回神": {
     "last_seen": "2026-07-11",
     "total_count": 16,
     "days_seen": 1
@@ -1799,11 +1774,6 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "強彈": {
-    "last_seen": "2026-07-15",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "業績": {
     "last_seen": "2026-07-15",
     "total_count": 22,
@@ -1900,16 +1870,6 @@
     "days_seen": 1
   },
   "通脹": {
-    "last_seen": "2026-07-16",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "戰略": {
-    "last_seen": "2026-07-16",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "增長": {
     "last_seen": "2026-07-16",
     "total_count": 18,
     "days_seen": 1
@@ -2085,9 +2045,9 @@
     "days_seen": 1
   },
   "平台": {
-    "last_seen": "2026-07-19",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-21",
+    "total_count": 26,
+    "days_seen": 2
   },
   "生醫": {
     "last_seen": "2026-07-19",
@@ -2132,11 +2092,6 @@
   "人工智慧": {
     "last_seen": "2026-07-19",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "止跌": {
-    "last_seen": "2026-07-20",
-    "total_count": 24,
     "days_seen": 1
   },
   "震盪逾": {
@@ -2197,6 +2152,101 @@
   "千萬": {
     "last_seen": "2026-07-20",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "永續": {
+    "last_seen": "2026-07-21",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "國家隊": {
+    "last_seen": "2026-07-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "避險": {
+    "last_seen": "2026-07-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "建設": {
+    "last_seen": "2026-07-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "ttv": {
+    "last_seen": "2026-07-21",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "創史上最大": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "財報周": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "超預期": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "填息": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "機會": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "個月": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "週一": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "CCL": {
+    "last_seen": "2026-07-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "指數開高": {
+    "last_seen": "2026-07-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "前副理": {
+    "last_seen": "2026-07-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "創紀錄": {
+    "last_seen": "2026-07-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "電腦": {
+    "last_seen": "2026-07-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Nebius": {
+    "last_seen": "2026-07-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "晶片股回": {
+    "last_seen": "2026-07-21",
+    "total_count": 12,
     "days_seen": 1
   }
 }

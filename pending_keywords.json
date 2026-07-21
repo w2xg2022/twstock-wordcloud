@@ -86,5 +86,45 @@
   "TradingView": {
     "first_promoted": "2026-07-20",
     "total_count": 41
+  },
+  "最大漲點": {
+    "first_promoted": "2026-07-21",
+    "total_count": 42
+  },
+  "國巨": {
+    "first_promoted": "2026-07-21",
+    "total_count": 48
+  },
+  "強彈": {
+    "first_promoted": "2026-07-21",
+    "total_count": 50
+  },
+  "回神": {
+    "first_promoted": "2026-07-21",
+    "total_count": 40
+  },
+  "戰略": {
+    "first_promoted": "2026-07-21",
+    "total_count": 40
+  },
+  "股走勢": {
+    "first_promoted": "2026-07-21",
+    "total_count": 36
+  },
+  "增長": {
+    "first_promoted": "2026-07-21",
+    "total_count": 36
+  },
+  "止跌": {
+    "first_promoted": "2026-07-21",
+    "total_count": 38
+  },
+  "警告": {
+    "first_promoted": "2026-07-21",
+    "total_count": 42
+  },
+  "開始": {
+    "first_promoted": "2026-07-21",
+    "total_count": 34
   }
 }
