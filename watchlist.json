@@ -444,11 +444,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "受惠": {
-    "last_seen": "2026-07-11",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "和平": {
     "last_seen": "2026-06-22",
     "total_count": 8,
@@ -599,11 +594,6 @@
     "total_count": 20,
     "days_seen": 2
   },
-  "下跌": {
-    "last_seen": "2026-06-25",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "異動": {
     "last_seen": "2026-06-25",
     "total_count": 14,
@@ -650,9 +640,9 @@
     "days_seen": 1
   },
   "盤後飆": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-22",
+    "total_count": 24,
+    "days_seen": 2
   },
   "力積電": {
     "last_seen": "2026-07-15",
@@ -668,11 +658,6 @@
     "last_seen": "2026-06-25",
     "total_count": 8,
     "days_seen": 1
-  },
-  "產品": {
-    "last_seen": "2026-07-13",
-    "total_count": 24,
-    "days_seen": 2
   },
   "開發": {
     "last_seen": "2026-07-03",
@@ -703,11 +688,6 @@
     "last_seen": "2026-06-26",
     "total_count": 14,
     "days_seen": 1
-  },
-  "成本": {
-    "last_seen": "2026-07-11",
-    "total_count": 28,
-    "days_seen": 2
   },
   "延後": {
     "last_seen": "2026-06-26",
@@ -1014,11 +994,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "帶頭": {
-    "last_seen": "2026-07-02",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "白銀": {
     "last_seen": "2026-07-01",
     "total_count": 8,
@@ -1209,11 +1184,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "逾千點": {
-    "last_seen": "2026-07-14",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "檢測": {
     "last_seen": "2026-07-04",
     "total_count": 10,
@@ -1318,11 +1288,6 @@
     "last_seen": "2026-07-06",
     "total_count": 16,
     "days_seen": 1
-  },
-  "強勁": {
-    "last_seen": "2026-07-11",
-    "total_count": 28,
-    "days_seen": 2
   },
   "半導體與": {
     "last_seen": "2026-07-06",
@@ -1484,11 +1449,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "費半漲": {
-    "last_seen": "2026-07-10",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "研院": {
     "last_seen": "2026-07-10",
     "total_count": 16,
@@ -1547,11 +1507,6 @@
   "董事": {
     "last_seen": "2026-07-11",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "代理": {
-    "last_seen": "2026-07-11",
-    "total_count": 18,
     "days_seen": 1
   },
   "首日飆": {
@@ -2109,11 +2064,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "緯創": {
-    "last_seen": "2026-07-20",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "融資": {
     "last_seen": "2026-07-20",
     "total_count": 18,
@@ -2189,11 +2139,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "超預期": {
-    "last_seen": "2026-07-21",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "填息": {
     "last_seen": "2026-07-21",
     "total_count": 16,
@@ -2247,6 +2192,96 @@
   "晶片股回": {
     "last_seen": "2026-07-21",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "毛利率": {
+    "last_seen": "2026-07-22",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "強彈": {
+    "last_seen": "2026-07-22",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "股價盤後": {
+    "last_seen": "2026-07-22",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "費半飆": {
+    "last_seen": "2026-07-22",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "副理": {
+    "last_seen": "2026-07-22",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "Kimi": {
+    "last_seen": "2026-07-22",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "超微": {
+    "last_seen": "2026-07-22",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "增長": {
+    "last_seen": "2026-07-22",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "漲千點": {
+    "last_seen": "2026-07-22",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "站回": {
+    "last_seen": "2026-07-22",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "明年": {
+    "last_seen": "2026-07-22",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "美伊衝突": {
+    "last_seen": "2026-07-22",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "三雄": {
+    "last_seen": "2026-07-22",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "概念股走": {
+    "last_seen": "2026-07-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "股集體": {
+    "last_seen": "2026-07-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "機構": {
+    "last_seen": "2026-07-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "點燃": {
+    "last_seen": "2026-07-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "智譜": {
+    "last_seen": "2026-07-22",
+    "total_count": 14,
     "days_seen": 1
   }
 }

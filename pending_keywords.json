@@ -126,5 +126,49 @@
   "開始": {
     "first_promoted": "2026-07-21",
     "total_count": 34
+  },
+  "下跌": {
+    "first_promoted": "2026-07-22",
+    "total_count": 38
+  },
+  "強勁": {
+    "first_promoted": "2026-07-22",
+    "total_count": 50
+  },
+  "產品": {
+    "first_promoted": "2026-07-22",
+    "total_count": 46
+  },
+  "逾千點": {
+    "first_promoted": "2026-07-22",
+    "total_count": 48
+  },
+  "代理": {
+    "first_promoted": "2026-07-22",
+    "total_count": 38
+  },
+  "受惠": {
+    "first_promoted": "2026-07-22",
+    "total_count": 40
+  },
+  "成本": {
+    "first_promoted": "2026-07-22",
+    "total_count": 46
+  },
+  "費半漲": {
+    "first_promoted": "2026-07-22",
+    "total_count": 32
+  },
+  "超預期": {
+    "first_promoted": "2026-07-22",
+    "total_count": 32
+  },
+  "帶頭": {
+    "first_promoted": "2026-07-22",
+    "total_count": 34
+  },
+  "緯創": {
+    "first_promoted": "2026-07-22",
+    "total_count": 32
   }
 }
