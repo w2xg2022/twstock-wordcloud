@@ -112,7 +112,7 @@
     "total_count": 36
   },
   "增長": {
-    "first_promoted": "2026-07-21",
+    "first_promoted": "2026-07-23",
     "total_count": 36
   },
   "止跌": {
@@ -169,6 +169,30 @@
   },
   "緯創": {
     "first_promoted": "2026-07-22",
+    "total_count": 32
+  },
+  "Alphabet": {
+    "first_promoted": "2026-07-23",
+    "total_count": 60
+  },
+  "資本": {
+    "first_promoted": "2026-07-23",
+    "total_count": 56
+  },
+  "US": {
+    "first_promoted": "2026-07-23",
+    "total_count": 52
+  },
+  "塑化": {
+    "first_promoted": "2026-07-23",
+    "total_count": 34
+  },
+  "同比": {
+    "first_promoted": "2026-07-23",
+    "total_count": 38
+  },
+  "價值": {
+    "first_promoted": "2026-07-23",
     "total_count": 32
   }
 }

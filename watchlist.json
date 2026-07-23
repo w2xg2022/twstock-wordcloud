@@ -90,9 +90,9 @@
     "days_seen": 1
   },
   "Anthropic": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-23",
+    "total_count": 24,
+    "days_seen": 2
   },
   "外資喊": {
     "last_seen": "2026-06-16",
@@ -599,11 +599,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "資本": {
-    "last_seen": "2026-06-25",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "盤後大漲": {
     "last_seen": "2026-06-25",
     "total_count": 10,
@@ -615,9 +610,9 @@
     "days_seen": 1
   },
   "財測": {
-    "last_seen": "2026-06-25",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-23",
+    "total_count": 24,
+    "days_seen": 2
   },
   "價飆": {
     "last_seen": "2026-06-25",
@@ -780,9 +775,9 @@
     "days_seen": 1
   },
   "管理": {
-    "last_seen": "2026-06-27",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-23",
+    "total_count": 24,
+    "days_seen": 2
   },
   "AA+": {
     "last_seen": "2026-06-29",
@@ -919,11 +914,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "Alphabet": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "時間": {
     "last_seen": "2026-07-01",
     "total_count": 20,
@@ -1055,9 +1045,9 @@
     "days_seen": 1
   },
   "雲端": {
-    "last_seen": "2026-07-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-23",
+    "total_count": 26,
+    "days_seen": 2
   },
   "竹苗": {
     "last_seen": "2026-07-02",
@@ -1099,11 +1089,6 @@
     "total_count": 17,
     "days_seen": 1
   },
-  "塑化": {
-    "last_seen": "2026-07-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "非農就業": {
     "last_seen": "2026-07-03",
     "total_count": 14,
@@ -1113,11 +1098,6 @@
     "last_seen": "2026-07-03",
     "total_count": 14,
     "days_seen": 1
-  },
-  "US": {
-    "last_seen": "2026-07-11",
-    "total_count": 28,
-    "days_seen": 2
   },
   "逆轉": {
     "last_seen": "2026-07-03",
@@ -1424,11 +1404,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "價值": {
-    "last_seen": "2026-07-10",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "推動": {
     "last_seen": "2026-07-10",
     "total_count": 18,
@@ -1682,11 +1657,6 @@
   "局勢": {
     "last_seen": "2026-07-14",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "同比": {
-    "last_seen": "2026-07-14",
-    "total_count": 22,
     "days_seen": 1
   },
   "油價狂飆": {
@@ -2229,11 +2199,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "增長": {
-    "last_seen": "2026-07-22",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "漲千點": {
     "last_seen": "2026-07-22",
     "total_count": 18,
@@ -2281,6 +2246,101 @@
   },
   "智譜": {
     "last_seen": "2026-07-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "轉負": {
+    "last_seen": "2026-07-23",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "預算": {
+    "last_seen": "2026-07-23",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "KY": {
+    "last_seen": "2026-07-23",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "外資買": {
+    "last_seen": "2026-07-23",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "谷歌": {
+    "last_seen": "2026-07-23",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "外資與主力": {
+    "last_seen": "2026-07-23",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "偏多": {
+    "last_seen": "2026-07-23",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "外資買超": {
+    "last_seen": "2026-07-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "半導體業": {
+    "last_seen": "2026-07-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "金管會": {
+    "last_seen": "2026-07-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "股走勢": {
+    "last_seen": "2026-07-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "金屬": {
+    "last_seen": "2026-07-23",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "科技巨頭財報": {
+    "last_seen": "2026-07-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "開高走低": {
+    "last_seen": "2026-07-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "受惠": {
+    "last_seen": "2026-07-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "德州": {
+    "last_seen": "2026-07-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "燒錢": {
+    "last_seen": "2026-07-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "成本": {
+    "last_seen": "2026-07-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "護國": {
+    "last_seen": "2026-07-23",
     "total_count": 14,
     "days_seen": 1
   }
