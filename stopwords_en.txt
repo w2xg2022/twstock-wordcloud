@@ -113,3 +113,7 @@ fx168
 ibm
 cpi
 asml
+kimi
+tradingview
+alphabet
+us
