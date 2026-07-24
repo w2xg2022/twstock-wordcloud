@@ -55,7 +55,7 @@ jobs:
           cp output/leaderboard_3d.csv release/leaderboard_3d.csv
           cp output/leaderboard_7d.csv release/leaderboard_7d.csv
           cp output/leaderboard_15d.csv release/leaderboard_15d.csv
-          cp data/${{ steps.meta.outputs.today }}.json release/news_${{ steps.meta.outputs.today }}.json
+          [ -f data/${{ steps.meta.outputs.today }}.json ] && cp data/${{ steps.meta.outputs.today }}.json release/news_${{ steps.meta.outputs.today }}.json || echo "略過當日新聞檔(skip_fetch)"
           cp output/wordfreq_3d.csv release/wordfreq_3d.csv
           cp output/wordfreq_7d.csv release/wordfreq_7d.csv
           cp output/wordfreq_15d.csv release/wordfreq_15d.csv
