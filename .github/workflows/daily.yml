@@ -12,10 +12,15 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -74,3 +79,14 @@ jobs:
           tag_name: ${{ steps.meta.outputs.today }}
           name: 台股財經新聞詞雲 ${{ steps.meta.outputs.today }}
           files: twstock-wordcloud-${{ steps.meta.outputs.today }}.zip
+
+      # 由本workflow直接部署Pages：用GITHUB_TOKEN推送的commit不會觸發pages.yml，
+      # 所以資料更新後必須在同一個run裡自己部署，否則網站會停在舊資料。
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
