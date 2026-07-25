@@ -1,1 +1,26 @@
-{}
+{
+  "關稅": {
+    "first_promoted": "2026-07-25",
+    "total_count": 64
+  },
+  "政治": {
+    "first_promoted": "2026-07-25",
+    "total_count": 48
+  },
+  "國民黨": {
+    "first_promoted": "2026-07-25",
+    "total_count": 42
+  },
+  "失守": {
+    "first_promoted": "2026-07-25",
+    "total_count": 40
+  },
+  "成為": {
+    "first_promoted": "2026-07-25",
+    "total_count": 40
+  },
+  "台塑": {
+    "first_promoted": "2026-07-25",
+    "total_count": 30
+  }
+}

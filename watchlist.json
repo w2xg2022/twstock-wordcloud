@@ -300,9 +300,9 @@
     "days_seen": 2
   },
   "宣布": {
-    "last_seen": "2026-06-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-25",
+    "total_count": 26,
+    "days_seen": 2
   },
   "驅動": {
     "last_seen": "2026-06-18",
@@ -745,9 +745,9 @@
     "days_seen": 1
   },
   "外資連": {
-    "last_seen": "2026-06-27",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-25",
+    "total_count": 22,
+    "days_seen": 2
   },
   "準備": {
     "last_seen": "2026-07-12",
@@ -1079,11 +1079,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "成為": {
-    "last_seen": "2026-07-02",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "加密": {
     "last_seen": "2026-07-03",
     "total_count": 17,
@@ -1195,9 +1190,9 @@
     "days_seen": 1
   },
   "力挺": {
-    "last_seen": "2026-07-04",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-25",
+    "total_count": 22,
+    "days_seen": 2
   },
   "來最": {
     "last_seen": "2026-07-05",
@@ -1440,9 +1435,9 @@
     "days_seen": 1
   },
   "名單": {
-    "last_seen": "2026-07-10",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-25",
+    "total_count": 28,
+    "days_seen": 2
   },
   "生物": {
     "last_seen": "2026-07-10",
@@ -1515,9 +1510,9 @@
     "days_seen": 1
   },
   "才是": {
-    "last_seen": "2026-07-11",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-25",
+    "total_count": 22,
+    "days_seen": 2
   },
   "掛牌": {
     "last_seen": "2026-07-12",
@@ -1782,11 +1777,6 @@
   "PPI": {
     "last_seen": "2026-07-16",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "台塑": {
-    "last_seen": "2026-07-16",
-    "total_count": 18,
     "days_seen": 1
   },
   "長鑫": {
@@ -2342,6 +2332,101 @@
   "護國": {
     "last_seen": "2026-07-23",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "國民黨要成": {
+    "last_seen": "2026-07-25",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "三大法人": {
+    "last_seen": "2026-07-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "產業園區": {
+    "last_seen": "2026-07-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "夜期": {
+    "last_seen": "2026-07-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "新關稅": {
+    "last_seen": "2026-07-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "空間": {
+    "last_seen": "2026-07-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "一周": {
+    "last_seen": "2026-07-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "周線": {
+    "last_seen": "2026-07-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "酪梨": {
+    "last_seen": "2026-07-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "國民黨成為": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "後股價": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "微軟": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "調節": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "調查": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "AMD": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Helios": {
+    "last_seen": "2026-07-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "伺服器": {
+    "last_seen": "2026-07-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "為什麼": {
+    "last_seen": "2026-07-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "財經週": {
+    "last_seen": "2026-07-25",
+    "total_count": 10,
     "days_seen": 1
   }
 }
