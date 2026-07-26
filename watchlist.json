@@ -89,11 +89,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "Anthropic": {
-    "last_seen": "2026-07-23",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "外資喊": {
     "last_seen": "2026-06-16",
     "total_count": 10,
@@ -265,9 +260,9 @@
     "days_seen": 1
   },
   "買進": {
-    "last_seen": "2026-06-18",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-26",
+    "total_count": 24,
+    "days_seen": 2
   },
   "競爭力": {
     "last_seen": "2026-06-18",
@@ -335,9 +330,9 @@
     "days_seen": 1
   },
   "核心": {
-    "last_seen": "2026-06-19",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-26",
+    "total_count": 16,
+    "days_seen": 2
   },
   "教育": {
     "last_seen": "2026-06-20",
@@ -541,11 +536,6 @@
   },
   "最低": {
     "last_seen": "2026-07-09",
-    "total_count": 22,
-    "days_seen": 2
-  },
-  "報酬": {
-    "last_seen": "2026-07-06",
     "total_count": 22,
     "days_seen": 2
   },
@@ -820,9 +810,9 @@
     "days_seen": 1
   },
   "長線": {
-    "last_seen": "2026-06-29",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-26",
+    "total_count": 18,
+    "days_seen": 2
   },
   "大戶": {
     "last_seen": "2026-07-20",
@@ -1173,11 +1163,6 @@
     "last_seen": "2026-07-04",
     "total_count": 8,
     "days_seen": 1
-  },
-  "還有": {
-    "last_seen": "2026-07-18",
-    "total_count": 22,
-    "days_seen": 2
   },
   "多空": {
     "last_seen": "2026-07-04",
@@ -1540,9 +1525,9 @@
     "days_seen": 1
   },
   "超級": {
-    "last_seen": "2026-07-12",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-26",
+    "total_count": 22,
+    "days_seen": 2
   },
   "二期": {
     "last_seen": "2026-07-12",
@@ -1587,11 +1572,6 @@
   "這些族群": {
     "last_seen": "2026-07-12",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "走低": {
-    "last_seen": "2026-07-13",
-    "total_count": 24,
     "days_seen": 1
   },
   "龍頭": {
@@ -2249,11 +2229,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "KY": {
-    "last_seen": "2026-07-23",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "外資買": {
     "last_seen": "2026-07-23",
     "total_count": 22,
@@ -2369,11 +2344,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "周線": {
-    "last_seen": "2026-07-25",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "酪梨": {
     "last_seen": "2026-07-25",
     "total_count": 14,
@@ -2405,9 +2375,9 @@
     "days_seen": 1
   },
   "AMD": {
-    "last_seen": "2026-07-25",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-26",
+    "total_count": 28,
+    "days_seen": 2
   },
   "Helios": {
     "last_seen": "2026-07-25",
@@ -2427,6 +2397,96 @@
   "財經週": {
     "last_seen": "2026-07-25",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "政治": {
+    "last_seen": "2026-07-26",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "關稅": {
+    "last_seen": "2026-07-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "貢獻": {
+    "last_seen": "2026-07-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "事件": {
+    "last_seen": "2026-07-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "線仍": {
+    "last_seen": "2026-07-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "逢低": {
+    "last_seen": "2026-07-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Scribe": {
+    "last_seen": "2026-07-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Therapeutics": {
+    "last_seen": "2026-07-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "SCTX": {
+    "last_seen": "2026-07-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "雜誌": {
+    "last_seen": "2026-07-26",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "Newtalk": {
+    "last_seen": "2026-07-26",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "遭外資": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "最後": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "投顧": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "真的": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "疊加": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "合約": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "網友": {
+    "last_seen": "2026-07-26",
+    "total_count": 8,
     "days_seen": 1
   }
 }

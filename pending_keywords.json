@@ -22,5 +22,33 @@
   "台塑": {
     "first_promoted": "2026-07-25",
     "total_count": 30
+  },
+  "財報": {
+    "first_promoted": "2026-07-26",
+    "total_count": 38
+  },
+  "周線": {
+    "first_promoted": "2026-07-26",
+    "total_count": 30
+  },
+  "KY": {
+    "first_promoted": "2026-07-26",
+    "total_count": 38
+  },
+  "還有": {
+    "first_promoted": "2026-07-26",
+    "total_count": 34
+  },
+  "報酬": {
+    "first_promoted": "2026-07-26",
+    "total_count": 32
+  },
+  "Anthropic": {
+    "first_promoted": "2026-07-26",
+    "total_count": 34
+  },
+  "走低": {
+    "first_promoted": "2026-07-26",
+    "total_count": 32
   }
 }
