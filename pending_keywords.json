@@ -12,8 +12,8 @@
     "total_count": 42
   },
   "失守": {
-    "first_promoted": "2026-07-25",
-    "total_count": 40
+    "first_promoted": "2026-07-28",
+    "total_count": 56
   },
   "成為": {
     "first_promoted": "2026-07-25",
@@ -52,8 +52,8 @@
     "total_count": 32
   },
   "長鑫": {
-    "first_promoted": "2026-07-27",
-    "total_count": 66
+    "first_promoted": "2026-07-28",
+    "total_count": 38
   },
   "人民": {
     "first_promoted": "2026-07-27",
@@ -89,6 +89,42 @@
   },
   "長期": {
     "first_promoted": "2026-07-27",
+    "total_count": 30
+  },
+  "海力士": {
+    "first_promoted": "2026-07-28",
+    "total_count": 60
+  },
+  "DUV": {
+    "first_promoted": "2026-07-28",
+    "total_count": 38
+  },
+  "局勢": {
+    "first_promoted": "2026-07-28",
+    "total_count": 54
+  },
+  "暫停": {
+    "first_promoted": "2026-07-28",
+    "total_count": 40
+  },
+  "生產": {
+    "first_promoted": "2026-07-28",
+    "total_count": 32
+  },
+  "量縮": {
+    "first_promoted": "2026-07-28",
+    "total_count": 40
+  },
+  "機構": {
+    "first_promoted": "2026-07-28",
+    "total_count": 44
+  },
+  "股集體": {
+    "first_promoted": "2026-07-28",
+    "total_count": 40
+  },
+  "核心": {
+    "first_promoted": "2026-07-28",
     "total_count": 30
   }
 }

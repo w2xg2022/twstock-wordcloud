@@ -324,11 +324,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "核心": {
-    "last_seen": "2026-07-26",
-    "total_count": 16,
-    "days_seen": 2
-  },
   "教育": {
     "last_seen": "2026-06-20",
     "total_count": 20,
@@ -1054,11 +1049,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "海力士": {
-    "last_seen": "2026-07-03",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "逆轉": {
     "last_seen": "2026-07-03",
     "total_count": 12,
@@ -1269,11 +1259,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "生產": {
-    "last_seen": "2026-07-08",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "股拋售": {
     "last_seen": "2026-07-08",
     "total_count": 14,
@@ -1315,9 +1300,9 @@
     "days_seen": 1
   },
   "全球半導體": {
-    "last_seen": "2026-07-09",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-07-28",
+    "total_count": 26,
+    "days_seen": 2
   },
   "三大指": {
     "last_seen": "2026-07-09",
@@ -1590,11 +1575,6 @@
     "days_seen": 1
   },
   "封鎖": {
-    "last_seen": "2026-07-14",
-    "total_count": 24,
-    "days_seen": 1
-  },
-  "局勢": {
     "last_seen": "2026-07-14",
     "total_count": 24,
     "days_seen": 1
@@ -2154,16 +2134,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "股集體": {
-    "last_seen": "2026-07-27",
-    "total_count": 26,
-    "days_seen": 2
-  },
-  "機構": {
-    "last_seen": "2026-07-27",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "點燃": {
     "last_seen": "2026-07-22",
     "total_count": 14,
@@ -2444,22 +2414,12 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "量縮": {
-    "last_seen": "2026-07-27",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "決議": {
     "last_seen": "2026-07-27",
     "total_count": 24,
     "days_seen": 1
   },
   "中東局勢": {
-    "last_seen": "2026-07-27",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "暫停": {
     "last_seen": "2026-07-27",
     "total_count": 16,
     "days_seen": 1
@@ -2490,9 +2450,9 @@
     "days_seen": 1
   },
   "熊本": {
-    "last_seen": "2026-07-27",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-28",
+    "total_count": 28,
+    "days_seen": 2
   },
   "零售": {
     "last_seen": "2026-07-27",
@@ -2512,6 +2472,91 @@
   "能否": {
     "last_seen": "2026-07-27",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "觸發": {
+    "last_seen": "2026-07-28",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "漲跌互見": {
+    "last_seen": "2026-07-28",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "台股重挫": {
+    "last_seen": "2026-07-28",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "股崩跌": {
+    "last_seen": "2026-07-28",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "韓股市": {
+    "last_seen": "2026-07-28",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "芯片": {
+    "last_seen": "2026-07-28",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "血崩": {
+    "last_seen": "2026-07-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "存儲": {
+    "last_seen": "2026-07-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "開放": {
+    "last_seen": "2026-07-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "半導體設備": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "盤中重挫": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "開盤重挫": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "關卡": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "權值": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "整理": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "急挫": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "小幅": {
+    "last_seen": "2026-07-28",
+    "total_count": 14,
     "days_seen": 1
   }
 }
