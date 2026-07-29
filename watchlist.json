@@ -249,11 +249,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "跳水": {
-    "last_seen": "2026-06-18",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "買進": {
     "last_seen": "2026-07-26",
     "total_count": 24,
@@ -429,11 +424,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "健康": {
-    "last_seen": "2026-07-19",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "機器": {
     "last_seen": "2026-07-19",
     "total_count": 20,
@@ -530,9 +520,9 @@
     "days_seen": 1
   },
   "科技股賣壓": {
-    "last_seen": "2026-06-24",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-29",
+    "total_count": 28,
+    "days_seen": 2
   },
   "百元": {
     "last_seen": "2026-06-24",
@@ -583,11 +573,6 @@
     "last_seen": "2026-06-25",
     "total_count": 10,
     "days_seen": 1
-  },
-  "財測": {
-    "last_seen": "2026-07-23",
-    "total_count": 24,
-    "days_seen": 2
   },
   "價飆": {
     "last_seen": "2026-06-25",
@@ -949,11 +934,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "季度": {
-    "last_seen": "2026-07-01",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "回升": {
     "last_seen": "2026-07-01",
     "total_count": 8,
@@ -1010,11 +990,6 @@
     "days_seen": 2
   },
   "竹苗": {
-    "last_seen": "2026-07-02",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "汽車": {
     "last_seen": "2026-07-02",
     "total_count": 10,
     "days_seen": 1
@@ -1085,9 +1060,9 @@
     "days_seen": 1
   },
   "園區": {
-    "last_seen": "2026-07-03",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-07-29",
+    "total_count": 24,
+    "days_seen": 2
   },
   "大幅": {
     "last_seen": "2026-07-03",
@@ -1594,11 +1569,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "小漲": {
-    "last_seen": "2026-07-14",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "景氣": {
     "last_seen": "2026-07-14",
     "total_count": 16,
@@ -1765,11 +1735,6 @@
     "days_seen": 1
   },
   "加碼投資": {
-    "last_seen": "2026-07-17",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "二季": {
     "last_seen": "2026-07-17",
     "total_count": 18,
     "days_seen": 1
@@ -2430,9 +2395,9 @@
     "days_seen": 1
   },
   "半導體供應鏈": {
-    "last_seen": "2026-07-27",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-07-29",
+    "total_count": 28,
+    "days_seen": 2
   },
   "平盤": {
     "last_seen": "2026-07-27",
@@ -2448,11 +2413,6 @@
     "last_seen": "2026-07-27",
     "total_count": 14,
     "days_seen": 1
-  },
-  "熊本": {
-    "last_seen": "2026-07-28",
-    "total_count": 28,
-    "days_seen": 2
   },
   "零售": {
     "last_seen": "2026-07-27",
@@ -2556,6 +2516,91 @@
   },
   "小幅": {
     "last_seen": "2026-07-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "DUV": {
+    "last_seen": "2026-07-29",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "斷頭": {
+    "last_seen": "2026-07-29",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "熊本廠": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "第三大": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "信心": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "回應": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "逐步": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "地震": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "廠區": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "監管": {
+    "last_seen": "2026-07-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "盤後股價": {
+    "last_seen": "2026-07-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "現金": {
+    "last_seen": "2026-07-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "亮眼": {
+    "last_seen": "2026-07-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "停工": {
+    "last_seen": "2026-07-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "暫停": {
+    "last_seen": "2026-07-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Bloom": {
+    "last_seen": "2026-07-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "JASM": {
+    "last_seen": "2026-07-29",
     "total_count": 14,
     "days_seen": 1
   }

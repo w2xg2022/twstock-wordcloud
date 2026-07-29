@@ -126,5 +126,45 @@
   "核心": {
     "first_promoted": "2026-07-28",
     "total_count": 30
+  },
+  "熊本": {
+    "first_promoted": "2026-07-29",
+    "total_count": 136
+  },
+  "強震": {
+    "first_promoted": "2026-07-29",
+    "total_count": 74
+  },
+  "國安基金": {
+    "first_promoted": "2026-07-29",
+    "total_count": 30
+  },
+  "汽車": {
+    "first_promoted": "2026-07-29",
+    "total_count": 38
+  },
+  "季度": {
+    "first_promoted": "2026-07-29",
+    "total_count": 30
+  },
+  "跳水": {
+    "first_promoted": "2026-07-29",
+    "total_count": 38
+  },
+  "二季": {
+    "first_promoted": "2026-07-29",
+    "total_count": 38
+  },
+  "小漲": {
+    "first_promoted": "2026-07-29",
+    "total_count": 32
+  },
+  "健康": {
+    "first_promoted": "2026-07-29",
+    "total_count": 35
+  },
+  "財測": {
+    "first_promoted": "2026-07-29",
+    "total_count": 38
   }
 }
