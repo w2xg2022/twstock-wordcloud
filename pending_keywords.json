@@ -128,8 +128,8 @@
     "total_count": 30
   },
   "熊本": {
-    "first_promoted": "2026-07-29",
-    "total_count": 136
+    "first_promoted": "2026-07-30",
+    "total_count": 58
   },
   "強震": {
     "first_promoted": "2026-07-29",
@@ -164,7 +164,39 @@
     "total_count": 35
   },
   "財測": {
-    "first_promoted": "2026-07-29",
-    "total_count": 38
+    "first_promoted": "2026-07-30",
+    "total_count": 30
+  },
+  "按兵不動": {
+    "first_promoted": "2026-07-30",
+    "total_count": 30
+  },
+  "大關": {
+    "first_promoted": "2026-07-30",
+    "total_count": 42
+  },
+  "地震": {
+    "first_promoted": "2026-07-30",
+    "total_count": 40
+  },
+  "維持": {
+    "first_promoted": "2026-07-30",
+    "total_count": 30
+  },
+  "外資連": {
+    "first_promoted": "2026-07-30",
+    "total_count": 42
+  },
+  "金轉": {
+    "first_promoted": "2026-07-30",
+    "total_count": 32
+  },
+  "去槓桿": {
+    "first_promoted": "2026-07-30",
+    "total_count": 36
+  },
+  "JASM": {
+    "first_promoted": "2026-07-30",
+    "total_count": 30
   }
 }
