@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-07-26",
-    "total_count": 38
+    "first_promoted": "2026-07-31",
+    "total_count": 136
   },
   "周線": {
     "first_promoted": "2026-07-26",
@@ -197,6 +197,62 @@
   },
   "JASM": {
     "first_promoted": "2026-07-30",
+    "total_count": 30
+  },
+  "GDP": {
+    "first_promoted": "2026-07-31",
+    "total_count": 38
+  },
+  "暴衝": {
+    "first_promoted": "2026-07-31",
+    "total_count": 36
+  },
+  "第二季": {
+    "first_promoted": "2026-07-31",
+    "total_count": 40
+  },
+  "放緩": {
+    "first_promoted": "2026-07-31",
+    "total_count": 30
+  },
+  "創史上最大": {
+    "first_promoted": "2026-07-31",
+    "total_count": 44
+  },
+  "罕見": {
+    "first_promoted": "2026-07-31",
+    "total_count": 36
+  },
+  "單日": {
+    "first_promoted": "2026-07-31",
+    "total_count": 48
+  },
+  "港股通": {
+    "first_promoted": "2026-07-31",
+    "total_count": 38
+  },
+  "點燃": {
+    "first_promoted": "2026-07-31",
+    "total_count": 34
+  },
+  "長線": {
+    "first_promoted": "2026-07-31",
+    "total_count": 36
+  },
+  "激勵": {
+    "first_promoted": "2026-07-31",
+    "total_count": 44
+  },
+  "預計": {
+    "first_promoted": "2026-07-31",
+    "total_count": 32
+  },
+  "雲端": {
+    "first_promoted": "2026-07-31",
+    "total_count": 42
+  },
+  "亮眼": {
+    "first_promoted": "2026-07-31",
     "total_count": 30
   }
 }

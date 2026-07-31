@@ -529,11 +529,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "單日": {
-    "last_seen": "2026-07-18",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "概念股逆勢": {
     "last_seen": "2026-06-24",
     "total_count": 10,
@@ -639,11 +634,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "罕見": {
-    "last_seen": "2026-06-26",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "食品": {
     "last_seen": "2026-06-26",
     "total_count": 12,
@@ -700,9 +690,9 @@
     "days_seen": 2
   },
   "還是": {
-    "last_seen": "2026-06-27",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-07-31",
+    "total_count": 26,
+    "days_seen": 2
   },
   "利空": {
     "last_seen": "2026-06-27",
@@ -763,11 +753,6 @@
     "last_seen": "2026-06-29",
     "total_count": 10,
     "days_seen": 1
-  },
-  "長線": {
-    "last_seen": "2026-07-26",
-    "total_count": 18,
-    "days_seen": 2
   },
   "大戶": {
     "last_seen": "2026-07-20",
@@ -879,11 +864,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "第二季": {
-    "last_seen": "2026-07-01",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "大摩": {
     "last_seen": "2026-07-13",
     "total_count": 28,
@@ -963,11 +943,6 @@
     "last_seen": "2026-07-02",
     "total_count": 10,
     "days_seen": 1
-  },
-  "雲端": {
-    "last_seen": "2026-07-23",
-    "total_count": 26,
-    "days_seen": 2
   },
   "竹苗": {
     "last_seen": "2026-07-02",
@@ -1182,11 +1157,6 @@
   "表現": {
     "last_seen": "2026-07-07",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "港股通": {
-    "last_seen": "2026-07-07",
-    "total_count": 18,
     "days_seen": 1
   },
   "股領漲": {
@@ -1564,11 +1534,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "激勵": {
-    "last_seen": "2026-07-15",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "業績": {
     "last_seen": "2026-07-15",
     "total_count": 22,
@@ -1600,11 +1565,6 @@
     "days_seen": 1
   },
   "開高走": {
-    "last_seen": "2026-07-15",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "預計": {
     "last_seen": "2026-07-15",
     "total_count": 16,
     "days_seen": 1
@@ -1944,11 +1904,6 @@
     "total_count": 17,
     "days_seen": 1
   },
-  "創史上最大": {
-    "last_seen": "2026-07-21",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "財報周": {
     "last_seen": "2026-07-21",
     "total_count": 16,
@@ -2070,11 +2025,6 @@
     "days_seen": 1
   },
   "概念股走": {
-    "last_seen": "2026-07-22",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "點燃": {
     "last_seen": "2026-07-22",
     "total_count": 14,
     "days_seen": 1
@@ -2549,11 +2499,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "亮眼": {
-    "last_seen": "2026-07-29",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "停工": {
     "last_seen": "2026-07-29",
     "total_count": 14,
@@ -2647,6 +2592,76 @@
   "股大漲逾": {
     "last_seen": "2026-07-30",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "財測": {
+    "last_seen": "2026-07-31",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "股強彈": {
+    "last_seen": "2026-07-31",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "熊本": {
+    "last_seen": "2026-07-31",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "測試": {
+    "last_seen": "2026-07-31",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "報復性": {
+    "last_seen": "2026-07-31",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "景碩": {
+    "last_seen": "2026-07-31",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "維持": {
+    "last_seen": "2026-07-31",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "宇樹科技": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "史詩級": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "台股狂": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "財報亮": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "排行": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "干預": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "AWS": {
+    "last_seen": "2026-07-31",
+    "total_count": 16,
     "days_seen": 1
   }
 }
