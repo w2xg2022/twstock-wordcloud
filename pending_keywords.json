@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-07-31",
-    "total_count": 136
+    "first_promoted": "2026-08-01",
+    "total_count": 82
   },
   "周線": {
     "first_promoted": "2026-07-26",
@@ -254,5 +254,37 @@
   "亮眼": {
     "first_promoted": "2026-07-31",
     "total_count": 30
+  },
+  "黃崇仁": {
+    "first_promoted": "2026-08-01",
+    "total_count": 66
+  },
+  "力積電": {
+    "first_promoted": "2026-08-01",
+    "total_count": 62
+  },
+  "董事": {
+    "first_promoted": "2026-08-01",
+    "total_count": 46
+  },
+  "不只": {
+    "first_promoted": "2026-08-01",
+    "total_count": 30
+  },
+  "股強彈": {
+    "first_promoted": "2026-08-01",
+    "total_count": 34
+  },
+  "美債": {
+    "first_promoted": "2026-08-01",
+    "total_count": 30
+  },
+  "園區": {
+    "first_promoted": "2026-08-01",
+    "total_count": 36
+  },
+  "永續": {
+    "first_promoted": "2026-08-01",
+    "total_count": 32
   }
 }

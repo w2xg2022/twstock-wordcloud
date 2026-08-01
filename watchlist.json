@@ -10,9 +10,9 @@
     "days_seen": 1
   },
   "太空": {
-    "last_seen": "2026-06-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-01",
+    "total_count": 26,
+    "days_seen": 2
   },
   "兩萬": {
     "last_seen": "2026-06-15",
@@ -309,11 +309,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "美債": {
-    "last_seen": "2026-06-22",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "電力": {
     "last_seen": "2026-06-19",
     "total_count": 8,
@@ -581,11 +576,6 @@
   },
   "盤後飆": {
     "last_seen": "2026-07-22",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "力積電": {
-    "last_seen": "2026-07-15",
     "total_count": 24,
     "days_seen": 2
   },
@@ -1014,11 +1004,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "園區": {
-    "last_seen": "2026-07-29",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "大幅": {
     "last_seen": "2026-07-03",
     "total_count": 10,
@@ -1075,9 +1060,9 @@
     "days_seen": 2
   },
   "來最": {
-    "last_seen": "2026-07-05",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-01",
+    "total_count": 26,
+    "days_seen": 2
   },
   "大立光": {
     "last_seen": "2026-07-05",
@@ -1140,9 +1125,9 @@
     "days_seen": 1
   },
   "半導體與": {
-    "last_seen": "2026-07-06",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-01",
+    "total_count": 24,
+    "days_seen": 2
   },
   "上演": {
     "last_seen": "2026-07-06",
@@ -1334,11 +1319,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "董事": {
-    "last_seen": "2026-07-11",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "首日飆": {
     "last_seen": "2026-07-11",
     "total_count": 16,
@@ -1430,9 +1410,9 @@
     "days_seen": 1
   },
   "循環": {
-    "last_seen": "2026-07-12",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-01",
+    "total_count": 24,
+    "days_seen": 2
   },
   "CPO": {
     "last_seen": "2026-07-12",
@@ -1628,11 +1608,6 @@
     "last_seen": "2026-07-19",
     "total_count": 26,
     "days_seen": 2
-  },
-  "不只": {
-    "last_seen": "2026-07-16",
-    "total_count": 16,
-    "days_seen": 1
   },
   "大賺": {
     "last_seen": "2026-07-16",
@@ -1877,11 +1852,6 @@
   "千萬": {
     "last_seen": "2026-07-20",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "永續": {
-    "last_seen": "2026-07-21",
-    "total_count": 20,
     "days_seen": 1
   },
   "國家隊": {
@@ -2599,11 +2569,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "股強彈": {
-    "last_seen": "2026-07-31",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "熊本": {
     "last_seen": "2026-07-31",
     "total_count": 22,
@@ -2662,6 +2627,91 @@
   "AWS": {
     "last_seen": "2026-07-31",
     "total_count": 16,
+    "days_seen": 1
+  },
+  "傳奇": {
+    "last_seen": "2026-08-01",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "激勵": {
+    "last_seen": "2026-08-01",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "半導體傳奇": {
+    "last_seen": "2026-08-01",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "分歧": {
+    "last_seen": "2026-08-01",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "hao": {
+    "last_seen": "2026-08-01",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "飆升": {
+    "last_seen": "2026-08-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "健康": {
+    "last_seen": "2026-08-01",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "史上最狂": {
+    "last_seen": "2026-08-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "負債": {
+    "last_seen": "2026-08-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "熱門": {
+    "last_seen": "2026-08-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "幅收": {
+    "last_seen": "2026-08-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "新竹": {
+    "last_seen": "2026-08-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "人生": {
+    "last_seen": "2026-08-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "指數全": {
+    "last_seen": "2026-08-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半世紀": {
+    "last_seen": "2026-08-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "史詩": {
+    "last_seen": "2026-08-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "周一": {
+    "last_seen": "2026-08-01",
+    "total_count": 10,
     "days_seen": 1
   }
 }
