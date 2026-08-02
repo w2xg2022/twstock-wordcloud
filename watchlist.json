@@ -349,11 +349,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "股票": {
-    "last_seen": "2026-07-12",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "全球財經": {
     "last_seen": "2026-06-22",
     "total_count": 10,
@@ -505,9 +500,9 @@
     "days_seen": 2
   },
   "兩大": {
-    "last_seen": "2026-06-23",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-02",
+    "total_count": 16,
+    "days_seen": 2
   },
   "科技股賣壓": {
     "last_seen": "2026-07-29",
@@ -610,9 +605,9 @@
     "days_seen": 1
   },
   "強化": {
-    "last_seen": "2026-06-26",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-02",
+    "total_count": 28,
+    "days_seen": 2
   },
   "史上第三": {
     "last_seen": "2026-06-26",
@@ -673,11 +668,6 @@
     "last_seen": "2026-06-27",
     "total_count": 8,
     "days_seen": 1
-  },
-  "準備": {
-    "last_seen": "2026-07-12",
-    "total_count": 22,
-    "days_seen": 2
   },
   "還是": {
     "last_seen": "2026-07-31",
@@ -955,9 +945,9 @@
     "days_seen": 1
   },
   "這樣": {
-    "last_seen": "2026-07-02",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-02",
+    "total_count": 16,
+    "days_seen": 2
   },
   "加密": {
     "last_seen": "2026-07-03",
@@ -1249,11 +1239,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "高雄": {
-    "last_seen": "2026-07-19",
-    "total_count": 27,
-    "days_seen": 2
-  },
   "放颱風假": {
     "last_seen": "2026-07-10",
     "total_count": 16,
@@ -1435,9 +1420,9 @@
     "days_seen": 1
   },
   "單月": {
-    "last_seen": "2026-07-13",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-08-02",
+    "total_count": 28,
+    "days_seen": 2
   },
   "成熟": {
     "last_seen": "2026-07-13",
@@ -1860,9 +1845,9 @@
     "days_seen": 1
   },
   "避險": {
-    "last_seen": "2026-07-21",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-08-02",
+    "total_count": 26,
+    "days_seen": 2
   },
   "建設": {
     "last_seen": "2026-07-21",
@@ -2045,9 +2030,9 @@
     "days_seen": 1
   },
   "金管會": {
-    "last_seen": "2026-07-23",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-02",
+    "total_count": 26,
+    "days_seen": 2
   },
   "股走勢": {
     "last_seen": "2026-07-23",
@@ -2569,11 +2554,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "熊本": {
-    "last_seen": "2026-07-31",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "測試": {
     "last_seen": "2026-07-31",
     "total_count": 22,
@@ -2710,8 +2690,98 @@
     "days_seen": 1
   },
   "周一": {
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-08-02",
+    "total_count": 24,
+    "days_seen": 2
+  },
+  "完工": {
+    "last_seen": "2026-08-02",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "供電": {
+    "last_seen": "2026-08-02",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "工作": {
+    "last_seen": "2026-08-02",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "楠梓": {
+    "last_seen": "2026-08-02",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "黃崇仁": {
+    "last_seen": "2026-08-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "持股": {
+    "last_seen": "2026-08-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "生活": {
+    "last_seen": "2026-08-02",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "ec": {
+    "last_seen": "2026-08-02",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "ltn": {
+    "last_seen": "2026-08-02",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "半導體園區": {
+    "last_seen": "2026-08-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "問題": {
+    "last_seen": "2026-08-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "在地": {
+    "last_seen": "2026-08-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "地震": {
+    "last_seen": "2026-08-02",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "地方": {
+    "last_seen": "2026-08-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體族群": {
+    "last_seen": "2026-08-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股強勢": {
+    "last_seen": "2026-08-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "風暴": {
+    "last_seen": "2026-08-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "預言": {
+    "last_seen": "2026-08-02",
+    "total_count": 8,
     "days_seen": 1
   }
 }

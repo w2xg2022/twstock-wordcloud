@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-08-01",
-    "total_count": 82
+    "first_promoted": "2026-08-02",
+    "total_count": 42
   },
   "周線": {
     "first_promoted": "2026-07-26",
@@ -128,8 +128,8 @@
     "total_count": 30
   },
   "熊本": {
-    "first_promoted": "2026-07-30",
-    "total_count": 58
+    "first_promoted": "2026-08-02",
+    "total_count": 32
   },
   "強震": {
     "first_promoted": "2026-07-29",
@@ -286,5 +286,17 @@
   "永續": {
     "first_promoted": "2026-08-01",
     "total_count": 32
+  },
+  "股票": {
+    "first_promoted": "2026-08-02",
+    "total_count": 40
+  },
+  "高雄": {
+    "first_promoted": "2026-08-02",
+    "total_count": 41
+  },
+  "準備": {
+    "first_promoted": "2026-08-02",
+    "total_count": 30
   }
 }
