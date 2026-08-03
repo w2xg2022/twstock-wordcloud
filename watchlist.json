@@ -154,11 +154,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "迎來": {
-    "last_seen": "2026-07-10",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "進入": {
     "last_seen": "2026-06-29",
     "total_count": 20,
@@ -300,9 +295,9 @@
     "days_seen": 1
   },
   "強攻": {
-    "last_seen": "2026-06-18",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-03",
+    "total_count": 26,
+    "days_seen": 2
   },
   "配息": {
     "last_seen": "2026-06-22",
@@ -428,11 +423,6 @@
     "last_seen": "2026-06-23",
     "total_count": 16,
     "days_seen": 1
-  },
-  "那斯達克": {
-    "last_seen": "2026-07-11",
-    "total_count": 26,
-    "days_seen": 2
   },
   "量子": {
     "last_seen": "2026-06-24",
@@ -805,9 +795,9 @@
     "days_seen": 1
   },
   "前十": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-03",
+    "total_count": 20,
+    "days_seen": 2
   },
   "時間": {
     "last_seen": "2026-07-01",
@@ -1033,11 +1023,6 @@
     "last_seen": "2026-07-04",
     "total_count": 8,
     "days_seen": 1
-  },
-  "多空": {
-    "last_seen": "2026-07-30",
-    "total_count": 22,
-    "days_seen": 2
   },
   "社區": {
     "last_seen": "2026-07-04",
@@ -1364,11 +1349,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "超級": {
-    "last_seen": "2026-07-26",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "二期": {
     "last_seen": "2026-07-12",
     "total_count": 12,
@@ -1459,11 +1439,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "基本": {
-    "last_seen": "2026-07-14",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "封鎖": {
     "last_seen": "2026-07-14",
     "total_count": 24,
@@ -1490,9 +1465,9 @@
     "days_seen": 1
   },
   "同比增": {
-    "last_seen": "2026-07-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-03",
+    "total_count": 26,
+    "days_seen": 2
   },
   "上揚": {
     "last_seen": "2026-07-14",
@@ -2110,9 +2085,9 @@
     "days_seen": 1
   },
   "一周": {
-    "last_seen": "2026-07-25",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-03",
+    "total_count": 28,
+    "days_seen": 2
   },
   "酪梨": {
     "last_seen": "2026-07-25",
@@ -2309,11 +2284,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "能否": {
-    "last_seen": "2026-07-27",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "觸發": {
     "last_seen": "2026-07-28",
     "total_count": 28,
@@ -2479,22 +2449,7 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "ww2": {
-    "last_seen": "2026-07-30",
-    "total_count": 26,
-    "days_seen": 1
-  },
-  "money-link": {
-    "last_seen": "2026-07-30",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "中際旭創": {
-    "last_seen": "2026-07-30",
-    "total_count": 24,
-    "days_seen": 1
-  },
-  "現金流": {
     "last_seen": "2026-07-30",
     "total_count": 24,
     "days_seen": 1
@@ -2535,9 +2490,9 @@
     "days_seen": 1
   },
   "上攻": {
-    "last_seen": "2026-07-30",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-03",
+    "total_count": 28,
+    "days_seen": 2
   },
   "FOMC": {
     "last_seen": "2026-07-30",
@@ -2595,11 +2550,6 @@
     "days_seen": 1
   },
   "排行": {
-    "last_seen": "2026-07-31",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "干預": {
     "last_seen": "2026-07-31",
     "total_count": 16,
     "days_seen": 1
@@ -2782,6 +2732,76 @@
   "預言": {
     "last_seen": "2026-08-02",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "聯手": {
+    "last_seen": "2026-08-03",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "大持股": {
+    "last_seen": "2026-08-03",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "主動式": {
+    "last_seen": "2026-08-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "物流": {
+    "last_seen": "2026-08-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "證實": {
+    "last_seen": "2026-08-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "核心": {
+    "last_seen": "2026-08-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "勞退": {
+    "last_seen": "2026-08-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "熊本": {
+    "last_seen": "2026-08-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "罕見": {
+    "last_seen": "2026-08-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "一天": {
+    "last_seen": "2026-08-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "無人載具": {
+    "last_seen": "2026-08-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "外資上": {
+    "last_seen": "2026-08-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "投資者": {
+    "last_seen": "2026-08-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "結束": {
+    "last_seen": "2026-08-03",
+    "total_count": 10,
     "days_seen": 1
   }
 }
