@@ -128,12 +128,12 @@
     "total_count": 30
   },
   "熊本": {
-    "first_promoted": "2026-08-02",
-    "total_count": 32
+    "first_promoted": "2026-08-04",
+    "total_count": 82
   },
   "強震": {
-    "first_promoted": "2026-07-29",
-    "total_count": 74
+    "first_promoted": "2026-08-04",
+    "total_count": 46
   },
   "國安基金": {
     "first_promoted": "2026-07-29",
@@ -164,8 +164,8 @@
     "total_count": 35
   },
   "財測": {
-    "first_promoted": "2026-07-30",
-    "total_count": 30
+    "first_promoted": "2026-08-04",
+    "total_count": 44
   },
   "按兵不動": {
     "first_promoted": "2026-07-30",
@@ -300,8 +300,8 @@
     "total_count": 30
   },
   "cmnews": {
-    "first_promoted": "2026-08-03",
-    "total_count": 55
+    "first_promoted": "2026-08-04",
+    "total_count": 76
   },
   "ww2": {
     "first_promoted": "2026-08-03",
@@ -342,5 +342,33 @@
   "多空": {
     "first_promoted": "2026-08-03",
     "total_count": 32
+  },
+  "Palantir": {
+    "first_promoted": "2026-08-04",
+    "total_count": 44
+  },
+  "空單": {
+    "first_promoted": "2026-08-04",
+    "total_count": 54
+  },
+  "提供": {
+    "first_promoted": "2026-08-04",
+    "total_count": 34
+  },
+  "盤後股價": {
+    "first_promoted": "2026-08-04",
+    "total_count": 38
+  },
+  "通訊": {
+    "first_promoted": "2026-08-04",
+    "total_count": 34
+  },
+  "聯手": {
+    "first_promoted": "2026-08-04",
+    "total_count": 48
+  },
+  "出手": {
+    "first_promoted": "2026-08-04",
+    "total_count": 38
   }
 }
