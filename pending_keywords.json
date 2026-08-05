@@ -64,8 +64,8 @@
     "total_count": 30
   },
   "AMD": {
-    "first_promoted": "2026-07-27",
-    "total_count": 46
+    "first_promoted": "2026-08-05",
+    "total_count": 52
   },
   "存儲": {
     "first_promoted": "2026-07-27",
@@ -240,8 +240,8 @@
     "total_count": 36
   },
   "激勵": {
-    "first_promoted": "2026-07-31",
-    "total_count": 44
+    "first_promoted": "2026-08-05",
+    "total_count": 34
   },
   "預計": {
     "first_promoted": "2026-07-31",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-01",
-    "total_count": 30
+    "first_promoted": "2026-08-05",
+    "total_count": 34
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -370,5 +370,29 @@
   "出手": {
     "first_promoted": "2026-08-04",
     "total_count": 38
+  },
+  "標普": {
+    "first_promoted": "2026-08-05",
+    "total_count": 72
+  },
+  "外資買": {
+    "first_promoted": "2026-08-05",
+    "total_count": 50
+  },
+  "超微": {
+    "first_promoted": "2026-08-05",
+    "total_count": 40
+  },
+  "業務": {
+    "first_promoted": "2026-08-05",
+    "total_count": 30
+  },
+  "開放": {
+    "first_promoted": "2026-08-05",
+    "total_count": 30
+  },
+  "太空": {
+    "first_promoted": "2026-08-05",
+    "total_count": 40
   }
 }

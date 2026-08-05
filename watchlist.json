@@ -9,11 +9,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "太空": {
-    "last_seen": "2026-08-01",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "兩萬": {
     "last_seen": "2026-06-15",
     "total_count": 12,
@@ -1259,11 +1254,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "標普": {
-    "last_seen": "2026-07-11",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "掛牌首日": {
     "last_seen": "2026-07-11",
     "total_count": 24,
@@ -1909,11 +1899,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "超微": {
-    "last_seen": "2026-07-22",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "漲千點": {
     "last_seen": "2026-07-22",
     "total_count": 18,
@@ -1957,11 +1942,6 @@
   "預算": {
     "last_seen": "2026-07-23",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "外資買": {
-    "last_seen": "2026-07-23",
-    "total_count": 22,
     "days_seen": 1
   },
   "谷歌": {
@@ -2309,15 +2289,10 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "開放": {
-    "last_seen": "2026-07-28",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "半導體設備": {
-    "last_seen": "2026-07-28",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-05",
+    "total_count": 28,
+    "days_seen": 2
   },
   "盤中重挫": {
     "last_seen": "2026-07-28",
@@ -2459,11 +2434,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "業務": {
-    "last_seen": "2026-07-30",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "上攻": {
     "last_seen": "2026-08-03",
     "total_count": 28,
@@ -2532,11 +2502,6 @@
   "傳奇": {
     "last_seen": "2026-08-01",
     "total_count": 28,
-    "days_seen": 1
-  },
-  "激勵": {
-    "last_seen": "2026-08-01",
-    "total_count": 18,
     "days_seen": 1
   },
   "半導體傳奇": {
@@ -2799,11 +2764,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "美債": {
-    "last_seen": "2026-08-04",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "台日半導體": {
     "last_seen": "2026-08-04",
     "total_count": 18,
@@ -2842,6 +2802,106 @@
   "商業": {
     "last_seen": "2026-08-04",
     "total_count": 16,
+    "days_seen": 1
+  },
+  "暴增": {
+    "last_seen": "2026-08-05",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "盤大漲": {
+    "last_seen": "2026-08-05",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "茲海峽": {
+    "last_seen": "2026-08-05",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "股強彈": {
+    "last_seen": "2026-08-05",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "收復月": {
+    "last_seen": "2026-08-05",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "亮眼": {
+    "last_seen": "2026-08-05",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "財測": {
+    "last_seen": "2026-08-05",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "表態": {
+    "last_seen": "2026-08-05",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "季營收": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "民主黨": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "五大": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "光子": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "聯手": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "指引": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "熊本": {
+    "last_seen": "2026-08-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "首份財報": {
+    "last_seen": "2026-08-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "空單": {
+    "last_seen": "2026-08-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "管制": {
+    "last_seen": "2026-08-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "園區": {
+    "last_seen": "2026-08-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "設計": {
+    "last_seen": "2026-08-05",
+    "total_count": 14,
     "days_seen": 1
   }
 }
