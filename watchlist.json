@@ -1159,11 +1159,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "百億": {
-    "last_seen": "2026-07-09",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "會議": {
     "last_seen": "2026-07-30",
     "total_count": 28,
@@ -1233,11 +1228,6 @@
     "last_seen": "2026-07-10",
     "total_count": 14,
     "days_seen": 1
-  },
-  "名單": {
-    "last_seen": "2026-07-25",
-    "total_count": 28,
-    "days_seen": 2
   },
   "生物": {
     "last_seen": "2026-07-10",
@@ -1360,9 +1350,9 @@
     "days_seen": 2
   },
   "CPO": {
-    "last_seen": "2026-07-12",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-06",
+    "total_count": 26,
+    "days_seen": 2
   },
   "中央": {
     "last_seen": "2026-07-12",
@@ -2224,11 +2214,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "觀望": {
-    "last_seen": "2026-07-27",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "穩健": {
     "last_seen": "2026-07-27",
     "total_count": 14,
@@ -2430,9 +2415,9 @@
     "days_seen": 1
   },
   "長期": {
-    "last_seen": "2026-07-30",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-06",
+    "total_count": 28,
+    "days_seen": 2
   },
   "上攻": {
     "last_seen": "2026-08-03",
@@ -2464,11 +2449,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "維持": {
-    "last_seen": "2026-07-31",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "宇樹科技": {
     "last_seen": "2026-07-31",
     "total_count": 16,
@@ -2485,11 +2465,6 @@
     "days_seen": 1
   },
   "財報亮": {
-    "last_seen": "2026-07-31",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "排行": {
     "last_seen": "2026-07-31",
     "total_count": 16,
     "days_seen": 1
@@ -2675,9 +2650,9 @@
     "days_seen": 1
   },
   "主動式": {
-    "last_seen": "2026-08-03",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-06",
+    "total_count": 28,
+    "days_seen": 2
   },
   "物流": {
     "last_seen": "2026-08-03",
@@ -2829,16 +2804,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "亮眼": {
-    "last_seen": "2026-08-05",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "財測": {
-    "last_seen": "2026-08-05",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "表態": {
     "last_seen": "2026-08-05",
     "total_count": 18,
@@ -2902,6 +2867,96 @@
   "設計": {
     "last_seen": "2026-08-05",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "標普": {
+    "last_seen": "2026-08-06",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "不斷": {
+    "last_seen": "2026-08-06",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "標的": {
+    "last_seen": "2026-08-06",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "入港股通": {
+    "last_seen": "2026-08-06",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "吸金": {
+    "last_seen": "2026-08-06",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "不只": {
+    "last_seen": "2026-08-06",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "MINIMAX": {
+    "last_seen": "2026-08-06",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "靠台積電": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "股集體": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "熄火": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "站上": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "曙光": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "威騰": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "Sandisk": {
+    "last_seen": "2026-08-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "一度跌": {
+    "last_seen": "2026-08-06",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "情緒": {
+    "last_seen": "2026-08-06",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "股回檔": {
+    "last_seen": "2026-08-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股承壓": {
+    "last_seen": "2026-08-06",
+    "total_count": 12,
     "days_seen": 1
   }
 }

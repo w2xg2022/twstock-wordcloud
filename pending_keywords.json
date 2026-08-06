@@ -164,8 +164,8 @@
     "total_count": 35
   },
   "財測": {
-    "first_promoted": "2026-08-04",
-    "total_count": 44
+    "first_promoted": "2026-08-06",
+    "total_count": 52
   },
   "按兵不動": {
     "first_promoted": "2026-07-30",
@@ -180,8 +180,8 @@
     "total_count": 40
   },
   "維持": {
-    "first_promoted": "2026-07-30",
-    "total_count": 30
+    "first_promoted": "2026-08-06",
+    "total_count": 32
   },
   "外資連": {
     "first_promoted": "2026-07-30",
@@ -228,8 +228,8 @@
     "total_count": 48
   },
   "港股通": {
-    "first_promoted": "2026-07-31",
-    "total_count": 38
+    "first_promoted": "2026-08-06",
+    "total_count": 34
   },
   "點燃": {
     "first_promoted": "2026-07-31",
@@ -252,8 +252,8 @@
     "total_count": 42
   },
   "亮眼": {
-    "first_promoted": "2026-07-31",
-    "total_count": 30
+    "first_promoted": "2026-08-06",
+    "total_count": 36
   },
   "黃崇仁": {
     "first_promoted": "2026-08-01",
@@ -394,5 +394,25 @@
   "太空": {
     "first_promoted": "2026-08-05",
     "total_count": 40
+  },
+  "護盤": {
+    "first_promoted": "2026-08-06",
+    "total_count": 34
+  },
+  "百億": {
+    "first_promoted": "2026-08-06",
+    "total_count": 30
+  },
+  "觀望": {
+    "first_promoted": "2026-08-06",
+    "total_count": 30
+  },
+  "排行": {
+    "first_promoted": "2026-08-06",
+    "total_count": 30
+  },
+  "名單": {
+    "first_promoted": "2026-08-06",
+    "total_count": 42
   }
 }
