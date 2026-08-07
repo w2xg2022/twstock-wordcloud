@@ -169,11 +169,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "客戶": {
-    "last_seen": "2026-06-24",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "黑翻紅": {
     "last_seen": "2026-07-03",
     "total_count": 18,
@@ -269,11 +264,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "宣布": {
-    "last_seen": "2026-07-25",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "驅動": {
     "last_seen": "2026-06-18",
     "total_count": 12,
@@ -355,9 +345,9 @@
     "days_seen": 1
   },
   "逆市": {
-    "last_seen": "2026-06-22",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-07",
+    "total_count": 24,
+    "days_seen": 2
   },
   "半導體產業": {
     "last_seen": "2026-07-05",
@@ -514,11 +504,6 @@
     "total_count": 20,
     "days_seen": 2
   },
-  "異動": {
-    "last_seen": "2026-06-25",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "盤後大漲": {
     "last_seen": "2026-06-25",
     "total_count": 10,
@@ -583,11 +568,6 @@
     "last_seen": "2026-06-26",
     "total_count": 16,
     "days_seen": 1
-  },
-  "強化": {
-    "last_seen": "2026-08-02",
-    "total_count": 28,
-    "days_seen": 2
   },
   "史上第三": {
     "last_seen": "2026-06-26",
@@ -1459,11 +1439,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "醫藥": {
-    "last_seen": "2026-07-15",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "四大指數": {
     "last_seen": "2026-07-15",
     "total_count": 16,
@@ -1939,16 +1914,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "外資與主力": {
-    "last_seen": "2026-07-23",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "偏多": {
-    "last_seen": "2026-07-23",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "外資買超": {
     "last_seen": "2026-07-23",
     "total_count": 16,
@@ -2099,11 +2064,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "關稅": {
-    "last_seen": "2026-07-26",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "貢獻": {
     "last_seen": "2026-07-26",
     "total_count": 12,
@@ -2160,9 +2120,9 @@
     "days_seen": 1
   },
   "投顧": {
-    "last_seen": "2026-07-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-07",
+    "total_count": 22,
+    "days_seen": 2
   },
   "真的": {
     "last_seen": "2026-07-26",
@@ -2192,11 +2152,6 @@
   "決議": {
     "last_seen": "2026-07-27",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "中東局勢": {
-    "last_seen": "2026-07-27",
-    "total_count": 16,
     "days_seen": 1
   },
   "拓展": {
@@ -2434,11 +2389,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "測試": {
-    "last_seen": "2026-07-31",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "報復性": {
     "last_seen": "2026-07-31",
     "total_count": 20,
@@ -2484,11 +2434,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "分歧": {
-    "last_seen": "2026-08-01",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "hao": {
     "last_seen": "2026-08-01",
     "total_count": 16,
@@ -2497,11 +2442,6 @@
   "飆升": {
     "last_seen": "2026-08-01",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "健康": {
-    "last_seen": "2026-08-01",
-    "total_count": 13,
     "days_seen": 1
   },
   "史上最狂": {
@@ -2729,22 +2669,12 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "局勢": {
-    "last_seen": "2026-08-04",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "處置": {
     "last_seen": "2026-08-04",
     "total_count": 20,
     "days_seen": 1
   },
   "台日半導體": {
-    "last_seen": "2026-08-04",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "安全": {
     "last_seen": "2026-08-04",
     "total_count": 18,
     "days_seen": 1
@@ -2869,11 +2799,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "標普": {
-    "last_seen": "2026-08-06",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "不斷": {
     "last_seen": "2026-08-06",
     "total_count": 20,
@@ -2956,6 +2881,56 @@
   },
   "股承壓": {
     "last_seen": "2026-08-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "震盪走": {
+    "last_seen": "2026-08-07",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "營收創高": {
+    "last_seen": "2026-08-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "指數漲": {
+    "last_seen": "2026-08-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "缺貨": {
+    "last_seen": "2026-08-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "高鐵": {
+    "last_seen": "2026-08-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "台塑": {
+    "last_seen": "2026-08-07",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "違約": {
+    "last_seen": "2026-08-07",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "方向": {
+    "last_seen": "2026-08-07",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "勞動": {
+    "last_seen": "2026-08-07",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "港股通": {
+    "last_seen": "2026-08-07",
     "total_count": 12,
     "days_seen": 1
   }

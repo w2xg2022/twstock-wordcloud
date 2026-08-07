@@ -1,7 +1,7 @@
 {
   "關稅": {
-    "first_promoted": "2026-07-25",
-    "total_count": 64
+    "first_promoted": "2026-08-07",
+    "total_count": 44
   },
   "政治": {
     "first_promoted": "2026-07-25",
@@ -48,8 +48,8 @@
     "total_count": 34
   },
   "走低": {
-    "first_promoted": "2026-07-26",
-    "total_count": 32
+    "first_promoted": "2026-08-07",
+    "total_count": 42
   },
   "長鑫": {
     "first_promoted": "2026-07-28",
@@ -100,8 +100,8 @@
     "total_count": 38
   },
   "局勢": {
-    "first_promoted": "2026-07-28",
-    "total_count": 54
+    "first_promoted": "2026-08-07",
+    "total_count": 58
   },
   "暫停": {
     "first_promoted": "2026-07-28",
@@ -160,8 +160,8 @@
     "total_count": 32
   },
   "健康": {
-    "first_promoted": "2026-07-29",
-    "total_count": 35
+    "first_promoted": "2026-08-07",
+    "total_count": 66
   },
   "財測": {
     "first_promoted": "2026-08-06",
@@ -372,8 +372,8 @@
     "total_count": 38
   },
   "標普": {
-    "first_promoted": "2026-08-05",
-    "total_count": 72
+    "first_promoted": "2026-08-07",
+    "total_count": 48
   },
   "外資買": {
     "first_promoted": "2026-08-05",
@@ -414,5 +414,57 @@
   "名單": {
     "first_promoted": "2026-08-06",
     "total_count": 42
+  },
+  "高齡": {
+    "first_promoted": "2026-08-07",
+    "total_count": 58
+  },
+  "異動": {
+    "first_promoted": "2026-08-07",
+    "total_count": 54
+  },
+  "川湖": {
+    "first_promoted": "2026-08-07",
+    "total_count": 34
+  },
+  "中東局勢": {
+    "first_promoted": "2026-08-07",
+    "total_count": 38
+  },
+  "強化": {
+    "first_promoted": "2026-08-07",
+    "total_count": 50
+  },
+  "偏多": {
+    "first_promoted": "2026-08-07",
+    "total_count": 36
+  },
+  "測試": {
+    "first_promoted": "2026-08-07",
+    "total_count": 40
+  },
+  "安全": {
+    "first_promoted": "2026-08-07",
+    "total_count": 35
+  },
+  "宣布": {
+    "first_promoted": "2026-08-07",
+    "total_count": 42
+  },
+  "醫藥": {
+    "first_promoted": "2026-08-07",
+    "total_count": 34
+  },
+  "外資與主力": {
+    "first_promoted": "2026-08-07",
+    "total_count": 32
+  },
+  "分歧": {
+    "first_promoted": "2026-08-07",
+    "total_count": 30
+  },
+  "客戶": {
+    "first_promoted": "2026-08-07",
+    "total_count": 36
   }
 }
