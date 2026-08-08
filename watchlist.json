@@ -45,9 +45,9 @@
     "days_seen": 2
   },
   "創歷史": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-08",
+    "total_count": 26,
+    "days_seen": 2
   },
   "指數首": {
     "last_seen": "2026-06-15",
@@ -315,9 +315,9 @@
     "days_seen": 2
   },
   "品牌": {
-    "last_seen": "2026-06-20",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "財經焦點": {
     "last_seen": "2026-06-22",
@@ -909,11 +909,6 @@
     "total_count": 17,
     "days_seen": 1
   },
-  "非農就業": {
-    "last_seen": "2026-07-03",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "逆轉": {
     "last_seen": "2026-07-03",
     "total_count": 12,
@@ -940,11 +935,6 @@
     "days_seen": 1
   },
   "疲弱": {
-    "last_seen": "2026-07-03",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "爆冷": {
     "last_seen": "2026-07-03",
     "total_count": 10,
     "days_seen": 1
@@ -1057,11 +1047,6 @@
   "TechNews": {
     "last_seen": "2026-07-06",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "營運": {
-    "last_seen": "2026-07-06",
-    "total_count": 16,
     "days_seen": 1
   },
   "半導體與": {
@@ -1260,11 +1245,6 @@
     "days_seen": 1
   },
   "與半導體": {
-    "last_seen": "2026-07-11",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "意外": {
     "last_seen": "2026-07-11",
     "total_count": 12,
     "days_seen": 1
@@ -1530,9 +1510,9 @@
     "days_seen": 1
   },
   "曝光": {
-    "last_seen": "2026-07-16",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-08",
+    "total_count": 28,
+    "days_seen": 2
   },
   "週四": {
     "last_seen": "2026-07-16",
@@ -1690,9 +1670,9 @@
     "days_seen": 1
   },
   "城市": {
-    "last_seen": "2026-07-19",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "時刻": {
     "last_seen": "2026-07-19",
@@ -2369,11 +2349,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "長期": {
-    "last_seen": "2026-08-06",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "上攻": {
     "last_seen": "2026-08-03",
     "total_count": 28,
@@ -2504,11 +2479,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "工作": {
-    "last_seen": "2026-08-02",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "楠梓": {
     "last_seen": "2026-08-02",
     "total_count": 16,
@@ -2522,11 +2492,6 @@
   "持股": {
     "last_seen": "2026-08-02",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "生活": {
-    "last_seen": "2026-08-02",
-    "total_count": 13,
     "days_seen": 1
   },
   "ec": {
@@ -2931,6 +2896,86 @@
   },
   "港股通": {
     "last_seen": "2026-08-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "桃園": {
+    "last_seen": "2026-08-08",
+    "total_count": 21,
+    "days_seen": 1
+  },
+  "就業數據": {
+    "last_seen": "2026-08-08",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "川湖": {
+    "last_seen": "2026-08-08",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "運動": {
+    "last_seen": "2026-08-08",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "對多晶矽": {
+    "last_seen": "2026-08-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "息預期": {
+    "last_seen": "2026-08-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "永續": {
+    "last_seen": "2026-08-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "非農意外": {
+    "last_seen": "2026-08-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "籃球賽": {
+    "last_seen": "2026-08-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "新制": {
+    "last_seen": "2026-08-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "安全": {
+    "last_seen": "2026-08-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "長壽": {
+    "last_seen": "2026-08-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "桃園盃": {
+    "last_seen": "2026-08-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "衝破": {
+    "last_seen": "2026-08-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "變數": {
+    "last_seen": "2026-08-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "這幾": {
+    "last_seen": "2026-08-08",
     "total_count": 12,
     "days_seen": 1
   }

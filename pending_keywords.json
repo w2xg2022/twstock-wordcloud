@@ -88,8 +88,8 @@
     "total_count": 40
   },
   "長期": {
-    "first_promoted": "2026-07-27",
-    "total_count": 30
+    "first_promoted": "2026-08-08",
+    "total_count": 40
   },
   "海力士": {
     "first_promoted": "2026-07-28",
@@ -160,8 +160,8 @@
     "total_count": 32
   },
   "健康": {
-    "first_promoted": "2026-08-07",
-    "total_count": 66
+    "first_promoted": "2026-08-08",
+    "total_count": 83
   },
   "財測": {
     "first_promoted": "2026-08-06",
@@ -416,8 +416,8 @@
     "total_count": 42
   },
   "高齡": {
-    "first_promoted": "2026-08-07",
-    "total_count": 58
+    "first_promoted": "2026-08-08",
+    "total_count": 80
   },
   "異動": {
     "first_promoted": "2026-08-07",
@@ -466,5 +466,33 @@
   "客戶": {
     "first_promoted": "2026-08-07",
     "total_count": 36
+  },
+  "意外": {
+    "first_promoted": "2026-08-08",
+    "total_count": 50
+  },
+  "多晶矽": {
+    "first_promoted": "2026-08-08",
+    "total_count": 34
+  },
+  "爆冷": {
+    "first_promoted": "2026-08-08",
+    "total_count": 36
+  },
+  "生活": {
+    "first_promoted": "2026-08-08",
+    "total_count": 38
+  },
+  "非農就業": {
+    "first_promoted": "2026-08-08",
+    "total_count": 36
+  },
+  "營運": {
+    "first_promoted": "2026-08-08",
+    "total_count": 36
+  },
+  "工作": {
+    "first_promoted": "2026-08-08",
+    "total_count": 30
   }
 }
