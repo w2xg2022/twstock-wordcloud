@@ -24,7 +24,7 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-08-02",
+    "first_promoted": "2026-08-09",
     "total_count": 42
   },
   "周線": {
@@ -416,8 +416,8 @@
     "total_count": 42
   },
   "高齡": {
-    "first_promoted": "2026-08-08",
-    "total_count": 80
+    "first_promoted": "2026-08-09",
+    "total_count": 34
   },
   "異動": {
     "first_promoted": "2026-08-07",
@@ -494,5 +494,33 @@
   "工作": {
     "first_promoted": "2026-08-08",
     "total_count": 30
+  },
+  "下週": {
+    "first_promoted": "2026-08-09",
+    "total_count": 40
+  },
+  "文化": {
+    "first_promoted": "2026-08-09",
+    "total_count": 34
+  },
+  "鬆綁": {
+    "first_promoted": "2026-08-09",
+    "total_count": 36
+  },
+  "處置": {
+    "first_promoted": "2026-08-09",
+    "total_count": 30
+  },
+  "暴增": {
+    "first_promoted": "2026-08-09",
+    "total_count": 36
+  },
+  "還是": {
+    "first_promoted": "2026-08-09",
+    "total_count": 36
+  },
+  "成交量": {
+    "first_promoted": "2026-08-09",
+    "total_count": 36
   }
 }

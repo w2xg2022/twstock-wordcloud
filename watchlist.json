@@ -499,11 +499,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "文化": {
-    "last_seen": "2026-07-19",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "盤後大漲": {
     "last_seen": "2026-06-25",
     "total_count": 10,
@@ -629,11 +624,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "還是": {
-    "last_seen": "2026-07-31",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "利空": {
     "last_seen": "2026-06-27",
     "total_count": 8,
@@ -677,11 +667,6 @@
   "創新藥": {
     "last_seen": "2026-07-06",
     "total_count": 26,
-    "days_seen": 2
-  },
-  "成交量": {
-    "last_seen": "2026-07-06",
-    "total_count": 28,
     "days_seen": 2
   },
   "高檔": {
@@ -1140,11 +1125,6 @@
     "days_seen": 1
   },
   "少賺": {
-    "last_seen": "2026-07-10",
-    "total_count": 26,
-    "days_seen": 1
-  },
-  "下週": {
     "last_seen": "2026-07-10",
     "total_count": 26,
     "days_seen": 1
@@ -2624,19 +2604,9 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "鬆綁": {
-    "last_seen": "2026-08-04",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "藥明康德": {
     "last_seen": "2026-08-04",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "處置": {
-    "last_seen": "2026-08-04",
-    "total_count": 20,
     "days_seen": 1
   },
   "台日半導體": {
@@ -2672,11 +2642,6 @@
   "商業": {
     "last_seen": "2026-08-04",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "暴增": {
-    "last_seen": "2026-08-05",
-    "total_count": 26,
     "days_seen": 1
   },
   "盤大漲": {
@@ -2760,9 +2725,9 @@
     "days_seen": 1
   },
   "設計": {
-    "last_seen": "2026-08-05",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-09",
+    "total_count": 26,
+    "days_seen": 2
   },
   "不斷": {
     "last_seen": "2026-08-06",
@@ -2925,9 +2890,9 @@
     "days_seen": 1
   },
   "息預期": {
-    "last_seen": "2026-08-08",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-09",
+    "total_count": 24,
+    "days_seen": 2
   },
   "永續": {
     "last_seen": "2026-08-08",
@@ -2977,6 +2942,101 @@
   "這幾": {
     "last_seen": "2026-08-08",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "健康": {
+    "last_seen": "2026-08-09",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "cmnews": {
+    "last_seen": "2026-08-09",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "生活": {
+    "last_seen": "2026-08-09",
+    "total_count": 27,
+    "days_seen": 1
+  },
+  "me": {
+    "last_seen": "2026-08-09",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "最新": {
+    "last_seen": "2026-08-09",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "Ticketplus": {
+    "last_seen": "2026-08-09",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "TP": {
+    "last_seen": "2026-08-09",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "價卻": {
+    "last_seen": "2026-08-09",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "超級": {
+    "last_seen": "2026-08-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "崩盤": {
+    "last_seen": "2026-08-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "姿勢": {
+    "last_seen": "2026-08-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "重塑": {
+    "last_seen": "2026-08-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "生態系": {
+    "last_seen": "2026-08-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "標普": {
+    "last_seen": "2026-08-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "帶來": {
+    "last_seen": "2026-08-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "KY": {
+    "last_seen": "2026-08-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股表現": {
+    "last_seen": "2026-08-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "大家都": {
+    "last_seen": "2026-08-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "提升": {
+    "last_seen": "2026-08-09",
+    "total_count": 8,
     "days_seen": 1
   }
 }
