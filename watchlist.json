@@ -224,11 +224,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "中鋼": {
-    "last_seen": "2026-06-18",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "買進": {
     "last_seen": "2026-07-26",
     "total_count": 24,
@@ -284,20 +279,15 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "教育": {
-    "last_seen": "2026-06-20",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "學生": {
     "last_seen": "2026-06-20",
     "total_count": 16,
     "days_seen": 1
   },
   "深化": {
-    "last_seen": "2026-06-20",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-11",
+    "total_count": 26,
+    "days_seen": 2
   },
   "攜手產官學": {
     "last_seen": "2026-06-20",
@@ -643,11 +633,6 @@
     "last_seen": "2026-06-29",
     "total_count": 16,
     "days_seen": 2
-  },
-  "跌逾": {
-    "last_seen": "2026-06-28",
-    "total_count": 12,
-    "days_seen": 1
   },
   "單周": {
     "last_seen": "2026-06-28",
@@ -1334,11 +1319,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "油價飆": {
-    "last_seen": "2026-07-14",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "封鎖": {
     "last_seen": "2026-07-14",
     "total_count": 24,
@@ -1924,11 +1904,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "三大法人": {
-    "last_seen": "2026-07-25",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "產業園區": {
     "last_seen": "2026-07-25",
     "total_count": 16,
@@ -2390,9 +2365,9 @@
     "days_seen": 1
   },
   "熱門": {
-    "last_seen": "2026-08-01",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-11",
+    "total_count": 28,
+    "days_seen": 2
   },
   "幅收": {
     "last_seen": "2026-08-01",
@@ -2609,11 +2584,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "暴漲": {
-    "last_seen": "2026-08-04",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "齊揚": {
     "last_seen": "2026-08-04",
     "total_count": 16,
@@ -2792,11 +2762,6 @@
   "震盪走": {
     "last_seen": "2026-08-07",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "營收創高": {
-    "last_seen": "2026-08-07",
-    "total_count": 16,
     "days_seen": 1
   },
   "指數漲": {
@@ -2980,9 +2945,9 @@
     "days_seen": 1
   },
   "標普": {
-    "last_seen": "2026-08-09",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-11",
+    "total_count": 24,
+    "days_seen": 2
   },
   "帶來": {
     "last_seen": "2026-08-09",
@@ -3020,11 +2985,6 @@
     "days_seen": 1
   },
   "國泰": {
-    "last_seen": "2026-08-10",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "Sony": {
     "last_seen": "2026-08-10",
     "total_count": 20,
     "days_seen": 1
@@ -3089,11 +3049,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "機構": {
-    "last_seen": "2026-08-10",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "股多頭": {
     "last_seen": "2026-08-10",
     "total_count": 12,
@@ -3101,6 +3056,91 @@
   },
   "半日升": {
     "last_seen": "2026-08-10",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "大關": {
+    "last_seen": "2026-08-11",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "博士生": {
+    "last_seen": "2026-08-11",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "盈利": {
+    "last_seen": "2026-08-11",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "計畫": {
+    "last_seen": "2026-08-11",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "股價上漲": {
+    "last_seen": "2026-08-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "基建": {
+    "last_seen": "2026-08-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "業務": {
+    "last_seen": "2026-08-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "業績超預期": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "第二季度": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "價急": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "報酬": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "要求": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "賠償": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "正式": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "加劇": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "騰訊": {
+    "last_seen": "2026-08-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "主力與外資": {
+    "last_seen": "2026-08-11",
     "total_count": 12,
     "days_seen": 1
   }
