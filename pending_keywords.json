@@ -424,7 +424,7 @@
     "total_count": 54
   },
   "川湖": {
-    "first_promoted": "2026-08-07",
+    "first_promoted": "2026-08-12",
     "total_count": 34
   },
   "中東局勢": {
@@ -440,8 +440,8 @@
     "total_count": 36
   },
   "測試": {
-    "first_promoted": "2026-08-07",
-    "total_count": 40
+    "first_promoted": "2026-08-12",
+    "total_count": 36
   },
   "安全": {
     "first_promoted": "2026-08-07",
@@ -540,8 +540,8 @@
     "total_count": 44
   },
   "配息": {
-    "first_promoted": "2026-08-10",
-    "total_count": 32
+    "first_promoted": "2026-08-12",
+    "total_count": 44
   },
   "money": {
     "first_promoted": "2026-08-11",
@@ -578,5 +578,41 @@
   "Sony": {
     "first_promoted": "2026-08-11",
     "total_count": 34
+  },
+  "騰訊": {
+    "first_promoted": "2026-08-12",
+    "total_count": 54
+  },
+  "CoreWeave": {
+    "first_promoted": "2026-08-12",
+    "total_count": 34
+  },
+  "ttv": {
+    "first_promoted": "2026-08-12",
+    "total_count": 39
+  },
+  "指引": {
+    "first_promoted": "2026-08-12",
+    "total_count": 34
+  },
+  "首度": {
+    "first_promoted": "2026-08-12",
+    "total_count": 44
+  },
+  "SEMI": {
+    "first_promoted": "2026-08-12",
+    "total_count": 40
+  },
+  "翻倍": {
+    "first_promoted": "2026-08-12",
+    "total_count": 36
+  },
+  "同比增": {
+    "first_promoted": "2026-08-12",
+    "total_count": 40
+  },
+  "開發": {
+    "first_promoted": "2026-08-12",
+    "total_count": 32
   }
 }

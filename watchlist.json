@@ -54,11 +54,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "首度": {
-    "last_seen": "2026-06-22",
-    "total_count": 26,
-    "days_seen": 3
-  },
   "課程": {
     "last_seen": "2026-06-15",
     "total_count": 8,
@@ -319,11 +314,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "翻倍": {
-    "last_seen": "2026-06-30",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "主題": {
     "last_seen": "2026-06-22",
     "total_count": 10,
@@ -525,13 +515,8 @@
     "days_seen": 1
   },
   "出貨": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "開發": {
-    "last_seen": "2026-07-03",
-    "total_count": 18,
+    "last_seen": "2026-08-12",
+    "total_count": 22,
     "days_seen": 2
   },
   "運算": {
@@ -1344,11 +1329,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "同比增": {
-    "last_seen": "2026-08-03",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "上揚": {
     "last_seen": "2026-07-14",
     "total_count": 14,
@@ -1412,11 +1392,6 @@
   "主要": {
     "last_seen": "2026-07-16",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "SEMI": {
-    "last_seen": "2026-07-16",
-    "total_count": 22,
     "days_seen": 1
   },
   "首創": {
@@ -1697,11 +1672,6 @@
   "建設": {
     "last_seen": "2026-07-21",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "ttv": {
-    "last_seen": "2026-07-21",
-    "total_count": 17,
     "days_seen": 1
   },
   "財報周": {
@@ -2350,9 +2320,9 @@
     "days_seen": 1
   },
   "飆升": {
-    "last_seen": "2026-08-01",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-12",
+    "total_count": 28,
+    "days_seen": 2
   },
   "史上最狂": {
     "last_seen": "2026-08-01",
@@ -2644,11 +2614,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "指引": {
-    "last_seen": "2026-08-05",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "首份財報": {
     "last_seen": "2026-08-05",
     "total_count": 14,
@@ -2812,11 +2777,6 @@
   "就業數據": {
     "last_seen": "2026-08-08",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "川湖": {
-    "last_seen": "2026-08-08",
-    "total_count": 18,
     "days_seen": 1
   },
   "運動": {
@@ -3004,11 +2964,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "測試": {
-    "last_seen": "2026-08-10",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "續創": {
     "last_seen": "2026-08-10",
     "total_count": 16,
@@ -3134,14 +3089,89 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "騰訊": {
-    "last_seen": "2026-08-11",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "主力與外資": {
     "last_seen": "2026-08-11",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "季業績": {
+    "last_seen": "2026-08-12",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "騰訊音樂": {
+    "last_seen": "2026-08-12",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "觀望": {
+    "last_seen": "2026-08-12",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "基礎": {
+    "last_seen": "2026-08-12",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "通膨數據": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "連三日": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "還是": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "亮眼": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "量測": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "季度": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "績後": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "SMCI": {
+    "last_seen": "2026-08-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "談判": {
+    "last_seen": "2026-08-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "收入": {
+    "last_seen": "2026-08-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "發布": {
+    "last_seen": "2026-08-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Lumentum": {
+    "last_seen": "2026-08-12",
+    "total_count": 14,
     "days_seen": 1
   }
 }
