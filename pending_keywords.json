@@ -56,8 +56,8 @@
     "total_count": 38
   },
   "人民": {
-    "first_promoted": "2026-07-27",
-    "total_count": 48
+    "first_promoted": "2026-08-13",
+    "total_count": 30
   },
   "聯儲": {
     "first_promoted": "2026-07-27",
@@ -76,8 +76,8 @@
     "total_count": 34
   },
   "飆升": {
-    "first_promoted": "2026-07-27",
-    "total_count": 38
+    "first_promoted": "2026-08-13",
+    "total_count": 48
   },
   "信心": {
     "first_promoted": "2026-07-27",
@@ -124,8 +124,8 @@
     "total_count": 40
   },
   "核心": {
-    "first_promoted": "2026-07-28",
-    "total_count": 30
+    "first_promoted": "2026-08-13",
+    "total_count": 36
   },
   "熊本": {
     "first_promoted": "2026-08-10",
@@ -144,7 +144,7 @@
     "total_count": 38
   },
   "季度": {
-    "first_promoted": "2026-07-29",
+    "first_promoted": "2026-08-13",
     "total_count": 30
   },
   "跳水": {
@@ -364,8 +364,8 @@
     "total_count": 34
   },
   "聯手": {
-    "first_promoted": "2026-08-04",
-    "total_count": 48
+    "first_promoted": "2026-08-13",
+    "total_count": 30
   },
   "出手": {
     "first_promoted": "2026-08-04",
@@ -614,5 +614,21 @@
   "開發": {
     "first_promoted": "2026-08-12",
     "total_count": 32
+  },
+  "績後": {
+    "first_promoted": "2026-08-13",
+    "total_count": 58
+  },
+  "伺服器": {
+    "first_promoted": "2026-08-13",
+    "total_count": 40
+  },
+  "強攻": {
+    "first_promoted": "2026-08-13",
+    "total_count": 42
+  },
+  "半導體與": {
+    "first_promoted": "2026-08-13",
+    "total_count": 38
   }
 }

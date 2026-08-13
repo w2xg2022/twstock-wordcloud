@@ -264,11 +264,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "強攻": {
-    "last_seen": "2026-08-03",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "電力": {
     "last_seen": "2026-06-19",
     "total_count": 8,
@@ -998,11 +993,6 @@
     "last_seen": "2026-07-06",
     "total_count": 18,
     "days_seen": 1
-  },
-  "半導體與": {
-    "last_seen": "2026-08-01",
-    "total_count": 24,
-    "days_seen": 2
   },
   "上演": {
     "last_seen": "2026-07-06",
@@ -1934,11 +1924,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "伺服器": {
-    "last_seen": "2026-07-25",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "為什麼": {
     "last_seen": "2026-07-25",
     "total_count": 10,
@@ -2319,11 +2304,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "飆升": {
-    "last_seen": "2026-08-12",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "史上最狂": {
     "last_seen": "2026-08-01",
     "total_count": 12,
@@ -2474,11 +2454,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "核心": {
-    "last_seen": "2026-08-03",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "勞退": {
     "last_seen": "2026-08-03",
     "total_count": 14,
@@ -2605,11 +2580,6 @@
     "days_seen": 1
   },
   "光子": {
-    "last_seen": "2026-08-05",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "聯手": {
     "last_seen": "2026-08-05",
     "total_count": 16,
     "days_seen": 1
@@ -2999,11 +2969,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "人民": {
-    "last_seen": "2026-08-10",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "股多頭": {
     "last_seen": "2026-08-10",
     "total_count": 12,
@@ -3139,16 +3104,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "季度": {
-    "last_seen": "2026-08-12",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "績後": {
-    "last_seen": "2026-08-12",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "SMCI": {
     "last_seen": "2026-08-12",
     "total_count": 16,
@@ -3172,6 +3127,111 @@
   "Lumentum": {
     "last_seen": "2026-08-12",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "低開": {
+    "last_seen": "2026-08-13",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "CoreWeave": {
+    "last_seen": "2026-08-13",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "站回": {
+    "last_seen": "2026-08-13",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "測試": {
+    "last_seen": "2026-08-13",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "溫和": {
+    "last_seen": "2026-08-13",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "力積電": {
+    "last_seen": "2026-08-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "全年": {
+    "last_seen": "2026-08-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "MSCI": {
+    "last_seen": "2026-08-13",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "財報亮眼": {
+    "last_seen": "2026-08-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "成交量": {
+    "last_seen": "2026-08-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "法人買": {
+    "last_seen": "2026-08-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "報喜": {
+    "last_seen": "2026-08-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "那斯達克": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "翻倍": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "長線": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "營運": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "工作": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Pixel": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "TOP": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Cerebras": {
+    "last_seen": "2026-08-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "iThome": {
+    "last_seen": "2026-08-13",
+    "total_count": 13,
     "days_seen": 1
   }
 }
