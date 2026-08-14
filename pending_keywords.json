@@ -372,8 +372,8 @@
     "total_count": 38
   },
   "標普": {
-    "first_promoted": "2026-08-07",
-    "total_count": 48
+    "first_promoted": "2026-08-14",
+    "total_count": 96
   },
   "外資買": {
     "first_promoted": "2026-08-05",
@@ -616,8 +616,8 @@
     "total_count": 32
   },
   "績後": {
-    "first_promoted": "2026-08-13",
-    "total_count": 58
+    "first_promoted": "2026-08-14",
+    "total_count": 32
   },
   "伺服器": {
     "first_promoted": "2026-08-13",
@@ -630,5 +630,45 @@
   "半導體與": {
     "first_promoted": "2026-08-13",
     "total_count": 38
+  },
+  "京東": {
+    "first_promoted": "2026-08-14",
+    "total_count": 42
+  },
+  "預算": {
+    "first_promoted": "2026-08-14",
+    "total_count": 58
+  },
+  "PPI": {
+    "first_promoted": "2026-08-14",
+    "total_count": 48
+  },
+  "MSCI": {
+    "first_promoted": "2026-08-14",
+    "total_count": 42
+  },
+  "股價盤後": {
+    "first_promoted": "2026-08-14",
+    "total_count": 44
+  },
+  "平盤": {
+    "first_promoted": "2026-08-14",
+    "total_count": 32
+  },
+  "上攻": {
+    "first_promoted": "2026-08-14",
+    "total_count": 44
+  },
+  "關卡": {
+    "first_promoted": "2026-08-14",
+    "total_count": 30
+  },
+  "週四": {
+    "first_promoted": "2026-08-14",
+    "total_count": 30
+  },
+  "建設": {
+    "first_promoted": "2026-08-14",
+    "total_count": 32
   }
 }

@@ -695,9 +695,9 @@
     "days_seen": 1
   },
   "海外": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-14",
+    "total_count": 22,
+    "days_seen": 2
   },
   "結盟": {
     "last_seen": "2026-06-30",
@@ -810,9 +810,9 @@
     "days_seen": 2
   },
   "無人機產業": {
-    "last_seen": "2026-07-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-14",
+    "total_count": 26,
+    "days_seen": 2
   },
   "科技股走": {
     "last_seen": "2026-07-02",
@@ -1389,11 +1389,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "PPI": {
-    "last_seen": "2026-07-16",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "通脹": {
     "last_seen": "2026-07-16",
     "total_count": 18,
@@ -1428,11 +1423,6 @@
     "last_seen": "2026-08-08",
     "total_count": 28,
     "days_seen": 2
-  },
-  "週四": {
-    "last_seen": "2026-07-16",
-    "total_count": 16,
-    "days_seen": 1
   },
   "史上最慘": {
     "last_seen": "2026-07-17",
@@ -1659,11 +1649,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "建設": {
-    "last_seen": "2026-07-21",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "財報周": {
     "last_seen": "2026-07-21",
     "total_count": 16,
@@ -1734,11 +1719,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "股價盤後": {
-    "last_seen": "2026-07-22",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "費半飆": {
     "last_seen": "2026-07-22",
     "total_count": 22,
@@ -1785,11 +1765,6 @@
     "days_seen": 1
   },
   "轉負": {
-    "last_seen": "2026-07-23",
-    "total_count": 24,
-    "days_seen": 1
-  },
-  "預算": {
     "last_seen": "2026-07-23",
     "total_count": 24,
     "days_seen": 1
@@ -2039,11 +2014,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "平盤": {
-    "last_seen": "2026-07-27",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "穩健": {
     "last_seen": "2026-07-27",
     "total_count": 14,
@@ -2115,11 +2085,6 @@
     "days_seen": 1
   },
   "開盤重挫": {
-    "last_seen": "2026-07-28",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "關卡": {
     "last_seen": "2026-07-28",
     "total_count": 14,
     "days_seen": 1
@@ -2238,11 +2203,6 @@
     "last_seen": "2026-07-30",
     "total_count": 14,
     "days_seen": 1
-  },
-  "上攻": {
-    "last_seen": "2026-08-03",
-    "total_count": 28,
-    "days_seen": 2
   },
   "FOMC": {
     "last_seen": "2026-07-30",
@@ -2874,11 +2834,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "標普": {
-    "last_seen": "2026-08-11",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "帶來": {
     "last_seen": "2026-08-09",
     "total_count": 10,
@@ -3164,11 +3119,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "MSCI": {
-    "last_seen": "2026-08-13",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "財報亮眼": {
     "last_seen": "2026-08-13",
     "total_count": 16,
@@ -3232,6 +3182,86 @@
   "iThome": {
     "last_seen": "2026-08-13",
     "total_count": 13,
+    "days_seen": 1
+  },
+  "中期": {
+    "last_seen": "2026-08-14",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "二季度": {
+    "last_seen": "2026-08-14",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "放行": {
+    "last_seen": "2026-08-14",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "無人機預算": {
+    "last_seen": "2026-08-14",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "一步": {
+    "last_seen": "2026-08-14",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "工程": {
+    "last_seen": "2026-08-14",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "虧損": {
+    "last_seen": "2026-08-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "太空": {
+    "last_seen": "2026-08-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "標普創": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "利同比": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "放量": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "閃迪": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "週五": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "推進": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "矽光": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "開發": {
+    "last_seen": "2026-08-14",
+    "total_count": 14,
     "days_seen": 1
   }
 }
