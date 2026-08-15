@@ -694,11 +694,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "海外": {
-    "last_seen": "2026-08-14",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "結盟": {
     "last_seen": "2026-06-30",
     "total_count": 8,
@@ -928,11 +923,6 @@
     "last_seen": "2026-07-04",
     "total_count": 8,
     "days_seen": 1
-  },
-  "力挺": {
-    "last_seen": "2026-07-25",
-    "total_count": 22,
-    "days_seen": 2
   },
   "來最": {
     "last_seen": "2026-08-01",
@@ -1845,9 +1835,9 @@
     "days_seen": 1
   },
   "夜期": {
-    "last_seen": "2026-07-25",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-15",
+    "total_count": 28,
+    "days_seen": 2
   },
   "新關稅": {
     "last_seen": "2026-07-25",
@@ -2015,11 +2005,6 @@
     "days_seen": 2
   },
   "穩健": {
-    "last_seen": "2026-07-27",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "零售": {
     "last_seen": "2026-07-27",
     "total_count": 14,
     "days_seen": 1
@@ -2784,11 +2769,6 @@
     "total_count": 27,
     "days_seen": 1
   },
-  "me": {
-    "last_seen": "2026-08-09",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "最新": {
     "last_seen": "2026-08-09",
     "total_count": 22,
@@ -2989,11 +2969,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "要求": {
-    "last_seen": "2026-08-11",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "賠償": {
     "last_seen": "2026-08-11",
     "total_count": 14,
@@ -3099,11 +3074,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "測試": {
-    "last_seen": "2026-08-13",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "溫和": {
     "last_seen": "2026-08-13",
     "total_count": 20,
@@ -3155,9 +3125,9 @@
     "days_seen": 1
   },
   "營運": {
-    "last_seen": "2026-08-13",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-15",
+    "total_count": 28,
+    "days_seen": 2
   },
   "工作": {
     "last_seen": "2026-08-13",
@@ -3197,11 +3167,6 @@
   "放行": {
     "last_seen": "2026-08-14",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "無人機預算": {
-    "last_seen": "2026-08-14",
-    "total_count": 20,
     "days_seen": 1
   },
   "一步": {
@@ -3262,6 +3227,111 @@
   "開發": {
     "last_seen": "2026-08-14",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "預算": {
+    "last_seen": "2026-08-15",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "配息": {
+    "last_seen": "2026-08-15",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "周線": {
+    "last_seen": "2026-08-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "標普": {
+    "last_seen": "2026-08-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "減碼": {
+    "last_seen": "2026-08-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "SanDisk": {
+    "last_seen": "2026-08-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "結合": {
+    "last_seen": "2026-08-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "高雄": {
+    "last_seen": "2026-08-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "BOA": {
+    "last_seen": "2026-08-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Acquisition": {
+    "last_seen": "2026-08-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "THEO": {
+    "last_seen": "2026-08-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "產業升級": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "一次看": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "排行": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "聯手": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "近半": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "維持": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "川湖": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "機構": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "能力": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "H1": {
+    "last_seen": "2026-08-15",
+    "total_count": 12,
     "days_seen": 1
   }
 }

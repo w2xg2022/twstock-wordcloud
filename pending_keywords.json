@@ -440,8 +440,8 @@
     "total_count": 36
   },
   "測試": {
-    "first_promoted": "2026-08-12",
-    "total_count": 36
+    "first_promoted": "2026-08-15",
+    "total_count": 38
   },
   "安全": {
     "first_promoted": "2026-08-07",
@@ -670,5 +670,29 @@
   "建設": {
     "first_promoted": "2026-08-14",
     "total_count": 32
+  },
+  "零售": {
+    "first_promoted": "2026-08-15",
+    "total_count": 54
+  },
+  "me": {
+    "first_promoted": "2026-08-15",
+    "total_count": 45
+  },
+  "要求": {
+    "first_promoted": "2026-08-15",
+    "total_count": 32
+  },
+  "力挺": {
+    "first_promoted": "2026-08-15",
+    "total_count": 36
+  },
+  "無人機預算": {
+    "first_promoted": "2026-08-15",
+    "total_count": 32
+  },
+  "海外": {
+    "first_promoted": "2026-08-15",
+    "total_count": 34
   }
 }
