@@ -219,11 +219,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "買進": {
-    "last_seen": "2026-07-26",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "競爭力": {
     "last_seen": "2026-06-18",
     "total_count": 12,
@@ -804,11 +799,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "無人機產業": {
-    "last_seen": "2026-08-14",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "科技股走": {
     "last_seen": "2026-07-02",
     "total_count": 10,
@@ -1225,9 +1215,9 @@
     "days_seen": 1
   },
   "值得": {
-    "last_seen": "2026-07-12",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-16",
+    "total_count": 18,
+    "days_seen": 2
   },
   "循環": {
     "last_seen": "2026-08-01",
@@ -2340,9 +2330,9 @@
     "days_seen": 1
   },
   "問題": {
-    "last_seen": "2026-08-02",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-16",
+    "total_count": 22,
+    "days_seen": 2
   },
   "在地": {
     "last_seen": "2026-08-02",
@@ -3079,11 +3069,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "力積電": {
-    "last_seen": "2026-08-13",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "全年": {
     "last_seen": "2026-08-13",
     "total_count": 18,
@@ -3234,11 +3219,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "配息": {
-    "last_seen": "2026-08-15",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "周線": {
     "last_seen": "2026-08-15",
     "total_count": 18,
@@ -3250,9 +3230,9 @@
     "days_seen": 1
   },
   "減碼": {
-    "last_seen": "2026-08-15",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-16",
+    "total_count": 26,
+    "days_seen": 2
   },
   "SanDisk": {
     "last_seen": "2026-08-15",
@@ -3295,9 +3275,9 @@
     "days_seen": 1
   },
   "排行": {
-    "last_seen": "2026-08-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-16",
+    "total_count": 24,
+    "days_seen": 2
   },
   "聯手": {
     "last_seen": "2026-08-15",
@@ -3320,9 +3300,9 @@
     "days_seen": 1
   },
   "機構": {
-    "last_seen": "2026-08-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-16",
+    "total_count": 24,
+    "days_seen": 2
   },
   "能力": {
     "last_seen": "2026-08-15",
@@ -3332,6 +3312,111 @@
   "H1": {
     "last_seen": "2026-08-15",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "介選": {
+    "last_seen": "2026-08-16",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "零售": {
+    "last_seen": "2026-08-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "中共": {
+    "last_seen": "2026-08-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "通訊": {
+    "last_seen": "2026-08-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "外資持股": {
+    "last_seen": "2026-08-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "中共介選": {
+    "last_seen": "2026-08-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "烏克蘭": {
+    "last_seen": "2026-08-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "宣布": {
+    "last_seen": "2026-08-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "大事": {
+    "last_seen": "2026-08-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "文化": {
+    "last_seen": "2026-08-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Anthropic": {
+    "last_seen": "2026-08-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "轉強": {
+    "last_seen": "2026-08-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "能否": {
+    "last_seen": "2026-08-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "勞工": {
+    "last_seen": "2026-08-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "力挺": {
+    "last_seen": "2026-08-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "教育": {
+    "last_seen": "2026-08-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "介選產業鏈": {
+    "last_seen": "2026-08-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "還有": {
+    "last_seen": "2026-08-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "名單": {
+    "last_seen": "2026-08-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "單週": {
+    "last_seen": "2026-08-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "上路": {
+    "last_seen": "2026-08-16",
+    "total_count": 8,
     "days_seen": 1
   }
 }
