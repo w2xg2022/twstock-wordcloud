@@ -68,8 +68,8 @@
     "total_count": 52
   },
   "存儲": {
-    "first_promoted": "2026-07-27",
-    "total_count": 42
+    "first_promoted": "2026-08-17",
+    "total_count": 30
   },
   "版圖": {
     "first_promoted": "2026-07-27",
@@ -116,8 +116,8 @@
     "total_count": 40
   },
   "機構": {
-    "first_promoted": "2026-08-11",
-    "total_count": 30
+    "first_promoted": "2026-08-17",
+    "total_count": 40
   },
   "股集體": {
     "first_promoted": "2026-07-28",
@@ -284,8 +284,8 @@
     "total_count": 36
   },
   "永續": {
-    "first_promoted": "2026-08-01",
-    "total_count": 32
+    "first_promoted": "2026-08-17",
+    "total_count": 34
   },
   "股票": {
     "first_promoted": "2026-08-02",
@@ -702,5 +702,17 @@
   "無人機產業": {
     "first_promoted": "2026-08-16",
     "total_count": 34
+  },
+  "選舉": {
+    "first_promoted": "2026-08-17",
+    "total_count": 38
+  },
+  "紅利": {
+    "first_promoted": "2026-08-17",
+    "total_count": 30
+  },
+  "盈利": {
+    "first_promoted": "2026-08-17",
+    "total_count": 32
   }
 }

@@ -2044,11 +2044,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "存儲": {
-    "last_seen": "2026-07-28",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "半導體設備": {
     "last_seen": "2026-08-05",
     "total_count": 28,
@@ -2620,9 +2615,9 @@
     "days_seen": 1
   },
   "股回檔": {
-    "last_seen": "2026-08-06",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-17",
+    "total_count": 24,
+    "days_seen": 2
   },
   "股承壓": {
     "last_seen": "2026-08-06",
@@ -2698,11 +2693,6 @@
     "last_seen": "2026-08-09",
     "total_count": 24,
     "days_seen": 2
-  },
-  "永續": {
-    "last_seen": "2026-08-08",
-    "total_count": 16,
-    "days_seen": 1
   },
   "非農意外": {
     "last_seen": "2026-08-08",
@@ -2910,11 +2900,6 @@
     "days_seen": 1
   },
   "博士生": {
-    "last_seen": "2026-08-11",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "盈利": {
     "last_seen": "2026-08-11",
     "total_count": 18,
     "days_seen": 1
@@ -3299,11 +3284,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "機構": {
-    "last_seen": "2026-08-16",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "能力": {
     "last_seen": "2026-08-15",
     "total_count": 12,
@@ -3365,9 +3345,9 @@
     "days_seen": 1
   },
   "Anthropic": {
-    "last_seen": "2026-08-16",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-17",
+    "total_count": 28,
+    "days_seen": 2
   },
   "轉強": {
     "last_seen": "2026-08-16",
@@ -3417,6 +3397,116 @@
   "上路": {
     "last_seen": "2026-08-16",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "配息": {
+    "last_seen": "2026-08-17",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "利潤": {
+    "last_seen": "2026-08-17",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "淨利": {
+    "last_seen": "2026-08-17",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "海外": {
+    "last_seen": "2026-08-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "嘉義": {
+    "last_seen": "2026-08-17",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "中微半導": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "甜甜價": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "美聯儲": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "上週五": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "結算": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "掌握": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "銷售": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "超越": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "平均": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "過半": {
+    "last_seen": "2026-08-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "chinatimes": {
+    "last_seen": "2026-08-17",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "me": {
+    "last_seen": "2026-08-17",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "預計上半年": {
+    "last_seen": "2026-08-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "攻防": {
+    "last_seen": "2026-08-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "多空": {
+    "last_seen": "2026-08-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "留意": {
+    "last_seen": "2026-08-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "二季": {
+    "last_seen": "2026-08-17",
+    "total_count": 12,
     "days_seen": 1
   }
 }
