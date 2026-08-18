@@ -100,8 +100,8 @@
     "total_count": 38
   },
   "局勢": {
-    "first_promoted": "2026-08-07",
-    "total_count": 58
+    "first_promoted": "2026-08-18",
+    "total_count": 30
   },
   "暫停": {
     "first_promoted": "2026-07-28",
@@ -252,8 +252,8 @@
     "total_count": 42
   },
   "亮眼": {
-    "first_promoted": "2026-08-06",
-    "total_count": 36
+    "first_promoted": "2026-08-18",
+    "total_count": 38
   },
   "黃崇仁": {
     "first_promoted": "2026-08-01",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-05",
-    "total_count": 34
+    "first_promoted": "2026-08-18",
+    "total_count": 30
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-08-09",
-    "total_count": 36
+    "first_promoted": "2026-08-18",
+    "total_count": 32
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -714,5 +714,25 @@
   "盈利": {
     "first_promoted": "2026-08-17",
     "total_count": 32
+  },
+  "航運": {
+    "first_promoted": "2026-08-18",
+    "total_count": 30
+  },
+  "緊張": {
+    "first_promoted": "2026-08-18",
+    "total_count": 44
+  },
+  "法人買": {
+    "first_promoted": "2026-08-18",
+    "total_count": 34
+  },
+  "談判": {
+    "first_promoted": "2026-08-18",
+    "total_count": 30
+  },
+  "結算": {
+    "first_promoted": "2026-08-18",
+    "total_count": 30
   }
 }

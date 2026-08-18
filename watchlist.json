@@ -925,9 +925,9 @@
     "days_seen": 1
   },
   "升息預期": {
-    "last_seen": "2026-07-05",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-18",
+    "total_count": 24,
+    "days_seen": 2
   },
   "股基金": {
     "last_seen": "2026-07-05",
@@ -1285,11 +1285,6 @@
     "days_seen": 1
   },
   "董事會": {
-    "last_seen": "2026-07-14",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "緊張": {
     "last_seen": "2026-07-14",
     "total_count": 16,
     "days_seen": 1
@@ -2999,11 +2994,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "亮眼": {
-    "last_seen": "2026-08-12",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "量測": {
     "last_seen": "2026-08-12",
     "total_count": 16,
@@ -3012,11 +3002,6 @@
   "SMCI": {
     "last_seen": "2026-08-12",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "談判": {
-    "last_seen": "2026-08-12",
-    "total_count": 14,
     "days_seen": 1
   },
   "收入": {
@@ -3060,16 +3045,6 @@
     "days_seen": 1
   },
   "財報亮眼": {
-    "last_seen": "2026-08-13",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "成交量": {
-    "last_seen": "2026-08-13",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "法人買": {
     "last_seen": "2026-08-13",
     "total_count": 16,
     "days_seen": 1
@@ -3444,11 +3419,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "結算": {
-    "last_seen": "2026-08-17",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "掌握": {
     "last_seen": "2026-08-17",
     "total_count": 14,
@@ -3507,6 +3477,106 @@
   "二季": {
     "last_seen": "2026-08-17",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "人民": {
+    "last_seen": "2026-08-18",
+    "total_count": 29,
+    "days_seen": 1
+  },
+  "上櫃": {
+    "last_seen": "2026-08-18",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "殖利率": {
+    "last_seen": "2026-08-18",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "工安": {
+    "last_seen": "2026-08-18",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "F20": {
+    "last_seen": "2026-08-18",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "貨櫃": {
+    "last_seen": "2026-08-18",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "外資連": {
+    "last_seen": "2026-08-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "黑馬": {
+    "last_seen": "2026-08-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "關卡": {
+    "last_seen": "2026-08-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "普發": {
+    "last_seen": "2026-08-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "配電盤": {
+    "last_seen": "2026-08-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "暴增": {
+    "last_seen": "2026-08-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "當場": {
+    "last_seen": "2026-08-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "收益": {
+    "last_seen": "2026-08-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "預測": {
+    "last_seen": "2026-08-18",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "國經濟": {
+    "last_seen": "2026-08-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "工人遭": {
+    "last_seen": "2026-08-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "科創": {
+    "last_seen": "2026-08-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "死亡": {
+    "last_seen": "2026-08-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "上游": {
+    "last_seen": "2026-08-18",
+    "total_count": 16,
     "days_seen": 1
   }
 }
