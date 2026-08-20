@@ -184,8 +184,8 @@
     "total_count": 32
   },
   "外資連": {
-    "first_promoted": "2026-07-30",
-    "total_count": 42
+    "first_promoted": "2026-08-20",
+    "total_count": 34
   },
   "金轉": {
     "first_promoted": "2026-07-30",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-18",
-    "total_count": 30
+    "first_promoted": "2026-08-20",
+    "total_count": 68
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -488,8 +488,8 @@
     "total_count": 36
   },
   "營運": {
-    "first_promoted": "2026-08-08",
-    "total_count": 36
+    "first_promoted": "2026-08-20",
+    "total_count": 46
   },
   "工作": {
     "first_promoted": "2026-08-08",
@@ -528,8 +528,8 @@
     "total_count": 30
   },
   "站回": {
-    "first_promoted": "2026-08-10",
-    "total_count": 34
+    "first_promoted": "2026-08-20",
+    "total_count": 44
   },
   "權值": {
     "first_promoted": "2026-08-10",
@@ -733,6 +733,22 @@
   },
   "結算": {
     "first_promoted": "2026-08-18",
+    "total_count": 30
+  },
+  "殖利率": {
+    "first_promoted": "2026-08-20",
+    "total_count": 80
+  },
+  "回購": {
+    "first_promoted": "2026-08-20",
+    "total_count": 30
+  },
+  "收入": {
+    "first_promoted": "2026-08-20",
+    "total_count": 30
+  },
+  "學生": {
+    "first_promoted": "2026-08-20",
     "total_count": 30
   }
 }
