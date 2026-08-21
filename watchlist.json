@@ -829,11 +829,6 @@
     "total_count": 16,
     "days_seen": 2
   },
-  "加密": {
-    "last_seen": "2026-07-03",
-    "total_count": 17,
-    "days_seen": 1
-  },
   "逆轉": {
     "last_seen": "2026-07-03",
     "total_count": 12,
@@ -1194,11 +1189,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "類股": {
-    "last_seen": "2026-07-12",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "護國神山": {
     "last_seen": "2026-07-12",
     "total_count": 10,
@@ -1527,11 +1517,6 @@
   "DeepSeek": {
     "last_seen": "2026-07-19",
     "total_count": 12,
-    "days_seen": 1
-  },
-  "半導體材料": {
-    "last_seen": "2026-07-19",
-    "total_count": 10,
     "days_seen": 1
   },
   "產業發展": {
@@ -1939,11 +1924,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "投顧": {
-    "last_seen": "2026-08-07",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "真的": {
     "last_seen": "2026-07-26",
     "total_count": 8,
@@ -2033,11 +2013,6 @@
     "last_seen": "2026-07-28",
     "total_count": 16,
     "days_seen": 1
-  },
-  "半導體設備": {
-    "last_seen": "2026-08-05",
-    "total_count": 28,
-    "days_seen": 2
   },
   "盤中重挫": {
     "last_seen": "2026-07-28",
@@ -2140,11 +2115,6 @@
     "days_seen": 1
   },
   "國安基金": {
-    "last_seen": "2026-07-30",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "下挫": {
     "last_seen": "2026-07-30",
     "total_count": 18,
     "days_seen": 1
@@ -2869,11 +2839,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "強化": {
-    "last_seen": "2026-08-10",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "股多頭": {
     "last_seen": "2026-08-10",
     "total_count": 12,
@@ -3079,11 +3044,6 @@
     "total_count": 13,
     "days_seen": 1
   },
-  "中期": {
-    "last_seen": "2026-08-14",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "二季度": {
     "last_seen": "2026-08-14",
     "total_count": 24,
@@ -3130,11 +3090,6 @@
     "days_seen": 1
   },
   "閃迪": {
-    "last_seen": "2026-08-14",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "週五": {
     "last_seen": "2026-08-14",
     "total_count": 14,
     "days_seen": 1
@@ -3364,11 +3319,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "淨利": {
-    "last_seen": "2026-08-17",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "海外": {
     "last_seen": "2026-08-17",
     "total_count": 18,
@@ -3400,11 +3350,6 @@
     "days_seen": 1
   },
   "掌握": {
-    "last_seen": "2026-08-17",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "銷售": {
     "last_seen": "2026-08-17",
     "total_count": 14,
     "days_seen": 1
@@ -3564,11 +3509,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "成交量": {
-    "last_seen": "2026-08-20",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "債回購": {
     "last_seen": "2026-08-20",
     "total_count": 20,
@@ -3577,11 +3517,6 @@
   "出手": {
     "last_seen": "2026-08-20",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "航運": {
-    "last_seen": "2026-08-20",
-    "total_count": 18,
     "days_seen": 1
   },
   "醫藥": {
@@ -3647,6 +3582,71 @@
   "超車": {
     "last_seen": "2026-08-20",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "量縮": {
+    "last_seen": "2026-08-21",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "成立": {
+    "last_seen": "2026-08-21",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "材料聯盟": {
+    "last_seen": "2026-08-21",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "資安": {
+    "last_seen": "2026-08-21",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "貨幣": {
+    "last_seen": "2026-08-21",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "萬海": {
+    "last_seen": "2026-08-21",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "陽明": {
+    "last_seen": "2026-08-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "近期": {
+    "last_seen": "2026-08-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "加密貨幣": {
+    "last_seen": "2026-08-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "油價走": {
+    "last_seen": "2026-08-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "對伊": {
+    "last_seen": "2026-08-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "客戶": {
+    "last_seen": "2026-08-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "Strategy": {
+    "last_seen": "2026-08-21",
+    "total_count": 16,
     "days_seen": 1
   }
 }

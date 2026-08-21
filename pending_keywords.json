@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-20",
-    "total_count": 68
+    "first_promoted": "2026-08-21",
+    "total_count": 102
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -432,8 +432,8 @@
     "total_count": 38
   },
   "強化": {
-    "first_promoted": "2026-08-07",
-    "total_count": 50
+    "first_promoted": "2026-08-21",
+    "total_count": 34
   },
   "偏多": {
     "first_promoted": "2026-08-07",
@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-08-18",
-    "total_count": 32
+    "first_promoted": "2026-08-21",
+    "total_count": 40
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -600,8 +600,8 @@
     "total_count": 44
   },
   "SEMI": {
-    "first_promoted": "2026-08-12",
-    "total_count": 40
+    "first_promoted": "2026-08-21",
+    "total_count": 34
   },
   "翻倍": {
     "first_promoted": "2026-08-12",
@@ -716,8 +716,8 @@
     "total_count": 32
   },
   "航運": {
-    "first_promoted": "2026-08-18",
-    "total_count": 30
+    "first_promoted": "2026-08-21",
+    "total_count": 60
   },
   "緊張": {
     "first_promoted": "2026-08-18",
@@ -740,8 +740,8 @@
     "total_count": 80
   },
   "回購": {
-    "first_promoted": "2026-08-20",
-    "total_count": 30
+    "first_promoted": "2026-08-21",
+    "total_count": 38
   },
   "收入": {
     "first_promoted": "2026-08-20",
@@ -749,6 +749,50 @@
   },
   "學生": {
     "first_promoted": "2026-08-20",
+    "total_count": 30
+  },
+  "沃爾瑪": {
+    "first_promoted": "2026-08-21",
+    "total_count": 44
+  },
+  "半導體材料": {
+    "first_promoted": "2026-08-21",
+    "total_count": 44
+  },
+  "類股": {
+    "first_promoted": "2026-08-21",
+    "total_count": 46
+  },
+  "加密": {
+    "first_promoted": "2026-08-21",
+    "total_count": 46
+  },
+  "中期": {
+    "first_promoted": "2026-08-21",
+    "total_count": 56
+  },
+  "銷售": {
+    "first_promoted": "2026-08-21",
+    "total_count": 36
+  },
+  "下挫": {
+    "first_promoted": "2026-08-21",
+    "total_count": 38
+  },
+  "投顧": {
+    "first_promoted": "2026-08-21",
+    "total_count": 41
+  },
+  "淨利": {
+    "first_promoted": "2026-08-21",
+    "total_count": 38
+  },
+  "半導體設備": {
+    "first_promoted": "2026-08-21",
+    "total_count": 44
+  },
+  "週五": {
+    "first_promoted": "2026-08-21",
     "total_count": 30
   }
 }
