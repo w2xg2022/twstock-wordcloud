@@ -28,8 +28,8 @@
     "total_count": 42
   },
   "周線": {
-    "first_promoted": "2026-07-26",
-    "total_count": 30
+    "first_promoted": "2026-08-22",
+    "total_count": 46
   },
   "KY": {
     "first_promoted": "2026-07-26",
@@ -44,8 +44,8 @@
     "total_count": 32
   },
   "Anthropic": {
-    "first_promoted": "2026-07-26",
-    "total_count": 34
+    "first_promoted": "2026-08-22",
+    "total_count": 46
   },
   "走低": {
     "first_promoted": "2026-08-07",
@@ -112,8 +112,8 @@
     "total_count": 32
   },
   "量縮": {
-    "first_promoted": "2026-07-28",
-    "total_count": 40
+    "first_promoted": "2026-08-22",
+    "total_count": 50
   },
   "機構": {
     "first_promoted": "2026-08-17",
@@ -228,8 +228,8 @@
     "total_count": 48
   },
   "港股通": {
-    "first_promoted": "2026-08-06",
-    "total_count": 34
+    "first_promoted": "2026-08-22",
+    "total_count": 32
   },
   "點燃": {
     "first_promoted": "2026-07-31",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-21",
-    "total_count": 102
+    "first_promoted": "2026-08-22",
+    "total_count": 42
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -480,8 +480,8 @@
     "total_count": 36
   },
   "生活": {
-    "first_promoted": "2026-08-08",
-    "total_count": 38
+    "first_promoted": "2026-08-22",
+    "total_count": 42
   },
   "非農就業": {
     "first_promoted": "2026-08-08",
@@ -600,8 +600,8 @@
     "total_count": 44
   },
   "SEMI": {
-    "first_promoted": "2026-08-21",
-    "total_count": 34
+    "first_promoted": "2026-08-22",
+    "total_count": 42
   },
   "翻倍": {
     "first_promoted": "2026-08-12",
@@ -716,8 +716,8 @@
     "total_count": 32
   },
   "航運": {
-    "first_promoted": "2026-08-21",
-    "total_count": 60
+    "first_promoted": "2026-08-22",
+    "total_count": 42
   },
   "緊張": {
     "first_promoted": "2026-08-18",
@@ -736,8 +736,8 @@
     "total_count": 30
   },
   "殖利率": {
-    "first_promoted": "2026-08-20",
-    "total_count": 80
+    "first_promoted": "2026-08-22",
+    "total_count": 30
   },
   "回購": {
     "first_promoted": "2026-08-21",
@@ -756,16 +756,16 @@
     "total_count": 44
   },
   "半導體材料": {
-    "first_promoted": "2026-08-21",
-    "total_count": 44
+    "first_promoted": "2026-08-22",
+    "total_count": 90
   },
   "類股": {
     "first_promoted": "2026-08-21",
     "total_count": 46
   },
   "加密": {
-    "first_promoted": "2026-08-21",
-    "total_count": 46
+    "first_promoted": "2026-08-22",
+    "total_count": 31
   },
   "中期": {
     "first_promoted": "2026-08-21",
@@ -793,6 +793,30 @@
   },
   "週五": {
     "first_promoted": "2026-08-21",
+    "total_count": 30
+  },
+  "成立": {
+    "first_promoted": "2026-08-22",
+    "total_count": 66
+  },
+  "加密貨幣": {
+    "first_promoted": "2026-08-22",
+    "total_count": 38
+  },
+  "在地": {
+    "first_promoted": "2026-08-22",
+    "total_count": 32
+  },
+  "陽明": {
+    "first_promoted": "2026-08-22",
+    "total_count": 34
+  },
+  "貨櫃": {
+    "first_promoted": "2026-08-22",
+    "total_count": 38
+  },
+  "台灣半導體": {
+    "first_promoted": "2026-08-22",
     "total_count": 30
   }
 }

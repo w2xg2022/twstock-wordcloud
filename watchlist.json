@@ -220,9 +220,9 @@
     "days_seen": 1
   },
   "競爭力": {
-    "last_seen": "2026-06-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-22",
+    "total_count": 28,
+    "days_seen": 2
   },
   "股東會": {
     "last_seen": "2026-06-18",
@@ -255,9 +255,9 @@
     "days_seen": 1
   },
   "總統": {
-    "last_seen": "2026-06-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-22",
+    "total_count": 28,
+    "days_seen": 2
   },
   "電力": {
     "last_seen": "2026-06-19",
@@ -605,9 +605,9 @@
     "days_seen": 2
   },
   "單周": {
-    "last_seen": "2026-06-28",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-22",
+    "total_count": 24,
+    "days_seen": 2
   },
   "PMI": {
     "last_seen": "2026-06-30",
@@ -635,11 +635,6 @@
     "days_seen": 2
   },
   "科技股反彈": {
-    "last_seen": "2026-06-30",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "台灣半導體": {
     "last_seen": "2026-06-30",
     "total_count": 16,
     "days_seen": 1
@@ -2289,11 +2284,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "在地": {
-    "last_seen": "2026-08-02",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "地震": {
     "last_seen": "2026-08-04",
     "total_count": 26,
@@ -2624,11 +2614,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "港股通": {
-    "last_seen": "2026-08-07",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "桃園": {
     "last_seen": "2026-08-08",
     "total_count": 21,
@@ -2702,11 +2687,6 @@
   "cmnews": {
     "last_seen": "2026-08-09",
     "total_count": 28,
-    "days_seen": 1
-  },
-  "生活": {
-    "last_seen": "2026-08-09",
-    "total_count": 27,
     "days_seen": 1
   },
   "最新": {
@@ -3114,11 +3094,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "周線": {
-    "last_seen": "2026-08-15",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "標普": {
     "last_seen": "2026-08-15",
     "total_count": 16,
@@ -3253,11 +3228,6 @@
     "last_seen": "2026-08-16",
     "total_count": 12,
     "days_seen": 1
-  },
-  "Anthropic": {
-    "last_seen": "2026-08-17",
-    "total_count": 28,
-    "days_seen": 2
   },
   "轉強": {
     "last_seen": "2026-08-16",
@@ -3424,11 +3394,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "貨櫃": {
-    "last_seen": "2026-08-18",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "黑馬": {
     "last_seen": "2026-08-18",
     "total_count": 20,
@@ -3584,16 +3549,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "量縮": {
-    "last_seen": "2026-08-21",
-    "total_count": 26,
-    "days_seen": 1
-  },
-  "成立": {
-    "last_seen": "2026-08-21",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "材料聯盟": {
     "last_seen": "2026-08-21",
     "total_count": 24,
@@ -3614,19 +3569,9 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "陽明": {
-    "last_seen": "2026-08-21",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "近期": {
     "last_seen": "2026-08-21",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "加密貨幣": {
-    "last_seen": "2026-08-21",
-    "total_count": 16,
     "days_seen": 1
   },
   "油價走": {
@@ -3646,6 +3591,56 @@
   },
   "Strategy": {
     "last_seen": "2026-08-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "異動": {
+    "last_seen": "2026-08-22",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "徐秀蘭": {
+    "last_seen": "2026-08-22",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "串聯": {
+    "last_seen": "2026-08-22",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "強化": {
+    "last_seen": "2026-08-22",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "航海王": {
+    "last_seen": "2026-08-22",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "彰化": {
+    "last_seen": "2026-08-22",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "工程師": {
+    "last_seen": "2026-08-22",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "提供": {
+    "last_seen": "2026-08-22",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "航運股": {
+    "last_seen": "2026-08-22",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "營運": {
+    "last_seen": "2026-08-22",
     "total_count": 16,
     "days_seen": 1
   }
