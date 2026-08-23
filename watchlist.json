@@ -629,11 +629,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "大戶": {
-    "last_seen": "2026-07-20",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "科技股反彈": {
     "last_seen": "2026-06-30",
     "total_count": 16,
@@ -808,11 +803,6 @@
     "last_seen": "2026-07-02",
     "total_count": 8,
     "days_seen": 1
-  },
-  "模式": {
-    "last_seen": "2026-07-03",
-    "total_count": 20,
-    "days_seen": 2
   },
   "不怕": {
     "last_seen": "2026-07-02",
@@ -1140,9 +1130,9 @@
     "days_seen": 1
   },
   "引領": {
-    "last_seen": "2026-07-11",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-23",
+    "total_count": 22,
+    "days_seen": 2
   },
   "與半導體": {
     "last_seen": "2026-07-11",
@@ -1195,9 +1185,9 @@
     "days_seen": 1
   },
   "值得": {
-    "last_seen": "2026-08-16",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-08-23",
+    "total_count": 26,
+    "days_seen": 3
   },
   "循環": {
     "last_seen": "2026-08-01",
@@ -1424,11 +1414,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "時新聞": {
-    "last_seen": "2026-07-18",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "作家": {
     "last_seen": "2026-07-18",
     "total_count": 20,
@@ -1499,11 +1484,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "平台": {
-    "last_seen": "2026-07-21",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "生醫": {
     "last_seen": "2026-07-19",
     "total_count": 12,
@@ -1560,9 +1540,9 @@
     "days_seen": 1
   },
   "風向": {
-    "last_seen": "2026-07-20",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-23",
+    "total_count": 24,
+    "days_seen": 2
   },
   "指期": {
     "last_seen": "2026-07-20",
@@ -1593,11 +1573,6 @@
     "last_seen": "2026-07-21",
     "total_count": 18,
     "days_seen": 1
-  },
-  "避險": {
-    "last_seen": "2026-08-02",
-    "total_count": 26,
-    "days_seen": 2
   },
   "財報周": {
     "last_seen": "2026-07-21",
@@ -2015,11 +1990,6 @@
     "days_seen": 1
   },
   "開盤重挫": {
-    "last_seen": "2026-07-28",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "整理": {
     "last_seen": "2026-07-28",
     "total_count": 14,
     "days_seen": 1
@@ -3115,9 +3085,9 @@
     "days_seen": 1
   },
   "高雄": {
-    "last_seen": "2026-08-15",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-23",
+    "total_count": 26,
+    "days_seen": 2
   },
   "BOA": {
     "last_seen": "2026-08-15",
@@ -3233,11 +3203,6 @@
     "last_seen": "2026-08-16",
     "total_count": 10,
     "days_seen": 1
-  },
-  "能否": {
-    "last_seen": "2026-08-20",
-    "total_count": 26,
-    "days_seen": 2
   },
   "勞工": {
     "last_seen": "2026-08-16",
@@ -3504,11 +3469,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "長債": {
-    "last_seen": "2026-08-20",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "債務": {
     "last_seen": "2026-08-20",
     "total_count": 16,
@@ -3639,9 +3599,84 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "營運": {
-    "last_seen": "2026-08-22",
-    "total_count": 16,
+  "輝達財報": {
+    "last_seen": "2026-08-23",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "Anthropic": {
+    "last_seen": "2026-08-23",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "周線": {
+    "last_seen": "2026-08-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "下週": {
+    "last_seen": "2026-08-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "美債": {
+    "last_seen": "2026-08-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "牽動": {
+    "last_seen": "2026-08-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "建設": {
+    "last_seen": "2026-08-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "回購長債": {
+    "last_seen": "2026-08-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "航運": {
+    "last_seen": "2026-08-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "測試": {
+    "last_seen": "2026-08-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Micron": {
+    "last_seen": "2026-08-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "迎戰": {
+    "last_seen": "2026-08-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "龍潭": {
+    "last_seen": "2026-08-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "悄悄": {
+    "last_seen": "2026-08-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "制裁": {
+    "last_seen": "2026-08-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "Marvell": {
+    "last_seen": "2026-08-23",
+    "total_count": 8,
     "days_seen": 1
   }
 }

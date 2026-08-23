@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-08-09",
-    "total_count": 42
+    "first_promoted": "2026-08-23",
+    "total_count": 62
   },
   "周線": {
     "first_promoted": "2026-08-22",
@@ -312,8 +312,8 @@
     "total_count": 47
   },
   "能否": {
-    "first_promoted": "2026-08-03",
-    "total_count": 30
+    "first_promoted": "2026-08-23",
+    "total_count": 34
   },
   "超級": {
     "first_promoted": "2026-08-03",
@@ -488,8 +488,8 @@
     "total_count": 36
   },
   "營運": {
-    "first_promoted": "2026-08-20",
-    "total_count": 46
+    "first_promoted": "2026-08-23",
+    "total_count": 30
   },
   "工作": {
     "first_promoted": "2026-08-08",
@@ -818,5 +818,33 @@
   "台灣半導體": {
     "first_promoted": "2026-08-22",
     "total_count": 30
+  },
+  "時新聞": {
+    "first_promoted": "2026-08-23",
+    "total_count": 48
+  },
+  "長債": {
+    "first_promoted": "2026-08-23",
+    "total_count": 32
+  },
+  "整理": {
+    "first_promoted": "2026-08-23",
+    "total_count": 30
+  },
+  "模式": {
+    "first_promoted": "2026-08-23",
+    "total_count": 34
+  },
+  "避險": {
+    "first_promoted": "2026-08-23",
+    "total_count": 38
+  },
+  "大戶": {
+    "first_promoted": "2026-08-23",
+    "total_count": 34
+  },
+  "平台": {
+    "first_promoted": "2026-08-23",
+    "total_count": 34
   }
 }
