@@ -170,9 +170,9 @@
     "days_seen": 2
   },
   "資金轉": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-24",
+    "total_count": 26,
+    "days_seen": 2
   },
   "艾克爾": {
     "last_seen": "2026-06-17",
@@ -424,11 +424,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "最低": {
-    "last_seen": "2026-07-09",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "兩大": {
     "last_seen": "2026-08-02",
     "total_count": 16,
@@ -619,11 +614,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "高檔": {
-    "last_seen": "2026-08-20",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "重要": {
     "last_seen": "2026-06-29",
     "total_count": 10,
@@ -760,9 +750,9 @@
     "days_seen": 1
   },
   "方案": {
-    "last_seen": "2026-07-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-24",
+    "total_count": 26,
+    "days_seen": 2
   },
   "Nike": {
     "last_seen": "2026-07-01",
@@ -1018,11 +1008,6 @@
     "last_seen": "2026-07-09",
     "total_count": 14,
     "days_seen": 1
-  },
-  "會議": {
-    "last_seen": "2026-07-30",
-    "total_count": 28,
-    "days_seen": 2
   },
   "全球半導體": {
     "last_seen": "2026-07-28",
@@ -1553,11 +1538,6 @@
     "last_seen": "2026-07-20",
     "total_count": 14,
     "days_seen": 1
-  },
-  "考驗": {
-    "last_seen": "2026-08-10",
-    "total_count": 28,
-    "days_seen": 2
   },
   "增持": {
     "last_seen": "2026-07-20",
@@ -3334,11 +3314,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "二季": {
-    "last_seen": "2026-08-17",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "人民": {
     "last_seen": "2026-08-18",
     "total_count": 29,
@@ -3589,19 +3564,9 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "提供": {
-    "last_seen": "2026-08-22",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "航運股": {
     "last_seen": "2026-08-22",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "輝達財報": {
-    "last_seen": "2026-08-23",
-    "total_count": 28,
     "days_seen": 1
   },
   "Anthropic": {
@@ -3615,11 +3580,6 @@
     "days_seen": 1
   },
   "下週": {
-    "last_seen": "2026-08-23",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "美債": {
     "last_seen": "2026-08-23",
     "total_count": 14,
     "days_seen": 1
@@ -3669,14 +3629,89 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "制裁": {
+  "Marvell": {
     "last_seen": "2026-08-23",
     "total_count": 8,
     "days_seen": 1
   },
-  "Marvell": {
-    "last_seen": "2026-08-23",
-    "total_count": 8,
+  "伺服器": {
+    "last_seen": "2026-08-24",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "量縮": {
+    "last_seen": "2026-08-24",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "Taiwan": {
+    "last_seen": "2026-08-24",
+    "total_count": 25,
+    "days_seen": 1
+  },
+  "半導體材料": {
+    "last_seen": "2026-08-24",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "股票": {
+    "last_seen": "2026-08-24",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "矽晶圓": {
+    "last_seen": "2026-08-24",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "白皮書": {
+    "last_seen": "2026-08-24",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "中期": {
+    "last_seen": "2026-08-24",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "恆生": {
+    "last_seen": "2026-08-24",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "應對": {
+    "last_seen": "2026-08-24",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "革命": {
+    "last_seen": "2026-08-24",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "SEMICON": {
+    "last_seen": "2026-08-24",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "生技產業": {
+    "last_seen": "2026-08-24",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "生技股": {
+    "last_seen": "2026-08-24",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "長債": {
+    "last_seen": "2026-08-24",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "諾曼": {
+    "last_seen": "2026-08-24",
+    "total_count": 16,
     "days_seen": 1
   }
 }

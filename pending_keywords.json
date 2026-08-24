@@ -152,8 +152,8 @@
     "total_count": 38
   },
   "二季": {
-    "first_promoted": "2026-07-29",
-    "total_count": 38
+    "first_promoted": "2026-08-24",
+    "total_count": 30
   },
   "小漲": {
     "first_promoted": "2026-07-29",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-22",
-    "total_count": 42
+    "first_promoted": "2026-08-24",
+    "total_count": 46
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -352,8 +352,8 @@
     "total_count": 54
   },
   "提供": {
-    "first_promoted": "2026-08-04",
-    "total_count": 34
+    "first_promoted": "2026-08-24",
+    "total_count": 44
   },
   "盤後股價": {
     "first_promoted": "2026-08-04",
@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-08-21",
-    "total_count": 40
+    "first_promoted": "2026-08-24",
+    "total_count": 30
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -760,8 +760,8 @@
     "total_count": 90
   },
   "類股": {
-    "first_promoted": "2026-08-21",
-    "total_count": 46
+    "first_promoted": "2026-08-24",
+    "total_count": 36
   },
   "加密": {
     "first_promoted": "2026-08-22",
@@ -846,5 +846,33 @@
   "平台": {
     "first_promoted": "2026-08-23",
     "total_count": 34
+  },
+  "輝達財報": {
+    "first_promoted": "2026-08-24",
+    "total_count": 86
+  },
+  "經濟戰": {
+    "first_promoted": "2026-08-24",
+    "total_count": 40
+  },
+  "制裁": {
+    "first_promoted": "2026-08-24",
+    "total_count": 40
+  },
+  "最低": {
+    "first_promoted": "2026-08-24",
+    "total_count": 42
+  },
+  "會議": {
+    "first_promoted": "2026-08-24",
+    "total_count": 46
+  },
+  "考驗": {
+    "first_promoted": "2026-08-24",
+    "total_count": 46
+  },
+  "高檔": {
+    "first_promoted": "2026-08-24",
+    "total_count": 44
   }
 }
