@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-24",
-    "total_count": 46
+    "first_promoted": "2026-08-25",
+    "total_count": 30
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -404,8 +404,8 @@
     "total_count": 30
   },
   "觀望": {
-    "first_promoted": "2026-08-06",
-    "total_count": 30
+    "first_promoted": "2026-08-25",
+    "total_count": 42
   },
   "排行": {
     "first_promoted": "2026-08-06",
@@ -448,8 +448,8 @@
     "total_count": 35
   },
   "宣布": {
-    "first_promoted": "2026-08-07",
-    "total_count": 42
+    "first_promoted": "2026-08-25",
+    "total_count": 30
   },
   "醫藥": {
     "first_promoted": "2026-08-07",
@@ -608,16 +608,16 @@
     "total_count": 36
   },
   "同比增": {
-    "first_promoted": "2026-08-12",
-    "total_count": 40
+    "first_promoted": "2026-08-25",
+    "total_count": 30
   },
   "開發": {
     "first_promoted": "2026-08-12",
     "total_count": 32
   },
   "績後": {
-    "first_promoted": "2026-08-14",
-    "total_count": 32
+    "first_promoted": "2026-08-25",
+    "total_count": 44
   },
   "伺服器": {
     "first_promoted": "2026-08-13",
@@ -716,8 +716,8 @@
     "total_count": 32
   },
   "航運": {
-    "first_promoted": "2026-08-22",
-    "total_count": 42
+    "first_promoted": "2026-08-25",
+    "total_count": 46
   },
   "緊張": {
     "first_promoted": "2026-08-18",
@@ -768,8 +768,8 @@
     "total_count": 31
   },
   "中期": {
-    "first_promoted": "2026-08-21",
-    "total_count": 56
+    "first_promoted": "2026-08-25",
+    "total_count": 44
   },
   "銷售": {
     "first_promoted": "2026-08-21",
@@ -848,16 +848,16 @@
     "total_count": 34
   },
   "輝達財報": {
-    "first_promoted": "2026-08-24",
-    "total_count": 86
+    "first_promoted": "2026-08-25",
+    "total_count": 78
   },
   "經濟戰": {
     "first_promoted": "2026-08-24",
     "total_count": 40
   },
   "制裁": {
-    "first_promoted": "2026-08-24",
-    "total_count": 40
+    "first_promoted": "2026-08-25",
+    "total_count": 54
   },
   "最低": {
     "first_promoted": "2026-08-24",
@@ -874,5 +874,41 @@
   "高檔": {
     "first_promoted": "2026-08-24",
     "total_count": 44
+  },
+  "對伊": {
+    "first_promoted": "2026-08-25",
+    "total_count": 60
+  },
+  "財報前": {
+    "first_promoted": "2026-08-25",
+    "total_count": 34
+  },
+  "上櫃": {
+    "first_promoted": "2026-08-25",
+    "total_count": 56
+  },
+  "股承壓": {
+    "first_promoted": "2026-08-25",
+    "total_count": 36
+  },
+  "週二": {
+    "first_promoted": "2026-08-25",
+    "total_count": 38
+  },
+  "阿里巴巴": {
+    "first_promoted": "2026-08-25",
+    "total_count": 42
+  },
+  "放量": {
+    "first_promoted": "2026-08-25",
+    "total_count": 32
+  },
+  "利潤": {
+    "first_promoted": "2026-08-25",
+    "total_count": 38
+  },
+  "循環": {
+    "first_promoted": "2026-08-25",
+    "total_count": 40
   }
 }

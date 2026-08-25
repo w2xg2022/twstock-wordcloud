@@ -544,11 +544,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "阿里巴巴": {
-    "last_seen": "2026-07-09",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "殺盤": {
     "last_seen": "2026-06-26",
     "total_count": 10,
@@ -1174,11 +1169,6 @@
     "total_count": 26,
     "days_seen": 3
   },
-  "循環": {
-    "last_seen": "2026-08-01",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "CPO": {
     "last_seen": "2026-08-06",
     "total_count": 26,
@@ -1260,11 +1250,6 @@
     "days_seen": 1
   },
   "集團": {
-    "last_seen": "2026-07-15",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "週二": {
     "last_seen": "2026-07-15",
     "total_count": 18,
     "days_seen": 1
@@ -2519,11 +2504,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "股承壓": {
-    "last_seen": "2026-08-06",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "震盪走": {
     "last_seen": "2026-08-07",
     "total_count": 20,
@@ -2859,11 +2839,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "觀望": {
-    "last_seen": "2026-08-12",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "基礎": {
     "last_seen": "2026-08-12",
     "total_count": 18,
@@ -3014,11 +2989,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "放量": {
-    "last_seen": "2026-08-14",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "閃迪": {
     "last_seen": "2026-08-14",
     "total_count": 14,
@@ -3164,11 +3134,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "宣布": {
-    "last_seen": "2026-08-16",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "大事": {
     "last_seen": "2026-08-16",
     "total_count": 12,
@@ -3227,11 +3192,6 @@
   "配息": {
     "last_seen": "2026-08-17",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "利潤": {
-    "last_seen": "2026-08-17",
-    "total_count": 20,
     "days_seen": 1
   },
   "海外": {
@@ -3317,11 +3277,6 @@
   "人民": {
     "last_seen": "2026-08-18",
     "total_count": 29,
-    "days_seen": 1
-  },
-  "上櫃": {
-    "last_seen": "2026-08-18",
-    "total_count": 28,
     "days_seen": 1
   },
   "工安": {
@@ -3429,11 +3384,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "績後": {
-    "last_seen": "2026-08-20",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "股價盤後": {
     "last_seen": "2026-08-20",
     "total_count": 16,
@@ -3465,11 +3415,6 @@
     "days_seen": 1
   },
   "邁威爾": {
-    "last_seen": "2026-08-20",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "同比增": {
     "last_seen": "2026-08-20",
     "total_count": 14,
     "days_seen": 1
@@ -3510,11 +3455,6 @@
     "days_seen": 1
   },
   "油價走": {
-    "last_seen": "2026-08-21",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "對伊": {
     "last_seen": "2026-08-21",
     "total_count": 16,
     "days_seen": 1
@@ -3599,11 +3539,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "航運": {
-    "last_seen": "2026-08-23",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "測試": {
     "last_seen": "2026-08-23",
     "total_count": 10,
@@ -3669,11 +3604,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "中期": {
-    "last_seen": "2026-08-24",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "恆生": {
     "last_seen": "2026-08-24",
     "total_count": 20,
@@ -3711,6 +3641,66 @@
   },
   "諾曼": {
     "last_seen": "2026-08-24",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "對伊朗": {
+    "last_seen": "2026-08-25",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "開低走": {
+    "last_seen": "2026-08-25",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "施壓": {
+    "last_seen": "2026-08-25",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "成交量": {
+    "last_seen": "2026-08-25",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "跳水": {
+    "last_seen": "2026-08-25",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "避險": {
+    "last_seen": "2026-08-25",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "淨利": {
+    "last_seen": "2026-08-25",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "收復季線": {
+    "last_seen": "2026-08-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "經濟制裁": {
+    "last_seen": "2026-08-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "永續": {
+    "last_seen": "2026-08-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "改善": {
+    "last_seen": "2026-08-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "季度": {
+    "last_seen": "2026-08-25",
     "total_count": 16,
     "days_seen": 1
   }
