@@ -614,11 +614,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "科技股反彈": {
-    "last_seen": "2026-06-30",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "資金輪動": {
     "last_seen": "2026-06-30",
     "total_count": 12,
@@ -1064,11 +1059,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "生物": {
-    "last_seen": "2026-07-10",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "Iris": {
     "last_seen": "2026-07-10",
     "total_count": 14,
@@ -1169,11 +1159,6 @@
     "total_count": 26,
     "days_seen": 3
   },
-  "CPO": {
-    "last_seen": "2026-08-06",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "中央": {
     "last_seen": "2026-07-12",
     "total_count": 9,
@@ -1252,11 +1237,6 @@
   "集團": {
     "last_seen": "2026-07-15",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "四大指數": {
-    "last_seen": "2026-07-15",
-    "total_count": 16,
     "days_seen": 1
   },
   "法說前": {
@@ -1799,11 +1779,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "政治": {
-    "last_seen": "2026-07-26",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "貢獻": {
     "last_seen": "2026-07-26",
     "total_count": 12,
@@ -2334,16 +2309,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "亮燈漲停": {
-    "last_seen": "2026-08-04",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "大指數齊": {
-    "last_seen": "2026-08-04",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "齊揚": {
     "last_seen": "2026-08-04",
     "total_count": 16,
@@ -2515,11 +2480,6 @@
     "days_seen": 1
   },
   "缺貨": {
-    "last_seen": "2026-08-07",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "高鐵": {
     "last_seen": "2026-08-07",
     "total_count": 16,
     "days_seen": 1
@@ -2980,11 +2940,6 @@
     "days_seen": 1
   },
   "標普創": {
-    "last_seen": "2026-08-14",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "利同比": {
     "last_seen": "2026-08-14",
     "total_count": 14,
     "days_seen": 1
@@ -3579,11 +3534,6 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "Taiwan": {
-    "last_seen": "2026-08-24",
-    "total_count": 25,
-    "days_seen": 1
-  },
   "半導體材料": {
     "last_seen": "2026-08-24",
     "total_count": 24,
@@ -3659,11 +3609,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "成交量": {
-    "last_seen": "2026-08-25",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "跳水": {
     "last_seen": "2026-08-25",
     "total_count": 18,
@@ -3701,6 +3646,71 @@
   },
   "季度": {
     "last_seen": "2026-08-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "美債殖利率": {
+    "last_seen": "2026-08-26",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "對伊": {
+    "last_seen": "2026-08-26",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "無人機產業": {
+    "last_seen": "2026-08-26",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "千金股": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "均線": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "營運": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "小心": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "倒數": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "揭曉": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "AMD": {
+    "last_seen": "2026-08-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "漲停創": {
+    "last_seen": "2026-08-26",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "終止連": {
+    "last_seen": "2026-08-26",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "技術面": {
+    "last_seen": "2026-08-26",
     "total_count": 16,
     "days_seen": 1
   }

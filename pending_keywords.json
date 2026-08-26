@@ -4,8 +4,8 @@
     "total_count": 44
   },
   "政治": {
-    "first_promoted": "2026-07-25",
-    "total_count": 48
+    "first_promoted": "2026-08-26",
+    "total_count": 46
   },
   "國民黨": {
     "first_promoted": "2026-07-25",
@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-08-23",
-    "total_count": 62
+    "first_promoted": "2026-08-26",
+    "total_count": 152
   },
   "周線": {
     "first_promoted": "2026-08-22",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-25",
-    "total_count": 30
+    "first_promoted": "2026-08-26",
+    "total_count": 40
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-08-24",
-    "total_count": 30
+    "first_promoted": "2026-08-26",
+    "total_count": 40
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -736,8 +736,8 @@
     "total_count": 30
   },
   "殖利率": {
-    "first_promoted": "2026-08-22",
-    "total_count": 30
+    "first_promoted": "2026-08-26",
+    "total_count": 40
   },
   "回購": {
     "first_promoted": "2026-08-21",
@@ -768,8 +768,8 @@
     "total_count": 31
   },
   "中期": {
-    "first_promoted": "2026-08-25",
-    "total_count": 44
+    "first_promoted": "2026-08-26",
+    "total_count": 32
   },
   "銷售": {
     "first_promoted": "2026-08-21",
@@ -848,16 +848,16 @@
     "total_count": 34
   },
   "輝達財報": {
-    "first_promoted": "2026-08-25",
-    "total_count": 78
+    "first_promoted": "2026-08-26",
+    "total_count": 114
   },
   "經濟戰": {
     "first_promoted": "2026-08-24",
     "total_count": 40
   },
   "制裁": {
-    "first_promoted": "2026-08-25",
-    "total_count": 54
+    "first_promoted": "2026-08-26",
+    "total_count": 32
   },
   "最低": {
     "first_promoted": "2026-08-24",
@@ -910,5 +910,41 @@
   "循環": {
     "first_promoted": "2026-08-25",
     "total_count": 40
+  },
+  "科技股反彈": {
+    "first_promoted": "2026-08-26",
+    "total_count": 52
+  },
+  "CPO": {
+    "first_promoted": "2026-08-26",
+    "total_count": 50
+  },
+  "利同比": {
+    "first_promoted": "2026-08-26",
+    "total_count": 36
+  },
+  "生物": {
+    "first_promoted": "2026-08-26",
+    "total_count": 36
+  },
+  "Taiwan": {
+    "first_promoted": "2026-08-26",
+    "total_count": 47
+  },
+  "四大指數": {
+    "first_promoted": "2026-08-26",
+    "total_count": 36
+  },
+  "大指數齊": {
+    "first_promoted": "2026-08-26",
+    "total_count": 36
+  },
+  "高鐵": {
+    "first_promoted": "2026-08-26",
+    "total_count": 34
+  },
+  "亮燈漲停": {
+    "first_promoted": "2026-08-26",
+    "total_count": 32
   }
 }
