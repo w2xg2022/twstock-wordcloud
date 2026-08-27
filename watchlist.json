@@ -154,11 +154,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "年底": {
-    "last_seen": "2026-06-18",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "先跌": {
     "last_seen": "2026-06-17",
     "total_count": 10,
@@ -455,9 +450,9 @@
     "days_seen": 1
   },
   "盤後大漲": {
-    "last_seen": "2026-06-25",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-27",
+    "total_count": 26,
+    "days_seen": 2
   },
   "航空產業": {
     "last_seen": "2026-06-25",
@@ -530,11 +525,6 @@
     "days_seen": 1
   },
   "機械": {
-    "last_seen": "2026-06-26",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "PCE": {
     "last_seen": "2026-06-26",
     "total_count": 12,
     "days_seen": 1
@@ -1294,11 +1284,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "年營收": {
-    "last_seen": "2026-07-19",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "大賺": {
     "last_seen": "2026-07-16",
     "total_count": 16,
@@ -1577,11 +1562,6 @@
   "晶片股回": {
     "last_seen": "2026-07-21",
     "total_count": 12,
-    "days_seen": 1
-  },
-  "毛利率": {
-    "last_seen": "2026-07-22",
-    "total_count": 24,
     "days_seen": 1
   },
   "強彈": {
@@ -2579,11 +2559,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "最新": {
-    "last_seen": "2026-08-09",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "Ticketplus": {
     "last_seen": "2026-08-09",
     "total_count": 18,
@@ -2864,11 +2839,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "報喜": {
-    "last_seen": "2026-08-13",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "那斯達克": {
     "last_seen": "2026-08-13",
     "total_count": 14,
@@ -3034,11 +3004,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "維持": {
-    "last_seen": "2026-08-15",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "川湖": {
     "last_seen": "2026-08-15",
     "total_count": 12,
@@ -3150,9 +3115,9 @@
     "days_seen": 1
   },
   "海外": {
-    "last_seen": "2026-08-17",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-08-27",
+    "total_count": 28,
+    "days_seen": 2
   },
   "嘉義": {
     "last_seen": "2026-08-17",
@@ -3170,9 +3135,9 @@
     "days_seen": 1
   },
   "美聯儲": {
-    "last_seen": "2026-08-17",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-27",
+    "total_count": 28,
+    "days_seen": 2
   },
   "上週五": {
     "last_seen": "2026-08-17",
@@ -3712,6 +3677,96 @@
   "技術面": {
     "last_seen": "2026-08-26",
     "total_count": 16,
+    "days_seen": 1
+  },
+  "財報超預期": {
+    "last_seen": "2026-08-27",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "於預期": {
+    "last_seen": "2026-08-27",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "中期": {
+    "last_seen": "2026-08-27",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "財測": {
+    "last_seen": "2026-08-27",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "優於預期": {
+    "last_seen": "2026-08-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "利同比增": {
+    "last_seen": "2026-08-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "港股通": {
+    "last_seen": "2026-08-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "亮眼": {
+    "last_seen": "2026-08-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "觀望": {
+    "last_seen": "2026-08-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "公布": {
+    "last_seen": "2026-08-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "美債": {
+    "last_seen": "2026-08-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "強攻": {
+    "last_seen": "2026-08-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "提振": {
+    "last_seen": "2026-08-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "提供": {
+    "last_seen": "2026-08-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "GDP": {
+    "last_seen": "2026-08-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "第二季": {
+    "last_seen": "2026-08-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股逆勢": {
+    "last_seen": "2026-08-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "帶量": {
+    "last_seen": "2026-08-27",
+    "total_count": 10,
     "days_seen": 1
   }
 }

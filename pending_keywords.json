@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-08-26",
-    "total_count": 152
+    "first_promoted": "2026-08-27",
+    "total_count": 178
   },
   "周線": {
     "first_promoted": "2026-08-22",
@@ -180,8 +180,8 @@
     "total_count": 40
   },
   "維持": {
-    "first_promoted": "2026-08-06",
-    "total_count": 32
+    "first_promoted": "2026-08-27",
+    "total_count": 30
   },
   "外資連": {
     "first_promoted": "2026-08-20",
@@ -848,8 +848,8 @@
     "total_count": 34
   },
   "輝達財報": {
-    "first_promoted": "2026-08-26",
-    "total_count": 114
+    "first_promoted": "2026-08-27",
+    "total_count": 120
   },
   "經濟戰": {
     "first_promoted": "2026-08-24",
@@ -946,5 +946,29 @@
   "亮燈漲停": {
     "first_promoted": "2026-08-26",
     "total_count": 32
+  },
+  "PCE": {
+    "first_promoted": "2026-08-27",
+    "total_count": 46
+  },
+  "最新": {
+    "first_promoted": "2026-08-27",
+    "total_count": 48
+  },
+  "年營收": {
+    "first_promoted": "2026-08-27",
+    "total_count": 42
+  },
+  "報喜": {
+    "first_promoted": "2026-08-27",
+    "total_count": 32
+  },
+  "年底": {
+    "first_promoted": "2026-08-27",
+    "total_count": 34
+  },
+  "毛利率": {
+    "first_promoted": "2026-08-27",
+    "total_count": 34
   }
 }
