@@ -105,9 +105,9 @@
     "days_seen": 1
   },
   "光學": {
-    "last_seen": "2026-06-16",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-28",
+    "total_count": 18,
+    "days_seen": 2
   },
   "出關": {
     "last_seen": "2026-06-16",
@@ -1007,11 +1007,6 @@
   "台股休市": {
     "last_seen": "2026-07-10",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "大指數收": {
-    "last_seen": "2026-07-10",
-    "total_count": 22,
     "days_seen": 1
   },
   "國家": {
@@ -3114,11 +3109,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "海外": {
-    "last_seen": "2026-08-27",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "嘉義": {
     "last_seen": "2026-08-17",
     "total_count": 16,
@@ -3282,11 +3272,6 @@
   "自動化": {
     "last_seen": "2026-08-20",
     "total_count": 26,
-    "days_seen": 1
-  },
-  "飆升": {
-    "last_seen": "2026-08-20",
-    "total_count": 24,
     "days_seen": 1
   },
   "債回購": {
@@ -3584,11 +3569,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "淨利": {
-    "last_seen": "2026-08-25",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "收復季線": {
     "last_seen": "2026-08-25",
     "total_count": 16,
@@ -3600,9 +3580,9 @@
     "days_seen": 1
   },
   "永續": {
-    "last_seen": "2026-08-25",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-28",
+    "total_count": 29,
+    "days_seen": 2
   },
   "改善": {
     "last_seen": "2026-08-25",
@@ -3694,11 +3674,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "財測": {
-    "last_seen": "2026-08-27",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "優於預期": {
     "last_seen": "2026-08-27",
     "total_count": 14,
@@ -3710,11 +3685,6 @@
     "days_seen": 1
   },
   "港股通": {
-    "last_seen": "2026-08-27",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "亮眼": {
     "last_seen": "2026-08-27",
     "total_count": 14,
     "days_seen": 1
@@ -3740,9 +3710,9 @@
     "days_seen": 1
   },
   "提振": {
-    "last_seen": "2026-08-27",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-28",
+    "total_count": 22,
+    "days_seen": 2
   },
   "提供": {
     "last_seen": "2026-08-27",
@@ -3766,6 +3736,101 @@
   },
   "帶量": {
     "last_seen": "2026-08-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "自由": {
+    "last_seen": "2026-08-28",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "成交量": {
+    "last_seen": "2026-08-28",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "同比增": {
+    "last_seen": "2026-08-28",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "年薪": {
+    "last_seen": "2026-08-28",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "利潤": {
+    "last_seen": "2026-08-28",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "Salesforce": {
+    "last_seen": "2026-08-28",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "最新": {
+    "last_seen": "2026-08-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "收入": {
+    "last_seen": "2026-08-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "Nvidia": {
+    "last_seen": "2026-08-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "半導體關稅": {
+    "last_seen": "2026-08-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "紅利": {
+    "last_seen": "2026-08-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "iKnow": {
+    "last_seen": "2026-08-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "MRVL": {
+    "last_seen": "2026-08-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "英偉達": {
+    "last_seen": "2026-08-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "加拿大": {
+    "last_seen": "2026-08-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "掃貨": {
+    "last_seen": "2026-08-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "哪些": {
+    "last_seen": "2026-08-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "印度": {
+    "last_seen": "2026-08-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "NVDA": {
+    "last_seen": "2026-08-28",
     "total_count": 10,
     "days_seen": 1
   }

@@ -24,8 +24,8 @@
     "total_count": 30
   },
   "財報": {
-    "first_promoted": "2026-08-27",
-    "total_count": 178
+    "first_promoted": "2026-08-28",
+    "total_count": 90
   },
   "周線": {
     "first_promoted": "2026-08-22",
@@ -76,8 +76,8 @@
     "total_count": 34
   },
   "飆升": {
-    "first_promoted": "2026-08-13",
-    "total_count": 48
+    "first_promoted": "2026-08-28",
+    "total_count": 34
   },
   "信心": {
     "first_promoted": "2026-07-27",
@@ -164,8 +164,8 @@
     "total_count": 47
   },
   "財測": {
-    "first_promoted": "2026-08-06",
-    "total_count": 52
+    "first_promoted": "2026-08-28",
+    "total_count": 32
   },
   "按兵不動": {
     "first_promoted": "2026-07-30",
@@ -252,8 +252,8 @@
     "total_count": 42
   },
   "亮眼": {
-    "first_promoted": "2026-08-18",
-    "total_count": 38
+    "first_promoted": "2026-08-28",
+    "total_count": 34
   },
   "黃崇仁": {
     "first_promoted": "2026-08-01",
@@ -692,8 +692,8 @@
     "total_count": 32
   },
   "海外": {
-    "first_promoted": "2026-08-15",
-    "total_count": 34
+    "first_promoted": "2026-08-28",
+    "total_count": 38
   },
   "買進": {
     "first_promoted": "2026-08-16",
@@ -784,8 +784,8 @@
     "total_count": 41
   },
   "淨利": {
-    "first_promoted": "2026-08-21",
-    "total_count": 38
+    "first_promoted": "2026-08-28",
+    "total_count": 32
   },
   "半導體設備": {
     "first_promoted": "2026-08-21",
@@ -969,6 +969,14 @@
   },
   "毛利率": {
     "first_promoted": "2026-08-27",
+    "total_count": 34
+  },
+  "分紅": {
+    "first_promoted": "2026-08-28",
+    "total_count": 34
+  },
+  "大指數收": {
+    "first_promoted": "2026-08-28",
     "total_count": 34
   }
 }
