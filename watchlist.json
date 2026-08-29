@@ -825,9 +825,9 @@
     "days_seen": 1
   },
   "漲勢": {
-    "last_seen": "2026-07-04",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 28,
+    "days_seen": 2
   },
   "人機": {
     "last_seen": "2026-07-04",
@@ -868,11 +868,6 @@
     "last_seen": "2026-07-05",
     "total_count": 10,
     "days_seen": 1
-  },
-  "升息預期": {
-    "last_seen": "2026-08-18",
-    "total_count": 24,
-    "days_seen": 2
   },
   "股基金": {
     "last_seen": "2026-07-05",
@@ -1689,11 +1684,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "夜期": {
-    "last_seen": "2026-08-15",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "新關稅": {
     "last_seen": "2026-07-25",
     "total_count": 14,
@@ -2175,9 +2165,9 @@
     "days_seen": 2
   },
   "地方": {
-    "last_seen": "2026-08-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 22,
+    "days_seen": 2
   },
   "半導體族群": {
     "last_seen": "2026-08-02",
@@ -2634,11 +2624,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "鎖定": {
-    "last_seen": "2026-08-10",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "被動": {
     "last_seen": "2026-08-10",
     "total_count": 16,
@@ -3070,9 +3055,9 @@
     "days_seen": 1
   },
   "力挺": {
-    "last_seen": "2026-08-16",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 22,
+    "days_seen": 2
   },
   "教育": {
     "last_seen": "2026-08-16",
@@ -3140,9 +3125,9 @@
     "days_seen": 1
   },
   "超越": {
-    "last_seen": "2026-08-17",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 26,
+    "days_seen": 2
   },
   "平均": {
     "last_seen": "2026-08-17",
@@ -3470,9 +3455,9 @@
     "days_seen": 1
   },
   "Marvell": {
-    "last_seen": "2026-08-23",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 22,
+    "days_seen": 2
   },
   "伺服器": {
     "last_seen": "2026-08-24",
@@ -3519,11 +3504,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "SEMICON": {
-    "last_seen": "2026-08-24",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "生技產業": {
     "last_seen": "2026-08-24",
     "total_count": 16,
@@ -3560,9 +3540,9 @@
     "days_seen": 1
   },
   "跳水": {
-    "last_seen": "2026-08-25",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 28,
+    "days_seen": 2
   },
   "避險": {
     "last_seen": "2026-08-25",
@@ -3744,17 +3724,7 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "成交量": {
-    "last_seen": "2026-08-28",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "同比增": {
-    "last_seen": "2026-08-28",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "年薪": {
     "last_seen": "2026-08-28",
     "total_count": 20,
     "days_seen": 1
@@ -3815,9 +3785,9 @@
     "days_seen": 1
   },
   "掃貨": {
-    "last_seen": "2026-08-28",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-29",
+    "total_count": 26,
+    "days_seen": 2
   },
   "哪些": {
     "last_seen": "2026-08-28",
@@ -3831,6 +3801,86 @@
   },
   "NVDA": {
     "last_seen": "2026-08-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "沃什": {
+    "last_seen": "2026-08-29",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "演說": {
+    "last_seen": "2026-08-29",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "半導體展": {
+    "last_seen": "2026-08-29",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "分紅": {
+    "last_seen": "2026-08-29",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "談話": {
+    "last_seen": "2026-08-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "職缺": {
+    "last_seen": "2026-08-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "量能": {
+    "last_seen": "2026-08-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "漲逾": {
+    "last_seen": "2026-08-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "期結日": {
+    "last_seen": "2026-08-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "單月": {
+    "last_seen": "2026-08-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "徵才": {
+    "last_seen": "2026-08-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "景甜": {
+    "last_seen": "2026-08-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "讓市場": {
+    "last_seen": "2026-08-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "何欣純": {
+    "last_seen": "2026-08-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "暗示": {
+    "last_seen": "2026-08-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "沒有": {
+    "last_seen": "2026-08-29",
     "total_count": 10,
     "days_seen": 1
   }

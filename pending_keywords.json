@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-08-26",
-    "total_count": 40
+    "first_promoted": "2026-08-29",
+    "total_count": 32
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -978,5 +978,29 @@
   "大指數收": {
     "first_promoted": "2026-08-28",
     "total_count": 34
+  },
+  "放鷹": {
+    "first_promoted": "2026-08-29",
+    "total_count": 34
+  },
+  "升息預期": {
+    "first_promoted": "2026-08-29",
+    "total_count": 42
+  },
+  "年薪": {
+    "first_promoted": "2026-08-29",
+    "total_count": 32
+  },
+  "鎖定": {
+    "first_promoted": "2026-08-29",
+    "total_count": 30
+  },
+  "夜期": {
+    "first_promoted": "2026-08-29",
+    "total_count": 40
+  },
+  "SEMICON": {
+    "first_promoted": "2026-08-29",
+    "total_count": 30
   }
 }
