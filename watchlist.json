@@ -964,11 +964,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "博通": {
-    "last_seen": "2026-07-09",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "美伊停火": {
     "last_seen": "2026-07-09",
     "total_count": 18,
@@ -1679,11 +1674,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "產業園區": {
-    "last_seen": "2026-07-25",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "新關稅": {
     "last_seen": "2026-07-25",
     "total_count": 14,
@@ -2349,11 +2339,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "設計": {
-    "last_seen": "2026-08-09",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "不斷": {
     "last_seen": "2026-08-06",
     "total_count": 20,
@@ -2590,9 +2575,9 @@
     "days_seen": 1
   },
   "KY": {
-    "last_seen": "2026-08-09",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 18,
+    "days_seen": 2
   },
   "股表現": {
     "last_seen": "2026-08-09",
@@ -2914,11 +2899,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "預算": {
-    "last_seen": "2026-08-15",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "標普": {
     "last_seen": "2026-08-15",
     "total_count": 16,
@@ -3075,9 +3055,9 @@
     "days_seen": 1
   },
   "名單": {
-    "last_seen": "2026-08-16",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 20,
+    "days_seen": 2
   },
   "單週": {
     "last_seen": "2026-08-16",
@@ -3092,11 +3072,6 @@
   "配息": {
     "last_seen": "2026-08-17",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "嘉義": {
-    "last_seen": "2026-08-17",
-    "total_count": 16,
     "days_seen": 1
   },
   "中微半導": {
@@ -3559,11 +3534,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "永續": {
-    "last_seen": "2026-08-28",
-    "total_count": 29,
-    "days_seen": 2
-  },
   "改善": {
     "last_seen": "2026-08-25",
     "total_count": 16,
@@ -3590,9 +3560,9 @@
     "days_seen": 1
   },
   "千金股": {
-    "last_seen": "2026-08-26",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 26,
+    "days_seen": 2
   },
   "均線": {
     "last_seen": "2026-08-26",
@@ -3735,14 +3705,9 @@
     "days_seen": 1
   },
   "Salesforce": {
-    "last_seen": "2026-08-28",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "最新": {
-    "last_seen": "2026-08-28",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 26,
+    "days_seen": 2
   },
   "收入": {
     "last_seen": "2026-08-28",
@@ -3765,9 +3730,9 @@
     "days_seen": 1
   },
   "iKnow": {
-    "last_seen": "2026-08-28",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 24,
+    "days_seen": 2
   },
   "MRVL": {
     "last_seen": "2026-08-28",
@@ -3800,9 +3765,9 @@
     "days_seen": 1
   },
   "NVDA": {
-    "last_seen": "2026-08-28",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 20,
+    "days_seen": 2
   },
   "沃什": {
     "last_seen": "2026-08-29",
@@ -3819,20 +3784,15 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "分紅": {
-    "last_seen": "2026-08-29",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "談話": {
     "last_seen": "2026-08-29",
     "total_count": 16,
     "days_seen": 1
   },
   "職缺": {
-    "last_seen": "2026-08-29",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-30",
+    "total_count": 28,
+    "days_seen": 2
   },
   "量能": {
     "last_seen": "2026-08-29",
@@ -3850,11 +3810,6 @@
     "days_seen": 1
   },
   "單月": {
-    "last_seen": "2026-08-29",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "徵才": {
     "last_seen": "2026-08-29",
     "total_count": 12,
     "days_seen": 1
@@ -3882,6 +3837,66 @@
   "沒有": {
     "last_seen": "2026-08-29",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "高薪": {
+    "last_seen": "2026-08-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "洗產地": {
+    "last_seen": "2026-08-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "近千": {
+    "last_seen": "2026-08-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "SEMICON": {
+    "last_seen": "2026-08-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "聯合徵才": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "史瓦帝尼": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "供應商": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "考驗": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "帶旺": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "聯盟": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "核心": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "CPU": {
+    "last_seen": "2026-08-30",
+    "total_count": 8,
     "days_seen": 1
   }
 }

@@ -284,8 +284,8 @@
     "total_count": 36
   },
   "永續": {
-    "first_promoted": "2026-08-17",
-    "total_count": 34
+    "first_promoted": "2026-08-30",
+    "total_count": 41
   },
   "股票": {
     "first_promoted": "2026-08-02",
@@ -636,8 +636,8 @@
     "total_count": 42
   },
   "預算": {
-    "first_promoted": "2026-08-14",
-    "total_count": 58
+    "first_promoted": "2026-08-30",
+    "total_count": 36
   },
   "PPI": {
     "first_promoted": "2026-08-14",
@@ -952,8 +952,8 @@
     "total_count": 46
   },
   "最新": {
-    "first_promoted": "2026-08-27",
-    "total_count": 48
+    "first_promoted": "2026-08-30",
+    "total_count": 32
   },
   "年營收": {
     "first_promoted": "2026-08-27",
@@ -972,8 +972,8 @@
     "total_count": 34
   },
   "分紅": {
-    "first_promoted": "2026-08-28",
-    "total_count": 34
+    "first_promoted": "2026-08-30",
+    "total_count": 32
   },
   "大指數收": {
     "first_promoted": "2026-08-28",
@@ -1002,5 +1002,25 @@
   "SEMICON": {
     "first_promoted": "2026-08-29",
     "total_count": 30
+  },
+  "產業園區": {
+    "first_promoted": "2026-08-30",
+    "total_count": 42
+  },
+  "徵才": {
+    "first_promoted": "2026-08-30",
+    "total_count": 30
+  },
+  "嘉義": {
+    "first_promoted": "2026-08-30",
+    "total_count": 30
+  },
+  "博通": {
+    "first_promoted": "2026-08-30",
+    "total_count": 32
+  },
+  "設計": {
+    "first_promoted": "2026-08-30",
+    "total_count": 34
   }
 }
