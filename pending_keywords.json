@@ -384,8 +384,8 @@
     "total_count": 40
   },
   "業務": {
-    "first_promoted": "2026-08-05",
-    "total_count": 30
+    "first_promoted": "2026-08-31",
+    "total_count": 34
   },
   "開放": {
     "first_promoted": "2026-08-05",
@@ -644,8 +644,8 @@
     "total_count": 48
   },
   "MSCI": {
-    "first_promoted": "2026-08-14",
-    "total_count": 42
+    "first_promoted": "2026-08-31",
+    "total_count": 48
   },
   "股價盤後": {
     "first_promoted": "2026-08-14",
@@ -768,8 +768,8 @@
     "total_count": 31
   },
   "中期": {
-    "first_promoted": "2026-08-26",
-    "total_count": 32
+    "first_promoted": "2026-08-31",
+    "total_count": 42
   },
   "銷售": {
     "first_promoted": "2026-08-21",
@@ -980,8 +980,8 @@
     "total_count": 34
   },
   "放鷹": {
-    "first_promoted": "2026-08-29",
-    "total_count": 34
+    "first_promoted": "2026-08-31",
+    "total_count": 52
   },
   "升息預期": {
     "first_promoted": "2026-08-29",
@@ -1022,5 +1022,13 @@
   "設計": {
     "first_promoted": "2026-08-30",
     "total_count": 34
+  },
+  "生效": {
+    "first_promoted": "2026-08-31",
+    "total_count": 32
+  },
+  "調整": {
+    "first_promoted": "2026-08-31",
+    "total_count": 36
   }
 }

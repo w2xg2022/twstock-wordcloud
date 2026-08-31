@@ -1359,11 +1359,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "調整": {
-    "last_seen": "2026-07-18",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "跌落": {
     "last_seen": "2026-07-18",
     "total_count": 14,
@@ -2684,11 +2679,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "業務": {
-    "last_seen": "2026-08-11",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "業績超預期": {
     "last_seen": "2026-08-11",
     "total_count": 14,
@@ -2720,9 +2710,9 @@
     "days_seen": 1
   },
   "加劇": {
-    "last_seen": "2026-08-11",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-08-31",
+    "total_count": 24,
+    "days_seen": 2
   },
   "主力與外資": {
     "last_seen": "2026-08-11",
@@ -2865,9 +2855,9 @@
     "days_seen": 1
   },
   "虧損": {
-    "last_seen": "2026-08-14",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-08-31",
+    "total_count": 26,
+    "days_seen": 2
   },
   "太空": {
     "last_seen": "2026-08-14",
@@ -3619,11 +3609,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "中期": {
-    "last_seen": "2026-08-27",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "優於預期": {
     "last_seen": "2026-08-27",
     "total_count": 14,
@@ -3845,9 +3830,9 @@
     "days_seen": 1
   },
   "洗產地": {
-    "last_seen": "2026-08-30",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-08-31",
+    "total_count": 20,
+    "days_seen": 2
   },
   "近千": {
     "last_seen": "2026-08-30",
@@ -3896,6 +3881,111 @@
   },
   "CPU": {
     "last_seen": "2026-08-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "利同比": {
+    "last_seen": "2026-08-31",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "淨利": {
+    "last_seen": "2026-08-31",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "尾盤爆": {
+    "last_seen": "2026-08-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "如意": {
+    "last_seen": "2026-08-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "CPO": {
+    "last_seen": "2026-08-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "TaiSounds": {
+    "last_seen": "2026-08-31",
+    "total_count": 15,
+    "days_seen": 1
+  },
+  "高科技": {
+    "last_seen": "2026-08-31",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "績後": {
+    "last_seen": "2026-08-31",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "成交量": {
+    "last_seen": "2026-08-31",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "上看": {
+    "last_seen": "2026-08-31",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "短期": {
+    "last_seen": "2026-08-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "接單": {
+    "last_seen": "2026-08-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "亮眼": {
+    "last_seen": "2026-08-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "地產": {
+    "last_seen": "2026-08-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "COUPE": {
+    "last_seen": "2026-08-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台股震盪": {
+    "last_seen": "2026-08-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "升息預期": {
+    "last_seen": "2026-08-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "中期業績": {
+    "last_seen": "2026-08-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "盤爆量": {
+    "last_seen": "2026-08-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "逾萬張": {
+    "last_seen": "2026-08-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "萬張大": {
+    "last_seen": "2026-08-31",
     "total_count": 8,
     "days_seen": 1
   }
