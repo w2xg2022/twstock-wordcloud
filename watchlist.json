@@ -69,11 +69,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "加息": {
-    "last_seen": "2026-06-16",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "重回": {
     "last_seen": "2026-06-15",
     "total_count": 8,
@@ -249,20 +244,10 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "總統": {
-    "last_seen": "2026-08-22",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "電力": {
     "last_seen": "2026-06-19",
     "total_count": 8,
     "days_seen": 1
-  },
-  "深化": {
-    "last_seen": "2026-08-11",
-    "total_count": 26,
-    "days_seen": 2
   },
   "攜手產官學": {
     "last_seen": "2026-06-20",
@@ -645,9 +630,9 @@
     "days_seen": 1
   },
   "結盟": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-01",
+    "total_count": 20,
+    "days_seen": 2
   },
   "前十": {
     "last_seen": "2026-08-03",
@@ -2349,11 +2334,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "吸金": {
-    "last_seen": "2026-08-06",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "不只": {
     "last_seen": "2026-08-06",
     "total_count": 18,
@@ -2854,11 +2834,6 @@
     "total_count": 17,
     "days_seen": 1
   },
-  "虧損": {
-    "last_seen": "2026-08-31",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "太空": {
     "last_seen": "2026-08-14",
     "total_count": 16,
@@ -3057,11 +3032,6 @@
   "上路": {
     "last_seen": "2026-08-16",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "配息": {
-    "last_seen": "2026-08-17",
-    "total_count": 22,
     "days_seen": 1
   },
   "中微半導": {
@@ -3534,11 +3504,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "美債殖利率": {
-    "last_seen": "2026-08-26",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "對伊": {
     "last_seen": "2026-08-26",
     "total_count": 24,
@@ -3630,11 +3595,6 @@
     "days_seen": 1
   },
   "公布": {
-    "last_seen": "2026-08-27",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "美債": {
     "last_seen": "2026-08-27",
     "total_count": 12,
     "days_seen": 1
@@ -3764,11 +3724,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "半導體展": {
-    "last_seen": "2026-08-29",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "談話": {
     "last_seen": "2026-08-29",
     "total_count": 16,
@@ -3835,11 +3790,6 @@
     "days_seen": 2
   },
   "近千": {
-    "last_seen": "2026-08-30",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "SEMICON": {
     "last_seen": "2026-08-30",
     "total_count": 10,
     "days_seen": 1
@@ -3987,6 +3937,91 @@
   "萬張大": {
     "last_seen": "2026-08-31",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "money": {
+    "last_seen": "2026-09-01",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "台灣半導體": {
+    "last_seen": "2026-09-01",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "業務": {
+    "last_seen": "2026-09-01",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "系統": {
+    "last_seen": "2026-09-01",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "部分": {
+    "last_seen": "2026-09-01",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "調整": {
+    "last_seen": "2026-09-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "週二": {
+    "last_seen": "2026-09-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "整合": {
+    "last_seen": "2026-09-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "大戶": {
+    "last_seen": "2026-09-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "工業": {
+    "last_seen": "2026-09-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "BigGo": {
+    "last_seen": "2026-09-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "環球晶": {
+    "last_seen": "2026-09-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "成最大": {
+    "last_seen": "2026-09-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "政治": {
+    "last_seen": "2026-09-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "平台": {
+    "last_seen": "2026-09-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "買進": {
+    "last_seen": "2026-09-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "MSCI": {
+    "last_seen": "2026-09-01",
+    "total_count": 12,
     "days_seen": 1
   }
 }

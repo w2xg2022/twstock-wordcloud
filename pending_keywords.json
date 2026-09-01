@@ -84,8 +84,8 @@
     "total_count": 42
   },
   "吸金": {
-    "first_promoted": "2026-07-27",
-    "total_count": 40
+    "first_promoted": "2026-09-01",
+    "total_count": 32
   },
   "長期": {
     "first_promoted": "2026-08-08",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-08-26",
-    "total_count": 40
+    "first_promoted": "2026-09-01",
+    "total_count": 48
   },
   "園區": {
     "first_promoted": "2026-08-01",
@@ -540,8 +540,8 @@
     "total_count": 44
   },
   "配息": {
-    "first_promoted": "2026-08-16",
-    "total_count": 34
+    "first_promoted": "2026-09-01",
+    "total_count": 36
   },
   "money": {
     "first_promoted": "2026-08-11",
@@ -1000,8 +1000,8 @@
     "total_count": 40
   },
   "SEMICON": {
-    "first_promoted": "2026-08-29",
-    "total_count": 30
+    "first_promoted": "2026-09-01",
+    "total_count": 38
   },
   "產業園區": {
     "first_promoted": "2026-08-30",
@@ -1030,5 +1030,37 @@
   "調整": {
     "first_promoted": "2026-08-31",
     "total_count": 36
+  },
+  "欣興": {
+    "first_promoted": "2026-09-01",
+    "total_count": 50
+  },
+  "交火": {
+    "first_promoted": "2026-09-01",
+    "total_count": 32
+  },
+  "總統": {
+    "first_promoted": "2026-09-01",
+    "total_count": 46
+  },
+  "美債殖利率": {
+    "first_promoted": "2026-09-01",
+    "total_count": 44
+  },
+  "半導體展": {
+    "first_promoted": "2026-09-01",
+    "total_count": 32
+  },
+  "深化": {
+    "first_promoted": "2026-09-01",
+    "total_count": 40
+  },
+  "加息": {
+    "first_promoted": "2026-09-01",
+    "total_count": 30
+  },
+  "虧損": {
+    "first_promoted": "2026-09-01",
+    "total_count": 38
   }
 }
