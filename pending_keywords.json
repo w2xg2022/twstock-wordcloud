@@ -280,7 +280,7 @@
     "total_count": 48
   },
   "園區": {
-    "first_promoted": "2026-08-01",
+    "first_promoted": "2026-09-02",
     "total_count": 36
   },
   "永續": {
@@ -292,8 +292,8 @@
     "total_count": 40
   },
   "高雄": {
-    "first_promoted": "2026-08-02",
-    "total_count": 41
+    "first_promoted": "2026-09-02",
+    "total_count": 46
   },
   "準備": {
     "first_promoted": "2026-08-02",
@@ -384,8 +384,8 @@
     "total_count": 40
   },
   "業務": {
-    "first_promoted": "2026-08-31",
-    "total_count": 34
+    "first_promoted": "2026-09-02",
+    "total_count": 30
   },
   "開放": {
     "first_promoted": "2026-08-05",
@@ -512,8 +512,8 @@
     "total_count": 30
   },
   "暴增": {
-    "first_promoted": "2026-08-09",
-    "total_count": 36
+    "first_promoted": "2026-09-02",
+    "total_count": 30
   },
   "還是": {
     "first_promoted": "2026-08-09",
@@ -1000,8 +1000,8 @@
     "total_count": 40
   },
   "SEMICON": {
-    "first_promoted": "2026-09-01",
-    "total_count": 38
+    "first_promoted": "2026-09-02",
+    "total_count": 34
   },
   "產業園區": {
     "first_promoted": "2026-08-30",
@@ -1048,7 +1048,7 @@
     "total_count": 44
   },
   "半導體展": {
-    "first_promoted": "2026-09-01",
+    "first_promoted": "2026-09-02",
     "total_count": 32
   },
   "深化": {
@@ -1062,5 +1062,17 @@
   "虧損": {
     "first_promoted": "2026-09-01",
     "total_count": 38
+  },
+  "白埔": {
+    "first_promoted": "2026-09-02",
+    "total_count": 32
+  },
+  "盤後飆": {
+    "first_promoted": "2026-09-02",
+    "total_count": 38
+  },
+  "收益": {
+    "first_promoted": "2026-09-02",
+    "total_count": 32
   }
 }

@@ -464,11 +464,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "盤後飆": {
-    "last_seen": "2026-07-22",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "日股收": {
     "last_seen": "2026-06-25",
     "total_count": 8,
@@ -800,9 +795,9 @@
     "days_seen": 1
   },
   "大幅": {
-    "last_seen": "2026-07-03",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-02",
+    "total_count": 24,
+    "days_seen": 2
   },
   "預估": {
     "last_seen": "2026-07-04",
@@ -2314,11 +2309,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "園區": {
-    "last_seen": "2026-08-05",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "不斷": {
     "last_seen": "2026-08-06",
     "total_count": 20,
@@ -2884,11 +2874,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "高雄": {
-    "last_seen": "2026-08-23",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "BOA": {
     "last_seen": "2026-08-15",
     "total_count": 14,
@@ -3139,17 +3124,7 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "暴增": {
-    "last_seen": "2026-08-18",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "當場": {
-    "last_seen": "2026-08-18",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "收益": {
     "last_seen": "2026-08-18",
     "total_count": 18,
     "days_seen": 1
@@ -3210,9 +3185,9 @@
     "days_seen": 1
   },
   "股價盤後": {
-    "last_seen": "2026-08-20",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-02",
+    "total_count": 28,
+    "days_seen": 2
   },
   "後翻": {
     "last_seen": "2026-08-20",
@@ -3670,9 +3645,9 @@
     "days_seen": 1
   },
   "紅利": {
-    "last_seen": "2026-08-28",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-02",
+    "total_count": 28,
+    "days_seen": 2
   },
   "iKnow": {
     "last_seen": "2026-08-30",
@@ -3810,9 +3785,9 @@
     "days_seen": 1
   },
   "考驗": {
-    "last_seen": "2026-08-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-02",
+    "total_count": 20,
+    "days_seen": 2
   },
   "帶旺": {
     "last_seen": "2026-08-30",
@@ -3949,11 +3924,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "業務": {
-    "last_seen": "2026-09-01",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "系統": {
     "last_seen": "2026-09-01",
     "total_count": 16,
@@ -4022,6 +3992,91 @@
   "MSCI": {
     "last_seen": "2026-09-01",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "走低": {
+    "last_seen": "2026-09-02",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "配息": {
+    "last_seen": "2026-09-02",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "債市": {
+    "last_seen": "2026-09-02",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "殖利率": {
+    "last_seen": "2026-09-02",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "陳其邁": {
+    "last_seen": "2026-09-02",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "進駐": {
+    "last_seen": "2026-09-02",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "汽車": {
+    "last_seen": "2026-09-02",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "油價飆": {
+    "last_seen": "2026-09-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "財測": {
+    "last_seen": "2026-09-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "最低": {
+    "last_seen": "2026-09-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "擔憂": {
+    "last_seen": "2026-09-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "國防": {
+    "last_seen": "2026-09-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "飆升": {
+    "last_seen": "2026-09-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "全解": {
+    "last_seen": "2026-09-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "推升油價": {
+    "last_seen": "2026-09-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "高雄白埔": {
+    "last_seen": "2026-09-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "白埔園區": {
+    "last_seen": "2026-09-02",
+    "total_count": 10,
     "days_seen": 1
   }
 }
