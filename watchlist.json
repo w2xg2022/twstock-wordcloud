@@ -290,9 +290,9 @@
     "days_seen": 2
   },
   "半導體產業": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-09-03",
+    "total_count": 24,
+    "days_seen": 3
   },
   "美伊談判": {
     "last_seen": "2026-06-22",
@@ -1390,9 +1390,9 @@
     "days_seen": 1
   },
   "產業發展": {
-    "last_seen": "2026-07-19",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 18,
+    "days_seen": 2
   },
   "股災": {
     "last_seen": "2026-07-19",
@@ -2385,9 +2385,9 @@
     "days_seen": 2
   },
   "震盪走": {
-    "last_seen": "2026-08-07",
-    "total_count": 20,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 28,
+    "days_seen": 2
   },
   "指數漲": {
     "last_seen": "2026-08-07",
@@ -2430,9 +2430,9 @@
     "days_seen": 1
   },
   "運動": {
-    "last_seen": "2026-08-08",
-    "total_count": 17,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 29,
+    "days_seen": 2
   },
   "對多晶矽": {
     "last_seen": "2026-08-08",
@@ -2765,11 +2765,6 @@
     "days_seen": 1
   },
   "那斯達克": {
-    "last_seen": "2026-08-13",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "翻倍": {
     "last_seen": "2026-08-13",
     "total_count": 14,
     "days_seen": 1
@@ -3180,9 +3175,9 @@
     "days_seen": 1
   },
   "醫藥": {
-    "last_seen": "2026-08-20",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 28,
+    "days_seen": 2
   },
   "股價盤後": {
     "last_seen": "2026-09-02",
@@ -3560,9 +3555,9 @@
     "days_seen": 1
   },
   "港股通": {
-    "last_seen": "2026-08-27",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 26,
+    "days_seen": 2
   },
   "觀望": {
     "last_seen": "2026-08-27",
@@ -3629,19 +3624,9 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "收入": {
-    "last_seen": "2026-08-28",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "Nvidia": {
     "last_seen": "2026-08-28",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "半導體關稅": {
-    "last_seen": "2026-08-28",
-    "total_count": 14,
     "days_seen": 1
   },
   "紅利": {
@@ -3800,9 +3785,9 @@
     "days_seen": 1
   },
   "核心": {
-    "last_seen": "2026-08-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 18,
+    "days_seen": 2
   },
   "CPU": {
     "last_seen": "2026-08-30",
@@ -4035,9 +4020,9 @@
     "days_seen": 1
   },
   "財測": {
-    "last_seen": "2026-09-02",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-03",
+    "total_count": 26,
+    "days_seen": 2
   },
   "最低": {
     "last_seen": "2026-09-02",
@@ -4077,6 +4062,96 @@
   "白埔園區": {
     "last_seen": "2026-09-02",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體展": {
+    "last_seen": "2026-09-03",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "蔡力行": {
+    "last_seen": "2026-09-03",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "追不上": {
+    "last_seen": "2026-09-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "欣興": {
+    "last_seen": "2026-09-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "海外": {
+    "last_seen": "2026-09-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "總統": {
+    "last_seen": "2026-09-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "成為": {
+    "last_seen": "2026-09-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "納入": {
+    "last_seen": "2026-09-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "G20": {
+    "last_seen": "2026-09-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "侯永清": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "深化": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "長期": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "佈局": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "百強": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Snowflake": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "HK": {
+    "last_seen": "2026-09-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "需求半年": {
+    "last_seen": "2026-09-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "許可協議": {
+    "last_seen": "2026-09-03",
+    "total_count": 8,
     "days_seen": 1
   }
 }

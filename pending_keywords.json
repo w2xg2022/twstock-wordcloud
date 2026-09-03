@@ -604,8 +604,8 @@
     "total_count": 42
   },
   "翻倍": {
-    "first_promoted": "2026-08-12",
-    "total_count": 36
+    "first_promoted": "2026-09-03",
+    "total_count": 30
   },
   "同比增": {
     "first_promoted": "2026-08-25",
@@ -744,8 +744,8 @@
     "total_count": 38
   },
   "收入": {
-    "first_promoted": "2026-08-20",
-    "total_count": 30
+    "first_promoted": "2026-09-03",
+    "total_count": 32
   },
   "學生": {
     "first_promoted": "2026-08-20",
@@ -1000,8 +1000,8 @@
     "total_count": 40
   },
   "SEMICON": {
-    "first_promoted": "2026-09-02",
-    "total_count": 34
+    "first_promoted": "2026-09-03",
+    "total_count": 32
   },
   "產業園區": {
     "first_promoted": "2026-08-30",
@@ -1074,5 +1074,9 @@
   "收益": {
     "first_promoted": "2026-09-02",
     "total_count": 32
+  },
+  "半導體關稅": {
+    "first_promoted": "2026-09-03",
+    "total_count": 34
   }
 }
