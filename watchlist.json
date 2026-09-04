@@ -1390,9 +1390,9 @@
     "days_seen": 1
   },
   "產業發展": {
-    "last_seen": "2026-09-03",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-09-04",
+    "total_count": 28,
+    "days_seen": 3
   },
   "股災": {
     "last_seen": "2026-07-19",
@@ -1605,9 +1605,9 @@
     "days_seen": 1
   },
   "金屬": {
-    "last_seen": "2026-07-23",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-04",
+    "total_count": 28,
+    "days_seen": 2
   },
   "科技巨頭財報": {
     "last_seen": "2026-07-27",
@@ -2339,11 +2339,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "股集體": {
-    "last_seen": "2026-08-06",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "熄火": {
     "last_seen": "2026-08-06",
     "total_count": 16,
@@ -2422,11 +2417,6 @@
   "桃園": {
     "last_seen": "2026-08-08",
     "total_count": 21,
-    "days_seen": 1
-  },
-  "就業數據": {
-    "last_seen": "2026-08-08",
-    "total_count": 20,
     "days_seen": 1
   },
   "運動": {
@@ -2812,11 +2802,6 @@
   "一步": {
     "last_seen": "2026-08-14",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "工程": {
-    "last_seen": "2026-08-14",
-    "total_count": 17,
     "days_seen": 1
   },
   "太空": {
@@ -3634,11 +3619,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "iKnow": {
-    "last_seen": "2026-08-30",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "MRVL": {
     "last_seen": "2026-08-28",
     "total_count": 12,
@@ -3875,9 +3855,9 @@
     "days_seen": 1
   },
   "升息預期": {
-    "last_seen": "2026-08-31",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-04",
+    "total_count": 22,
+    "days_seen": 2
   },
   "中期業績": {
     "last_seen": "2026-08-31",
@@ -3944,11 +3924,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "BigGo": {
-    "last_seen": "2026-09-01",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "環球晶": {
     "last_seen": "2026-09-01",
     "total_count": 12,
@@ -3984,19 +3959,9 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "配息": {
-    "last_seen": "2026-09-02",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "債市": {
     "last_seen": "2026-09-02",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "殖利率": {
-    "last_seen": "2026-09-02",
-    "total_count": 18,
     "days_seen": 1
   },
   "陳其邁": {
@@ -4018,11 +3983,6 @@
     "last_seen": "2026-09-02",
     "total_count": 14,
     "days_seen": 1
-  },
-  "財測": {
-    "last_seen": "2026-09-03",
-    "total_count": 26,
-    "days_seen": 2
   },
   "最低": {
     "last_seen": "2026-09-02",
@@ -4064,11 +4024,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "半導體展": {
-    "last_seen": "2026-09-03",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "蔡力行": {
     "last_seen": "2026-09-03",
     "total_count": 18,
@@ -4079,15 +4034,10 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "欣興": {
-    "last_seen": "2026-09-03",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "海外": {
-    "last_seen": "2026-09-03",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-04",
+    "total_count": 28,
+    "days_seen": 2
   },
   "總統": {
     "last_seen": "2026-09-03",
@@ -4152,6 +4102,86 @@
   "許可協議": {
     "last_seen": "2026-09-03",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "比特幣": {
+    "last_seen": "2026-09-04",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "Lululemon": {
+    "last_seen": "2026-09-04",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "半導體關稅": {
+    "last_seen": "2026-09-04",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "Cybercab": {
+    "last_seen": "2026-09-04",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "站回": {
+    "last_seen": "2026-09-04",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "精選": {
+    "last_seen": "2026-09-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "自動": {
+    "last_seen": "2026-09-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "永續": {
+    "last_seen": "2026-09-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "高雄": {
+    "last_seen": "2026-09-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Samsara": {
+    "last_seen": "2026-09-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Taiwan": {
+    "last_seen": "2026-09-04",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "週五": {
+    "last_seen": "2026-09-04",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "軟體": {
+    "last_seen": "2026-09-04",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Zscaler": {
+    "last_seen": "2026-09-04",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Face": {
+    "last_seen": "2026-09-04",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "聯準會理事": {
+    "last_seen": "2026-09-04",
+    "total_count": 10,
     "days_seen": 1
   }
 }

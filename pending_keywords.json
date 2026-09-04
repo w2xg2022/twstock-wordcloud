@@ -120,8 +120,8 @@
     "total_count": 40
   },
   "股集體": {
-    "first_promoted": "2026-07-28",
-    "total_count": 40
+    "first_promoted": "2026-09-04",
+    "total_count": 32
   },
   "核心": {
     "first_promoted": "2026-08-13",
@@ -164,8 +164,8 @@
     "total_count": 47
   },
   "財測": {
-    "first_promoted": "2026-08-28",
-    "total_count": 32
+    "first_promoted": "2026-09-04",
+    "total_count": 42
   },
   "按兵不動": {
     "first_promoted": "2026-07-30",
@@ -540,7 +540,7 @@
     "total_count": 44
   },
   "配息": {
-    "first_promoted": "2026-09-01",
+    "first_promoted": "2026-09-04",
     "total_count": 36
   },
   "money": {
@@ -736,8 +736,8 @@
     "total_count": 30
   },
   "殖利率": {
-    "first_promoted": "2026-08-26",
-    "total_count": 40
+    "first_promoted": "2026-09-04",
+    "total_count": 62
   },
   "回購": {
     "first_promoted": "2026-08-21",
@@ -1032,8 +1032,8 @@
     "total_count": 36
   },
   "欣興": {
-    "first_promoted": "2026-09-01",
-    "total_count": 50
+    "first_promoted": "2026-09-04",
+    "total_count": 32
   },
   "交火": {
     "first_promoted": "2026-09-01",
@@ -1048,8 +1048,8 @@
     "total_count": 44
   },
   "半導體展": {
-    "first_promoted": "2026-09-02",
-    "total_count": 32
+    "first_promoted": "2026-09-04",
+    "total_count": 36
   },
   "深化": {
     "first_promoted": "2026-09-01",
@@ -1078,5 +1078,21 @@
   "半導體關稅": {
     "first_promoted": "2026-09-03",
     "total_count": 34
+  },
+  "BigGo": {
+    "first_promoted": "2026-09-04",
+    "total_count": 31
+  },
+  "工程": {
+    "first_promoted": "2026-09-04",
+    "total_count": 31
+  },
+  "iKnow": {
+    "first_promoted": "2026-09-04",
+    "total_count": 36
+  },
+  "就業數據": {
+    "first_promoted": "2026-09-04",
+    "total_count": 30
   }
 }
