@@ -412,8 +412,8 @@
     "total_count": 30
   },
   "名單": {
-    "first_promoted": "2026-08-06",
-    "total_count": 42
+    "first_promoted": "2026-09-05",
+    "total_count": 34
   },
   "高齡": {
     "first_promoted": "2026-08-09",
@@ -444,8 +444,8 @@
     "total_count": 38
   },
   "安全": {
-    "first_promoted": "2026-08-07",
-    "total_count": 35
+    "first_promoted": "2026-09-05",
+    "total_count": 30
   },
   "宣布": {
     "first_promoted": "2026-08-25",
@@ -496,8 +496,8 @@
     "total_count": 30
   },
   "下週": {
-    "first_promoted": "2026-08-09",
-    "total_count": 40
+    "first_promoted": "2026-09-05",
+    "total_count": 30
   },
   "文化": {
     "first_promoted": "2026-08-09",
@@ -984,7 +984,7 @@
     "total_count": 52
   },
   "升息預期": {
-    "first_promoted": "2026-08-29",
+    "first_promoted": "2026-09-05",
     "total_count": 42
   },
   "年薪": {
@@ -1094,5 +1094,17 @@
   "就業數據": {
     "first_promoted": "2026-09-04",
     "total_count": 30
+  },
+  "淨匯入": {
+    "first_promoted": "2026-09-05",
+    "total_count": 34
+  },
+  "同期": {
+    "first_promoted": "2026-09-05",
+    "total_count": 44
+  },
+  "串聯": {
+    "first_promoted": "2026-09-05",
+    "total_count": 36
   }
 }

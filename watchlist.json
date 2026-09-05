@@ -1060,9 +1060,9 @@
     "days_seen": 2
   },
   "與半導體": {
-    "last_seen": "2026-07-11",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-05",
+    "total_count": 26,
+    "days_seen": 2
   },
   "才是": {
     "last_seen": "2026-07-25",
@@ -2449,11 +2449,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "安全": {
-    "last_seen": "2026-08-08",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "長壽": {
     "last_seen": "2026-08-08",
     "total_count": 14,
@@ -2552,11 +2547,6 @@
   "感測器": {
     "last_seen": "2026-08-10",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "同期": {
-    "last_seen": "2026-08-10",
-    "total_count": 20,
     "days_seen": 1
   },
   "國泰": {
@@ -2984,11 +2974,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "名單": {
-    "last_seen": "2026-08-30",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "單週": {
     "last_seen": "2026-08-16",
     "total_count": 8,
@@ -3259,11 +3244,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "串聯": {
-    "last_seen": "2026-08-22",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "強化": {
     "last_seen": "2026-08-22",
     "total_count": 22,
@@ -3295,14 +3275,9 @@
     "days_seen": 1
   },
   "周線": {
-    "last_seen": "2026-08-23",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "下週": {
-    "last_seen": "2026-08-23",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-05",
+    "total_count": 24,
+    "days_seen": 2
   },
   "牽動": {
     "last_seen": "2026-08-23",
@@ -3854,11 +3829,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "升息預期": {
-    "last_seen": "2026-09-04",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "中期業績": {
     "last_seen": "2026-08-31",
     "total_count": 8,
@@ -4140,9 +4110,9 @@
     "days_seen": 1
   },
   "永續": {
-    "last_seen": "2026-09-04",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-05",
+    "total_count": 24,
+    "days_seen": 2
   },
   "高雄": {
     "last_seen": "2026-09-04",
@@ -4181,6 +4151,106 @@
   },
   "聯準會理事": {
     "last_seen": "2026-09-04",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "就業數據": {
+    "last_seen": "2026-09-05",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "半導體設備": {
+    "last_seen": "2026-09-05",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "數收": {
+    "last_seen": "2026-09-05",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "月淨匯入": {
+    "last_seen": "2026-09-05",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "殖利率": {
+    "last_seen": "2026-09-05",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "就業數據強勁": {
+    "last_seen": "2026-09-05",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "非農就業": {
+    "last_seen": "2026-09-05",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "青年": {
+    "last_seen": "2026-09-05",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "狂買": {
+    "last_seen": "2026-09-05",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "債殖利率": {
+    "last_seen": "2026-09-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "獲納入": {
+    "last_seen": "2026-09-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "逆差": {
+    "last_seen": "2026-09-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "半導體展": {
+    "last_seen": "2026-09-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "月中旬": {
+    "last_seen": "2026-09-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "能否": {
+    "last_seen": "2026-09-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "仁寶": {
+    "last_seen": "2026-09-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "BigGo": {
+    "last_seen": "2026-09-05",
+    "total_count": 11,
+    "days_seen": 1
+  },
+  "資金轉向": {
+    "last_seen": "2026-09-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "貿易逆差": {
+    "last_seen": "2026-09-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股領軍": {
+    "last_seen": "2026-09-05",
     "total_count": 10,
     "days_seen": 1
   }
