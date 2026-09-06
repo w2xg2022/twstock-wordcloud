@@ -205,9 +205,9 @@
     "days_seen": 1
   },
   "航太": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 20,
+    "days_seen": 2
   },
   "競爭力": {
     "last_seen": "2026-08-22",
@@ -430,9 +430,9 @@
     "days_seen": 1
   },
   "優勢": {
-    "last_seen": "2026-06-24",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 18,
+    "days_seen": 2
   },
   "盤後大漲": {
     "last_seen": "2026-08-27",
@@ -700,9 +700,9 @@
     "days_seen": 1
   },
   "回升": {
-    "last_seen": "2026-07-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 20,
+    "days_seen": 2
   },
   "部署": {
     "last_seen": "2026-07-01",
@@ -3029,11 +3029,6 @@
     "total_count": 13,
     "days_seen": 1
   },
-  "me": {
-    "last_seen": "2026-08-17",
-    "total_count": 13,
-    "days_seen": 1
-  },
   "預計上半年": {
     "last_seen": "2026-08-17",
     "total_count": 12,
@@ -3280,9 +3275,9 @@
     "days_seen": 2
   },
   "牽動": {
-    "last_seen": "2026-08-23",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 22,
+    "days_seen": 2
   },
   "建設": {
     "last_seen": "2026-08-23",
@@ -3324,11 +3319,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "伺服器": {
-    "last_seen": "2026-08-24",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "量縮": {
     "last_seen": "2026-08-24",
     "total_count": 26,
@@ -3337,11 +3327,6 @@
   "半導體材料": {
     "last_seen": "2026-08-24",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "股票": {
-    "last_seen": "2026-08-24",
-    "total_count": 22,
     "days_seen": 1
   },
   "矽晶圓": {
@@ -3470,9 +3455,9 @@
     "days_seen": 1
   },
   "揭曉": {
-    "last_seen": "2026-08-26",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 26,
+    "days_seen": 2
   },
   "AMD": {
     "last_seen": "2026-08-26",
@@ -3795,9 +3780,9 @@
     "days_seen": 1
   },
   "上看": {
-    "last_seen": "2026-08-31",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 24,
+    "days_seen": 2
   },
   "短期": {
     "last_seen": "2026-08-31",
@@ -4115,9 +4100,9 @@
     "days_seen": 2
   },
   "高雄": {
-    "last_seen": "2026-09-04",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 28,
+    "days_seen": 2
   },
   "Samsara": {
     "last_seen": "2026-09-04",
@@ -4175,9 +4160,9 @@
     "days_seen": 1
   },
   "殖利率": {
-    "last_seen": "2026-09-05",
-    "total_count": 20,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 28,
+    "days_seen": 2
   },
   "就業數據強勁": {
     "last_seen": "2026-09-05",
@@ -4235,9 +4220,9 @@
     "days_seen": 1
   },
   "BigGo": {
-    "last_seen": "2026-09-05",
-    "total_count": 11,
-    "days_seen": 1
+    "last_seen": "2026-09-06",
+    "total_count": 21,
+    "days_seen": 2
   },
   "資金轉向": {
     "last_seen": "2026-09-05",
@@ -4252,6 +4237,96 @@
   "股領軍": {
     "last_seen": "2026-09-05",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "選舉": {
+    "last_seen": "2026-09-06",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "美債": {
+    "last_seen": "2026-09-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "暴增": {
+    "last_seen": "2026-09-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "設計": {
+    "last_seen": "2026-09-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "廠務": {
+    "last_seen": "2026-09-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "薪資": {
+    "last_seen": "2026-09-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "無限": {
+    "last_seen": "2026-09-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "安全": {
+    "last_seen": "2026-09-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "評論": {
+    "last_seen": "2026-09-06",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "股週一": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "需求炸": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "法務長": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一個月": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "合法化": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "二次": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "賺錢": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "中油": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "瘋狂": {
+    "last_seen": "2026-09-06",
+    "total_count": 8,
     "days_seen": 1
   }
 }
