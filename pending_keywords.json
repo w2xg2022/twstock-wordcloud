@@ -228,8 +228,8 @@
     "total_count": 48
   },
   "港股通": {
-    "first_promoted": "2026-08-22",
-    "total_count": 32
+    "first_promoted": "2026-09-07",
+    "total_count": 90
   },
   "點燃": {
     "first_promoted": "2026-07-31",
@@ -412,8 +412,8 @@
     "total_count": 30
   },
   "名單": {
-    "first_promoted": "2026-09-05",
-    "total_count": 34
+    "first_promoted": "2026-09-07",
+    "total_count": 30
   },
   "高齡": {
     "first_promoted": "2026-08-09",
@@ -1080,8 +1080,8 @@
     "total_count": 34
   },
   "BigGo": {
-    "first_promoted": "2026-09-04",
-    "total_count": 31
+    "first_promoted": "2026-09-07",
+    "total_count": 34
   },
   "工程": {
     "first_promoted": "2026-09-04",
@@ -1106,5 +1106,33 @@
   "串聯": {
     "first_promoted": "2026-09-05",
     "total_count": 36
+  },
+  "時報": {
+    "first_promoted": "2026-09-07",
+    "total_count": 47
+  },
+  "納入港股通": {
+    "first_promoted": "2026-09-07",
+    "total_count": 42
+  },
+  "工研院": {
+    "first_promoted": "2026-09-07",
+    "total_count": 30
+  },
+  "正式": {
+    "first_promoted": "2026-09-07",
+    "total_count": 42
+  },
+  "一步": {
+    "first_promoted": "2026-09-07",
+    "total_count": 34
+  },
+  "進入": {
+    "first_promoted": "2026-09-07",
+    "total_count": 34
+  },
+  "債市": {
+    "first_promoted": "2026-09-07",
+    "total_count": 32
   }
 }
