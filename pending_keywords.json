@@ -48,8 +48,8 @@
     "total_count": 46
   },
   "走低": {
-    "first_promoted": "2026-08-07",
-    "total_count": 42
+    "first_promoted": "2026-09-08",
+    "total_count": 38
   },
   "長鑫": {
     "first_promoted": "2026-07-28",
@@ -520,7 +520,7 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-08-29",
+    "first_promoted": "2026-09-08",
     "total_count": 32
   },
   "漲近": {
@@ -1134,5 +1134,33 @@
   "債市": {
     "first_promoted": "2026-09-07",
     "total_count": 32
+  },
+  "光罩": {
+    "first_promoted": "2026-09-08",
+    "total_count": 38
+  },
+  "納入": {
+    "first_promoted": "2026-09-08",
+    "total_count": 48
+  },
+  "High": {
+    "first_promoted": "2026-09-08",
+    "total_count": 36
+  },
+  "NA": {
+    "first_promoted": "2026-09-08",
+    "total_count": 36
+  },
+  "職缺": {
+    "first_promoted": "2026-09-08",
+    "total_count": 46
+  },
+  "百點": {
+    "first_promoted": "2026-09-08",
+    "total_count": 32
+  },
+  "獲納入港股通": {
+    "first_promoted": "2026-09-08",
+    "total_count": 30
   }
 }

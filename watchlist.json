@@ -944,11 +944,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "百點": {
-    "last_seen": "2026-07-09",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "美伊協議": {
     "last_seen": "2026-07-09",
     "total_count": 14,
@@ -2800,9 +2795,9 @@
     "days_seen": 1
   },
   "矽光": {
-    "last_seen": "2026-08-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "開發": {
     "last_seen": "2026-08-14",
@@ -2860,9 +2855,9 @@
     "days_seen": 2
   },
   "聯手": {
-    "last_seen": "2026-08-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "近半": {
     "last_seen": "2026-08-15",
@@ -3609,11 +3604,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "職缺": {
-    "last_seen": "2026-08-30",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "量能": {
     "last_seen": "2026-08-29",
     "total_count": 14,
@@ -3754,11 +3744,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "成交量": {
-    "last_seen": "2026-08-31",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "上看": {
     "last_seen": "2026-09-06",
     "total_count": 24,
@@ -3889,11 +3874,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "走低": {
-    "last_seen": "2026-09-02",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "陳其邁": {
     "last_seen": "2026-09-02",
     "total_count": 16,
@@ -3979,11 +3959,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "納入": {
-    "last_seen": "2026-09-03",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "G20": {
     "last_seen": "2026-09-03",
     "total_count": 12,
@@ -4005,9 +3980,9 @@
     "days_seen": 1
   },
   "佈局": {
-    "last_seen": "2026-09-03",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-08",
+    "total_count": 20,
+    "days_seen": 2
   },
   "百強": {
     "last_seen": "2026-09-03",
@@ -4304,11 +4279,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "獲納入港股通": {
-    "last_seen": "2026-09-07",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "概念股集體": {
     "last_seen": "2026-09-07",
     "total_count": 16,
@@ -4320,9 +4290,9 @@
     "days_seen": 1
   },
   "海力士": {
-    "last_seen": "2026-09-07",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-08",
+    "total_count": 28,
+    "days_seen": 2
   },
   "博通": {
     "last_seen": "2026-09-07",
@@ -4371,6 +4341,91 @@
   },
   "機構": {
     "last_seen": "2026-09-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "EUV": {
+    "last_seen": "2026-09-08",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "納入港股通": {
+    "last_seen": "2026-09-08",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "導入": {
+    "last_seen": "2026-09-08",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "權值": {
+    "last_seen": "2026-09-08",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "名單": {
+    "last_seen": "2026-09-08",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "BigGo": {
+    "last_seen": "2026-09-08",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "發布會": {
+    "last_seen": "2026-09-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "進入": {
+    "last_seen": "2026-09-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "第四": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "喊賣": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "工程": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "通信": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "正式": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "KeyBanc": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Agent": {
+    "last_seen": "2026-09-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "大買超": {
+    "last_seen": "2026-09-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "明天": {
+    "last_seen": "2026-09-08",
     "total_count": 10,
     "days_seen": 1
   }
