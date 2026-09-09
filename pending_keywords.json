@@ -76,8 +76,8 @@
     "total_count": 34
   },
   "飆升": {
-    "first_promoted": "2026-08-28",
-    "total_count": 34
+    "first_promoted": "2026-09-09",
+    "total_count": 32
   },
   "信心": {
     "first_promoted": "2026-07-27",
@@ -412,7 +412,7 @@
     "total_count": 30
   },
   "名單": {
-    "first_promoted": "2026-09-07",
+    "first_promoted": "2026-09-09",
     "total_count": 30
   },
   "高齡": {
@@ -532,8 +532,8 @@
     "total_count": 44
   },
   "權值": {
-    "first_promoted": "2026-08-10",
-    "total_count": 30
+    "first_promoted": "2026-09-09",
+    "total_count": 34
   },
   "單月": {
     "first_promoted": "2026-08-10",
@@ -916,8 +916,8 @@
     "total_count": 52
   },
   "CPO": {
-    "first_promoted": "2026-08-26",
-    "total_count": 50
+    "first_promoted": "2026-09-09",
+    "total_count": 34
   },
   "利同比": {
     "first_promoted": "2026-08-26",
@@ -1162,5 +1162,21 @@
   "獲納入港股通": {
     "first_promoted": "2026-09-08",
     "total_count": 30
+  },
+  "EUV": {
+    "first_promoted": "2026-09-09",
+    "total_count": 46
+  },
+  "終場": {
+    "first_promoted": "2026-09-09",
+    "total_count": 30
+  },
+  "出貨": {
+    "first_promoted": "2026-09-09",
+    "total_count": 36
+  },
+  "ABF": {
+    "first_promoted": "2026-09-09",
+    "total_count": 32
   }
 }

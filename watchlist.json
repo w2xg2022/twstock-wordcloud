@@ -235,9 +235,9 @@
     "days_seen": 2
   },
   "驅動": {
-    "last_seen": "2026-06-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-09",
+    "total_count": 26,
+    "days_seen": 2
   },
   "電力": {
     "last_seen": "2026-06-19",
@@ -449,11 +449,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "ABF": {
-    "last_seen": "2026-06-30",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "概念股盤中": {
     "last_seen": "2026-06-25",
     "total_count": 8,
@@ -464,20 +459,15 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "出貨": {
-    "last_seen": "2026-08-12",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "運算": {
     "last_seen": "2026-06-25",
     "total_count": 8,
     "days_seen": 1
   },
   "落地": {
-    "last_seen": "2026-06-25",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-09",
+    "total_count": 20,
+    "days_seen": 2
   },
   "史上第二": {
     "last_seen": "2026-06-26",
@@ -922,11 +912,6 @@
   "前景": {
     "last_seen": "2026-07-08",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "終場": {
-    "last_seen": "2026-07-08",
-    "total_count": 16,
     "days_seen": 1
   },
   "股拋售": {
@@ -3724,11 +3709,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "CPO": {
-    "last_seen": "2026-08-31",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "TaiSounds": {
     "last_seen": "2026-08-31",
     "total_count": 15,
@@ -3825,9 +3805,9 @@
     "days_seen": 1
   },
   "週二": {
-    "last_seen": "2026-09-01",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-09",
+    "total_count": 26,
+    "days_seen": 2
   },
   "整合": {
     "last_seen": "2026-09-01",
@@ -3890,9 +3870,9 @@
     "days_seen": 1
   },
   "油價飆": {
-    "last_seen": "2026-09-02",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-09",
+    "total_count": 28,
+    "days_seen": 2
   },
   "最低": {
     "last_seen": "2026-09-02",
@@ -3905,11 +3885,6 @@
     "days_seen": 1
   },
   "國防": {
-    "last_seen": "2026-09-02",
-    "total_count": 12,
-    "days_seen": 1
-  },
-  "飆升": {
     "last_seen": "2026-09-02",
     "total_count": 12,
     "days_seen": 1
@@ -4344,11 +4319,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "EUV": {
-    "last_seen": "2026-09-08",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "納入港股通": {
     "last_seen": "2026-09-08",
     "total_count": 24,
@@ -4357,16 +4327,6 @@
   "導入": {
     "last_seen": "2026-09-08",
     "total_count": 22,
-    "days_seen": 1
-  },
-  "權值": {
-    "last_seen": "2026-09-08",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "名單": {
-    "last_seen": "2026-09-08",
-    "total_count": 18,
     "days_seen": 1
   },
   "BigGo": {
@@ -4426,6 +4386,96 @@
   },
   "明天": {
     "last_seen": "2026-09-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "光罩": {
+    "last_seen": "2026-09-09",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "走低": {
+    "last_seen": "2026-09-09",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "緊張": {
+    "last_seen": "2026-09-09",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "中東局勢": {
+    "last_seen": "2026-09-09",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "光通信": {
+    "last_seen": "2026-09-09",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "港股通": {
+    "last_seen": "2026-09-09",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "營收創高": {
+    "last_seen": "2026-09-09",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "一步": {
+    "last_seen": "2026-09-09",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "成交量": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "欣興": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "績效": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "設施": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "推出": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "High": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "NA": {
+    "last_seen": "2026-09-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "美加貿易戰": {
+    "last_seen": "2026-09-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "現金流": {
+    "last_seen": "2026-09-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "機產業": {
+    "last_seen": "2026-09-09",
     "total_count": 10,
     "days_seen": 1
   }
