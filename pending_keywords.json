@@ -44,11 +44,11 @@
     "total_count": 32
   },
   "Anthropic": {
-    "first_promoted": "2026-08-22",
-    "total_count": 46
+    "first_promoted": "2026-09-10",
+    "total_count": 36
   },
   "走低": {
-    "first_promoted": "2026-09-08",
+    "first_promoted": "2026-09-10",
     "total_count": 38
   },
   "長鑫": {
@@ -112,8 +112,8 @@
     "total_count": 32
   },
   "量縮": {
-    "first_promoted": "2026-08-22",
-    "total_count": 50
+    "first_promoted": "2026-09-10",
+    "total_count": 46
   },
   "機構": {
     "first_promoted": "2026-08-17",
@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-09-01",
-    "total_count": 48
+    "first_promoted": "2026-09-10",
+    "total_count": 58
   },
   "園區": {
     "first_promoted": "2026-09-02",
@@ -708,8 +708,8 @@
     "total_count": 38
   },
   "紅利": {
-    "first_promoted": "2026-08-17",
-    "total_count": 30
+    "first_promoted": "2026-09-10",
+    "total_count": 40
   },
   "盈利": {
     "first_promoted": "2026-08-17",
@@ -736,8 +736,8 @@
     "total_count": 30
   },
   "殖利率": {
-    "first_promoted": "2026-09-04",
-    "total_count": 62
+    "first_promoted": "2026-09-10",
+    "total_count": 68
   },
   "回購": {
     "first_promoted": "2026-08-21",
@@ -1120,8 +1120,8 @@
     "total_count": 30
   },
   "正式": {
-    "first_promoted": "2026-09-07",
-    "total_count": 42
+    "first_promoted": "2026-09-10",
+    "total_count": 32
   },
   "一步": {
     "first_promoted": "2026-09-07",
@@ -1178,5 +1178,21 @@
   "ABF": {
     "first_promoted": "2026-09-09",
     "total_count": 32
+  },
+  "破百": {
+    "first_promoted": "2026-09-10",
+    "total_count": 34
+  },
+  "被動": {
+    "first_promoted": "2026-09-10",
+    "total_count": 38
+  },
+  "手機": {
+    "first_promoted": "2026-09-10",
+    "total_count": 46
+  },
+  "調節": {
+    "first_promoted": "2026-09-10",
+    "total_count": 38
   }
 }
