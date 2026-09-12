@@ -279,16 +279,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "逆市": {
-    "last_seen": "2026-08-07",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "半導體產業": {
-    "last_seen": "2026-09-03",
-    "total_count": 24,
-    "days_seen": 3
-  },
   "美伊談判": {
     "last_seen": "2026-06-22",
     "total_count": 8,
@@ -440,9 +430,9 @@
     "days_seen": 1
   },
   "價飆": {
-    "last_seen": "2026-06-25",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-12",
+    "total_count": 22,
+    "days_seen": 2
   },
   "智邦": {
     "last_seen": "2026-06-25",
@@ -2039,24 +2029,9 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "黃崇仁": {
-    "last_seen": "2026-08-02",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "持股": {
     "last_seen": "2026-08-02",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "ec": {
-    "last_seen": "2026-08-02",
-    "total_count": 13,
-    "days_seen": 1
-  },
-  "ltn": {
-    "last_seen": "2026-08-02",
-    "total_count": 13,
     "days_seen": 1
   },
   "半導體園區": {
@@ -2135,9 +2110,9 @@
     "days_seen": 1
   },
   "無人載具": {
-    "last_seen": "2026-08-03",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-12",
+    "total_count": 20,
+    "days_seen": 2
   },
   "外資上": {
     "last_seen": "2026-08-03",
@@ -3179,11 +3154,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "周線": {
-    "last_seen": "2026-09-05",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "牽動": {
     "last_seen": "2026-09-06",
     "total_count": 22,
@@ -3363,11 +3333,6 @@
     "last_seen": "2026-09-06",
     "total_count": 26,
     "days_seen": 2
-  },
-  "AMD": {
-    "last_seen": "2026-08-26",
-    "total_count": 18,
-    "days_seen": 1
   },
   "漲停創": {
     "last_seen": "2026-08-26",
@@ -3709,11 +3674,6 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "台灣半導體": {
-    "last_seen": "2026-09-01",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "系統": {
     "last_seen": "2026-09-01",
     "total_count": 16,
@@ -3840,9 +3800,9 @@
     "days_seen": 2
   },
   "總統": {
-    "last_seen": "2026-09-03",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-12",
+    "total_count": 28,
+    "days_seen": 2
   },
   "成為": {
     "last_seen": "2026-09-03",
@@ -4300,9 +4260,9 @@
     "days_seen": 1
   },
   "港股通": {
-    "last_seen": "2026-09-09",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-12",
+    "total_count": 28,
+    "days_seen": 2
   },
   "營收創高": {
     "last_seen": "2026-09-09",
@@ -4444,11 +4404,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "升息機率": {
-    "last_seen": "2026-09-11",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "政院": {
     "last_seen": "2026-09-11",
     "total_count": 18,
@@ -4477,6 +4432,91 @@
   "銅業": {
     "last_seen": "2026-09-11",
     "total_count": 16,
+    "days_seen": 1
+  },
+  "褒揚令": {
+    "last_seen": "2026-09-12",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "升息預期": {
+    "last_seen": "2026-09-12",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "下週": {
+    "last_seen": "2026-09-12",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "告別式": {
+    "last_seen": "2026-09-12",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "下挫": {
+    "last_seen": "2026-09-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "黃崇仁告別式": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "四大指數": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "大指數齊": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "力積電": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "資安": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "核心": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "超微": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "柴油": {
+    "last_seen": "2026-09-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "暴漲": {
+    "last_seen": "2026-09-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "名單": {
+    "last_seen": "2026-09-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "百億": {
+    "last_seen": "2026-09-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "ON": {
+    "last_seen": "2026-09-12",
+    "total_count": 12,
     "days_seen": 1
   }
 }

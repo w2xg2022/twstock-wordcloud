@@ -28,8 +28,8 @@
     "total_count": 90
   },
   "周線": {
-    "first_promoted": "2026-08-22",
-    "total_count": 46
+    "first_promoted": "2026-09-12",
+    "total_count": 36
   },
   "KY": {
     "first_promoted": "2026-09-11",
@@ -64,8 +64,8 @@
     "total_count": 30
   },
   "AMD": {
-    "first_promoted": "2026-08-05",
-    "total_count": 52
+    "first_promoted": "2026-09-12",
+    "total_count": 36
   },
   "存儲": {
     "first_promoted": "2026-08-17",
@@ -256,8 +256,8 @@
     "total_count": 34
   },
   "黃崇仁": {
-    "first_promoted": "2026-08-01",
-    "total_count": 66
+    "first_promoted": "2026-09-12",
+    "total_count": 44
   },
   "力積電": {
     "first_promoted": "2026-08-16",
@@ -816,8 +816,8 @@
     "total_count": 38
   },
   "台灣半導體": {
-    "first_promoted": "2026-08-22",
-    "total_count": 30
+    "first_promoted": "2026-09-12",
+    "total_count": 34
   },
   "時新聞": {
     "first_promoted": "2026-08-23",
@@ -1222,5 +1222,25 @@
   "金屬": {
     "first_promoted": "2026-09-11",
     "total_count": 44
+  },
+  "升息機率": {
+    "first_promoted": "2026-09-12",
+    "total_count": 48
+  },
+  "ec": {
+    "first_promoted": "2026-09-12",
+    "total_count": 35
+  },
+  "ltn": {
+    "first_promoted": "2026-09-12",
+    "total_count": 35
+  },
+  "逆市": {
+    "first_promoted": "2026-09-12",
+    "total_count": 38
+  },
+  "半導體產業": {
+    "first_promoted": "2026-09-12",
+    "total_count": 34
   }
 }
