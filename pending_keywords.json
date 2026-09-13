@@ -292,8 +292,8 @@
     "total_count": 34
   },
   "高雄": {
-    "first_promoted": "2026-09-02",
-    "total_count": 46
+    "first_promoted": "2026-09-13",
+    "total_count": 36
   },
   "準備": {
     "first_promoted": "2026-08-02",
@@ -444,8 +444,8 @@
     "total_count": 38
   },
   "安全": {
-    "first_promoted": "2026-09-05",
-    "total_count": 30
+    "first_promoted": "2026-09-13",
+    "total_count": 34
   },
   "宣布": {
     "first_promoted": "2026-08-25",
@@ -1242,5 +1242,9 @@
   "半導體產業": {
     "first_promoted": "2026-09-12",
     "total_count": 34
+  },
+  "摺疊": {
+    "first_promoted": "2026-09-13",
+    "total_count": 36
   }
 }

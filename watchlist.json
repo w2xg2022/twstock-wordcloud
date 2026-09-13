@@ -1130,9 +1130,9 @@
     "days_seen": 1
   },
   "上揚": {
-    "last_seen": "2026-07-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-13",
+    "total_count": 26,
+    "days_seen": 2
   },
   "業績": {
     "last_seen": "2026-07-15",
@@ -2550,9 +2550,9 @@
     "days_seen": 1
   },
   "報酬": {
-    "last_seen": "2026-08-11",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-13",
+    "total_count": 24,
+    "days_seen": 2
   },
   "賠償": {
     "last_seen": "2026-08-11",
@@ -2595,9 +2595,9 @@
     "days_seen": 1
   },
   "還是": {
-    "last_seen": "2026-08-12",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-13",
+    "total_count": 24,
+    "days_seen": 2
   },
   "量測": {
     "last_seen": "2026-08-12",
@@ -3685,9 +3685,9 @@
     "days_seen": 1
   },
   "調整": {
-    "last_seen": "2026-09-01",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-13",
+    "total_count": 24,
+    "days_seen": 2
   },
   "週二": {
     "last_seen": "2026-09-09",
@@ -3720,9 +3720,9 @@
     "days_seen": 1
   },
   "政治": {
-    "last_seen": "2026-09-01",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-13",
+    "total_count": 20,
+    "days_seen": 2
   },
   "平台": {
     "last_seen": "2026-09-01",
@@ -3899,11 +3899,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "高雄": {
-    "last_seen": "2026-09-06",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "Samsara": {
     "last_seen": "2026-09-04",
     "total_count": 14,
@@ -4053,11 +4048,6 @@
     "last_seen": "2026-09-06",
     "total_count": 10,
     "days_seen": 1
-  },
-  "安全": {
-    "last_seen": "2026-09-11",
-    "total_count": 24,
-    "days_seen": 2
   },
   "評論": {
     "last_seen": "2026-09-06",
@@ -4324,11 +4314,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "摺疊": {
-    "last_seen": "2026-09-10",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "首度": {
     "last_seen": "2026-09-10",
     "total_count": 18,
@@ -4345,9 +4330,9 @@
     "days_seen": 1
   },
   "Duo": {
-    "last_seen": "2026-09-10",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-13",
+    "total_count": 26,
+    "days_seen": 2
   },
   "出貨": {
     "last_seen": "2026-09-10",
@@ -4517,6 +4502,111 @@
   "ON": {
     "last_seen": "2026-09-12",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "Anthropic": {
+    "last_seen": "2026-09-13",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "me": {
+    "last_seen": "2026-09-13",
+    "total_count": 17,
+    "days_seen": 1
+  },
+  "升息機率": {
+    "last_seen": "2026-09-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "最新": {
+    "last_seen": "2026-09-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "被動": {
+    "last_seen": "2026-09-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股票": {
+    "last_seen": "2026-09-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "放慢": {
+    "last_seen": "2026-09-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "人類": {
+    "last_seen": "2026-09-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "翻倍": {
+    "last_seen": "2026-09-13",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "聯合": {
+    "last_seen": "2026-09-13",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "半導體產業": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "雙引擎": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "第四季": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "需求強": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "蛋黃酥": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "摺疊機": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "抗跌": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "公開": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "程傳": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "高度": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "周線": {
+    "last_seen": "2026-09-13",
+    "total_count": 8,
     "days_seen": 1
   }
 }
