@@ -12,8 +12,8 @@
     "total_count": 42
   },
   "失守": {
-    "first_promoted": "2026-07-28",
-    "total_count": 56
+    "first_promoted": "2026-09-14",
+    "total_count": 70
   },
   "成為": {
     "first_promoted": "2026-07-25",
@@ -44,8 +44,8 @@
     "total_count": 32
   },
   "Anthropic": {
-    "first_promoted": "2026-09-10",
-    "total_count": 36
+    "first_promoted": "2026-09-14",
+    "total_count": 42
   },
   "走低": {
     "first_promoted": "2026-09-10",
@@ -116,8 +116,8 @@
     "total_count": 46
   },
   "機構": {
-    "first_promoted": "2026-08-17",
-    "total_count": 40
+    "first_promoted": "2026-09-14",
+    "total_count": 32
   },
   "股集體": {
     "first_promoted": "2026-09-04",
@@ -488,7 +488,7 @@
     "total_count": 36
   },
   "營運": {
-    "first_promoted": "2026-08-23",
+    "first_promoted": "2026-09-14",
     "total_count": 30
   },
   "工作": {
@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-09-08",
-    "total_count": 32
+    "first_promoted": "2026-09-14",
+    "total_count": 56
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -1204,8 +1204,8 @@
     "total_count": 38
   },
   "資安": {
-    "first_promoted": "2026-09-11",
-    "total_count": 48
+    "first_promoted": "2026-09-14",
+    "total_count": 42
   },
   "落地": {
     "first_promoted": "2026-09-11",
@@ -1246,5 +1246,21 @@
   "摺疊": {
     "first_promoted": "2026-09-13",
     "total_count": 36
+  },
+  "大立光": {
+    "first_promoted": "2026-09-14",
+    "total_count": 46
+  },
+  "熄火": {
+    "first_promoted": "2026-09-14",
+    "total_count": 32
+  },
+  "光學": {
+    "first_promoted": "2026-09-14",
+    "total_count": 32
+  },
+  "美聯儲": {
+    "first_promoted": "2026-09-14",
+    "total_count": 38
   }
 }
