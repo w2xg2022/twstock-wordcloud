@@ -149,11 +149,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "資金轉": {
-    "last_seen": "2026-08-24",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "艾克爾": {
     "last_seen": "2026-06-17",
     "total_count": 8,
@@ -1689,11 +1684,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "最後": {
-    "last_seen": "2026-09-14",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "真的": {
     "last_seen": "2026-07-26",
     "total_count": 8,
@@ -2699,11 +2689,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "開發": {
-    "last_seen": "2026-09-14",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "標普": {
     "last_seen": "2026-08-15",
     "total_count": 16,
@@ -2751,11 +2736,6 @@
   },
   "排行": {
     "last_seen": "2026-08-16",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "聯手": {
-    "last_seen": "2026-09-08",
     "total_count": 24,
     "days_seen": 2
   },
@@ -3734,11 +3714,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "擔憂": {
-    "last_seen": "2026-09-02",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "全解": {
     "last_seen": "2026-09-02",
     "total_count": 12,
@@ -3768,11 +3743,6 @@
     "last_seen": "2026-09-03",
     "total_count": 14,
     "days_seen": 1
-  },
-  "海外": {
-    "last_seen": "2026-09-04",
-    "total_count": 28,
-    "days_seen": 2
   },
   "總統": {
     "last_seen": "2026-09-12",
@@ -4334,11 +4304,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "美債殖利率": {
-    "last_seen": "2026-09-11",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "上漲": {
     "last_seen": "2026-09-11",
     "total_count": 24,
@@ -4362,11 +4327,6 @@
   "PPI": {
     "last_seen": "2026-09-11",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "量縮": {
-    "last_seen": "2026-09-11",
-    "total_count": 16,
     "days_seen": 1
   },
   "破百": {
@@ -4489,11 +4449,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "放慢": {
-    "last_seen": "2026-09-13",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "人類": {
     "last_seen": "2026-09-13",
     "total_count": 12,
@@ -4564,11 +4519,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "美債": {
-    "last_seen": "2026-09-14",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "ww2": {
     "last_seen": "2026-09-14",
     "total_count": 19,
@@ -4582,16 +4532,6 @@
   "降評": {
     "last_seen": "2026-09-14",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "放緩": {
-    "last_seen": "2026-09-14",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "加息": {
-    "last_seen": "2026-09-14",
-    "total_count": 16,
     "days_seen": 1
   },
   "殖利率": {
@@ -4614,11 +4554,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "配息": {
-    "last_seen": "2026-09-14",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "股半日": {
     "last_seen": "2026-09-14",
     "total_count": 10,
@@ -4632,6 +4567,76 @@
   "弱勢": {
     "last_seen": "2026-09-14",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "安全": {
+    "last_seen": "2026-09-15",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "籲放緩": {
+    "last_seen": "2026-09-15",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "信驊": {
+    "last_seen": "2026-09-15",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "失守": {
+    "last_seen": "2026-09-15",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "台達電": {
+    "last_seen": "2026-09-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "巨頭喊": {
+    "last_seen": "2026-09-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "經濟部": {
+    "last_seen": "2026-09-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "費半指數": {
+    "last_seen": "2026-09-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "股收跌": {
+    "last_seen": "2026-09-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "逆勢上": {
+    "last_seen": "2026-09-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "飆升": {
+    "last_seen": "2026-09-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "Anthropic": {
+    "last_seen": "2026-09-15",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "米玉傑": {
+    "last_seen": "2026-09-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "觀望": {
+    "last_seen": "2026-09-15",
+    "total_count": 14,
     "days_seen": 1
   }
 }
