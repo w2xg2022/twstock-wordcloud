@@ -560,9 +560,9 @@
     "days_seen": 1
   },
   "美股三大指數": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-16",
+    "total_count": 20,
+    "days_seen": 2
   },
   "創史上": {
     "last_seen": "2026-07-30",
@@ -1404,11 +1404,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "填息": {
-    "last_seen": "2026-07-21",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "機會": {
     "last_seen": "2026-07-21",
     "total_count": 16,
@@ -1707,11 +1702,6 @@
   "長鑫科技": {
     "last_seen": "2026-07-27",
     "total_count": 26,
-    "days_seen": 1
-  },
-  "決議": {
-    "last_seen": "2026-07-27",
-    "total_count": 24,
     "days_seen": 1
   },
   "拓展": {
@@ -3324,11 +3314,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "公布": {
-    "last_seen": "2026-08-27",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "強攻": {
     "last_seen": "2026-08-27",
     "total_count": 12,
@@ -4119,11 +4104,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "BigGo": {
-    "last_seen": "2026-09-08",
-    "total_count": 17,
-    "days_seen": 1
-  },
   "發布會": {
     "last_seen": "2026-09-08",
     "total_count": 14,
@@ -4140,9 +4120,9 @@
     "days_seen": 1
   },
   "工程": {
-    "last_seen": "2026-09-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-16",
+    "total_count": 24,
+    "days_seen": 2
   },
   "通信": {
     "last_seen": "2026-09-08",
@@ -4385,9 +4365,9 @@
     "days_seen": 1
   },
   "力積電": {
-    "last_seen": "2026-09-12",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-16",
+    "total_count": 26,
+    "days_seen": 2
   },
   "核心": {
     "last_seen": "2026-09-12",
@@ -4465,9 +4445,9 @@
     "days_seen": 1
   },
   "半導體產業": {
-    "last_seen": "2026-09-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-16",
+    "total_count": 18,
+    "days_seen": 2
   },
   "雙引擎": {
     "last_seen": "2026-09-13",
@@ -4569,11 +4549,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "安全": {
-    "last_seen": "2026-09-15",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "籲放緩": {
     "last_seen": "2026-09-15",
     "total_count": 26,
@@ -4620,9 +4595,9 @@
     "days_seen": 1
   },
   "飆升": {
-    "last_seen": "2026-09-15",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-16",
+    "total_count": 28,
+    "days_seen": 2
   },
   "Anthropic": {
     "last_seen": "2026-09-15",
@@ -4634,9 +4609,94 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "觀望": {
-    "last_seen": "2026-09-15",
+  "光通": {
+    "last_seen": "2026-09-16",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "量縮": {
+    "last_seen": "2026-09-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "結算": {
+    "last_seen": "2026-09-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "MLCC": {
+    "last_seen": "2026-09-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "落地": {
+    "last_seen": "2026-09-16",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "走向": {
+    "last_seen": "2026-09-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "加密": {
+    "last_seen": "2026-09-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "幣概念股": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "半小時": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "正向": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "平盤": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "配息": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "生活": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "電池": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "機構": {
+    "last_seen": "2026-09-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "決策前": {
+    "last_seen": "2026-09-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "大學生": {
+    "last_seen": "2026-09-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股集體": {
+    "last_seen": "2026-09-16",
+    "total_count": 10,
     "days_seen": 1
   }
 }

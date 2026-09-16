@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-09-15",
-    "total_count": 78
+    "first_promoted": "2026-09-16",
+    "total_count": 86
   },
   "園區": {
     "first_promoted": "2026-09-02",
@@ -404,8 +404,8 @@
     "total_count": 30
   },
   "觀望": {
-    "first_promoted": "2026-09-11",
-    "total_count": 42
+    "first_promoted": "2026-09-16",
+    "total_count": 30
   },
   "排行": {
     "first_promoted": "2026-08-06",
@@ -444,8 +444,8 @@
     "total_count": 38
   },
   "安全": {
-    "first_promoted": "2026-09-13",
-    "total_count": 34
+    "first_promoted": "2026-09-16",
+    "total_count": 44
   },
   "宣布": {
     "first_promoted": "2026-08-25",
@@ -1080,8 +1080,8 @@
     "total_count": 34
   },
   "BigGo": {
-    "first_promoted": "2026-09-07",
-    "total_count": 34
+    "first_promoted": "2026-09-16",
+    "total_count": 31
   },
   "工程": {
     "first_promoted": "2026-09-04",
@@ -1282,5 +1282,17 @@
   "最後": {
     "first_promoted": "2026-09-15",
     "total_count": 38
+  },
+  "填息": {
+    "first_promoted": "2026-09-16",
+    "total_count": 82
+  },
+  "公布": {
+    "first_promoted": "2026-09-16",
+    "total_count": 30
+  },
+  "決議": {
+    "first_promoted": "2026-09-16",
+    "total_count": 36
   }
 }
