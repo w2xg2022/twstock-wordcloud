@@ -60,8 +60,8 @@
     "total_count": 30
   },
   "聯儲": {
-    "first_promoted": "2026-07-27",
-    "total_count": 30
+    "first_promoted": "2026-09-17",
+    "total_count": 38
   },
   "AMD": {
     "first_promoted": "2026-09-12",
@@ -544,8 +544,8 @@
     "total_count": 30
   },
   "money": {
-    "first_promoted": "2026-08-11",
-    "total_count": 44
+    "first_promoted": "2026-09-17",
+    "total_count": 64
   },
   "跌逾": {
     "first_promoted": "2026-08-11",
@@ -952,8 +952,8 @@
     "total_count": 46
   },
   "最新": {
-    "first_promoted": "2026-08-30",
-    "total_count": 32
+    "first_promoted": "2026-09-17",
+    "total_count": 38
   },
   "年營收": {
     "first_promoted": "2026-08-27",
@@ -1056,8 +1056,8 @@
     "total_count": 40
   },
   "加息": {
-    "first_promoted": "2026-09-15",
-    "total_count": 30
+    "first_promoted": "2026-09-17",
+    "total_count": 60
   },
   "虧損": {
     "first_promoted": "2026-09-01",
@@ -1208,8 +1208,8 @@
     "total_count": 34
   },
   "落地": {
-    "first_promoted": "2026-09-11",
-    "total_count": 40
+    "first_promoted": "2026-09-17",
+    "total_count": 34
   },
   "雙雄": {
     "first_promoted": "2026-09-11",
@@ -1293,6 +1293,22 @@
   },
   "決議": {
     "first_promoted": "2026-09-16",
+    "total_count": 36
+  },
+  "聯準會升息": {
+    "first_promoted": "2026-09-17",
+    "total_count": 40
+  },
+  "三年": {
+    "first_promoted": "2026-09-17",
+    "total_count": 32
+  },
+  "利空": {
+    "first_promoted": "2026-09-17",
+    "total_count": 30
+  },
+  "通脹": {
+    "first_promoted": "2026-09-17",
     "total_count": 36
   }
 }

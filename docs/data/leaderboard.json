@@ -1,640 +1,640 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "windows": {
     "3": [
       {
         "rank": 1,
         "word": "Fed",
-        "count": 50,
+        "count": 93,
         "change": 0,
-        "days_on_chart": 85
+        "days_on_chart": 86
       },
       {
         "rank": 2,
         "word": "記憶體",
-        "count": 33,
+        "count": 38,
         "change": 0,
-        "days_on_chart": 92
+        "days_on_chart": 93
       },
       {
         "rank": 3,
         "word": "黃金",
-        "count": 29,
+        "count": 34,
         "change": 0,
-        "days_on_chart": 91
+        "days_on_chart": 92
       },
       {
         "rank": 4,
-        "word": "功率半導體",
-        "count": 21,
-        "change": 0,
-        "days_on_chart": 67
+        "word": "光通訊",
+        "count": 18,
+        "change": 1,
+        "days_on_chart": 77
       },
       {
         "rank": 5,
-        "word": "光通訊",
-        "count": 15,
-        "change": 7,
-        "days_on_chart": 76
+        "word": "功率半導體",
+        "count": 17,
+        "change": -1,
+        "days_on_chart": 68
       },
       {
         "rank": 6,
         "word": "能源",
-        "count": 13,
-        "change": 3,
-        "days_on_chart": 86
-      },
-      {
-        "rank": 7,
-        "word": "新藥",
-        "count": 12,
-        "change": -1,
-        "days_on_chart": 50
-      },
-      {
-        "rank": 8,
-        "word": "AI伺服器",
-        "count": 9,
+        "count": 15,
         "change": 0,
-        "days_on_chart": 84
-      },
-      {
-        "rank": 9,
-        "word": "先進封裝",
-        "count": 8,
-        "change": -4,
-        "days_on_chart": 86
-      },
-      {
-        "rank": 10,
-        "word": "矽光子",
-        "count": 8,
-        "change": 5,
-        "days_on_chart": 65
-      },
-      {
-        "rank": 11,
-        "word": "PCB",
-        "count": 8,
-        "change": -1,
-        "days_on_chart": 77
-      },
-      {
-        "rank": 12,
-        "word": "機器人",
-        "count": 7,
-        "change": 8,
         "days_on_chart": 87
       },
       {
-        "rank": 13,
+        "rank": 7,
+        "word": "PCB",
+        "count": 14,
+        "change": 4,
+        "days_on_chart": 78
+      },
+      {
+        "rank": 8,
+        "word": "機器人",
+        "count": 12,
+        "change": 4,
+        "days_on_chart": 88
+      },
+      {
+        "rank": 9,
+        "word": "SpaceX",
+        "count": 10,
+        "change": 14,
+        "days_on_chart": 84
+      },
+      {
+        "rank": 10,
+        "word": "資料中心",
+        "count": 10,
+        "change": 14,
+        "days_on_chart": 77
+      },
+      {
+        "rank": 11,
+        "word": "矽光子",
+        "count": 9,
+        "change": -1,
+        "days_on_chart": 66
+      },
+      {
+        "rank": 12,
         "word": "散熱",
+        "count": 8,
+        "change": 1,
+        "days_on_chart": 77
+      },
+      {
+        "rank": 13,
+        "word": "AI伺服器",
         "count": 7,
-        "change": "重新入榜",
-        "days_on_chart": 76
+        "change": -5,
+        "days_on_chart": 85
       },
       {
         "rank": 14,
-        "word": "玻璃基板",
-        "count": 6,
-        "change": 3,
-        "days_on_chart": 41
+        "word": "新藥",
+        "count": 7,
+        "change": -7,
+        "days_on_chart": 51
       },
       {
         "rank": 15,
-        "word": "晶圓代工",
-        "count": 5,
-        "change": -8,
-        "days_on_chart": 53
+        "word": "AI晶片",
+        "count": 6,
+        "change": 2,
+        "days_on_chart": 83
       },
       {
         "rank": 16,
-        "word": "ASIC",
-        "count": 5,
-        "change": 3,
-        "days_on_chart": 62
+        "word": "DRAM",
+        "count": 6,
+        "change": 6,
+        "days_on_chart": 59
       },
       {
         "rank": 17,
-        "word": "AI晶片",
+        "word": "無人機",
         "count": 5,
-        "change": 4,
-        "days_on_chart": 82
+        "change": 1,
+        "days_on_chart": 88
       },
       {
         "rank": 18,
-        "word": "無人機",
-        "count": 4,
-        "change": -5,
+        "word": "先進封裝",
+        "count": 5,
+        "change": -9,
         "days_on_chart": 87
       },
       {
         "rank": 19,
-        "word": "電網",
+        "word": "綠電",
         "count": 4,
-        "change": 4,
+        "change": 8,
         "days_on_chart": 30
       },
       {
         "rank": 20,
-        "word": "生技",
+        "word": "面板",
         "count": 4,
-        "change": -4,
-        "days_on_chart": 73
+        "change": "首次入榜",
+        "days_on_chart": 72
       },
       {
         "rank": 21,
-        "word": "被動元件",
-        "count": 4,
-        "change": -10,
-        "days_on_chart": 77
-      },
-      {
-        "rank": 22,
-        "word": "DRAM",
-        "count": 4,
-        "change": "重新入榜",
-        "days_on_chart": 58
-      },
-      {
-        "rank": 23,
-        "word": "SpaceX",
-        "count": 4,
-        "change": 3,
-        "days_on_chart": 83
-      },
-      {
-        "rank": 24,
-        "word": "資料中心",
+        "word": "晶圓代工",
         "count": 3,
-        "change": -10,
-        "days_on_chart": 76
-      },
-      {
-        "rank": 25,
-        "word": "低軌道衛星",
-        "count": 2,
-        "change": "重新入榜",
-        "days_on_chart": 57
-      },
-      {
-        "rank": 26,
-        "word": "電動車",
-        "count": 2,
-        "change": 1,
+        "change": -6,
         "days_on_chart": 53
       },
       {
+        "rank": 22,
+        "word": "5G",
+        "count": 3,
+        "change": "重新入榜",
+        "days_on_chart": 15
+      },
+      {
+        "rank": 23,
+        "word": "被動元件",
+        "count": 3,
+        "change": -2,
+        "days_on_chart": 77
+      },
+      {
+        "rank": 24,
+        "word": "ASIC",
+        "count": 3,
+        "change": -8,
+        "days_on_chart": 63
+      },
+      {
+        "rank": 25,
+        "word": "法說",
+        "count": 3,
+        "change": "重新入榜",
+        "days_on_chart": 79
+      },
+      {
+        "rank": 26,
+        "word": "IC載板",
+        "count": 3,
+        "change": 3,
+        "days_on_chart": 74
+      },
+      {
         "rank": 27,
-        "word": "綠電",
-        "count": 2,
-        "change": -5,
-        "days_on_chart": 29
+        "word": "低軌道衛星",
+        "count": 3,
+        "change": -2,
+        "days_on_chart": 58
       },
       {
         "rank": 28,
-        "word": "高股息ETF",
+        "word": "電網",
         "count": 2,
-        "change": 2,
-        "days_on_chart": 29
+        "change": -9,
+        "days_on_chart": 30
       },
       {
         "rank": 29,
-        "word": "IC載板",
-        "count": 1,
-        "change": -5,
-        "days_on_chart": 73
+        "word": "CDMO",
+        "count": 2,
+        "change": "重新入榜",
+        "days_on_chart": 3
       },
       {
         "rank": 30,
-        "word": "離岸風電",
-        "count": 1,
+        "word": "高股息ETF",
+        "count": 2,
         "change": -2,
-        "days_on_chart": 5
+        "days_on_chart": 29
       }
     ],
     "7": [
       {
         "rank": 1,
         "word": "Fed",
-        "count": 91,
+        "count": 146,
         "change": 0,
-        "days_on_chart": 85
+        "days_on_chart": 86
       },
       {
         "rank": 2,
         "word": "記憶體",
-        "count": 66,
+        "count": 64,
         "change": 0,
-        "days_on_chart": 92
+        "days_on_chart": 93
       },
       {
         "rank": 3,
         "word": "黃金",
         "count": 53,
         "change": 0,
-        "days_on_chart": 91
+        "days_on_chart": 92
       },
       {
         "rank": 4,
         "word": "能源",
         "count": 33,
         "change": 0,
-        "days_on_chart": 86
-      },
-      {
-        "rank": 5,
-        "word": "機器人",
-        "count": 29,
-        "change": 0,
         "days_on_chart": 87
       },
       {
-        "rank": 6,
+        "rank": 5,
         "word": "光通訊",
-        "count": 29,
-        "change": 0,
-        "days_on_chart": 76
+        "count": 31,
+        "change": 1,
+        "days_on_chart": 77
+      },
+      {
+        "rank": 6,
+        "word": "機器人",
+        "count": 27,
+        "change": -1,
+        "days_on_chart": 88
       },
       {
         "rank": 7,
         "word": "功率半導體",
-        "count": 26,
-        "change": 6,
-        "days_on_chart": 67
+        "count": 25,
+        "change": 0,
+        "days_on_chart": 68
       },
       {
         "rank": 8,
         "word": "AI伺服器",
-        "count": 24,
-        "change": 1,
-        "days_on_chart": 84
+        "count": 23,
+        "change": 0,
+        "days_on_chart": 85
       },
       {
         "rank": 9,
-        "word": "無人機",
+        "word": "PCB",
         "count": 23,
-        "change": -2,
-        "days_on_chart": 87
+        "change": 6,
+        "days_on_chart": 78
       },
       {
         "rank": 10,
-        "word": "先進封裝",
-        "count": 20,
-        "change": 0,
-        "days_on_chart": 86
+        "word": "無人機",
+        "count": 21,
+        "change": -1,
+        "days_on_chart": 88
       },
       {
         "rank": 11,
-        "word": "矽光子",
-        "count": 19,
-        "change": 7,
-        "days_on_chart": 65
+        "word": "先進封裝",
+        "count": 20,
+        "change": -1,
+        "days_on_chart": 87
       },
       {
         "rank": 12,
-        "word": "被動元件",
+        "word": "資料中心",
         "count": 19,
-        "change": 0,
+        "change": 10,
         "days_on_chart": 77
       },
       {
         "rank": 13,
-        "word": "新藥",
-        "count": 17,
-        "change": -2,
-        "days_on_chart": 50
+        "word": "ASIC",
+        "count": 16,
+        "change": 3,
+        "days_on_chart": 63
       },
       {
         "rank": 14,
-        "word": "晶圓代工",
+        "word": "SpaceX",
         "count": 16,
-        "change": 0,
-        "days_on_chart": 53
+        "change": 4,
+        "days_on_chart": 84
       },
       {
         "rank": 15,
-        "word": "PCB",
+        "word": "矽光子",
         "count": 16,
-        "change": -7,
-        "days_on_chart": 77
+        "change": -4,
+        "days_on_chart": 66
       },
       {
         "rank": 16,
-        "word": "ASIC",
+        "word": "新藥",
         "count": 15,
-        "change": 5,
-        "days_on_chart": 62
+        "change": -3,
+        "days_on_chart": 51
       },
       {
         "rank": 17,
-        "word": "散熱",
+        "word": "生技",
         "count": 14,
-        "change": 5,
-        "days_on_chart": 76
+        "change": 2,
+        "days_on_chart": 74
       },
       {
         "rank": 18,
-        "word": "SpaceX",
+        "word": "晶圓代工",
         "count": 13,
-        "change": 2,
-        "days_on_chart": 83
+        "change": -4,
+        "days_on_chart": 53
       },
       {
         "rank": 19,
-        "word": "生技",
-        "count": 13,
-        "change": -3,
-        "days_on_chart": 73
+        "word": "散熱",
+        "count": 12,
+        "change": -2,
+        "days_on_chart": 77
       },
       {
         "rank": 20,
-        "word": "面板",
-        "count": 13,
-        "change": -3,
-        "days_on_chart": 71
+        "word": "被動元件",
+        "count": 11,
+        "change": -8,
+        "days_on_chart": 77
       },
       {
         "rank": 21,
-        "word": "AI晶片",
-        "count": 12,
-        "change": -2,
-        "days_on_chart": 82
+        "word": "面板",
+        "count": 9,
+        "change": -1,
+        "days_on_chart": 72
       },
       {
         "rank": 22,
-        "word": "資料中心",
-        "count": 12,
-        "change": -7,
-        "days_on_chart": 76
+        "word": "玻璃基板",
+        "count": 9,
+        "change": 2,
+        "days_on_chart": 41
       },
       {
         "rank": 23,
-        "word": "HBM",
-        "count": 9,
-        "change": 1,
+        "word": "CoWoS",
+        "count": 8,
+        "change": 2,
         "days_on_chart": 52
       },
       {
         "rank": 24,
-        "word": "玻璃基板",
-        "count": 9,
-        "change": -1,
-        "days_on_chart": 41
+        "word": "AI晶片",
+        "count": 8,
+        "change": -3,
+        "days_on_chart": 83
       },
       {
         "rank": 25,
-        "word": "CoWoS",
+        "word": "HBM",
         "count": 8,
-        "change": 2,
-        "days_on_chart": 51
+        "change": -2,
+        "days_on_chart": 53
       },
       {
         "rank": 26,
-        "word": "高股息ETF",
-        "count": 8,
+        "word": "DRAM",
+        "count": 7,
         "change": 2,
-        "days_on_chart": 29
+        "days_on_chart": 59
       },
       {
         "rank": 27,
         "word": "軍工",
         "count": 7,
-        "change": -2,
+        "change": 0,
         "days_on_chart": 56
       },
       {
         "rank": 28,
-        "word": "DRAM",
+        "word": "IC載板",
         "count": 6,
         "change": "重新入榜",
-        "days_on_chart": 58
+        "days_on_chart": 74
       },
       {
         "rank": 29,
-        "word": "法說",
+        "word": "電網",
         "count": 6,
-        "change": "重新入榜",
-        "days_on_chart": 78
+        "change": 1,
+        "days_on_chart": 30
       },
       {
         "rank": 30,
-        "word": "電網",
+        "word": "法說",
         "count": 6,
-        "change": "重新入榜",
-        "days_on_chart": 30
+        "change": -1,
+        "days_on_chart": 79
       }
     ],
     "15": [
       {
         "rank": 1,
-        "word": "記憶體",
-        "count": 147,
+        "word": "Fed",
+        "count": 204,
         "change": 1,
-        "days_on_chart": 92
+        "days_on_chart": 86
       },
       {
         "rank": 2,
-        "word": "Fed",
-        "count": 146,
+        "word": "記憶體",
+        "count": 153,
         "change": -1,
-        "days_on_chart": 85
+        "days_on_chart": 93
       },
       {
         "rank": 3,
         "word": "黃金",
-        "count": 111,
+        "count": 109,
         "change": 0,
-        "days_on_chart": 91
+        "days_on_chart": 92
       },
       {
         "rank": 4,
-        "word": "先進封裝",
+        "word": "機器人",
         "count": 74,
-        "change": 0,
-        "days_on_chart": 86
+        "change": 2,
+        "days_on_chart": 88
       },
       {
         "rank": 5,
         "word": "能源",
         "count": 71,
         "change": 0,
-        "days_on_chart": 86
+        "days_on_chart": 87
       },
       {
         "rank": 6,
-        "word": "機器人",
-        "count": 70,
-        "change": 0,
+        "word": "先進封裝",
+        "count": 64,
+        "change": -2,
         "days_on_chart": 87
       },
       {
         "rank": 7,
-        "word": "AI伺服器",
-        "count": 52,
-        "change": 1,
-        "days_on_chart": 84
+        "word": "PCB",
+        "count": 61,
+        "change": 2,
+        "days_on_chart": 78
       },
       {
         "rank": 8,
         "word": "光通訊",
-        "count": 52,
-        "change": 2,
-        "days_on_chart": 76
-      },
-      {
-        "rank": 9,
-        "word": "PCB",
-        "count": 51,
-        "change": -2,
+        "count": 53,
+        "change": 0,
         "days_on_chart": 77
       },
       {
-        "rank": 10,
+        "rank": 9,
         "word": "無人機",
-        "count": 48,
-        "change": -1,
-        "days_on_chart": 87
+        "count": 50,
+        "change": 1,
+        "days_on_chart": 88
+      },
+      {
+        "rank": 10,
+        "word": "AI伺服器",
+        "count": 46,
+        "change": -3,
+        "days_on_chart": 85
       },
       {
         "rank": 11,
-        "word": "散熱",
-        "count": 48,
+        "word": "矽光子",
+        "count": 44,
         "change": 1,
-        "days_on_chart": 76
+        "days_on_chart": 66
       },
       {
         "rank": 12,
-        "word": "矽光子",
-        "count": 46,
-        "change": -1,
-        "days_on_chart": 65
+        "word": "被動元件",
+        "count": 43,
+        "change": 1,
+        "days_on_chart": 77
       },
       {
         "rank": 13,
-        "word": "被動元件",
-        "count": 45,
-        "change": 0,
+        "word": "散熱",
+        "count": 42,
+        "change": -2,
         "days_on_chart": 77
       },
       {
         "rank": 14,
         "word": "資料中心",
-        "count": 33,
+        "count": 39,
         "change": 0,
-        "days_on_chart": 76
+        "days_on_chart": 77
       },
       {
         "rank": 15,
         "word": "新藥",
-        "count": 33,
+        "count": 34,
         "change": 0,
-        "days_on_chart": 50
+        "days_on_chart": 51
       },
       {
         "rank": 16,
         "word": "功率半導體",
-        "count": 29,
-        "change": 8,
-        "days_on_chart": 67
+        "count": 31,
+        "change": 0,
+        "days_on_chart": 68
       },
       {
         "rank": 17,
-        "word": "AI晶片",
-        "count": 27,
-        "change": -1,
-        "days_on_chart": 82
+        "word": "SpaceX",
+        "count": 30,
+        "change": 1,
+        "days_on_chart": 84
       },
       {
         "rank": 18,
-        "word": "SpaceX",
-        "count": 27,
+        "word": "面板",
+        "count": 30,
         "change": 2,
-        "days_on_chart": 83
+        "days_on_chart": 72
       },
       {
         "rank": 19,
-        "word": "生技",
-        "count": 27,
-        "change": -1,
-        "days_on_chart": 73
+        "word": "IC載板",
+        "count": 28,
+        "change": 3,
+        "days_on_chart": 74
       },
       {
         "rank": 20,
-        "word": "面板",
-        "count": 26,
+        "word": "生技",
+        "count": 28,
         "change": -1,
-        "days_on_chart": 71
+        "days_on_chart": 74
       },
       {
         "rank": 21,
-        "word": "ASIC",
-        "count": 26,
-        "change": 0,
-        "days_on_chart": 62
+        "word": "AI晶片",
+        "count": 27,
+        "change": -4,
+        "days_on_chart": 83
       },
       {
         "rank": 22,
-        "word": "IC載板",
-        "count": 25,
-        "change": -5,
-        "days_on_chart": 73
+        "word": "ASIC",
+        "count": 27,
+        "change": -1,
+        "days_on_chart": 63
       },
       {
         "rank": 23,
         "word": "晶圓代工",
         "count": 21,
-        "change": 3,
+        "change": 0,
         "days_on_chart": 53
       },
       {
         "rank": 24,
-        "word": "CoWoS",
-        "count": 20,
-        "change": -1,
-        "days_on_chart": 51
+        "word": "HBM",
+        "count": 19,
+        "change": 1,
+        "days_on_chart": 53
       },
       {
         "rank": 25,
-        "word": "HBM",
+        "word": "DRAM",
         "count": 19,
+        "change": 1,
+        "days_on_chart": 59
+      },
+      {
+        "rank": 26,
+        "word": "法說",
+        "count": 17,
+        "change": 1,
+        "days_on_chart": 79
+      },
+      {
+        "rank": 27,
+        "word": "CoWoS",
+        "count": 16,
         "change": -3,
         "days_on_chart": 52
       },
       {
-        "rank": 26,
-        "word": "DRAM",
-        "count": 17,
-        "change": 4,
-        "days_on_chart": 58
-      },
-      {
-        "rank": 27,
-        "word": "法說",
-        "count": 16,
-        "change": -2,
-        "days_on_chart": 78
-      },
-      {
         "rank": 28,
-        "word": "玻璃基板",
+        "word": "IC設計",
         "count": 15,
-        "change": 1,
-        "days_on_chart": 41
+        "change": 2,
+        "days_on_chart": 46
       },
       {
         "rank": 29,
-        "word": "電動車",
+        "word": "玻璃基板",
         "count": 15,
-        "change": -2,
-        "days_on_chart": 53
+        "change": -1,
+        "days_on_chart": 41
       },
       {
         "rank": 30,
-        "word": "IC設計",
-        "count": 14,
-        "change": -2,
-        "days_on_chart": 45
+        "word": "電動車",
+        "count": 15,
+        "change": -1,
+        "days_on_chart": 53
       }
     ]
   }
