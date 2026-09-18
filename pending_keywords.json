@@ -276,8 +276,8 @@
     "total_count": 34
   },
   "美債": {
-    "first_promoted": "2026-09-16",
-    "total_count": 86
+    "first_promoted": "2026-09-18",
+    "total_count": 58
   },
   "園區": {
     "first_promoted": "2026-09-02",
@@ -332,8 +332,8 @@
     "total_count": 38
   },
   "基本": {
-    "first_promoted": "2026-08-03",
-    "total_count": 38
+    "first_promoted": "2026-09-18",
+    "total_count": 30
   },
   "現金流": {
     "first_promoted": "2026-08-03",
@@ -520,8 +520,8 @@
     "total_count": 36
   },
   "成交量": {
-    "first_promoted": "2026-09-15",
-    "total_count": 30
+    "first_promoted": "2026-09-18",
+    "total_count": 32
   },
   "漲近": {
     "first_promoted": "2026-08-10",
@@ -596,8 +596,8 @@
     "total_count": 34
   },
   "首度": {
-    "first_promoted": "2026-08-12",
-    "total_count": 44
+    "first_promoted": "2026-09-18",
+    "total_count": 34
   },
   "SEMI": {
     "first_promoted": "2026-08-22",
@@ -1084,8 +1084,8 @@
     "total_count": 31
   },
   "工程": {
-    "first_promoted": "2026-09-04",
-    "total_count": 31
+    "first_promoted": "2026-09-18",
+    "total_count": 36
   },
   "iKnow": {
     "first_promoted": "2026-09-04",
@@ -1310,5 +1310,21 @@
   "通脹": {
     "first_promoted": "2026-09-17",
     "total_count": 36
+  },
+  "價走": {
+    "first_promoted": "2026-09-18",
+    "total_count": 32
+  },
+  "最佳": {
+    "first_promoted": "2026-09-18",
+    "total_count": 34
+  },
+  "CCL": {
+    "first_promoted": "2026-09-18",
+    "total_count": 32
+  },
+  "鷹派": {
+    "first_promoted": "2026-09-18",
+    "total_count": 38
   }
 }

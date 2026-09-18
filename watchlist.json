@@ -209,11 +209,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "鷹派": {
-    "last_seen": "2026-07-30",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "成果": {
     "last_seen": "2026-06-18",
     "total_count": 12,
@@ -592,11 +587,6 @@
   "時間": {
     "last_seen": "2026-07-01",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "最佳": {
-    "last_seen": "2026-07-01",
-    "total_count": 18,
     "days_seen": 1
   },
   "年最": {
@@ -1405,11 +1395,6 @@
     "days_seen": 1
   },
   "週一": {
-    "last_seen": "2026-07-21",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "CCL": {
     "last_seen": "2026-07-21",
     "total_count": 16,
     "days_seen": 1
@@ -3390,9 +3375,9 @@
     "days_seen": 1
   },
   "印度": {
-    "last_seen": "2026-08-28",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-18",
+    "total_count": 22,
+    "days_seen": 2
   },
   "NVDA": {
     "last_seen": "2026-08-30",
@@ -4104,11 +4089,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "工程": {
-    "last_seen": "2026-09-16",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "通信": {
     "last_seen": "2026-09-08",
     "total_count": 12,
@@ -4212,16 +4192,6 @@
   "機產業": {
     "last_seen": "2026-09-09",
     "total_count": 10,
-    "days_seen": 1
-  },
-  "首度": {
-    "last_seen": "2026-09-10",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "基本": {
-    "last_seen": "2026-09-10",
-    "total_count": 16,
     "days_seen": 1
   },
   "準備": {
@@ -4679,11 +4649,6 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "美債": {
-    "last_seen": "2026-09-17",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "升息一碼": {
     "last_seen": "2026-09-17",
     "total_count": 20,
@@ -4710,9 +4675,9 @@
     "days_seen": 1
   },
   "BigGo": {
-    "last_seen": "2026-09-17",
-    "total_count": 15,
-    "days_seen": 1
+    "last_seen": "2026-09-18",
+    "total_count": 27,
+    "days_seen": 2
   },
   "台股反": {
     "last_seen": "2026-09-17",
@@ -4750,13 +4715,103 @@
     "days_seen": 1
   },
   "年底": {
-    "last_seen": "2026-09-17",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-18",
+    "total_count": 28,
+    "days_seen": 2
   },
   "Generac": {
     "last_seen": "2026-09-17",
     "total_count": 14,
+    "days_seen": 1
+  },
+  "科技股領": {
+    "last_seen": "2026-09-18",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "加息": {
+    "last_seen": "2026-09-18",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "美債殖利率": {
+    "last_seen": "2026-09-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "美股反": {
+    "last_seen": "2026-09-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "中秋": {
+    "last_seen": "2026-09-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "單日": {
+    "last_seen": "2026-09-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "AMD": {
+    "last_seen": "2026-09-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "鬆綁": {
+    "last_seen": "2026-09-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "變盤": {
+    "last_seen": "2026-09-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "營運": {
+    "last_seen": "2026-09-18",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "油價回落": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "站穩": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "破兆": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "房市": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "回歸": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "基板": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "落地": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "生產": {
+    "last_seen": "2026-09-18",
+    "total_count": 12,
     "days_seen": 1
   }
 }
