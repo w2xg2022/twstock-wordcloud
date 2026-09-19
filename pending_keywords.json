@@ -28,8 +28,8 @@
     "total_count": 90
   },
   "周線": {
-    "first_promoted": "2026-09-12",
-    "total_count": 36
+    "first_promoted": "2026-09-19",
+    "total_count": 32
   },
   "KY": {
     "first_promoted": "2026-09-11",
@@ -44,8 +44,8 @@
     "total_count": 32
   },
   "Anthropic": {
-    "first_promoted": "2026-09-14",
-    "total_count": 42
+    "first_promoted": "2026-09-19",
+    "total_count": 30
   },
   "走低": {
     "first_promoted": "2026-09-10",
@@ -56,8 +56,8 @@
     "total_count": 38
   },
   "人民": {
-    "first_promoted": "2026-08-13",
-    "total_count": 30
+    "first_promoted": "2026-09-19",
+    "total_count": 41
   },
   "聯儲": {
     "first_promoted": "2026-09-17",
@@ -304,12 +304,12 @@
     "total_count": 111
   },
   "ww2": {
-    "first_promoted": "2026-08-03",
-    "total_count": 47
+    "first_promoted": "2026-09-19",
+    "total_count": 37
   },
   "money-link": {
-    "first_promoted": "2026-08-03",
-    "total_count": 47
+    "first_promoted": "2026-09-19",
+    "total_count": 37
   },
   "能否": {
     "first_promoted": "2026-08-23",
@@ -676,8 +676,8 @@
     "total_count": 54
   },
   "me": {
-    "first_promoted": "2026-09-06",
-    "total_count": 30
+    "first_promoted": "2026-09-19",
+    "total_count": 67
   },
   "要求": {
     "first_promoted": "2026-08-15",
@@ -736,8 +736,8 @@
     "total_count": 30
   },
   "殖利率": {
-    "first_promoted": "2026-09-10",
-    "total_count": 68
+    "first_promoted": "2026-09-19",
+    "total_count": 54
   },
   "回購": {
     "first_promoted": "2026-08-21",
@@ -1056,8 +1056,8 @@
     "total_count": 40
   },
   "加息": {
-    "first_promoted": "2026-09-17",
-    "total_count": 60
+    "first_promoted": "2026-09-19",
+    "total_count": 36
   },
   "虧損": {
     "first_promoted": "2026-09-01",
@@ -1326,5 +1326,9 @@
   "鷹派": {
     "first_promoted": "2026-09-18",
     "total_count": 38
+  },
+  "四巫日": {
+    "first_promoted": "2026-09-19",
+    "total_count": 30
   }
 }

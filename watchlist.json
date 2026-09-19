@@ -2869,11 +2869,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "人民": {
-    "last_seen": "2026-08-18",
-    "total_count": 29,
-    "days_seen": 1
-  },
   "工安": {
     "last_seen": "2026-08-18",
     "total_count": 24,
@@ -3895,9 +3890,9 @@
     "days_seen": 1
   },
   "能否": {
-    "last_seen": "2026-09-05",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-19",
+    "total_count": 24,
+    "days_seen": 2
   },
   "仁寶": {
     "last_seen": "2026-09-05",
@@ -4359,11 +4354,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "me": {
-    "last_seen": "2026-09-13",
-    "total_count": 17,
-    "days_seen": 1
-  },
   "升息機率": {
     "last_seen": "2026-09-13",
     "total_count": 14,
@@ -4380,14 +4370,14 @@
     "days_seen": 1
   },
   "人類": {
-    "last_seen": "2026-09-13",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-19",
+    "total_count": 24,
+    "days_seen": 2
   },
   "翻倍": {
-    "last_seen": "2026-09-13",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-19",
+    "total_count": 28,
+    "days_seen": 2
   },
   "聯合": {
     "last_seen": "2026-09-13",
@@ -4444,30 +4434,10 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "周線": {
-    "last_seen": "2026-09-13",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "ww2": {
-    "last_seen": "2026-09-14",
-    "total_count": 19,
-    "days_seen": 1
-  },
-  "money-link": {
-    "last_seen": "2026-09-14",
-    "total_count": 19,
-    "days_seen": 1
-  },
   "降評": {
     "last_seen": "2026-09-14",
     "total_count": 18,
     "days_seen": 1
-  },
-  "殖利率": {
-    "last_seen": "2026-09-17",
-    "total_count": 28,
-    "days_seen": 2
   },
   "園區": {
     "last_seen": "2026-09-14",
@@ -4548,11 +4518,6 @@
     "last_seen": "2026-09-16",
     "total_count": 28,
     "days_seen": 2
-  },
-  "Anthropic": {
-    "last_seen": "2026-09-15",
-    "total_count": 16,
-    "days_seen": 1
   },
   "米玉傑": {
     "last_seen": "2026-09-15",
@@ -4729,11 +4694,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "加息": {
-    "last_seen": "2026-09-18",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "美債殖利率": {
     "last_seen": "2026-09-18",
     "total_count": 20,
@@ -4745,9 +4705,9 @@
     "days_seen": 1
   },
   "中秋": {
-    "last_seen": "2026-09-18",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-19",
+    "total_count": 26,
+    "days_seen": 2
   },
   "單日": {
     "last_seen": "2026-09-18",
@@ -4812,6 +4772,91 @@
   "生產": {
     "last_seen": "2026-09-18",
     "total_count": 12,
+    "days_seen": 1
+  },
+  "SEC": {
+    "last_seen": "2026-09-19",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "成交量": {
+    "last_seen": "2026-09-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "量增": {
+    "last_seen": "2026-09-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Pro": {
+    "last_seen": "2026-09-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "事業": {
+    "last_seen": "2026-09-19",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "擴產潮": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "聯手": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "安全": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "院長": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "緩解": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "聯想": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "AMAT": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "CoWoS-L": {
+    "last_seen": "2026-09-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "特斯拉": {
+    "last_seen": "2026-09-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "後續": {
+    "last_seen": "2026-09-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "搶先": {
+    "last_seen": "2026-09-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "存儲": {
+    "last_seen": "2026-09-19",
+    "total_count": 10,
     "days_seen": 1
   }
 }
