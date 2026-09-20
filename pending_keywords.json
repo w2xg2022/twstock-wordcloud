@@ -432,8 +432,8 @@
     "total_count": 38
   },
   "強化": {
-    "first_promoted": "2026-08-21",
-    "total_count": 34
+    "first_promoted": "2026-09-20",
+    "total_count": 32
   },
   "偏多": {
     "first_promoted": "2026-08-07",
@@ -492,8 +492,8 @@
     "total_count": 30
   },
   "工作": {
-    "first_promoted": "2026-08-08",
-    "total_count": 30
+    "first_promoted": "2026-09-20",
+    "total_count": 38
   },
   "下週": {
     "first_promoted": "2026-09-05",
@@ -544,8 +544,8 @@
     "total_count": 30
   },
   "money": {
-    "first_promoted": "2026-09-17",
-    "total_count": 64
+    "first_promoted": "2026-09-20",
+    "total_count": 39
   },
   "跌逾": {
     "first_promoted": "2026-08-11",
@@ -1329,6 +1329,26 @@
   },
   "四巫日": {
     "first_promoted": "2026-09-19",
+    "total_count": 30
+  },
+  "印度": {
+    "first_promoted": "2026-09-20",
+    "total_count": 42
+  },
+  "與半導體": {
+    "first_promoted": "2026-09-20",
+    "total_count": 38
+  },
+  "基礎": {
+    "first_promoted": "2026-09-20",
+    "total_count": 30
+  },
+  "半導體供應鏈": {
+    "first_promoted": "2026-09-20",
+    "total_count": 38
+  },
+  "黑馬": {
+    "first_promoted": "2026-09-20",
     "total_count": 30
   }
 }

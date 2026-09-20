@@ -155,9 +155,9 @@
     "days_seen": 1
   },
   "與產業": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-20",
+    "total_count": 18,
+    "days_seen": 2
   },
   "日韓股": {
     "last_seen": "2026-08-04",
@@ -979,11 +979,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "與半導體": {
-    "last_seen": "2026-09-05",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "才是": {
     "last_seen": "2026-07-25",
     "total_count": 22,
@@ -1684,11 +1679,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "半導體供應鏈": {
-    "last_seen": "2026-07-29",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "穩健": {
     "last_seen": "2026-07-27",
     "total_count": 14,
@@ -2325,9 +2315,9 @@
     "days_seen": 1
   },
   "變數": {
-    "last_seen": "2026-08-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-20",
+    "total_count": 22,
+    "days_seen": 2
   },
   "這幾": {
     "last_seen": "2026-08-08",
@@ -2519,11 +2509,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "基礎": {
-    "last_seen": "2026-08-12",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "通膨數據": {
     "last_seen": "2026-08-12",
     "total_count": 16,
@@ -2593,11 +2578,6 @@
     "last_seen": "2026-08-13",
     "total_count": 14,
     "days_seen": 1
-  },
-  "工作": {
-    "last_seen": "2026-09-07",
-    "total_count": 26,
-    "days_seen": 2
   },
   "Pixel": {
     "last_seen": "2026-08-13",
@@ -2879,11 +2859,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "黑馬": {
-    "last_seen": "2026-08-18",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "關卡": {
     "last_seen": "2026-08-18",
     "total_count": 20,
@@ -3047,11 +3022,6 @@
   "徐秀蘭": {
     "last_seen": "2026-08-22",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "強化": {
-    "last_seen": "2026-08-22",
-    "total_count": 22,
     "days_seen": 1
   },
   "航海王": {
@@ -3368,11 +3338,6 @@
     "last_seen": "2026-08-28",
     "total_count": 10,
     "days_seen": 1
-  },
-  "印度": {
-    "last_seen": "2026-09-18",
-    "total_count": 22,
-    "days_seen": 2
   },
   "NVDA": {
     "last_seen": "2026-08-30",
@@ -4140,9 +4105,9 @@
     "days_seen": 1
   },
   "一步": {
-    "last_seen": "2026-09-09",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-20",
+    "total_count": 26,
+    "days_seen": 2
   },
   "欣興": {
     "last_seen": "2026-09-09",
@@ -4340,9 +4305,9 @@
     "days_seen": 1
   },
   "名單": {
-    "last_seen": "2026-09-12",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-20",
+    "total_count": 24,
+    "days_seen": 2
   },
   "百億": {
     "last_seen": "2026-09-12",
@@ -4365,9 +4330,9 @@
     "days_seen": 1
   },
   "股票": {
-    "last_seen": "2026-09-13",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-20",
+    "total_count": 22,
+    "days_seen": 2
   },
   "人類": {
     "last_seen": "2026-09-19",
@@ -4395,9 +4360,9 @@
     "days_seen": 1
   },
   "第四季": {
-    "last_seen": "2026-09-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-20",
+    "total_count": 22,
+    "days_seen": 2
   },
   "需求強": {
     "last_seen": "2026-09-13",
@@ -4856,6 +4821,86 @@
   },
   "存儲": {
     "last_seen": "2026-09-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "兆美元": {
+    "last_seen": "2026-09-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "評估": {
+    "last_seen": "2026-09-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "白埔": {
+    "last_seen": "2026-09-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "別急": {
+    "last_seen": "2026-09-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Anthropic": {
+    "last_seen": "2026-09-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "歷史新高": {
+    "last_seen": "2026-09-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "正式": {
+    "last_seen": "2026-09-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Gemini": {
+    "last_seen": "2026-09-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "升息台股": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "潛力": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "自主": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "美債": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "下來": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "替代": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "開工": {
+    "last_seen": "2026-09-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "不可": {
+    "last_seen": "2026-09-20",
     "total_count": 10,
     "days_seen": 1
   }
