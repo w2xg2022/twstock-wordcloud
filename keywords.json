@@ -79,6 +79,12 @@
       "synonyms": [
         "CoPoS"
       ]
+    },
+    {
+      "name": "DUV",
+      "synonyms": [
+        "DUV"
+      ]
     }
   ],
   "AI": [
