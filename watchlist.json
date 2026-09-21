@@ -65,9 +65,9 @@
     "days_seen": 1
   },
   "工廠": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-21",
+    "total_count": 18,
+    "days_seen": 2
   },
   "重回": {
     "last_seen": "2026-06-15",
@@ -85,11 +85,6 @@
     "days_seen": 1
   },
   "降息": {
-    "last_seen": "2026-06-16",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "天價": {
     "last_seen": "2026-06-16",
     "total_count": 10,
     "days_seen": 1
@@ -298,11 +293,6 @@
     "last_seen": "2026-06-22",
     "total_count": 8,
     "days_seen": 1
-  },
-  "機器": {
-    "last_seen": "2026-07-19",
-    "total_count": 20,
-    "days_seen": 2
   },
   "支持": {
     "last_seen": "2026-08-04",
@@ -522,11 +512,6 @@
   "PMI": {
     "last_seen": "2026-06-30",
     "total_count": 16,
-    "days_seen": 2
-  },
-  "創新藥": {
-    "last_seen": "2026-07-06",
-    "total_count": 26,
     "days_seen": 2
   },
   "重要": {
@@ -1050,9 +1035,9 @@
     "days_seen": 1
   },
   "基地": {
-    "last_seen": "2026-07-13",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-09-21",
+    "total_count": 28,
+    "days_seen": 2
   },
   "近千點": {
     "last_seen": "2026-07-13",
@@ -1640,9 +1625,9 @@
     "days_seen": 1
   },
   "Newtalk": {
-    "last_seen": "2026-07-26",
-    "total_count": 9,
-    "days_seen": 1
+    "last_seen": "2026-09-21",
+    "total_count": 21,
+    "days_seen": 2
   },
   "遭外資": {
     "last_seen": "2026-07-26",
@@ -3575,9 +3560,9 @@
     "days_seen": 1
   },
   "工業": {
-    "last_seen": "2026-09-01",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-21",
+    "total_count": 24,
+    "days_seen": 2
   },
   "環球晶": {
     "last_seen": "2026-09-01",
@@ -4359,11 +4344,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "第四季": {
-    "last_seen": "2026-09-20",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "需求強": {
     "last_seen": "2026-09-13",
     "total_count": 8,
@@ -4585,9 +4565,9 @@
     "days_seen": 1
   },
   "ctee": {
-    "last_seen": "2026-09-17",
-    "total_count": 20,
-    "days_seen": 1
+    "last_seen": "2026-09-21",
+    "total_count": 29,
+    "days_seen": 2
   },
   "CPO": {
     "last_seen": "2026-09-17",
@@ -4815,18 +4795,13 @@
     "days_seen": 1
   },
   "搶先": {
-    "last_seen": "2026-09-19",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-21",
+    "total_count": 18,
+    "days_seen": 2
   },
   "存儲": {
     "last_seen": "2026-09-19",
     "total_count": 10,
-    "days_seen": 1
-  },
-  "兆美元": {
-    "last_seen": "2026-09-20",
-    "total_count": 18,
     "days_seen": 1
   },
   "評估": {
@@ -4902,6 +4877,51 @@
   "不可": {
     "last_seen": "2026-09-20",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "稀土": {
+    "last_seen": "2026-09-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "電子權值": {
+    "last_seen": "2026-09-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "支付": {
+    "last_seen": "2026-09-21",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "並進": {
+    "last_seen": "2026-09-21",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "官方": {
+    "last_seen": "2026-09-21",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "資源": {
+    "last_seen": "2026-09-21",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "擴散": {
+    "last_seen": "2026-09-21",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "磋商": {
+    "last_seen": "2026-09-21",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連休": {
+    "last_seen": "2026-09-21",
+    "total_count": 8,
     "days_seen": 1
   }
 }
