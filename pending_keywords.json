@@ -26,5 +26,29 @@
   "機器": {
     "first_promoted": "2026-09-21",
     "total_count": 30
+  },
+  "三雄": {
+    "first_promoted": "2026-09-22",
+    "total_count": 40
+  },
+  "中秋": {
+    "first_promoted": "2026-09-22",
+    "total_count": 40
+  },
+  "繼續": {
+    "first_promoted": "2026-09-22",
+    "total_count": 40
+  },
+  "自動化": {
+    "first_promoted": "2026-09-22",
+    "total_count": 36
+  },
+  "Newtalk": {
+    "first_promoted": "2026-09-22",
+    "total_count": 30
+  },
+  "產業發展": {
+    "first_promoted": "2026-09-22",
+    "total_count": 36
   }
 }
