@@ -224,11 +224,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "狂潮": {
-    "last_seen": "2026-06-24",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "品牌": {
     "last_seen": "2026-08-08",
     "total_count": 24,
@@ -824,11 +819,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "股領漲": {
-    "last_seen": "2026-07-07",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "重挫拖累": {
     "last_seen": "2026-07-08",
     "total_count": 24,
@@ -1070,9 +1060,9 @@
     "days_seen": 1
   },
   "景氣": {
-    "last_seen": "2026-07-14",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-23",
+    "total_count": 28,
+    "days_seen": 2
   },
   "上揚": {
     "last_seen": "2026-09-13",
@@ -1095,9 +1085,9 @@
     "days_seen": 1
   },
   "開高走": {
-    "last_seen": "2026-07-15",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-23",
+    "total_count": 24,
+    "days_seen": 2
   },
   "崩跌": {
     "last_seen": "2026-07-15",
@@ -1300,9 +1290,9 @@
     "days_seen": 1
   },
   "人工智慧": {
-    "last_seen": "2026-07-19",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-23",
+    "total_count": 18,
+    "days_seen": 2
   },
   "震盪逾": {
     "last_seen": "2026-07-20",
@@ -2935,9 +2925,9 @@
     "days_seen": 1
   },
   "超車": {
-    "last_seen": "2026-08-20",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-23",
+    "total_count": 26,
+    "days_seen": 2
   },
   "材料聯盟": {
     "last_seen": "2026-08-21",
@@ -3999,11 +3989,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "第四": {
-    "last_seen": "2026-09-08",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "喊賣": {
     "last_seen": "2026-09-08",
     "total_count": 12,
@@ -4899,11 +4884,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "Muse": {
-    "last_seen": "2026-09-22",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "新高後": {
     "last_seen": "2026-09-22",
     "total_count": 18,
@@ -4920,9 +4900,9 @@
     "days_seen": 1
   },
   "缺口": {
-    "last_seen": "2026-09-22",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-23",
+    "total_count": 24,
+    "days_seen": 2
   },
   "創新高後": {
     "last_seen": "2026-09-22",
@@ -4981,6 +4961,106 @@
   },
   "句話": {
     "last_seen": "2026-09-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "比聯發科更": {
+    "last_seen": "2026-09-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "全球股市": {
+    "last_seen": "2026-09-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "科技股續": {
+    "last_seen": "2026-09-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "揭關鍵": {
+    "last_seen": "2026-09-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "旗艦": {
+    "last_seen": "2026-09-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "創意": {
+    "last_seen": "2026-09-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "納斯達克": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "第四季": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "盤中漲": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "天價": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "警訊": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "出售": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "ustv": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "IonQ": {
+    "last_seen": "2026-09-23",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "帶動科技股": {
+    "last_seen": "2026-09-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "全球第四": {
+    "last_seen": "2026-09-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "旗艦晶片": {
+    "last_seen": "2026-09-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "電力景氣": {
+    "last_seen": "2026-09-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "指數創": {
+    "last_seen": "2026-09-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "助攻台": {
+    "last_seen": "2026-09-23",
     "total_count": 8,
     "days_seen": 1
   }
