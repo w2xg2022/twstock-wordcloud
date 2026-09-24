@@ -499,11 +499,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "PMI": {
-    "last_seen": "2026-06-30",
-    "total_count": 16,
-    "days_seen": 2
-  },
   "重要": {
     "last_seen": "2026-09-14",
     "total_count": 22,
@@ -1785,9 +1780,9 @@
     "days_seen": 1
   },
   "新加坡": {
-    "last_seen": "2026-07-30",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 22,
+    "days_seen": 2
   },
   "走弱": {
     "last_seen": "2026-07-30",
@@ -2375,9 +2370,9 @@
     "days_seen": 1
   },
   "券商": {
-    "last_seen": "2026-08-10",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 24,
+    "days_seen": 2
   },
   "迎來": {
     "last_seen": "2026-09-07",
@@ -2770,9 +2765,9 @@
     "days_seen": 2
   },
   "平均": {
-    "last_seen": "2026-08-17",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 22,
+    "days_seen": 2
   },
   "過半": {
     "last_seen": "2026-08-17",
@@ -2780,9 +2775,9 @@
     "days_seen": 1
   },
   "chinatimes": {
-    "last_seen": "2026-08-17",
-    "total_count": 13,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 23,
+    "days_seen": 2
   },
   "預計上半年": {
     "last_seen": "2026-08-17",
@@ -3065,9 +3060,9 @@
     "days_seen": 1
   },
   "革命": {
-    "last_seen": "2026-08-24",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 26,
+    "days_seen": 2
   },
   "生技產業": {
     "last_seen": "2026-08-24",
@@ -3639,11 +3634,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "佈局": {
-    "last_seen": "2026-09-08",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "百強": {
     "last_seen": "2026-09-03",
     "total_count": 10,
@@ -4125,9 +4115,9 @@
     "days_seen": 1
   },
   "反手": {
-    "last_seen": "2026-09-10",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 20,
+    "days_seen": 2
   },
   "建議": {
     "last_seen": "2026-09-10",
@@ -4879,11 +4869,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "兆美元": {
-    "last_seen": "2026-09-22",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "新高後": {
     "last_seen": "2026-09-22",
     "total_count": 18,
@@ -5005,9 +4990,9 @@
     "days_seen": 1
   },
   "盤中漲": {
-    "last_seen": "2026-09-23",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-24",
+    "total_count": 18,
+    "days_seen": 2
   },
   "天價": {
     "last_seen": "2026-09-23",
@@ -5061,6 +5046,101 @@
   },
   "助攻台": {
     "last_seen": "2026-09-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連假": {
+    "last_seen": "2026-09-24",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "Muse": {
+    "last_seen": "2026-09-24",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "早盤跌": {
+    "last_seen": "2026-09-24",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "節前": {
+    "last_seen": "2026-09-24",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "族群逆勢": {
+    "last_seen": "2026-09-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "下一波": {
+    "last_seen": "2026-09-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "蔡易餘": {
+    "last_seen": "2026-09-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "長假": {
+    "last_seen": "2026-09-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "貿易": {
+    "last_seen": "2026-09-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "報酬率": {
+    "last_seen": "2026-09-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "續受": {
+    "last_seen": "2026-09-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "眼鏡": {
+    "last_seen": "2026-09-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "wantrich": {
+    "last_seen": "2026-09-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "ProShares": {
+    "last_seen": "2026-09-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "經濟數據": {
+    "last_seen": "2026-09-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "殖利率衝": {
+    "last_seen": "2026-09-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "半導體廠": {
+    "last_seen": "2026-09-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股走勢丨": {
+    "last_seen": "2026-09-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "高股息": {
+    "last_seen": "2026-09-24",
     "total_count": 8,
     "days_seen": 1
   }
