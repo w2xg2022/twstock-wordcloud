@@ -55,9 +55,9 @@
     "days_seen": 1
   },
   "這兩": {
-    "last_seen": "2026-06-15",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 18,
+    "days_seen": 2
   },
   "工廠": {
     "last_seen": "2026-09-21",
@@ -115,9 +115,9 @@
     "days_seen": 1
   },
   "半導體產": {
-    "last_seen": "2026-06-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 24,
+    "days_seen": 2
   },
   "日韓": {
     "last_seen": "2026-06-18",
@@ -553,11 +553,6 @@
     "last_seen": "2026-08-03",
     "total_count": 20,
     "days_seen": 2
-  },
-  "時間": {
-    "last_seen": "2026-07-01",
-    "total_count": 20,
-    "days_seen": 1
   },
   "年最": {
     "last_seen": "2026-07-01",
@@ -1205,9 +1200,9 @@
     "days_seen": 1
   },
   "股持續": {
-    "last_seen": "2026-07-18",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 26,
+    "days_seen": 2
   },
   "槓桿": {
     "last_seen": "2026-07-18",
@@ -2049,11 +2044,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "商業": {
-    "last_seen": "2026-08-04",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "盤大漲": {
     "last_seen": "2026-08-05",
     "total_count": 24,
@@ -2263,11 +2253,6 @@
     "last_seen": "2026-08-08",
     "total_count": 12,
     "days_seen": 1
-  },
-  "變數": {
-    "last_seen": "2026-09-20",
-    "total_count": 22,
-    "days_seen": 2
   },
   "這幾": {
     "last_seen": "2026-08-08",
@@ -2988,11 +2973,6 @@
     "last_seen": "2026-08-22",
     "total_count": 16,
     "days_seen": 1
-  },
-  "牽動": {
-    "last_seen": "2026-09-06",
-    "total_count": 22,
-    "days_seen": 2
   },
   "建設": {
     "last_seen": "2026-08-23",
@@ -3960,9 +3940,9 @@
     "days_seen": 1
   },
   "產值": {
-    "last_seen": "2026-09-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 20,
+    "days_seen": 2
   },
   "納入港股通": {
     "last_seen": "2026-09-08",
@@ -4615,9 +4595,9 @@
     "days_seen": 1
   },
   "變盤": {
-    "last_seen": "2026-09-18",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 28,
+    "days_seen": 2
   },
   "營運": {
     "last_seen": "2026-09-18",
@@ -5049,11 +5029,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "連假": {
-    "last_seen": "2026-09-24",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "Muse": {
     "last_seen": "2026-09-24",
     "total_count": 20,
@@ -5065,9 +5040,9 @@
     "days_seen": 1
   },
   "節前": {
-    "last_seen": "2026-09-24",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 28,
+    "days_seen": 2
   },
   "族群逆勢": {
     "last_seen": "2026-09-24",
@@ -5125,9 +5100,9 @@
     "days_seen": 1
   },
   "殖利率衝": {
-    "last_seen": "2026-09-24",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-25",
+    "total_count": 20,
+    "days_seen": 2
   },
   "半導體廠": {
     "last_seen": "2026-09-24",
@@ -5142,6 +5117,91 @@
   "高股息": {
     "last_seen": "2026-09-24",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "北水": {
+    "last_seen": "2026-09-25",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "中秋節": {
+    "last_seen": "2026-09-25",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "美債殖利率飆": {
+    "last_seen": "2026-09-25",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "繼續": {
+    "last_seen": "2026-09-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "節後": {
+    "last_seen": "2026-09-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "型科技股": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "收益率": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "收購": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "假前": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "債息": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "大單": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "花旗": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "小米": {
+    "last_seen": "2026-09-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "高檔震盪": {
+    "last_seen": "2026-09-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "連假後": {
+    "last_seen": "2026-09-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "商業化": {
+    "last_seen": "2026-09-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "評級": {
+    "last_seen": "2026-09-25",
+    "total_count": 10,
     "days_seen": 1
   }
 }

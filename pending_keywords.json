@@ -32,7 +32,7 @@
     "total_count": 40
   },
   "中秋": {
-    "first_promoted": "2026-09-24",
+    "first_promoted": "2026-09-25",
     "total_count": 54
   },
   "繼續": {
@@ -78,5 +78,25 @@
   "佈局": {
     "first_promoted": "2026-09-24",
     "total_count": 30
+  },
+  "連假": {
+    "first_promoted": "2026-09-25",
+    "total_count": 50
+  },
+  "時間": {
+    "first_promoted": "2026-09-25",
+    "total_count": 34
+  },
+  "商業": {
+    "first_promoted": "2026-09-25",
+    "total_count": 30
+  },
+  "牽動": {
+    "first_promoted": "2026-09-25",
+    "total_count": 32
+  },
+  "變數": {
+    "first_promoted": "2026-09-25",
+    "total_count": 32
   }
 }
