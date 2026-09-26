@@ -355,9 +355,9 @@
     "days_seen": 1
   },
   "兩大": {
-    "last_seen": "2026-08-02",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-09-26",
+    "total_count": 26,
+    "days_seen": 3
   },
   "科技股賣壓": {
     "last_seen": "2026-07-29",
@@ -483,11 +483,6 @@
     "last_seen": "2026-06-27",
     "total_count": 8,
     "days_seen": 1
-  },
-  "管理": {
-    "last_seen": "2026-07-23",
-    "total_count": 24,
-    "days_seen": 2
   },
   "AA+": {
     "last_seen": "2026-06-29",
@@ -1125,9 +1120,9 @@
     "days_seen": 1
   },
   "轉折": {
-    "last_seen": "2026-07-16",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-26",
+    "total_count": 24,
+    "days_seen": 2
   },
   "週三": {
     "last_seen": "2026-07-16",
@@ -1875,9 +1870,9 @@
     "days_seen": 1
   },
   "指數全": {
-    "last_seen": "2026-08-01",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-26",
+    "total_count": 28,
+    "days_seen": 2
   },
   "半世紀": {
     "last_seen": "2026-08-01",
@@ -2353,11 +2348,6 @@
     "last_seen": "2026-08-10",
     "total_count": 14,
     "days_seen": 1
-  },
-  "券商": {
-    "last_seen": "2026-09-24",
-    "total_count": 24,
-    "days_seen": 2
   },
   "迎來": {
     "last_seen": "2026-09-07",
@@ -3365,9 +3355,9 @@
     "days_seen": 2
   },
   "帶旺": {
-    "last_seen": "2026-08-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-26",
+    "total_count": 16,
+    "days_seen": 2
   },
   "聯盟": {
     "last_seen": "2026-09-07",
@@ -3920,9 +3910,9 @@
     "days_seen": 1
   },
   "成分股": {
-    "last_seen": "2026-09-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-26",
+    "total_count": 20,
+    "days_seen": 2
   },
   "慘摔": {
     "last_seen": "2026-09-07",
@@ -4112,11 +4102,6 @@
   "潛在": {
     "last_seen": "2026-09-10",
     "total_count": 10,
-    "days_seen": 1
-  },
-  "上漲": {
-    "last_seen": "2026-09-11",
-    "total_count": 24,
     "days_seen": 1
   },
   "權值": {
@@ -4605,9 +4590,9 @@
     "days_seen": 1
   },
   "油價回落": {
-    "last_seen": "2026-09-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-26",
+    "total_count": 28,
+    "days_seen": 2
   },
   "站穩": {
     "last_seen": "2026-09-18",
@@ -4695,9 +4680,9 @@
     "days_seen": 1
   },
   "聯想": {
-    "last_seen": "2026-09-19",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-26",
+    "total_count": 22,
+    "days_seen": 2
   },
   "AMAT": {
     "last_seen": "2026-09-19",
@@ -5119,11 +5104,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "北水": {
-    "last_seen": "2026-09-25",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "中秋節": {
     "last_seen": "2026-09-25",
     "total_count": 20,
@@ -5202,6 +5182,101 @@
   "評級": {
     "last_seen": "2026-09-25",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "中秋": {
+    "last_seen": "2026-09-26",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "會後": {
+    "last_seen": "2026-09-26",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "連假": {
+    "last_seen": "2026-09-26",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "程式": {
+    "last_seen": "2026-09-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "足以": {
+    "last_seen": "2026-09-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "油價跌": {
+    "last_seen": "2026-09-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "MU": {
+    "last_seen": "2026-09-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "連假前": {
+    "last_seen": "2026-09-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "不見": {
+    "last_seen": "2026-09-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "重啟": {
+    "last_seen": "2026-09-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "便當": {
+    "last_seen": "2026-09-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "居前": {
+    "last_seen": "2026-09-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Solidigm": {
+    "last_seen": "2026-09-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "大指數全": {
+    "last_seen": "2026-09-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "能延續": {
+    "last_seen": "2026-09-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "關係": {
+    "last_seen": "2026-09-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "時間": {
+    "last_seen": "2026-09-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一年": {
+    "last_seen": "2026-09-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "最愛": {
+    "last_seen": "2026-09-26",
+    "total_count": 8,
     "days_seen": 1
   }
 }

@@ -98,5 +98,21 @@
   "變數": {
     "first_promoted": "2026-09-25",
     "total_count": 32
+  },
+  "上漲": {
+    "first_promoted": "2026-09-26",
+    "total_count": 52
+  },
+  "北水": {
+    "first_promoted": "2026-09-26",
+    "total_count": 46
+  },
+  "券商": {
+    "first_promoted": "2026-09-26",
+    "total_count": 34
+  },
+  "管理": {
+    "first_promoted": "2026-09-26",
+    "total_count": 32
   }
 }
