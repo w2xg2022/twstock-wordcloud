@@ -32,8 +32,8 @@
     "total_count": 40
   },
   "中秋": {
-    "first_promoted": "2026-09-25",
-    "total_count": 54
+    "first_promoted": "2026-09-27",
+    "total_count": 44
   },
   "繼續": {
     "first_promoted": "2026-09-22",
@@ -60,8 +60,8 @@
     "total_count": 30
   },
   "Muse": {
-    "first_promoted": "2026-09-23",
-    "total_count": 44
+    "first_promoted": "2026-09-27",
+    "total_count": 30
   },
   "股領漲": {
     "first_promoted": "2026-09-23",
@@ -80,8 +80,8 @@
     "total_count": 30
   },
   "連假": {
-    "first_promoted": "2026-09-25",
-    "total_count": 50
+    "first_promoted": "2026-09-27",
+    "total_count": 34
   },
   "時間": {
     "first_promoted": "2026-09-25",
@@ -114,5 +114,21 @@
   "管理": {
     "first_promoted": "2026-09-26",
     "total_count": 32
+  },
+  "崩盤": {
+    "first_promoted": "2026-09-27",
+    "total_count": 38
+  },
+  "值得": {
+    "first_promoted": "2026-09-27",
+    "total_count": 36
+  },
+  "封測": {
+    "first_promoted": "2026-09-27",
+    "total_count": 36
+  },
+  "漲勢": {
+    "first_promoted": "2026-09-27",
+    "total_count": 36
   }
 }

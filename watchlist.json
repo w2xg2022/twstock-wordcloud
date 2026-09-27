@@ -204,11 +204,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "封測": {
-    "last_seen": "2026-07-06",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "驅動": {
     "last_seen": "2026-09-09",
     "total_count": 26,
@@ -665,9 +660,9 @@
     "days_seen": 1
   },
   "這樣": {
-    "last_seen": "2026-08-02",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-09-27",
+    "total_count": 24,
+    "days_seen": 3
   },
   "逆轉": {
     "last_seen": "2026-07-03",
@@ -703,11 +698,6 @@
     "last_seen": "2026-07-04",
     "total_count": 14,
     "days_seen": 1
-  },
-  "漲勢": {
-    "last_seen": "2026-08-29",
-    "total_count": 28,
-    "days_seen": 2
   },
   "人機": {
     "last_seen": "2026-07-04",
@@ -978,11 +968,6 @@
     "last_seen": "2026-07-12",
     "total_count": 10,
     "days_seen": 1
-  },
-  "值得": {
-    "last_seen": "2026-08-23",
-    "total_count": 26,
-    "days_seen": 3
   },
   "中央": {
     "last_seen": "2026-07-12",
@@ -2075,9 +2060,9 @@
     "days_seen": 1
   },
   "五大": {
-    "last_seen": "2026-08-05",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-09-27",
+    "total_count": 24,
+    "days_seen": 2
   },
   "光子": {
     "last_seen": "2026-08-05",
@@ -2273,11 +2258,6 @@
     "last_seen": "2026-08-09",
     "total_count": 12,
     "days_seen": 1
-  },
-  "崩盤": {
-    "last_seen": "2026-08-10",
-    "total_count": 26,
-    "days_seen": 2
   },
   "姿勢": {
     "last_seen": "2026-08-09",
@@ -2650,9 +2630,9 @@
     "days_seen": 1
   },
   "外資持股": {
-    "last_seen": "2026-08-16",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-27",
+    "total_count": 26,
+    "days_seen": 2
   },
   "中共介選": {
     "last_seen": "2026-08-16",
@@ -3390,14 +3370,14 @@
     "days_seen": 1
   },
   "TaiSounds": {
-    "last_seen": "2026-08-31",
-    "total_count": 15,
-    "days_seen": 1
+    "last_seen": "2026-09-27",
+    "total_count": 28,
+    "days_seen": 2
   },
   "高科技": {
-    "last_seen": "2026-08-31",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-09-27",
+    "total_count": 22,
+    "days_seen": 2
   },
   "績後": {
     "last_seen": "2026-08-31",
@@ -5014,11 +4994,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "Muse": {
-    "last_seen": "2026-09-24",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "早盤跌": {
     "last_seen": "2026-09-24",
     "total_count": 14,
@@ -5184,19 +5159,9 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "中秋": {
-    "last_seen": "2026-09-26",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "會後": {
     "last_seen": "2026-09-26",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "連假": {
-    "last_seen": "2026-09-26",
-    "total_count": 16,
     "days_seen": 1
   },
   "程式": {
@@ -5220,9 +5185,9 @@
     "days_seen": 1
   },
   "連假前": {
-    "last_seen": "2026-09-26",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-27",
+    "total_count": 20,
+    "days_seen": 2
   },
   "不見": {
     "last_seen": "2026-09-26",
@@ -5276,6 +5241,91 @@
   },
   "最愛": {
     "last_seen": "2026-09-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "童子": {
+    "last_seen": "2026-09-27",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "金流": {
+    "last_seen": "2026-09-27",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "公債殖利率": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "演唱會經濟": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "封裝廠": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "宏觀": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "三雄": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "搶進": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "個人": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "併購": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Mini-Loop": {
+    "last_seen": "2026-09-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "牽動": {
+    "last_seen": "2026-09-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "跟上": {
+    "last_seen": "2026-09-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "人潮": {
+    "last_seen": "2026-09-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "使用": {
+    "last_seen": "2026-09-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "檔供應鏈": {
+    "last_seen": "2026-09-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "教授親": {
+    "last_seen": "2026-09-27",
     "total_count": 8,
     "days_seen": 1
   }
