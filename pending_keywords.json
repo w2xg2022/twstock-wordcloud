@@ -16,7 +16,7 @@
     "total_count": 40
   },
   "第四季": {
-    "first_promoted": "2026-09-21",
+    "first_promoted": "2026-09-28",
     "total_count": 32
   },
   "創新藥": {
@@ -130,5 +130,29 @@
   "漲勢": {
     "first_promoted": "2026-09-27",
     "total_count": 36
+  },
+  "報價": {
+    "first_promoted": "2026-09-28",
+    "total_count": 63
+  },
+  "新加坡": {
+    "first_promoted": "2026-09-28",
+    "total_count": 52
+  },
+  "節後": {
+    "first_promoted": "2026-09-28",
+    "total_count": 40
+  },
+  "光通": {
+    "first_promoted": "2026-09-28",
+    "total_count": 42
+  },
+  "外資持股": {
+    "first_promoted": "2026-09-28",
+    "total_count": 44
+  },
+  "績效": {
+    "first_promoted": "2026-09-28",
+    "total_count": 38
   }
 }

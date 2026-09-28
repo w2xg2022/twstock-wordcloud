@@ -315,9 +315,9 @@
     "days_seen": 1
   },
   "先進製程": {
-    "last_seen": "2026-07-05",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-09-28",
+    "total_count": 26,
+    "days_seen": 3
   },
   "雙引擎發": {
     "last_seen": "2026-06-23",
@@ -1754,11 +1754,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "新加坡": {
-    "last_seen": "2026-09-24",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "走弱": {
     "last_seen": "2026-07-30",
     "total_count": 14,
@@ -2629,11 +2624,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "外資持股": {
-    "last_seen": "2026-09-27",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "中共介選": {
     "last_seen": "2026-08-16",
     "total_count": 12,
@@ -3215,9 +3205,9 @@
     "days_seen": 1
   },
   "英偉達": {
-    "last_seen": "2026-08-28",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-28",
+    "total_count": 20,
+    "days_seen": 2
   },
   "加拿大": {
     "last_seen": "2026-08-28",
@@ -3999,11 +3989,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "績效": {
-    "last_seen": "2026-09-22",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "設施": {
     "last_seen": "2026-09-09",
     "total_count": 12,
@@ -4364,11 +4349,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "光通": {
-    "last_seen": "2026-09-16",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "量縮": {
     "last_seen": "2026-09-16",
     "total_count": 18,
@@ -4590,9 +4570,9 @@
     "days_seen": 1
   },
   "回歸": {
-    "last_seen": "2026-09-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-28",
+    "total_count": 22,
+    "days_seen": 2
   },
   "基板": {
     "last_seen": "2026-09-18",
@@ -4800,9 +4780,9 @@
     "days_seen": 1
   },
   "擴散": {
-    "last_seen": "2026-09-21",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-28",
+    "total_count": 28,
+    "days_seen": 2
   },
   "磋商": {
     "last_seen": "2026-09-21",
@@ -4925,11 +4905,6 @@
     "days_seen": 1
   },
   "納斯達克": {
-    "last_seen": "2026-09-23",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "第四季": {
     "last_seen": "2026-09-23",
     "total_count": 10,
     "days_seen": 1
@@ -5090,11 +5065,6 @@
     "days_seen": 1
   },
   "繼續": {
-    "last_seen": "2026-09-25",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "節後": {
     "last_seen": "2026-09-25",
     "total_count": 14,
     "days_seen": 1
@@ -5280,9 +5250,9 @@
     "days_seen": 1
   },
   "搶進": {
-    "last_seen": "2026-09-27",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-28",
+    "total_count": 28,
+    "days_seen": 2
   },
   "個人": {
     "last_seen": "2026-09-27",
@@ -5327,6 +5297,96 @@
   "教授親": {
     "last_seen": "2026-09-27",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "台股中秋": {
+    "last_seen": "2026-09-28",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "晶圓廠": {
+    "last_seen": "2026-09-28",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "VSMC": {
+    "last_seen": "2026-09-28",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "格局": {
+    "last_seen": "2026-09-28",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "動土": {
+    "last_seen": "2026-09-28",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "債券": {
+    "last_seen": "2026-09-28",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "民雄": {
+    "last_seen": "2026-09-28",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "月產能": {
+    "last_seen": "2026-09-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "連假": {
+    "last_seen": "2026-09-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "是送": {
+    "last_seen": "2026-09-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "網易": {
+    "last_seen": "2026-09-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "年底月產能": {
+    "last_seen": "2026-09-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "座晶圓廠": {
+    "last_seen": "2026-09-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "特化": {
+    "last_seen": "2026-09-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "方略": {
+    "last_seen": "2026-09-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "NXP": {
+    "last_seen": "2026-09-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Industrial": {
+    "last_seen": "2026-09-28",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "Technology": {
+    "last_seen": "2026-09-28",
+    "total_count": 9,
     "days_seen": 1
   }
 }
