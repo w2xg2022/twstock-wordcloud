@@ -314,11 +314,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "先進製程": {
-    "last_seen": "2026-09-28",
-    "total_count": 26,
-    "days_seen": 3
-  },
   "雙引擎發": {
     "last_seen": "2026-06-23",
     "total_count": 8,
@@ -1445,11 +1440,6 @@
     "days_seen": 1
   },
   "受惠": {
-    "last_seen": "2026-07-23",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "德州": {
     "last_seen": "2026-07-23",
     "total_count": 14,
     "days_seen": 1
@@ -3330,9 +3320,9 @@
     "days_seen": 2
   },
   "聯盟": {
-    "last_seen": "2026-09-07",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-09-29",
+    "total_count": 28,
+    "days_seen": 3
   },
   "CPU": {
     "last_seen": "2026-09-22",
@@ -3458,11 +3448,6 @@
     "last_seen": "2026-09-01",
     "total_count": 14,
     "days_seen": 1
-  },
-  "工業": {
-    "last_seen": "2026-09-21",
-    "total_count": 24,
-    "days_seen": 2
   },
   "環球晶": {
     "last_seen": "2026-09-01",
@@ -4920,9 +4905,9 @@
     "days_seen": 1
   },
   "警訊": {
-    "last_seen": "2026-09-23",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-29",
+    "total_count": 20,
+    "days_seen": 2
   },
   "出售": {
     "last_seen": "2026-09-23",
@@ -5075,14 +5060,14 @@
     "days_seen": 1
   },
   "收益率": {
-    "last_seen": "2026-09-25",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-29",
+    "total_count": 26,
+    "days_seen": 2
   },
   "收購": {
-    "last_seen": "2026-09-25",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-29",
+    "total_count": 24,
+    "days_seen": 2
   },
   "假前": {
     "last_seen": "2026-09-25",
@@ -5090,9 +5075,9 @@
     "days_seen": 1
   },
   "債息": {
-    "last_seen": "2026-09-25",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-29",
+    "total_count": 28,
+    "days_seen": 2
   },
   "大單": {
     "last_seen": "2026-09-25",
@@ -5110,11 +5095,6 @@
     "days_seen": 1
   },
   "高檔震盪": {
-    "last_seen": "2026-09-25",
-    "total_count": 10,
-    "days_seen": 1
-  },
-  "連假後": {
     "last_seen": "2026-09-25",
     "total_count": 10,
     "days_seen": 1
@@ -5387,6 +5367,101 @@
   "Technology": {
     "last_seen": "2026-09-28",
     "total_count": 9,
+    "days_seen": 1
+  },
+  "攀升": {
+    "last_seen": "2026-09-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "後首": {
+    "last_seen": "2026-09-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "停火": {
+    "last_seen": "2026-09-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "是半導體": {
+    "last_seen": "2026-09-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "達成": {
+    "last_seen": "2026-09-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "inews": {
+    "last_seen": "2026-09-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Summit": {
+    "last_seen": "2026-09-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "債收益率飆升": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "國常會": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "赴德州": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "經濟學": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "高利率": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一片": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "深度": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "分鐘": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "房貸": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "初段": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "Semiconductor": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "Navitas": {
+    "last_seen": "2026-09-29",
+    "total_count": 8,
     "days_seen": 1
   }
 }
