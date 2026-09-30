@@ -170,5 +170,21 @@
   "先進製程": {
     "first_promoted": "2026-09-29",
     "total_count": 36
+  },
+  "提振": {
+    "first_promoted": "2026-09-30",
+    "total_count": 44
+  },
+  "情緒": {
+    "first_promoted": "2026-09-30",
+    "total_count": 30
+  },
+  "收益率": {
+    "first_promoted": "2026-09-30",
+    "total_count": 36
+  },
+  "債息": {
+    "first_promoted": "2026-09-30",
+    "total_count": 38
   }
 }

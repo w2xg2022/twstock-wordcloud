@@ -1225,9 +1225,9 @@
     "days_seen": 1
   },
   "生醫": {
-    "last_seen": "2026-07-19",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-30",
+    "total_count": 20,
+    "days_seen": 2
   },
   "DeepSeek": {
     "last_seen": "2026-07-19",
@@ -2120,11 +2120,6 @@
     "days_seen": 1
   },
   "一度跌": {
-    "last_seen": "2026-08-06",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "情緒": {
     "last_seen": "2026-08-06",
     "total_count": 14,
     "days_seen": 1
@@ -3134,11 +3129,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "提振": {
-    "last_seen": "2026-08-28",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "提供": {
     "last_seen": "2026-08-27",
     "total_count": 12,
@@ -3160,9 +3150,9 @@
     "days_seen": 2
   },
   "帶量": {
-    "last_seen": "2026-08-27",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-30",
+    "total_count": 18,
+    "days_seen": 2
   },
   "自由": {
     "last_seen": "2026-08-28",
@@ -3385,9 +3375,9 @@
     "days_seen": 2
   },
   "地產": {
-    "last_seen": "2026-08-31",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-09-30",
+    "total_count": 20,
+    "days_seen": 2
   },
   "COUPE": {
     "last_seen": "2026-08-31",
@@ -4230,9 +4220,9 @@
     "days_seen": 1
   },
   "公開": {
-    "last_seen": "2026-09-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-09-30",
+    "total_count": 18,
+    "days_seen": 2
   },
   "程傳": {
     "last_seen": "2026-09-13",
@@ -5059,11 +5049,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "收益率": {
-    "last_seen": "2026-09-29",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "收購": {
     "last_seen": "2026-09-29",
     "total_count": 24,
@@ -5074,15 +5059,10 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "債息": {
-    "last_seen": "2026-09-29",
+  "大單": {
+    "last_seen": "2026-09-30",
     "total_count": 28,
     "days_seen": 2
-  },
-  "大單": {
-    "last_seen": "2026-09-25",
-    "total_count": 12,
-    "days_seen": 1
   },
   "花旗": {
     "last_seen": "2026-09-25",
@@ -5205,9 +5185,9 @@
     "days_seen": 1
   },
   "公債殖利率": {
-    "last_seen": "2026-09-27",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-09-30",
+    "total_count": 26,
+    "days_seen": 2
   },
   "演唱會經濟": {
     "last_seen": "2026-09-27",
@@ -5461,6 +5441,106 @@
   },
   "Navitas": {
     "last_seen": "2026-09-29",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "美股盤": {
+    "last_seen": "2026-09-30",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "券商": {
+    "last_seen": "2026-09-30",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "鳳凰城": {
+    "last_seen": "2026-09-30",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "盤前盤後": {
+    "last_seen": "2026-09-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "對拜登": {
+    "last_seen": "2026-09-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "商辦": {
+    "last_seen": "2026-09-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "德州": {
+    "last_seen": "2026-09-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "押寶": {
+    "last_seen": "2026-09-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "美股盤前": {
+    "last_seen": "2026-09-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "內房股": {
+    "last_seen": "2026-09-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "第四": {
+    "last_seen": "2026-09-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "季累": {
+    "last_seen": "2026-09-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "工業": {
+    "last_seen": "2026-09-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股同步": {
+    "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "中華化": {
+    "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "指數拉": {
+    "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "大衰": {
+    "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "突然": {
+    "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "封測": {
+    "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "開募": {
+    "last_seen": "2026-09-30",
     "total_count": 8,
     "days_seen": 1
   }
