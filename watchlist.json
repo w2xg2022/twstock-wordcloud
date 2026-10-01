@@ -119,11 +119,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "日韓": {
-    "last_seen": "2026-06-18",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "華許首": {
     "last_seen": "2026-06-17",
     "total_count": 10,
@@ -520,9 +515,9 @@
     "days_seen": 1
   },
   "單季": {
-    "last_seen": "2026-06-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-01",
+    "total_count": 18,
+    "days_seen": 2
   },
   "南電": {
     "last_seen": "2026-06-30",
@@ -1223,11 +1218,6 @@
     "last_seen": "2026-07-19",
     "total_count": 14,
     "days_seen": 1
-  },
-  "生醫": {
-    "last_seen": "2026-09-30",
-    "total_count": 20,
-    "days_seen": 2
   },
   "DeepSeek": {
     "last_seen": "2026-07-19",
@@ -2270,9 +2260,9 @@
     "days_seen": 1
   },
   "提升": {
-    "last_seen": "2026-08-09",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-01",
+    "total_count": 18,
+    "days_seen": 2
   },
   "感測器": {
     "last_seen": "2026-08-10",
@@ -2395,9 +2385,9 @@
     "days_seen": 1
   },
   "通膨數據": {
-    "last_seen": "2026-08-12",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-01",
+    "total_count": 26,
+    "days_seen": 2
   },
   "連三日": {
     "last_seen": "2026-08-12",
@@ -3970,9 +3960,9 @@
     "days_seen": 1
   },
   "推出": {
-    "last_seen": "2026-09-09",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-01",
+    "total_count": 24,
+    "days_seen": 2
   },
   "High": {
     "last_seen": "2026-09-09",
@@ -4195,9 +4185,9 @@
     "days_seen": 2
   },
   "雙引擎": {
-    "last_seen": "2026-09-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-01",
+    "total_count": 18,
+    "days_seen": 2
   },
   "需求強": {
     "last_seen": "2026-09-13",
@@ -5400,9 +5390,9 @@
     "days_seen": 1
   },
   "經濟學": {
-    "last_seen": "2026-09-29",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-01",
+    "total_count": 16,
+    "days_seen": 2
   },
   "高利率": {
     "last_seen": "2026-09-29",
@@ -5442,11 +5432,6 @@
   "Navitas": {
     "last_seen": "2026-09-29",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "美股盤": {
-    "last_seen": "2026-09-30",
-    "total_count": 22,
     "days_seen": 1
   },
   "券商": {
@@ -5541,6 +5526,86 @@
   },
   "開募": {
     "last_seen": "2026-09-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "說明": {
+    "last_seen": "2026-10-01",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "聚落": {
+    "last_seen": "2026-10-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "PMI": {
+    "last_seen": "2026-10-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "無塵室": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "績效": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "超前": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Newtalk": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Aureus": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Greenway": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "PUSA": {
+    "last_seen": "2026-10-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "置半導體": {
+    "last_seen": "2026-10-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "開放各校": {
+    "last_seen": "2026-10-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "只是": {
+    "last_seen": "2026-10-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "買氣": {
+    "last_seen": "2026-10-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "年來": {
+    "last_seen": "2026-10-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "Holdings": {
+    "last_seen": "2026-10-01",
     "total_count": 8,
     "days_seen": 1
   }

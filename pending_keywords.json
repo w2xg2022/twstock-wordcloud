@@ -186,5 +186,17 @@
   "債息": {
     "first_promoted": "2026-09-30",
     "total_count": 38
+  },
+  "美股盤": {
+    "first_promoted": "2026-10-01",
+    "total_count": 48
+  },
+  "生醫": {
+    "first_promoted": "2026-10-01",
+    "total_count": 30
+  },
+  "日韓": {
+    "first_promoted": "2026-10-01",
+    "total_count": 32
   }
 }
