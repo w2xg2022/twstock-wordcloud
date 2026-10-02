@@ -160,8 +160,8 @@
     "total_count": 32
   },
   "德州": {
-    "first_promoted": "2026-09-29",
-    "total_count": 34
+    "first_promoted": "2026-10-02",
+    "total_count": 30
   },
   "工業": {
     "first_promoted": "2026-09-29",
@@ -197,6 +197,30 @@
   },
   "日韓": {
     "first_promoted": "2026-10-01",
+    "total_count": 32
+  },
+  "台灣晶片公司": {
+    "first_promoted": "2026-10-02",
+    "total_count": 38
+  },
+  "赴美": {
+    "first_promoted": "2026-10-02",
+    "total_count": 52
+  },
+  "指期": {
+    "first_promoted": "2026-10-02",
+    "total_count": 42
+  },
+  "債券": {
+    "first_promoted": "2026-10-02",
+    "total_count": 32
+  },
+  "熱門": {
+    "first_promoted": "2026-10-02",
+    "total_count": 38
+  },
+  "加劇": {
+    "first_promoted": "2026-10-02",
     "total_count": 32
   }
 }

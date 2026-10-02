@@ -605,9 +605,9 @@
     "days_seen": 2
   },
   "Nike": {
-    "last_seen": "2026-07-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-02",
+    "total_count": 20,
+    "days_seen": 2
   },
   "智慧產業學院": {
     "last_seen": "2026-07-02",
@@ -660,9 +660,9 @@
     "days_seen": 1
   },
   "累計": {
-    "last_seen": "2026-07-03",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-02",
+    "total_count": 22,
+    "days_seen": 2
   },
   "發威": {
     "last_seen": "2026-07-03",
@@ -882,11 +882,6 @@
   "掛牌首日": {
     "last_seen": "2026-07-11",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "赴美": {
-    "last_seen": "2026-07-11",
-    "total_count": 22,
     "days_seen": 1
   },
   "證監會": {
@@ -1267,11 +1262,6 @@
   "風向": {
     "last_seen": "2026-08-23",
     "total_count": 24,
-    "days_seen": 2
-  },
-  "指期": {
-    "last_seen": "2026-09-07",
-    "total_count": 26,
     "days_seen": 2
   },
   "理由": {
@@ -1808,11 +1798,6 @@
     "last_seen": "2026-08-01",
     "total_count": 12,
     "days_seen": 1
-  },
-  "熱門": {
-    "last_seen": "2026-08-11",
-    "total_count": 28,
-    "days_seen": 2
   },
   "幅收": {
     "last_seen": "2026-08-01",
@@ -2363,11 +2348,6 @@
     "last_seen": "2026-08-11",
     "total_count": 14,
     "days_seen": 1
-  },
-  "加劇": {
-    "last_seen": "2026-08-31",
-    "total_count": 24,
-    "days_seen": 2
   },
   "主力與外資": {
     "last_seen": "2026-08-11",
@@ -5274,11 +5254,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "債券": {
-    "last_seen": "2026-09-28",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "民雄": {
     "last_seen": "2026-09-28",
     "total_count": 16,
@@ -5459,11 +5434,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "德州": {
-    "last_seen": "2026-09-30",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "押寶": {
     "last_seen": "2026-09-30",
     "total_count": 12,
@@ -5550,14 +5520,14 @@
     "days_seen": 1
   },
   "績效": {
-    "last_seen": "2026-10-01",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-02",
+    "total_count": 18,
+    "days_seen": 2
   },
   "超前": {
-    "last_seen": "2026-10-01",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-02",
+    "total_count": 24,
+    "days_seen": 2
   },
   "Newtalk": {
     "last_seen": "2026-10-01",
@@ -5606,6 +5576,101 @@
   },
   "Holdings": {
     "last_seen": "2026-10-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-10-02",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "提振": {
+    "last_seen": "2026-10-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "專訪": {
+    "last_seen": "2026-10-02",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "前三季": {
+    "last_seen": "2026-10-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "債息": {
+    "last_seen": "2026-10-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "擴廠": {
+    "last_seen": "2026-10-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "上行": {
+    "last_seen": "2026-10-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "高階": {
+    "last_seen": "2026-10-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "交付": {
+    "last_seen": "2026-10-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "債券市場": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "震盪一": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "第四季": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "土地公": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "新加坡": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "日買超": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "守住": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "債王": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "北水": {
+    "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "吸引": {
+    "last_seen": "2026-10-02",
     "total_count": 8,
     "days_seen": 1
   }
