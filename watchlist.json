@@ -60,9 +60,9 @@
     "days_seen": 2
   },
   "工廠": {
-    "last_seen": "2026-09-21",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-10-03",
+    "total_count": 28,
+    "days_seen": 3
   },
   "重回": {
     "last_seen": "2026-06-15",
@@ -170,9 +170,9 @@
     "days_seen": 1
   },
   "代表": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-03",
+    "total_count": 18,
+    "days_seen": 2
   },
   "航太": {
     "last_seen": "2026-09-06",
@@ -2154,11 +2154,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "息預期": {
-    "last_seen": "2026-08-09",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "非農意外": {
     "last_seen": "2026-08-08",
     "total_count": 14,
@@ -2440,9 +2435,9 @@
     "days_seen": 1
   },
   "TOP": {
-    "last_seen": "2026-08-13",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-03",
+    "total_count": 24,
+    "days_seen": 2
   },
   "Cerebras": {
     "last_seen": "2026-08-13",
@@ -3994,11 +3989,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "反手": {
-    "last_seen": "2026-09-24",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "建議": {
     "last_seen": "2026-09-10",
     "total_count": 10,
@@ -4560,9 +4550,9 @@
     "days_seen": 1
   },
   "擴產潮": {
-    "last_seen": "2026-09-19",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-03",
+    "total_count": 20,
+    "days_seen": 2
   },
   "聯手": {
     "last_seen": "2026-09-19",
@@ -4617,11 +4607,6 @@
   "存儲": {
     "last_seen": "2026-09-19",
     "total_count": 10,
-    "days_seen": 1
-  },
-  "評估": {
-    "last_seen": "2026-09-20",
-    "total_count": 18,
     "days_seen": 1
   },
   "白埔": {
@@ -5234,11 +5219,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "晶圓廠": {
-    "last_seen": "2026-09-28",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "VSMC": {
     "last_seen": "2026-09-28",
     "total_count": 20,
@@ -5315,9 +5295,9 @@
     "days_seen": 1
   },
   "攀升": {
-    "last_seen": "2026-09-29",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-03",
+    "total_count": 24,
+    "days_seen": 2
   },
   "後首": {
     "last_seen": "2026-09-29",
@@ -5520,9 +5500,9 @@
     "days_seen": 1
   },
   "績效": {
-    "last_seen": "2026-10-02",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-10-03",
+    "total_count": 28,
+    "days_seen": 3
   },
   "超前": {
     "last_seen": "2026-10-02",
@@ -5635,9 +5615,9 @@
     "days_seen": 1
   },
   "第四季": {
-    "last_seen": "2026-10-02",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-03",
+    "total_count": 20,
+    "days_seen": 2
   },
   "土地公": {
     "last_seen": "2026-10-02",
@@ -5671,6 +5651,96 @@
   },
   "吸引": {
     "last_seen": "2026-10-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "馬斯克": {
+    "last_seen": "2026-10-03",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "先進製程": {
+    "last_seen": "2026-10-03",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "非農數據": {
+    "last_seen": "2026-10-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "加盟": {
+    "last_seen": "2026-10-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "Terafab": {
+    "last_seen": "2026-10-03",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "升息機率降": {
+    "last_seen": "2026-10-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "加盟產業": {
+    "last_seen": "2026-10-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "德州建": {
+    "last_seen": "2026-10-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "十月": {
+    "last_seen": "2026-10-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "電等": {
+    "last_seen": "2026-10-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "考慮": {
+    "last_seen": "2026-10-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "今晚": {
+    "last_seen": "2026-10-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "參訪": {
+    "last_seen": "2026-10-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "美元走強": {
+    "last_seen": "2026-10-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "半導體擴": {
+    "last_seen": "2026-10-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "自動化": {
+    "last_seen": "2026-10-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "蔣萬安": {
+    "last_seen": "2026-10-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "兩萬四": {
+    "last_seen": "2026-10-03",
     "total_count": 8,
     "days_seen": 1
   }

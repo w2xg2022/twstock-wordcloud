@@ -160,7 +160,7 @@
     "total_count": 32
   },
   "德州": {
-    "first_promoted": "2026-10-02",
+    "first_promoted": "2026-10-03",
     "total_count": 30
   },
   "工業": {
@@ -222,5 +222,21 @@
   "加劇": {
     "first_promoted": "2026-10-02",
     "total_count": 32
+  },
+  "息預期": {
+    "first_promoted": "2026-10-03",
+    "total_count": 42
+  },
+  "評估": {
+    "first_promoted": "2026-10-03",
+    "total_count": 34
+  },
+  "反手": {
+    "first_promoted": "2026-10-03",
+    "total_count": 32
+  },
+  "晶圓廠": {
+    "first_promoted": "2026-10-03",
+    "total_count": 30
   }
 }
