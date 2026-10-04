@@ -485,9 +485,9 @@
     "days_seen": 2
   },
   "資金輪動": {
-    "last_seen": "2026-06-30",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-04",
+    "total_count": 20,
+    "days_seen": 2
   },
   "紅燈": {
     "last_seen": "2026-06-30",
@@ -1909,11 +1909,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "證實": {
-    "last_seen": "2026-08-03",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "勞退": {
     "last_seen": "2026-08-03",
     "total_count": 14,
@@ -2585,9 +2580,9 @@
     "days_seen": 1
   },
   "大事": {
-    "last_seen": "2026-08-16",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-04",
+    "total_count": 20,
+    "days_seen": 2
   },
   "文化": {
     "last_seen": "2026-08-16",
@@ -4709,11 +4704,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "擴散": {
-    "last_seen": "2026-09-28",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "磋商": {
     "last_seen": "2026-09-21",
     "total_count": 8,
@@ -5499,11 +5489,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "績效": {
-    "last_seen": "2026-10-03",
-    "total_count": 28,
-    "days_seen": 3
-  },
   "超前": {
     "last_seen": "2026-10-02",
     "total_count": 24,
@@ -5654,11 +5639,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "馬斯克": {
-    "last_seen": "2026-10-03",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "先進製程": {
     "last_seen": "2026-10-03",
     "total_count": 18,
@@ -5670,11 +5650,6 @@
     "days_seen": 1
   },
   "加盟": {
-    "last_seen": "2026-10-03",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "Terafab": {
     "last_seen": "2026-10-03",
     "total_count": 16,
     "days_seen": 1
@@ -5695,9 +5670,9 @@
     "days_seen": 1
   },
   "十月": {
-    "last_seen": "2026-10-03",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-04",
+    "total_count": 22,
+    "days_seen": 2
   },
   "電等": {
     "last_seen": "2026-10-03",
@@ -5741,6 +5716,76 @@
   },
   "兩萬四": {
     "last_seen": "2026-10-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "德州": {
+    "last_seen": "2026-10-04",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "晶圓廠": {
+    "last_seen": "2026-10-04",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "評估": {
+    "last_seen": "2026-10-04",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "外資賣超": {
+    "last_seen": "2026-10-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "手馬斯克": {
+    "last_seen": "2026-10-04",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "息預期": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "業文化": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "大坪頂": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "百香果": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "焚化爐": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "光輝": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "配置": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "探索": {
+    "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "辭職": {
+    "last_seen": "2026-10-04",
     "total_count": 8,
     "days_seen": 1
   }

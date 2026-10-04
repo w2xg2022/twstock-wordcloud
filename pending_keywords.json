@@ -152,8 +152,8 @@
     "total_count": 44
   },
   "績效": {
-    "first_promoted": "2026-09-28",
-    "total_count": 38
+    "first_promoted": "2026-10-04",
+    "total_count": 42
   },
   "連假後": {
     "first_promoted": "2026-09-29",
@@ -238,5 +238,21 @@
   "晶圓廠": {
     "first_promoted": "2026-10-03",
     "total_count": 30
+  },
+  "馬斯克": {
+    "first_promoted": "2026-10-04",
+    "total_count": 66
+  },
+  "Terafab": {
+    "first_promoted": "2026-10-04",
+    "total_count": 40
+  },
+  "證實": {
+    "first_promoted": "2026-10-04",
+    "total_count": 32
+  },
+  "擴散": {
+    "first_promoted": "2026-10-04",
+    "total_count": 36
   }
 }
