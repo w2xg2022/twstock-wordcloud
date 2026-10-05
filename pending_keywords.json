@@ -160,8 +160,8 @@
     "total_count": 32
   },
   "德州": {
-    "first_promoted": "2026-10-03",
-    "total_count": 30
+    "first_promoted": "2026-10-05",
+    "total_count": 36
   },
   "工業": {
     "first_promoted": "2026-09-29",
@@ -254,5 +254,9 @@
   "擴散": {
     "first_promoted": "2026-10-04",
     "total_count": 36
+  },
+  "三季": {
+    "first_promoted": "2026-10-05",
+    "total_count": 30
   }
 }

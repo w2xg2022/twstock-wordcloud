@@ -860,9 +860,9 @@
     "days_seen": 2
   },
   "行業": {
-    "last_seen": "2026-07-10",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-05",
+    "total_count": 24,
+    "days_seen": 2
   },
   "台積電代工": {
     "last_seen": "2026-07-10",
@@ -5544,11 +5544,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "三季": {
-    "last_seen": "2026-10-02",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "提振": {
     "last_seen": "2026-10-02",
     "total_count": 12,
@@ -5719,11 +5714,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "德州": {
-    "last_seen": "2026-10-04",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "晶圓廠": {
     "last_seen": "2026-10-04",
     "total_count": 22,
@@ -5786,6 +5776,51 @@
   },
   "辭職": {
     "last_seen": "2026-10-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "光通": {
+    "last_seen": "2026-10-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "刷新": {
+    "last_seen": "2026-10-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台股戰": {
+    "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "指標股": {
+    "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "雙創": {
+    "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "狂潮": {
+    "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "定價": {
+    "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "重組": {
+    "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "IC": {
+    "last_seen": "2026-10-05",
     "total_count": 8,
     "days_seen": 1
   }
