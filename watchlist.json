@@ -479,11 +479,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "重要": {
-    "last_seen": "2026-09-14",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "資金輪動": {
     "last_seen": "2026-10-04",
     "total_count": 20,
@@ -1035,9 +1030,9 @@
     "days_seen": 1
   },
   "法說前": {
-    "last_seen": "2026-07-15",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-06",
+    "total_count": 24,
+    "days_seen": 2
   },
   "開高走": {
     "last_seen": "2026-09-23",
@@ -1098,11 +1093,6 @@
     "last_seen": "2026-07-16",
     "total_count": 16,
     "days_seen": 1
-  },
-  "曝光": {
-    "last_seen": "2026-08-08",
-    "total_count": 28,
-    "days_seen": 2
   },
   "史上最慘": {
     "last_seen": "2026-07-17",
@@ -4210,9 +4200,9 @@
     "days_seen": 1
   },
   "股半日": {
-    "last_seen": "2026-09-14",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-06",
+    "total_count": 18,
+    "days_seen": 2
   },
   "今起": {
     "last_seen": "2026-09-14",
@@ -4565,9 +4555,9 @@
     "days_seen": 1
   },
   "緩解": {
-    "last_seen": "2026-09-19",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-06",
+    "total_count": 22,
+    "days_seen": 2
   },
   "聯想": {
     "last_seen": "2026-09-26",
@@ -4880,9 +4870,9 @@
     "days_seen": 1
   },
   "指數創": {
-    "last_seen": "2026-09-23",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-06",
+    "total_count": 24,
+    "days_seen": 2
   },
   "助攻台": {
     "last_seen": "2026-09-23",
@@ -5150,9 +5140,9 @@
     "days_seen": 1
   },
   "三雄": {
-    "last_seen": "2026-09-27",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-06",
+    "total_count": 26,
+    "days_seen": 2
   },
   "搶進": {
     "last_seen": "2026-09-28",
@@ -5821,6 +5811,121 @@
   },
   "IC": {
     "last_seen": "2026-10-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "聯網": {
+    "last_seen": "2026-10-06",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "蘇姿丰": {
+    "last_seen": "2026-10-06",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "台光電": {
+    "last_seen": "2026-10-06",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "五萬": {
+    "last_seen": "2026-10-06",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "再創新高": {
+    "last_seen": "2026-10-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "寫新": {
+    "last_seen": "2026-10-06",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "科技股領漲": {
+    "last_seen": "2026-10-06",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "股漲勢": {
+    "last_seen": "2026-10-06",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "前三": {
+    "last_seen": "2026-10-06",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "馬斯克": {
+    "last_seen": "2026-10-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "喊買": {
+    "last_seen": "2026-10-06",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "生物科技": {
+    "last_seen": "2026-10-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "服務業": {
+    "last_seen": "2026-10-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "證實": {
+    "last_seen": "2026-10-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "加劇": {
+    "last_seen": "2026-10-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "不能": {
+    "last_seen": "2026-10-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Follow": {
+    "last_seen": "2026-10-06",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "百億美元": {
+    "last_seen": "2026-10-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "獲外資": {
+    "last_seen": "2026-10-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "有哪些": {
+    "last_seen": "2026-10-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "族群逆": {
+    "last_seen": "2026-10-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "逆勢走": {
+    "last_seen": "2026-10-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "近期與": {
+    "last_seen": "2026-10-06",
     "total_count": 8,
     "days_seen": 1
   }

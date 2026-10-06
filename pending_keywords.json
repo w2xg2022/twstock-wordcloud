@@ -258,5 +258,13 @@
   "三季": {
     "first_promoted": "2026-10-05",
     "total_count": 30
+  },
+  "重要": {
+    "first_promoted": "2026-10-06",
+    "total_count": 34
+  },
+  "曝光": {
+    "first_promoted": "2026-10-06",
+    "total_count": 40
   }
 }
