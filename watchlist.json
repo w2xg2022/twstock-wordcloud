@@ -174,11 +174,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "航太": {
-    "last_seen": "2026-09-06",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "競爭力": {
     "last_seen": "2026-08-22",
     "total_count": 28,
@@ -1934,11 +1929,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "小跌": {
-    "last_seen": "2026-08-04",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "高開": {
     "last_seen": "2026-08-04",
     "total_count": 26,
@@ -2165,9 +2155,9 @@
     "days_seen": 1
   },
   "衝破": {
-    "last_seen": "2026-08-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 22,
+    "days_seen": 2
   },
   "這幾": {
     "last_seen": "2026-08-08",
@@ -2225,9 +2215,9 @@
     "days_seen": 1
   },
   "提升": {
-    "last_seen": "2026-10-01",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-10-07",
+    "total_count": 26,
+    "days_seen": 3
   },
   "感測器": {
     "last_seen": "2026-08-10",
@@ -3975,9 +3965,9 @@
     "days_seen": 1
   },
   "建議": {
-    "last_seen": "2026-09-10",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 18,
+    "days_seen": 2
   },
   "回購": {
     "last_seen": "2026-09-10",
@@ -4795,9 +4785,9 @@
     "days_seen": 1
   },
   "科技股續": {
-    "last_seen": "2026-09-23",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 20,
+    "days_seen": 2
   },
   "揭關鍵": {
     "last_seen": "2026-09-23",
@@ -5010,9 +5000,9 @@
     "days_seen": 1
   },
   "高檔震盪": {
-    "last_seen": "2026-09-25",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 20,
+    "days_seen": 2
   },
   "商業化": {
     "last_seen": "2026-09-25",
@@ -5479,11 +5469,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "超前": {
-    "last_seen": "2026-10-02",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "Newtalk": {
     "last_seen": "2026-10-01",
     "total_count": 10,
@@ -5855,14 +5840,9 @@
     "days_seen": 1
   },
   "前三": {
-    "last_seen": "2026-10-06",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "馬斯克": {
-    "last_seen": "2026-10-06",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 24,
+    "days_seen": 2
   },
   "喊買": {
     "last_seen": "2026-10-06",
@@ -5870,9 +5850,9 @@
     "days_seen": 1
   },
   "生物科技": {
-    "last_seen": "2026-10-06",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 24,
+    "days_seen": 2
   },
   "服務業": {
     "last_seen": "2026-10-06",
@@ -5895,9 +5875,9 @@
     "days_seen": 1
   },
   "Follow": {
-    "last_seen": "2026-10-06",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-07",
+    "total_count": 18,
+    "days_seen": 2
   },
   "百億美元": {
     "last_seen": "2026-10-06",
@@ -5926,6 +5906,86 @@
   },
   "近期與": {
     "last_seen": "2026-10-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股領漲": {
+    "last_seen": "2026-10-07",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "啟用": {
+    "last_seen": "2026-10-07",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "殖利率回落": {
+    "last_seen": "2026-10-07",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "上漲": {
+    "last_seen": "2026-10-07",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "日韓": {
+    "last_seen": "2026-10-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "還在": {
+    "last_seen": "2026-10-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "領銜": {
+    "last_seen": "2026-10-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "美銀": {
+    "last_seen": "2026-10-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Terafab": {
+    "last_seen": "2026-10-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台股挑戰": {
+    "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "殖利率飆": {
+    "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "前震盪": {
+    "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "指數上": {
+    "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "核電": {
+    "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "全線": {
+    "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "TOWA": {
+    "last_seen": "2026-10-07",
     "total_count": 8,
     "days_seen": 1
   }

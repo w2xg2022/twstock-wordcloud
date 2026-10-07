@@ -240,8 +240,8 @@
     "total_count": 30
   },
   "馬斯克": {
-    "first_promoted": "2026-10-04",
-    "total_count": 66
+    "first_promoted": "2026-10-07",
+    "total_count": 30
   },
   "Terafab": {
     "first_promoted": "2026-10-04",
@@ -266,5 +266,17 @@
   "曝光": {
     "first_promoted": "2026-10-06",
     "total_count": 40
+  },
+  "航太": {
+    "first_promoted": "2026-10-07",
+    "total_count": 46
+  },
+  "小跌": {
+    "first_promoted": "2026-10-07",
+    "total_count": 42
+  },
+  "超前": {
+    "first_promoted": "2026-10-07",
+    "total_count": 32
   }
 }
