@@ -1710,9 +1710,9 @@
     "days_seen": 1
   },
   "走弱": {
-    "last_seen": "2026-07-30",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-08",
+    "total_count": 22,
+    "days_seen": 2
   },
   "FOMC": {
     "last_seen": "2026-09-17",
@@ -2214,11 +2214,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "提升": {
-    "last_seen": "2026-10-07",
-    "total_count": 26,
-    "days_seen": 3
-  },
   "感測器": {
     "last_seen": "2026-08-10",
     "total_count": 22,
@@ -2628,11 +2623,6 @@
     "last_seen": "2026-08-17",
     "total_count": 14,
     "days_seen": 1
-  },
-  "超越": {
-    "last_seen": "2026-08-29",
-    "total_count": 26,
-    "days_seen": 2
   },
   "平均": {
     "last_seen": "2026-09-24",
@@ -3759,11 +3749,6 @@
     "total_count": 28,
     "days_seen": 1
   },
-  "概念股集體": {
-    "last_seen": "2026-09-07",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "工研院院士": {
     "last_seen": "2026-09-07",
     "total_count": 14,
@@ -4209,11 +4194,6 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "信驊": {
-    "last_seen": "2026-09-15",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "失守": {
     "last_seen": "2026-09-15",
     "total_count": 20,
@@ -4600,9 +4580,9 @@
     "days_seen": 1
   },
   "歷史新高": {
-    "last_seen": "2026-09-20",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-08",
+    "total_count": 26,
+    "days_seen": 2
   },
   "正式": {
     "last_seen": "2026-09-20",
@@ -5039,11 +5019,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "連假前": {
-    "last_seen": "2026-09-27",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "不見": {
     "last_seen": "2026-09-26",
     "total_count": 10,
@@ -5212,11 +5187,6 @@
   "月產能": {
     "last_seen": "2026-09-28",
     "total_count": 14,
-    "days_seen": 1
-  },
-  "連假": {
-    "last_seen": "2026-09-28",
-    "total_count": 12,
     "days_seen": 1
   },
   "是送": {
@@ -5530,9 +5500,9 @@
     "days_seen": 1
   },
   "前三季": {
-    "last_seen": "2026-10-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-08",
+    "total_count": 18,
+    "days_seen": 2
   },
   "債息": {
     "last_seen": "2026-10-02",
@@ -5909,11 +5879,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "股領漲": {
-    "last_seen": "2026-10-07",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "啟用": {
     "last_seen": "2026-10-07",
     "total_count": 24,
@@ -5986,6 +5951,106 @@
   },
   "TOWA": {
     "last_seen": "2026-10-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "國慶": {
+    "last_seen": "2026-10-08",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-10-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "防疫": {
+    "last_seen": "2026-10-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "調升": {
+    "last_seen": "2026-10-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Wolfspeed": {
+    "last_seen": "2026-10-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "四大指數收": {
+    "last_seen": "2026-10-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "假期": {
+    "last_seen": "2026-10-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "熱門": {
+    "last_seen": "2026-10-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "首選": {
+    "last_seen": "2026-10-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "殖利率攀升": {
+    "last_seen": "2026-10-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "七巨頭": {
+    "last_seen": "2026-10-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "遊戲": {
+    "last_seen": "2026-10-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "規劃": {
+    "last_seen": "2026-10-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "貸款": {
+    "last_seen": "2026-10-08",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體封裝學": {
+    "last_seen": "2026-10-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "臺灣產業": {
+    "last_seen": "2026-10-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "萬點前": {
+    "last_seen": "2026-10-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股價創": {
+    "last_seen": "2026-10-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "錯過": {
+    "last_seen": "2026-10-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "止連": {
+    "last_seen": "2026-10-08",
     "total_count": 8,
     "days_seen": 1
   }

@@ -64,8 +64,8 @@
     "total_count": 30
   },
   "股領漲": {
-    "first_promoted": "2026-09-23",
-    "total_count": 32
+    "first_promoted": "2026-10-08",
+    "total_count": 34
   },
   "狂潮": {
     "first_promoted": "2026-09-23",
@@ -80,8 +80,8 @@
     "total_count": 30
   },
   "連假": {
-    "first_promoted": "2026-09-27",
-    "total_count": 34
+    "first_promoted": "2026-10-08",
+    "total_count": 40
   },
   "時間": {
     "first_promoted": "2026-09-25",
@@ -278,5 +278,25 @@
   "超前": {
     "first_promoted": "2026-10-07",
     "total_count": 32
+  },
+  "連假前": {
+    "first_promoted": "2026-10-08",
+    "total_count": 38
+  },
+  "概念股集體": {
+    "first_promoted": "2026-10-08",
+    "total_count": 30
+  },
+  "信驊": {
+    "first_promoted": "2026-10-08",
+    "total_count": 30
+  },
+  "超越": {
+    "first_promoted": "2026-10-08",
+    "total_count": 36
+  },
+  "提升": {
+    "first_promoted": "2026-10-08",
+    "total_count": 36
   }
 }
