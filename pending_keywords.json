@@ -298,5 +298,25 @@
   "提升": {
     "first_promoted": "2026-10-08",
     "total_count": 36
+  },
+  "收購": {
+    "first_promoted": "2026-10-09",
+    "total_count": 44
+  },
+  "國慶": {
+    "first_promoted": "2026-10-09",
+    "total_count": 44
+  },
+  "預測": {
+    "first_promoted": "2026-10-09",
+    "total_count": 30
+  },
+  "前景": {
+    "first_promoted": "2026-10-09",
+    "total_count": 30
+  },
+  "上看": {
+    "first_promoted": "2026-10-09",
+    "total_count": 32
   }
 }

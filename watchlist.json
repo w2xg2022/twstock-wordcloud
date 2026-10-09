@@ -784,11 +784,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "前景": {
-    "last_seen": "2026-07-08",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "股拋售": {
     "last_seen": "2026-07-08",
     "total_count": 14,
@@ -2555,9 +2550,9 @@
     "days_seen": 1
   },
   "大事": {
-    "last_seen": "2026-10-04",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-10-09",
+    "total_count": 28,
+    "days_seen": 3
   },
   "文化": {
     "last_seen": "2026-08-16",
@@ -2685,11 +2680,6 @@
     "days_seen": 1
   },
   "當場": {
-    "last_seen": "2026-08-18",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "預測": {
     "last_seen": "2026-08-18",
     "total_count": 18,
     "days_seen": 1
@@ -3284,11 +3274,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "上看": {
-    "last_seen": "2026-09-06",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "短期": {
     "last_seen": "2026-08-31",
     "total_count": 10,
@@ -3405,9 +3390,9 @@
     "days_seen": 1
   },
   "進駐": {
-    "last_seen": "2026-09-02",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-09",
+    "total_count": 24,
+    "days_seen": 2
   },
   "汽車": {
     "last_seen": "2026-09-02",
@@ -4925,9 +4910,9 @@
     "days_seen": 1
   },
   "股走勢丨": {
-    "last_seen": "2026-09-24",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-09",
+    "total_count": 18,
+    "days_seen": 2
   },
   "高股息": {
     "last_seen": "2026-09-24",
@@ -4953,11 +4938,6 @@
     "last_seen": "2026-09-25",
     "total_count": 12,
     "days_seen": 1
-  },
-  "收購": {
-    "last_seen": "2026-09-29",
-    "total_count": 24,
-    "days_seen": 2
   },
   "假前": {
     "last_seen": "2026-09-25",
@@ -5954,11 +5934,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "國慶": {
-    "last_seen": "2026-10-08",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "三季": {
     "last_seen": "2026-10-08",
     "total_count": 16,
@@ -6051,6 +6026,91 @@
   },
   "止連": {
     "last_seen": "2026-10-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連假": {
+    "last_seen": "2026-10-09",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "頻譜": {
+    "last_seen": "2026-10-09",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "松機": {
+    "last_seen": "2026-10-09",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "人買": {
+    "last_seen": "2026-10-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "漲勢": {
+    "last_seen": "2026-10-09",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "連假前": {
+    "last_seen": "2026-10-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股午後": {
+    "last_seen": "2026-10-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "債券": {
+    "last_seen": "2026-10-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股份": {
+    "last_seen": "2026-10-09",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台積電工程師": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "科技股漲勢": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "創單季": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "賣超前": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "正在": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "發行": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連四": {
+    "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "合計": {
+    "last_seen": "2026-10-09",
     "total_count": 8,
     "days_seen": 1
   }
