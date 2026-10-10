@@ -2355,9 +2355,9 @@
     "days_seen": 1
   },
   "Lumentum": {
-    "last_seen": "2026-08-12",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 24,
+    "days_seen": 2
   },
   "低開": {
     "last_seen": "2026-08-13",
@@ -3515,9 +3515,9 @@
     "days_seen": 1
   },
   "精選": {
-    "last_seen": "2026-09-04",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 24,
+    "days_seen": 2
   },
   "自動": {
     "last_seen": "2026-09-22",
@@ -4035,11 +4035,6 @@
     "days_seen": 1
   },
   "超微": {
-    "last_seen": "2026-09-12",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "柴油": {
     "last_seen": "2026-09-12",
     "total_count": 14,
     "days_seen": 1
@@ -5040,9 +5035,9 @@
     "days_seen": 1
   },
   "時間": {
-    "last_seen": "2026-09-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 20,
+    "days_seen": 2
   },
   "一年": {
     "last_seen": "2026-09-26",
@@ -5850,9 +5845,9 @@
     "days_seen": 1
   },
   "逆勢走": {
-    "last_seen": "2026-10-06",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 16,
+    "days_seen": 2
   },
   "近期與": {
     "last_seen": "2026-10-06",
@@ -5895,9 +5890,9 @@
     "days_seen": 1
   },
   "Terafab": {
-    "last_seen": "2026-10-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 20,
+    "days_seen": 2
   },
   "台股挑戰": {
     "last_seen": "2026-10-07",
@@ -6035,9 +6030,9 @@
     "days_seen": 1
   },
   "頻譜": {
-    "last_seen": "2026-10-09",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 26,
+    "days_seen": 2
   },
   "松機": {
     "last_seen": "2026-10-09",
@@ -6055,9 +6050,9 @@
     "days_seen": 1
   },
   "連假前": {
-    "last_seen": "2026-10-09",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-10",
+    "total_count": 18,
+    "days_seen": 2
   },
   "股午後": {
     "last_seen": "2026-10-09",
@@ -6111,6 +6106,116 @@
   },
   "合計": {
     "last_seen": "2026-10-09",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "馬斯克": {
+    "last_seen": "2026-10-10",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "國慶": {
+    "last_seen": "2026-10-10",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "傳統": {
+    "last_seen": "2026-10-10",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "原油": {
+    "last_seen": "2026-10-10",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "傳統產業": {
+    "last_seen": "2026-10-10",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "科技業": {
+    "last_seen": "2026-10-10",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "雙十": {
+    "last_seen": "2026-10-10",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "旺季": {
+    "last_seen": "2026-10-10",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "五萬點": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "電信股": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "績效": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "大型": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "牛市": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "低於": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "七成": {
+    "last_seen": "2026-10-10",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "光通信概念股": {
+    "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "鬼故事": {
+    "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "合作有": {
+    "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "產業進": {
+    "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "史高": {
+    "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "打擊": {
+    "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "受矚": {
+    "last_seen": "2026-10-10",
     "total_count": 8,
     "days_seen": 1
   }
