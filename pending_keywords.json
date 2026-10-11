@@ -80,8 +80,8 @@
     "total_count": 30
   },
   "連假": {
-    "first_promoted": "2026-10-08",
-    "total_count": 40
+    "first_promoted": "2026-10-11",
+    "total_count": 48
   },
   "時間": {
     "first_promoted": "2026-09-25",
@@ -322,5 +322,13 @@
   "柴油": {
     "first_promoted": "2026-10-10",
     "total_count": 32
+  },
+  "大事": {
+    "first_promoted": "2026-10-11",
+    "total_count": 40
+  },
+  "神山": {
+    "first_promoted": "2026-10-11",
+    "total_count": 30
   }
 }

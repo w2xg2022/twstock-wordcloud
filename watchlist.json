@@ -569,11 +569,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "神山": {
-    "last_seen": "2026-07-12",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "白銀": {
     "last_seen": "2026-07-01",
     "total_count": 8,
@@ -1375,9 +1370,9 @@
     "days_seen": 1
   },
   "半導體業": {
-    "last_seen": "2026-07-23",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-11",
+    "total_count": 24,
+    "days_seen": 2
   },
   "金管會": {
     "last_seen": "2026-08-02",
@@ -2549,11 +2544,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "大事": {
-    "last_seen": "2026-10-09",
-    "total_count": 28,
-    "days_seen": 3
-  },
   "文化": {
     "last_seen": "2026-08-16",
     "total_count": 12,
@@ -2650,9 +2640,9 @@
     "days_seen": 1
   },
   "留意": {
-    "last_seen": "2026-08-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-11",
+    "total_count": 24,
+    "days_seen": 2
   },
   "工安": {
     "last_seen": "2026-08-18",
@@ -3175,9 +3165,9 @@
     "days_seen": 1
   },
   "何欣純": {
-    "last_seen": "2026-08-29",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-11",
+    "total_count": 18,
+    "days_seen": 2
   },
   "暗示": {
     "last_seen": "2026-08-29",
@@ -4580,9 +4570,9 @@
     "days_seen": 1
   },
   "潛力": {
-    "last_seen": "2026-09-20",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-11",
+    "total_count": 18,
+    "days_seen": 2
   },
   "自主": {
     "last_seen": "2026-09-20",
@@ -5265,9 +5255,9 @@
     "days_seen": 2
   },
   "高利率": {
-    "last_seen": "2026-09-29",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-11",
+    "total_count": 16,
+    "days_seen": 2
   },
   "一片": {
     "last_seen": "2026-09-29",
@@ -5515,9 +5505,9 @@
     "days_seen": 1
   },
   "第四季": {
-    "last_seen": "2026-10-03",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-10-11",
+    "total_count": 28,
+    "days_seen": 3
   },
   "土地公": {
     "last_seen": "2026-10-02",
@@ -6024,11 +6014,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "連假": {
-    "last_seen": "2026-10-09",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "頻譜": {
     "last_seen": "2026-10-10",
     "total_count": 26,
@@ -6160,9 +6145,9 @@
     "days_seen": 1
   },
   "績效": {
-    "last_seen": "2026-10-10",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-11",
+    "total_count": 22,
+    "days_seen": 2
   },
   "大型": {
     "last_seen": "2026-10-10",
@@ -6216,6 +6201,56 @@
   },
   "受矚": {
     "last_seen": "2026-10-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連假後": {
+    "last_seen": "2026-10-11",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "來了": {
+    "last_seen": "2026-10-11",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "重點": {
+    "last_seen": "2026-10-11",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "專利": {
+    "last_seen": "2026-10-11",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "科學": {
+    "last_seen": "2026-10-11",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "知道的": {
+    "last_seen": "2026-10-11",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "壓回": {
+    "last_seen": "2026-10-11",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "柴油": {
+    "last_seen": "2026-10-11",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "淡海": {
+    "last_seen": "2026-10-11",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "浪漫": {
+    "last_seen": "2026-10-11",
     "total_count": 8,
     "days_seen": 1
   }
