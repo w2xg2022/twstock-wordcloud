@@ -540,9 +540,9 @@
     "days_seen": 1
   },
   "大關鍵": {
-    "last_seen": "2026-07-01",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-12",
+    "total_count": 22,
+    "days_seen": 2
   },
   "年最佳": {
     "last_seen": "2026-07-01",
@@ -1698,11 +1698,6 @@
     "last_seen": "2026-07-30",
     "total_count": 14,
     "days_seen": 1
-  },
-  "走弱": {
-    "last_seen": "2026-10-08",
-    "total_count": 22,
-    "days_seen": 2
   },
   "FOMC": {
     "last_seen": "2026-09-17",
@@ -3110,9 +3105,9 @@
     "days_seen": 2
   },
   "哪些": {
-    "last_seen": "2026-08-28",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-12",
+    "total_count": 22,
+    "days_seen": 2
   },
   "NVDA": {
     "last_seen": "2026-08-30",
@@ -4179,11 +4174,6 @@
     "total_count": 18,
     "days_seen": 1
   },
-  "經濟部": {
-    "last_seen": "2026-09-15",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "費半指數": {
     "last_seen": "2026-09-15",
     "total_count": 16,
@@ -4685,9 +4675,9 @@
     "days_seen": 1
   },
   "國內": {
-    "last_seen": "2026-09-22",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-12",
+    "total_count": 20,
+    "days_seen": 2
   },
   "廠商": {
     "last_seen": "2026-09-22",
@@ -4955,9 +4945,9 @@
     "days_seen": 1
   },
   "評級": {
-    "last_seen": "2026-09-25",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-12",
+    "total_count": 18,
+    "days_seen": 2
   },
   "會後": {
     "last_seen": "2026-09-26",
@@ -5042,11 +5032,6 @@
   "童子": {
     "last_seen": "2026-09-27",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "金流": {
-    "last_seen": "2026-09-27",
-    "total_count": 16,
     "days_seen": 1
   },
   "公債殖利率": {
@@ -5465,9 +5450,9 @@
     "days_seen": 1
   },
   "前三季": {
-    "last_seen": "2026-10-08",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-10-12",
+    "total_count": 26,
+    "days_seen": 3
   },
   "債息": {
     "last_seen": "2026-10-02",
@@ -5503,11 +5488,6 @@
     "last_seen": "2026-10-02",
     "total_count": 8,
     "days_seen": 1
-  },
-  "第四季": {
-    "last_seen": "2026-10-11",
-    "total_count": 28,
-    "days_seen": 3
   },
   "土地公": {
     "last_seen": "2026-10-02",
@@ -5919,11 +5899,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "三季": {
-    "last_seen": "2026-10-08",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "防疫": {
     "last_seen": "2026-10-08",
     "total_count": 14,
@@ -5945,9 +5920,9 @@
     "days_seen": 1
   },
   "假期": {
-    "last_seen": "2026-10-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-12",
+    "total_count": 20,
+    "days_seen": 2
   },
   "熱門": {
     "last_seen": "2026-10-08",
@@ -6204,11 +6179,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "連假後": {
-    "last_seen": "2026-10-11",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "來了": {
     "last_seen": "2026-10-11",
     "total_count": 16,
@@ -6251,6 +6221,96 @@
   },
   "浪漫": {
     "last_seen": "2026-10-11",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連假": {
+    "last_seen": "2026-10-12",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "補跌": {
+    "last_seen": "2026-10-12",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "總經理遭羈押": {
+    "last_seen": "2026-10-12",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "台積電法說會": {
+    "last_seen": "2026-10-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "轉弱": {
+    "last_seen": "2026-10-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "緊急": {
+    "last_seen": "2026-10-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "重要": {
+    "last_seen": "2026-10-12",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "低估": {
+    "last_seen": "2026-10-12",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "鋼品": {
+    "last_seen": "2026-10-12",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體測試": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "消費者": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "潛力股": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "第三季": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "漲價潮": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "資金大": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "急著": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "興櫃": {
+    "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "以來": {
+    "last_seen": "2026-10-12",
     "total_count": 8,
     "days_seen": 1
   }

@@ -16,8 +16,8 @@
     "total_count": 40
   },
   "第四季": {
-    "first_promoted": "2026-09-28",
-    "total_count": 32
+    "first_promoted": "2026-10-12",
+    "total_count": 44
   },
   "創新藥": {
     "first_promoted": "2026-09-21",
@@ -156,8 +156,8 @@
     "total_count": 42
   },
   "連假後": {
-    "first_promoted": "2026-09-29",
-    "total_count": 32
+    "first_promoted": "2026-10-12",
+    "total_count": 34
   },
   "德州": {
     "first_promoted": "2026-10-05",
@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-05",
-    "total_count": 30
+    "first_promoted": "2026-10-12",
+    "total_count": 32
   },
   "重要": {
     "first_promoted": "2026-10-06",
@@ -329,6 +329,18 @@
   },
   "神山": {
     "first_promoted": "2026-10-11",
+    "total_count": 30
+  },
+  "走弱": {
+    "first_promoted": "2026-10-12",
+    "total_count": 42
+  },
+  "金流": {
+    "first_promoted": "2026-10-12",
+    "total_count": 32
+  },
+  "經濟部": {
+    "first_promoted": "2026-10-12",
     "total_count": 30
   }
 }
