@@ -342,5 +342,41 @@
   "經濟部": {
     "first_promoted": "2026-10-12",
     "total_count": 30
+  },
+  "經濟學": {
+    "first_promoted": "2026-10-13",
+    "total_count": 164
+  },
+  "學者": {
+    "first_promoted": "2026-10-13",
+    "total_count": 76
+  },
+  "穩定": {
+    "first_promoted": "2026-10-13",
+    "total_count": 40
+  },
+  "學者獲": {
+    "first_promoted": "2026-10-13",
+    "total_count": 36
+  },
+  "美國學者": {
+    "first_promoted": "2026-10-13",
+    "total_count": 34
+  },
+  "平均": {
+    "first_promoted": "2026-10-13",
+    "total_count": 38
+  },
+  "景氣": {
+    "first_promoted": "2026-10-13",
+    "total_count": 42
+  },
+  "低開": {
+    "first_promoted": "2026-10-13",
+    "total_count": 40
+  },
+  "HK": {
+    "first_promoted": "2026-10-13",
+    "total_count": 38
   }
 }

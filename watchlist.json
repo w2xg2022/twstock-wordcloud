@@ -70,9 +70,9 @@
     "days_seen": 1
   },
   "外資喊": {
-    "last_seen": "2026-06-16",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-13",
+    "total_count": 18,
+    "days_seen": 2
   },
   "擺尾": {
     "last_seen": "2026-06-16",
@@ -993,11 +993,6 @@
     "last_seen": "2026-07-14",
     "total_count": 16,
     "days_seen": 1
-  },
-  "景氣": {
-    "last_seen": "2026-09-23",
-    "total_count": 28,
-    "days_seen": 2
   },
   "上揚": {
     "last_seen": "2026-09-13",
@@ -2349,11 +2344,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "低開": {
-    "last_seen": "2026-08-13",
-    "total_count": 28,
-    "days_seen": 1
-  },
   "CoreWeave": {
     "last_seen": "2026-08-13",
     "total_count": 28,
@@ -2603,11 +2593,6 @@
     "last_seen": "2026-08-17",
     "total_count": 14,
     "days_seen": 1
-  },
-  "平均": {
-    "last_seen": "2026-09-24",
-    "total_count": 22,
-    "days_seen": 2
   },
   "過半": {
     "last_seen": "2026-08-17",
@@ -3459,11 +3444,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "HK": {
-    "last_seen": "2026-09-07",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "需求半年": {
     "last_seen": "2026-09-03",
     "total_count": 8,
@@ -4255,9 +4235,9 @@
     "days_seen": 1
   },
   "電池": {
-    "last_seen": "2026-09-16",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-13",
+    "total_count": 22,
+    "days_seen": 2
   },
   "機構": {
     "last_seen": "2026-09-16",
@@ -5233,11 +5213,6 @@
     "last_seen": "2026-09-29",
     "total_count": 8,
     "days_seen": 1
-  },
-  "經濟學": {
-    "last_seen": "2026-10-01",
-    "total_count": 16,
-    "days_seen": 2
   },
   "高利率": {
     "last_seen": "2026-10-11",
@@ -6311,6 +6286,101 @@
   },
   "以來": {
     "last_seen": "2026-10-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "美國經濟學家": {
+    "last_seen": "2026-10-13",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "經濟穩定": {
+    "last_seen": "2026-10-13",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "宏觀經濟": {
+    "last_seen": "2026-10-13",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "美國學者獲": {
+    "last_seen": "2026-10-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-10-13",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "宏觀經濟穩定": {
+    "last_seen": "2026-10-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "衝高": {
+    "last_seen": "2026-10-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "走弱": {
+    "last_seen": "2026-10-13",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "美光重挫": {
+    "last_seen": "2026-10-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "可望": {
+    "last_seen": "2026-10-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "微觀": {
+    "last_seen": "2026-10-13",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "霍爾": {
+    "last_seen": "2026-10-13",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體走弱": {
+    "last_seen": "2026-10-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一度狂瀉": {
+    "last_seen": "2026-10-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "早盤挫逾": {
+    "last_seen": "2026-10-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股早盤挫": {
+    "last_seen": "2026-10-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一度重挫": {
+    "last_seen": "2026-10-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "微觀經濟": {
+    "last_seen": "2026-10-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股全線": {
+    "last_seen": "2026-10-13",
     "total_count": 8,
     "days_seen": 1
   }
