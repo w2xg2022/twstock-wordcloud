@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-12",
-    "total_count": 32
+    "first_promoted": "2026-10-14",
+    "total_count": 34
   },
   "重要": {
     "first_promoted": "2026-10-06",
@@ -378,5 +378,25 @@
   "HK": {
     "first_promoted": "2026-10-13",
     "total_count": 38
+  },
+  "一次看": {
+    "first_promoted": "2026-10-14",
+    "total_count": 32
+  },
+  "科技股賣壓": {
+    "first_promoted": "2026-10-14",
+    "total_count": 40
+  },
+  "來最": {
+    "first_promoted": "2026-10-14",
+    "total_count": 36
+  },
+  "開高走": {
+    "first_promoted": "2026-10-14",
+    "total_count": 32
+  },
+  "收斂": {
+    "first_promoted": "2026-10-14",
+    "total_count": 30
   }
 }
