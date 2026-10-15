@@ -350,9 +350,9 @@
     "days_seen": 1
   },
   "優勢": {
-    "last_seen": "2026-09-06",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-10-15",
+    "total_count": 28,
+    "days_seen": 3
   },
   "盤後大漲": {
     "last_seen": "2026-08-27",
@@ -1105,9 +1105,9 @@
     "days_seen": 1
   },
   "抄底": {
-    "last_seen": "2026-07-18",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 28,
+    "days_seen": 2
   },
   "跌入熊市": {
     "last_seen": "2026-07-18",
@@ -1585,9 +1585,9 @@
     "days_seen": 1
   },
   "急挫": {
-    "last_seen": "2026-07-28",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 26,
+    "days_seen": 2
   },
   "小幅": {
     "last_seen": "2026-07-28",
@@ -3535,9 +3535,9 @@
     "days_seen": 1
   },
   "青年": {
-    "last_seen": "2026-09-05",
-    "total_count": 17,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 29,
+    "days_seen": 2
   },
   "狂買": {
     "last_seen": "2026-09-05",
@@ -3710,9 +3710,9 @@
     "days_seen": 2
   },
   "慘摔": {
-    "last_seen": "2026-09-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 22,
+    "days_seen": 2
   },
   "的真": {
     "last_seen": "2026-09-07",
@@ -4119,11 +4119,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "台達電": {
-    "last_seen": "2026-09-15",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "巨頭喊": {
     "last_seen": "2026-09-15",
     "total_count": 18,
@@ -4444,11 +4439,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "聯想": {
-    "last_seen": "2026-09-26",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "AMAT": {
     "last_seen": "2026-09-19",
     "total_count": 12,
@@ -4765,9 +4755,9 @@
     "days_seen": 1
   },
   "早盤跌": {
-    "last_seen": "2026-09-24",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 28,
+    "days_seen": 2
   },
   "節前": {
     "last_seen": "2026-09-25",
@@ -5380,9 +5370,9 @@
     "days_seen": 1
   },
   "年來": {
-    "last_seen": "2026-10-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 18,
+    "days_seen": 2
   },
   "Holdings": {
     "last_seen": "2026-10-01",
@@ -5552,16 +5542,6 @@
   "兩萬四": {
     "last_seen": "2026-10-03",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "晶圓廠": {
-    "last_seen": "2026-10-04",
-    "total_count": 22,
-    "days_seen": 1
-  },
-  "評估": {
-    "last_seen": "2026-10-04",
-    "total_count": 18,
     "days_seen": 1
   },
   "外資賣超": {
@@ -5875,9 +5855,9 @@
     "days_seen": 2
   },
   "熱門": {
-    "last_seen": "2026-10-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 22,
+    "days_seen": 2
   },
   "首選": {
     "last_seen": "2026-10-08",
@@ -6017,11 +5997,6 @@
   "合計": {
     "last_seen": "2026-10-09",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "馬斯克": {
-    "last_seen": "2026-10-10",
-    "total_count": 26,
     "days_seen": 1
   },
   "國慶": {
@@ -6425,9 +6400,9 @@
     "days_seen": 1
   },
   "三季度": {
-    "last_seen": "2026-10-14",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-15",
+    "total_count": 28,
+    "days_seen": 2
   },
   "湧入": {
     "last_seen": "2026-10-14",
@@ -6451,6 +6426,81 @@
   },
   "佈局": {
     "last_seen": "2026-10-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "德州": {
+    "last_seen": "2026-10-15",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "通膨升溫": {
+    "last_seen": "2026-10-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "破紀錄": {
+    "last_seen": "2026-10-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "KOSPI": {
+    "last_seen": "2026-10-15",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "通膨超預期": {
+    "last_seen": "2026-10-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "失守月線": {
+    "last_seen": "2026-10-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "盤中跌": {
+    "last_seen": "2026-10-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "曝光": {
+    "last_seen": "2026-10-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "高於": {
+    "last_seen": "2026-10-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "美元營收": {
+    "last_seen": "2026-10-15",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "需要": {
+    "last_seen": "2026-10-15",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Mirror": {
+    "last_seen": "2026-10-15",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "下午法說": {
+    "last_seen": "2026-10-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "德銀警告": {
+    "last_seen": "2026-10-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股拋售潮": {
+    "last_seen": "2026-10-15",
     "total_count": 8,
     "days_seen": 1
   }
