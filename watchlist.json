@@ -155,9 +155,9 @@
     "days_seen": 1
   },
   "主席": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 18,
+    "days_seen": 2
   },
   "引擎": {
     "last_seen": "2026-06-17",
@@ -2400,9 +2400,9 @@
     "days_seen": 1
   },
   "推進": {
-    "last_seen": "2026-08-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 26,
+    "days_seen": 2
   },
   "矽光": {
     "last_seen": "2026-09-08",
@@ -3130,9 +3130,9 @@
     "days_seen": 1
   },
   "沒有": {
-    "last_seen": "2026-08-29",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 20,
+    "days_seen": 2
   },
   "高薪": {
     "last_seen": "2026-08-30",
@@ -3533,11 +3533,6 @@
     "last_seen": "2026-09-05",
     "total_count": 18,
     "days_seen": 1
-  },
-  "青年": {
-    "last_seen": "2026-10-15",
-    "total_count": 29,
-    "days_seen": 2
   },
   "狂買": {
     "last_seen": "2026-09-05",
@@ -4165,9 +4160,9 @@
     "days_seen": 1
   },
   "走向": {
-    "last_seen": "2026-09-16",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 24,
+    "days_seen": 2
   },
   "加密": {
     "last_seen": "2026-09-16",
@@ -4959,11 +4954,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "時間": {
-    "last_seen": "2026-10-10",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "一年": {
     "last_seen": "2026-09-26",
     "total_count": 8,
@@ -5275,9 +5265,9 @@
     "days_seen": 1
   },
   "股同步": {
-    "last_seen": "2026-09-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 18,
+    "days_seen": 2
   },
   "中華化": {
     "last_seen": "2026-09-30",
@@ -5385,9 +5375,9 @@
     "days_seen": 1
   },
   "專訪": {
-    "last_seen": "2026-10-02",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 28,
+    "days_seen": 2
   },
   "前三季": {
     "last_seen": "2026-10-12",
@@ -5710,9 +5700,9 @@
     "days_seen": 1
   },
   "加劇": {
-    "last_seen": "2026-10-06",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 22,
+    "days_seen": 2
   },
   "不能": {
     "last_seen": "2026-10-06",
@@ -6210,9 +6200,9 @@
     "days_seen": 1
   },
   "第三季": {
-    "last_seen": "2026-10-12",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 24,
+    "days_seen": 2
   },
   "漲價潮": {
     "last_seen": "2026-10-12",
@@ -6335,9 +6325,9 @@
     "days_seen": 1
   },
   "股大跌": {
-    "last_seen": "2026-10-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-16",
+    "total_count": 24,
+    "days_seen": 2
   },
   "再度": {
     "last_seen": "2026-10-14",
@@ -6398,11 +6388,6 @@
     "last_seen": "2026-10-14",
     "total_count": 8,
     "days_seen": 1
-  },
-  "三季度": {
-    "last_seen": "2026-10-15",
-    "total_count": 28,
-    "days_seen": 2
   },
   "湧入": {
     "last_seen": "2026-10-14",
@@ -6500,8 +6485,93 @@
     "days_seen": 1
   },
   "股拋售潮": {
-    "last_seen": "2026-10-15",
-    "total_count": 8,
+    "last_seen": "2026-10-16",
+    "total_count": 18,
+    "days_seen": 2
+  },
+  "三季": {
+    "last_seen": "2026-10-16",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "科技股賣壓": {
+    "last_seen": "2026-10-16",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "分析師曝": {
+    "last_seen": "2026-10-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "反彈收": {
+    "last_seen": "2026-10-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "擴張": {
+    "last_seen": "2026-10-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "人工智能": {
+    "last_seen": "2026-10-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "逢低買": {
+    "last_seen": "2026-10-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "登頂": {
+    "last_seen": "2026-10-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "收購": {
+    "last_seen": "2026-10-16",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "天量": {
+    "last_seen": "2026-10-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "禮來": {
+    "last_seen": "2026-10-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "匯市": {
+    "last_seen": "2026-10-16",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "馬來西亞": {
+    "last_seen": "2026-10-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股怎麼": {
+    "last_seen": "2026-10-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "看好美": {
+    "last_seen": "2026-10-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "擺脫": {
+    "last_seen": "2026-10-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "占比": {
+    "last_seen": "2026-10-16",
+    "total_count": 10,
     "days_seen": 1
   }
 }

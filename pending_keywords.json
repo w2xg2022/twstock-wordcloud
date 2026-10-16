@@ -84,8 +84,8 @@
     "total_count": 48
   },
   "時間": {
-    "first_promoted": "2026-09-25",
-    "total_count": 34
+    "first_promoted": "2026-10-16",
+    "total_count": 36
   },
   "商業": {
     "first_promoted": "2026-09-25",
@@ -406,5 +406,13 @@
   "聯想": {
     "first_promoted": "2026-10-15",
     "total_count": 34
+  },
+  "三季度": {
+    "first_promoted": "2026-10-16",
+    "total_count": 40
+  },
+  "青年": {
+    "first_promoted": "2026-10-16",
+    "total_count": 39
   }
 }
