@@ -160,8 +160,8 @@
     "total_count": 34
   },
   "德州": {
-    "first_promoted": "2026-10-05",
-    "total_count": 36
+    "first_promoted": "2026-10-17",
+    "total_count": 44
   },
   "工業": {
     "first_promoted": "2026-09-29",
@@ -414,5 +414,21 @@
   "青年": {
     "first_promoted": "2026-10-16",
     "total_count": 39
+  },
+  "特斯拉": {
+    "first_promoted": "2026-10-17",
+    "total_count": 48
+  },
+  "地方": {
+    "first_promoted": "2026-10-17",
+    "total_count": 38
+  },
+  "計畫": {
+    "first_promoted": "2026-10-17",
+    "total_count": 30
+  },
+  "沒有": {
+    "first_promoted": "2026-10-17",
+    "total_count": 30
   }
 }

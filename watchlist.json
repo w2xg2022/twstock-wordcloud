@@ -1495,9 +1495,9 @@
     "days_seen": 1
   },
   "真的": {
-    "last_seen": "2026-07-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-17",
+    "total_count": 18,
+    "days_seen": 2
   },
   "疊加": {
     "last_seen": "2026-07-26",
@@ -1640,9 +1640,9 @@
     "days_seen": 1
   },
   "現金": {
-    "last_seen": "2026-07-29",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-17",
+    "total_count": 24,
+    "days_seen": 2
   },
   "停工": {
     "last_seen": "2026-07-29",
@@ -1814,11 +1814,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "地方": {
-    "last_seen": "2026-08-29",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "半導體族群": {
     "last_seen": "2026-08-02",
     "total_count": 8,
@@ -1830,9 +1825,9 @@
     "days_seen": 1
   },
   "風暴": {
-    "last_seen": "2026-08-02",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-17",
+    "total_count": 18,
+    "days_seen": 2
   },
   "預言": {
     "last_seen": "2026-08-02",
@@ -2230,11 +2225,6 @@
     "days_seen": 1
   },
   "博士生": {
-    "last_seen": "2026-08-11",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "計畫": {
     "last_seen": "2026-08-11",
     "total_count": 18,
     "days_seen": 1
@@ -3128,11 +3118,6 @@
     "last_seen": "2026-08-29",
     "total_count": 10,
     "days_seen": 1
-  },
-  "沒有": {
-    "last_seen": "2026-10-16",
-    "total_count": 20,
-    "days_seen": 2
   },
   "高薪": {
     "last_seen": "2026-08-30",
@@ -4444,11 +4429,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "特斯拉": {
-    "last_seen": "2026-09-19",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "後續": {
     "last_seen": "2026-09-19",
     "total_count": 10,
@@ -5695,9 +5675,9 @@
     "days_seen": 1
   },
   "證實": {
-    "last_seen": "2026-10-06",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-17",
+    "total_count": 22,
+    "days_seen": 2
   },
   "加劇": {
     "last_seen": "2026-10-16",
@@ -6414,11 +6394,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "德州": {
-    "last_seen": "2026-10-15",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "通膨升溫": {
     "last_seen": "2026-10-15",
     "total_count": 14,
@@ -6571,6 +6546,111 @@
   },
   "占比": {
     "last_seen": "2026-10-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "飛天": {
+    "last_seen": "2026-10-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "來最": {
+    "last_seen": "2026-10-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "T+1": {
+    "last_seen": "2026-10-17",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "新風": {
+    "last_seen": "2026-10-17",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "胡正明": {
+    "last_seen": "2026-10-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "TCGX": {
+    "last_seen": "2026-10-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "ACQUISITION": {
+    "last_seen": "2026-10-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "TCXB": {
+    "last_seen": "2026-10-17",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "法說會後": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "飛天車": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股價走": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "赴美": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "連二": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "驗證": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "PTFE": {
+    "last_seen": "2026-10-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "科技產業": {
+    "last_seen": "2026-10-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "賴清德": {
+    "last_seen": "2026-10-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "玻纖布": {
+    "last_seen": "2026-10-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "電視": {
+    "last_seen": "2026-10-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "評估": {
+    "last_seen": "2026-10-17",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "進度": {
+    "last_seen": "2026-10-17",
     "total_count": 10,
     "days_seen": 1
   }
