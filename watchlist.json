@@ -714,11 +714,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "外資賣": {
-    "last_seen": "2026-07-06",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "流入": {
     "last_seen": "2026-07-06",
     "total_count": 20,
@@ -778,11 +773,6 @@
     "last_seen": "2026-07-09",
     "total_count": 14,
     "days_seen": 1
-  },
-  "全球半導體": {
-    "last_seen": "2026-07-28",
-    "total_count": 26,
-    "days_seen": 2
   },
   "三大指": {
     "last_seen": "2026-07-09",
@@ -1465,9 +1455,9 @@
     "days_seen": 1
   },
   "逢低": {
-    "last_seen": "2026-07-26",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 22,
+    "days_seen": 2
   },
   "Scribe": {
     "last_seen": "2026-07-26",
@@ -1750,9 +1740,9 @@
     "days_seen": 1
   },
   "新竹": {
-    "last_seen": "2026-08-01",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 24,
+    "days_seen": 2
   },
   "人生": {
     "last_seen": "2026-08-01",
@@ -2068,16 +2058,6 @@
     "last_seen": "2026-08-07",
     "total_count": 14,
     "days_seen": 1
-  },
-  "桃園": {
-    "last_seen": "2026-08-08",
-    "total_count": 21,
-    "days_seen": 1
-  },
-  "運動": {
-    "last_seen": "2026-09-03",
-    "total_count": 29,
-    "days_seen": 2
   },
   "對多晶矽": {
     "last_seen": "2026-08-08",
@@ -2555,9 +2535,9 @@
     "days_seen": 1
   },
   "掌握": {
-    "last_seen": "2026-08-17",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "過半": {
     "last_seen": "2026-08-17",
@@ -2675,9 +2655,9 @@
     "days_seen": 1
   },
   "債務": {
-    "last_seen": "2026-08-20",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "免費": {
     "last_seen": "2026-08-20",
@@ -4855,9 +4835,9 @@
     "days_seen": 1
   },
   "高檔震盪": {
-    "last_seen": "2026-10-07",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-10-18",
+    "total_count": 28,
+    "days_seen": 3
   },
   "商業化": {
     "last_seen": "2026-09-25",
@@ -4972,11 +4952,6 @@
   "三雄": {
     "last_seen": "2026-10-06",
     "total_count": 26,
-    "days_seen": 2
-  },
-  "搶進": {
-    "last_seen": "2026-09-28",
-    "total_count": 28,
     "days_seen": 2
   },
   "個人": {
@@ -5300,9 +5275,9 @@
     "days_seen": 1
   },
   "Newtalk": {
-    "last_seen": "2026-10-01",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 21,
+    "days_seen": 2
   },
   "Aureus": {
     "last_seen": "2026-10-01",
@@ -5359,20 +5334,15 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "前三季": {
-    "last_seen": "2026-10-12",
-    "total_count": 26,
-    "days_seen": 3
-  },
   "債息": {
     "last_seen": "2026-10-02",
     "total_count": 10,
     "days_seen": 1
   },
   "擴廠": {
-    "last_seen": "2026-10-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "上行": {
     "last_seen": "2026-10-02",
@@ -6150,9 +6120,9 @@
     "days_seen": 1
   },
   "重要": {
-    "last_seen": "2026-10-12",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "低估": {
     "last_seen": "2026-10-12",
@@ -6390,9 +6360,9 @@
     "days_seen": 1
   },
   "佈局": {
-    "last_seen": "2026-10-14",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 20,
+    "days_seen": 2
   },
   "通膨升溫": {
     "last_seen": "2026-10-15",
@@ -6645,13 +6615,83 @@
     "days_seen": 1
   },
   "評估": {
-    "last_seen": "2026-10-17",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "進度": {
     "last_seen": "2026-10-17",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "大陸": {
+    "last_seen": "2026-10-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "評估全球經濟": {
+    "last_seen": "2026-10-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "洗牌": {
+    "last_seen": "2026-10-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "合一": {
+    "last_seen": "2026-10-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "季線保衛戰": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "連八": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "緊盯": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "繁榮": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "市府": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "地方": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "VIX": {
+    "last_seen": "2026-10-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "網路": {
+    "last_seen": "2026-10-18",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "TVBS": {
+    "last_seen": "2026-10-18",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "台積電擴廠": {
+    "last_seen": "2026-10-18",
+    "total_count": 8,
     "days_seen": 1
   }
 }
