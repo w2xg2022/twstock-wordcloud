@@ -260,8 +260,8 @@
     "total_count": 36
   },
   "重要": {
-    "first_promoted": "2026-10-06",
-    "total_count": 34
+    "first_promoted": "2026-10-19",
+    "total_count": 36
   },
   "曝光": {
     "first_promoted": "2026-10-06",
@@ -454,5 +454,29 @@
   "全球半導體": {
     "first_promoted": "2026-10-18",
     "total_count": 34
+  },
+  "配置": {
+    "first_promoted": "2026-10-19",
+    "total_count": 34
+  },
+  "抄底": {
+    "first_promoted": "2026-10-19",
+    "total_count": 42
+  },
+  "台股重挫": {
+    "first_promoted": "2026-10-19",
+    "total_count": 32
+  },
+  "單周": {
+    "first_promoted": "2026-10-19",
+    "total_count": 34
+  },
+  "哪些": {
+    "first_promoted": "2026-10-19",
+    "total_count": 30
+  },
+  "導入": {
+    "first_promoted": "2026-10-19",
+    "total_count": 30
   }
 }

@@ -459,11 +459,6 @@
     "total_count": 16,
     "days_seen": 2
   },
-  "單周": {
-    "last_seen": "2026-08-22",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "資金輪動": {
     "last_seen": "2026-10-04",
     "total_count": 20,
@@ -615,9 +610,9 @@
     "days_seen": 1
   },
   "急拉": {
-    "last_seen": "2026-07-02",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-19",
+    "total_count": 26,
+    "days_seen": 2
   },
   "不怕": {
     "last_seen": "2026-07-02",
@@ -1094,11 +1089,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "抄底": {
-    "last_seen": "2026-10-15",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "跌入熊市": {
     "last_seen": "2026-07-18",
     "total_count": 16,
@@ -1537,11 +1527,6 @@
   "漲跌互見": {
     "last_seen": "2026-07-28",
     "total_count": 26,
-    "days_seen": 1
-  },
-  "台股重挫": {
-    "last_seen": "2026-07-28",
-    "total_count": 22,
     "days_seen": 1
   },
   "股崩跌": {
@@ -3034,11 +3019,6 @@
     "total_count": 26,
     "days_seen": 2
   },
-  "哪些": {
-    "last_seen": "2026-10-12",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "NVDA": {
     "last_seen": "2026-08-30",
     "total_count": 20,
@@ -3692,11 +3672,6 @@
   "納入港股通": {
     "last_seen": "2026-09-08",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "導入": {
-    "last_seen": "2026-09-08",
-    "total_count": 22,
     "days_seen": 1
   },
   "發布會": {
@@ -5524,11 +5499,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "配置": {
-    "last_seen": "2026-10-14",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "探索": {
     "last_seen": "2026-10-04",
     "total_count": 8,
@@ -6119,11 +6089,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "重要": {
-    "last_seen": "2026-10-18",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "低估": {
     "last_seen": "2026-10-12",
     "total_count": 10,
@@ -6610,9 +6575,9 @@
     "days_seen": 1
   },
   "電視": {
-    "last_seen": "2026-10-17",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-19",
+    "total_count": 21,
+    "days_seen": 2
   },
   "評估": {
     "last_seen": "2026-10-18",
@@ -6691,6 +6656,56 @@
   },
   "台積電擴廠": {
     "last_seen": "2026-10-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "匯出": {
+    "last_seen": "2026-10-19",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "至少": {
+    "last_seen": "2026-10-19",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "桃園": {
+    "last_seen": "2026-10-19",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "波及": {
+    "last_seen": "2026-10-19",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "台塑化": {
+    "last_seen": "2026-10-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "賣出": {
+    "last_seen": "2026-10-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "預測": {
+    "last_seen": "2026-10-19",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "國銀": {
+    "last_seen": "2026-10-19",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "缺工": {
+    "last_seen": "2026-10-19",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連鎖": {
+    "last_seen": "2026-10-19",
     "total_count": 8,
     "days_seen": 1
   }
