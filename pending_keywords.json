@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-15",
-    "total_count": 36
+    "first_promoted": "2026-10-20",
+    "total_count": 40
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -478,5 +478,29 @@
   "導入": {
     "first_promoted": "2026-10-19",
     "total_count": 30
+  },
+  "優勢": {
+    "first_promoted": "2026-10-20",
+    "total_count": 40
+  },
+  "支持": {
+    "first_promoted": "2026-10-20",
+    "total_count": 40
+  },
+  "Duo": {
+    "first_promoted": "2026-10-20",
+    "total_count": 38
+  },
+  "中小": {
+    "first_promoted": "2026-10-20",
+    "total_count": 38
+  },
+  "逢低": {
+    "first_promoted": "2026-10-20",
+    "total_count": 32
+  },
+  "科技巨頭財報": {
+    "first_promoted": "2026-10-20",
+    "total_count": 34
   }
 }

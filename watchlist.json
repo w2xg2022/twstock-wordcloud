@@ -264,11 +264,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "支持": {
-    "last_seen": "2026-08-04",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "湧現": {
     "last_seen": "2026-06-23",
     "total_count": 16,
@@ -348,11 +343,6 @@
     "last_seen": "2026-06-24",
     "total_count": 10,
     "days_seen": 1
-  },
-  "優勢": {
-    "last_seen": "2026-10-15",
-    "total_count": 28,
-    "days_seen": 3
   },
   "盤後大漲": {
     "last_seen": "2026-08-27",
@@ -1339,11 +1329,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "科技巨頭財報": {
-    "last_seen": "2026-07-27",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "開高走低": {
     "last_seen": "2026-07-23",
     "total_count": 14,
@@ -1443,11 +1428,6 @@
     "last_seen": "2026-07-26",
     "total_count": 10,
     "days_seen": 1
-  },
-  "逢低": {
-    "last_seen": "2026-10-18",
-    "total_count": 22,
-    "days_seen": 2
   },
   "Scribe": {
     "last_seen": "2026-07-26",
@@ -2420,9 +2400,9 @@
     "days_seen": 1
   },
   "能力": {
-    "last_seen": "2026-08-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-20",
+    "total_count": 22,
+    "days_seen": 2
   },
   "H1": {
     "last_seen": "2026-08-15",
@@ -3220,9 +3200,9 @@
     "days_seen": 2
   },
   "部分": {
-    "last_seen": "2026-09-01",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-20",
+    "total_count": 26,
+    "days_seen": 2
   },
   "調整": {
     "last_seen": "2026-09-13",
@@ -3789,11 +3769,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "Duo": {
-    "last_seen": "2026-09-13",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "出貨": {
     "last_seen": "2026-09-10",
     "total_count": 14,
@@ -4203,11 +4178,6 @@
     "last_seen": "2026-09-17",
     "total_count": 14,
     "days_seen": 1
-  },
-  "中小": {
-    "last_seen": "2026-09-22",
-    "total_count": 28,
-    "days_seen": 2
   },
   "雙雄": {
     "last_seen": "2026-09-17",
@@ -5170,9 +5140,9 @@
     "days_seen": 1
   },
   "美股盤前": {
-    "last_seen": "2026-09-30",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-20",
+    "total_count": 22,
+    "days_seen": 2
   },
   "內房股": {
     "last_seen": "2026-09-30",
@@ -5730,9 +5700,9 @@
     "days_seen": 1
   },
   "全線": {
-    "last_seen": "2026-10-07",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-20",
+    "total_count": 18,
+    "days_seen": 2
   },
   "TOWA": {
     "last_seen": "2026-10-07",
@@ -6245,9 +6215,9 @@
     "days_seen": 2
   },
   "再度": {
-    "last_seen": "2026-10-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-20",
+    "total_count": 24,
+    "days_seen": 2
   },
   "創史上第": {
     "last_seen": "2026-10-14",
@@ -6399,11 +6369,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "三季": {
-    "last_seen": "2026-10-16",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "科技股賣壓": {
     "last_seen": "2026-10-16",
     "total_count": 18,
@@ -6420,9 +6385,9 @@
     "days_seen": 1
   },
   "擴張": {
-    "last_seen": "2026-10-16",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-20",
+    "total_count": 28,
+    "days_seen": 2
   },
   "人工智能": {
     "last_seen": "2026-10-16",
@@ -6706,6 +6671,91 @@
   },
   "連鎖": {
     "last_seen": "2026-10-19",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "美股盤": {
+    "last_seen": "2026-10-20",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "TPCA": {
+    "last_seen": "2026-10-20",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "下探": {
+    "last_seen": "2026-10-20",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "工具": {
+    "last_seen": "2026-10-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "機器人概念": {
+    "last_seen": "2026-10-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "回測季線": {
+    "last_seen": "2026-10-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "美股反彈": {
+    "last_seen": "2026-10-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "巨頭財報": {
+    "last_seen": "2026-10-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股回神": {
+    "last_seen": "2026-10-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "馬斯克": {
+    "last_seen": "2026-10-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "產業發展": {
+    "last_seen": "2026-10-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "寧德時代": {
+    "last_seen": "2026-10-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "搶攻": {
+    "last_seen": "2026-10-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "泰國": {
+    "last_seen": "2026-10-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "跌幅擴大": {
+    "last_seen": "2026-10-20",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "季度業績": {
+    "last_seen": "2026-10-20",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "張錫喊": {
+    "last_seen": "2026-10-20",
     "total_count": 8,
     "days_seen": 1
   }
