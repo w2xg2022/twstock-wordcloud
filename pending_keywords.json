@@ -132,8 +132,8 @@
     "total_count": 36
   },
   "報價": {
-    "first_promoted": "2026-09-28",
-    "total_count": 63
+    "first_promoted": "2026-10-21",
+    "total_count": 75
   },
   "新加坡": {
     "first_promoted": "2026-09-28",
@@ -501,6 +501,26 @@
   },
   "科技巨頭財報": {
     "first_promoted": "2026-10-20",
+    "total_count": 34
+  },
+  "工安": {
+    "first_promoted": "2026-10-21",
+    "total_count": 80
+  },
+  "Netflix": {
+    "first_promoted": "2026-10-21",
+    "total_count": 44
+  },
+  "全年": {
+    "first_promoted": "2026-10-21",
+    "total_count": 32
+  },
+  "芯片": {
+    "first_promoted": "2026-10-21",
+    "total_count": 30
+  },
+  "電池": {
+    "first_promoted": "2026-10-21",
     "total_count": 34
   }
 }

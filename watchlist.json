@@ -1034,11 +1034,6 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "Netflix": {
-    "last_seen": "2026-07-17",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "成熟製程": {
     "last_seen": "2026-07-17",
     "total_count": 18,
@@ -1519,11 +1514,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "芯片": {
-    "last_seen": "2026-07-28",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "血崩": {
     "last_seen": "2026-07-28",
     "total_count": 16,
@@ -1895,9 +1885,9 @@
     "days_seen": 1
   },
   "季營收": {
-    "last_seen": "2026-08-05",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-21",
+    "total_count": 28,
+    "days_seen": 2
   },
   "民主黨": {
     "last_seen": "2026-08-05",
@@ -2020,9 +2010,9 @@
     "days_seen": 1
   },
   "勞動": {
-    "last_seen": "2026-08-07",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-21",
+    "total_count": 24,
+    "days_seen": 2
   },
   "對多晶矽": {
     "last_seen": "2026-08-08",
@@ -2267,11 +2257,6 @@
   "溫和": {
     "last_seen": "2026-08-13",
     "total_count": 20,
-    "days_seen": 1
-  },
-  "全年": {
-    "last_seen": "2026-08-13",
-    "total_count": 18,
     "days_seen": 1
   },
   "財報亮眼": {
@@ -2533,11 +2518,6 @@
     "last_seen": "2026-10-11",
     "total_count": 24,
     "days_seen": 2
-  },
-  "工安": {
-    "last_seen": "2026-08-18",
-    "total_count": 24,
-    "days_seen": 1
   },
   "F20": {
     "last_seen": "2026-08-18",
@@ -4114,11 +4094,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "電池": {
-    "last_seen": "2026-10-13",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "機構": {
     "last_seen": "2026-09-16",
     "total_count": 12,
@@ -4905,9 +4880,9 @@
     "days_seen": 1
   },
   "併購": {
-    "last_seen": "2026-09-27",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-21",
+    "total_count": 24,
+    "days_seen": 2
   },
   "Mini-Loop": {
     "last_seen": "2026-09-27",
@@ -5690,9 +5665,9 @@
     "days_seen": 1
   },
   "指數上": {
-    "last_seen": "2026-10-07",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-21",
+    "total_count": 22,
+    "days_seen": 2
   },
   "核電": {
     "last_seen": "2026-10-07",
@@ -6615,9 +6590,9 @@
     "days_seen": 1
   },
   "TVBS": {
-    "last_seen": "2026-10-18",
-    "total_count": 9,
-    "days_seen": 1
+    "last_seen": "2026-10-21",
+    "total_count": 22,
+    "days_seen": 2
   },
   "台積電擴廠": {
     "last_seen": "2026-10-18",
@@ -6757,6 +6732,101 @@
   "張錫喊": {
     "last_seen": "2026-10-20",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-10-21",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "廠工安": {
+    "last_seen": "2026-10-21",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "墜落": {
+    "last_seen": "2026-10-21",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "工安意外": {
+    "last_seen": "2026-10-21",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "事故": {
+    "last_seen": "2026-10-21",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "三季度": {
+    "last_seen": "2026-10-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "螺栓": {
+    "last_seen": "2026-10-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "台積電工安": {
+    "last_seen": "2026-10-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "平臺": {
+    "last_seen": "2026-10-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "終結": {
+    "last_seen": "2026-10-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "鋼構": {
+    "last_seen": "2026-10-21",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "廠工安意外": {
+    "last_seen": "2026-10-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "螺栓斷裂": {
+    "last_seen": "2026-10-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "用電": {
+    "last_seen": "2026-10-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "跟著": {
+    "last_seen": "2026-10-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "廣告": {
+    "last_seen": "2026-10-21",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "年內": {
+    "last_seen": "2026-10-21",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "合併": {
+    "last_seen": "2026-10-21",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "保持": {
+    "last_seen": "2026-10-21",
+    "total_count": 10,
     "days_seen": 1
   }
 }
