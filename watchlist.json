@@ -549,11 +549,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "回升": {
-    "last_seen": "2026-09-06",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "部署": {
     "last_seen": "2026-07-01",
     "total_count": 8,
@@ -2384,11 +2379,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "能力": {
-    "last_seen": "2026-10-20",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "H1": {
     "last_seen": "2026-08-15",
     "total_count": 12,
@@ -2637,11 +2627,6 @@
   "材料聯盟": {
     "last_seen": "2026-08-21",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "貨幣": {
-    "last_seen": "2026-08-21",
-    "total_count": 22,
     "days_seen": 1
   },
   "萬海": {
@@ -3390,9 +3375,9 @@
     "days_seen": 1
   },
   "軟體": {
-    "last_seen": "2026-09-04",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 24,
+    "days_seen": 2
   },
   "Zscaler": {
     "last_seen": "2026-09-04",
@@ -4725,9 +4710,9 @@
     "days_seen": 1
   },
   "繼續": {
-    "last_seen": "2026-09-25",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 28,
+    "days_seen": 2
   },
   "型科技股": {
     "last_seen": "2026-09-25",
@@ -5135,9 +5120,9 @@
     "days_seen": 1
   },
   "工業": {
-    "last_seen": "2026-09-30",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 28,
+    "days_seen": 2
   },
   "股同步": {
     "last_seen": "2026-10-16",
@@ -5242,11 +5227,6 @@
   "Holdings": {
     "last_seen": "2026-10-01",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "提振": {
-    "last_seen": "2026-10-02",
-    "total_count": 12,
     "days_seen": 1
   },
   "專訪": {
@@ -5625,9 +5605,9 @@
     "days_seen": 1
   },
   "日韓": {
-    "last_seen": "2026-10-07",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 28,
+    "days_seen": 2
   },
   "還在": {
     "last_seen": "2026-10-07",
@@ -5970,9 +5950,9 @@
     "days_seen": 1
   },
   "專利": {
-    "last_seen": "2026-10-11",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 22,
+    "days_seen": 2
   },
   "科學": {
     "last_seen": "2026-10-11",
@@ -6110,11 +6090,6 @@
     "days_seen": 1
   },
   "宏觀經濟穩定": {
-    "last_seen": "2026-10-13",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "衝高": {
     "last_seen": "2026-10-13",
     "total_count": 14,
     "days_seen": 1
@@ -6325,9 +6300,9 @@
     "days_seen": 1
   },
   "Mirror": {
-    "last_seen": "2026-10-15",
-    "total_count": 9,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 19,
+    "days_seen": 2
   },
   "下午法說": {
     "last_seen": "2026-10-15",
@@ -6630,9 +6605,9 @@
     "days_seen": 1
   },
   "預測": {
-    "last_seen": "2026-10-19",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-22",
+    "total_count": 22,
+    "days_seen": 2
   },
   "國銀": {
     "last_seen": "2026-10-19",
@@ -6694,11 +6669,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "馬斯克": {
-    "last_seen": "2026-10-20",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "產業發展": {
     "last_seen": "2026-10-20",
     "total_count": 10,
@@ -6732,11 +6702,6 @@
   "張錫喊": {
     "last_seen": "2026-10-20",
     "total_count": 8,
-    "days_seen": 1
-  },
-  "三季": {
-    "last_seen": "2026-10-21",
-    "total_count": 26,
     "days_seen": 1
   },
   "廠工安": {
@@ -6820,12 +6785,87 @@
     "days_seen": 1
   },
   "合併": {
+    "last_seen": "2026-10-22",
+    "total_count": 24,
+    "days_seen": 2
+  },
+  "保持": {
     "last_seen": "2026-10-21",
     "total_count": 10,
     "days_seen": 1
   },
-  "保持": {
-    "last_seen": "2026-10-21",
+  "科技股回": {
+    "last_seen": "2026-10-22",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "收最低": {
+    "last_seen": "2026-10-22",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "提升": {
+    "last_seen": "2026-10-22",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "薔琵": {
+    "last_seen": "2026-10-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "轉賣": {
+    "last_seen": "2026-10-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "半導體設備商": {
+    "last_seen": "2026-10-22",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "近一": {
+    "last_seen": "2026-10-22",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "下降": {
+    "last_seen": "2026-10-22",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "電池": {
+    "last_seen": "2026-10-22",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "再跌": {
+    "last_seen": "2026-10-22",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "港股早": {
+    "last_seen": "2026-10-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "飆近": {
+    "last_seen": "2026-10-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "新園": {
+    "last_seen": "2026-10-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "中長": {
+    "last_seen": "2026-10-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "GTC": {
+    "last_seen": "2026-10-22",
     "total_count": 10,
     "days_seen": 1
   }

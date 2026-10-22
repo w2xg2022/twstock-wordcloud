@@ -172,8 +172,8 @@
     "total_count": 36
   },
   "提振": {
-    "first_promoted": "2026-09-30",
-    "total_count": 44
+    "first_promoted": "2026-10-22",
+    "total_count": 42
   },
   "情緒": {
     "first_promoted": "2026-09-30",
@@ -240,8 +240,8 @@
     "total_count": 32
   },
   "馬斯克": {
-    "first_promoted": "2026-10-15",
-    "total_count": 40
+    "first_promoted": "2026-10-22",
+    "total_count": 34
   },
   "Terafab": {
     "first_promoted": "2026-10-04",
@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-20",
-    "total_count": 40
+    "first_promoted": "2026-10-22",
+    "total_count": 46
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -522,5 +522,21 @@
   "電池": {
     "first_promoted": "2026-10-21",
     "total_count": 34
+  },
+  "衝高": {
+    "first_promoted": "2026-10-22",
+    "total_count": 30
+  },
+  "回升": {
+    "first_promoted": "2026-10-22",
+    "total_count": 32
+  },
+  "能力": {
+    "first_promoted": "2026-10-22",
+    "total_count": 34
+  },
+  "貨幣": {
+    "first_promoted": "2026-10-22",
+    "total_count": 32
   }
 }
