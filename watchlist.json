@@ -35,9 +35,9 @@
     "days_seen": 1
   },
   "製造業": {
-    "last_seen": "2026-07-01",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-10-24",
+    "total_count": 26,
+    "days_seen": 3
   },
   "創歷史": {
     "last_seen": "2026-08-08",
@@ -1779,11 +1779,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "主動式": {
-    "last_seen": "2026-08-06",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "物流": {
     "last_seen": "2026-08-03",
     "total_count": 16,
@@ -3161,11 +3156,6 @@
   },
   "系統": {
     "last_seen": "2026-10-14",
-    "total_count": 26,
-    "days_seen": 2
-  },
-  "部分": {
-    "last_seen": "2026-10-20",
     "total_count": 26,
     "days_seen": 2
   },
@@ -4724,11 +4714,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "大單": {
-    "last_seen": "2026-09-30",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "花旗": {
     "last_seen": "2026-10-14",
     "total_count": 20,
@@ -5170,9 +5155,9 @@
     "days_seen": 1
   },
   "PMI": {
-    "last_seen": "2026-10-01",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-24",
+    "total_count": 22,
+    "days_seen": 2
   },
   "無塵室": {
     "last_seen": "2026-10-01",
@@ -5580,9 +5565,9 @@
     "days_seen": 1
   },
   "逆勢走": {
-    "last_seen": "2026-10-10",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-10-24",
+    "total_count": 24,
+    "days_seen": 3
   },
   "近期與": {
     "last_seen": "2026-10-06",
@@ -5598,16 +5583,6 @@
     "last_seen": "2026-10-07",
     "total_count": 20,
     "days_seen": 1
-  },
-  "上漲": {
-    "last_seen": "2026-10-07",
-    "total_count": 20,
-    "days_seen": 1
-  },
-  "日韓": {
-    "last_seen": "2026-10-22",
-    "total_count": 28,
-    "days_seen": 2
   },
   "還在": {
     "last_seen": "2026-10-07",
@@ -5780,9 +5755,9 @@
     "days_seen": 2
   },
   "股午後": {
-    "last_seen": "2026-10-09",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-24",
+    "total_count": 18,
+    "days_seen": 2
   },
   "債券": {
     "last_seen": "2026-10-09",
@@ -5845,9 +5820,9 @@
     "days_seen": 1
   },
   "原油": {
-    "last_seen": "2026-10-10",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-24",
+    "total_count": 22,
+    "days_seen": 2
   },
   "傳統產業": {
     "last_seen": "2026-10-10",
@@ -5878,11 +5853,6 @@
     "last_seen": "2026-10-10",
     "total_count": 10,
     "days_seen": 1
-  },
-  "績效": {
-    "last_seen": "2026-10-11",
-    "total_count": 22,
-    "days_seen": 2
   },
   "大型": {
     "last_seen": "2026-10-10",
@@ -6319,11 +6289,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "科技股賣壓": {
-    "last_seen": "2026-10-16",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "分析師曝": {
     "last_seen": "2026-10-16",
     "total_count": 16,
@@ -6640,9 +6605,9 @@
     "days_seen": 1
   },
   "工具": {
-    "last_seen": "2026-10-20",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-24",
+    "total_count": 22,
+    "days_seen": 2
   },
   "機器人概念": {
     "last_seen": "2026-10-20",
@@ -6867,6 +6832,76 @@
   "GTC": {
     "last_seen": "2026-10-22",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "小禮物": {
+    "last_seen": "2026-10-24",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "業生": {
+    "last_seen": "2026-10-24",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "破季線": {
+    "last_seen": "2026-10-24",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "收斂": {
+    "last_seen": "2026-10-24",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-10-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "終止": {
+    "last_seen": "2026-10-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "SUN": {
+    "last_seen": "2026-10-24",
+    "total_count": 11,
+    "days_seen": 1
+  },
+  "科技巨頭財報": {
+    "last_seen": "2026-10-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台股基金": {
+    "last_seen": "2026-10-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "特別獎金": {
+    "last_seen": "2026-10-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "還沒": {
+    "last_seen": "2026-10-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "活動": {
+    "last_seen": "2026-10-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "中小": {
+    "last_seen": "2026-10-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "強調": {
+    "last_seen": "2026-10-24",
+    "total_count": 8,
     "days_seen": 1
   }
 }

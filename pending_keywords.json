@@ -100,8 +100,8 @@
     "total_count": 32
   },
   "上漲": {
-    "first_promoted": "2026-09-26",
-    "total_count": 52
+    "first_promoted": "2026-10-24",
+    "total_count": 40
   },
   "北水": {
     "first_promoted": "2026-09-26",
@@ -152,7 +152,7 @@
     "total_count": 44
   },
   "績效": {
-    "first_promoted": "2026-10-04",
+    "first_promoted": "2026-10-24",
     "total_count": 42
   },
   "連假後": {
@@ -196,8 +196,8 @@
     "total_count": 30
   },
   "日韓": {
-    "first_promoted": "2026-10-01",
-    "total_count": 32
+    "first_promoted": "2026-10-24",
+    "total_count": 38
   },
   "台灣晶片公司": {
     "first_promoted": "2026-10-02",
@@ -384,8 +384,8 @@
     "total_count": 32
   },
   "科技股賣壓": {
-    "first_promoted": "2026-10-14",
-    "total_count": 40
+    "first_promoted": "2026-10-24",
+    "total_count": 36
   },
   "來最": {
     "first_promoted": "2026-10-14",
@@ -538,5 +538,29 @@
   "貨幣": {
     "first_promoted": "2026-10-22",
     "total_count": 32
+  },
+  "運動會": {
+    "first_promoted": "2026-10-24",
+    "total_count": 46
+  },
+  "每人": {
+    "first_promoted": "2026-10-24",
+    "total_count": 34
+  },
+  "獎金": {
+    "first_promoted": "2026-10-24",
+    "total_count": 34
+  },
+  "主動式": {
+    "first_promoted": "2026-10-24",
+    "total_count": 40
+  },
+  "部分": {
+    "first_promoted": "2026-10-24",
+    "total_count": 38
+  },
+  "大單": {
+    "first_promoted": "2026-10-24",
+    "total_count": 36
   }
 }
