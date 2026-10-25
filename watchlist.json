@@ -59,11 +59,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "工廠": {
-    "last_seen": "2026-10-03",
-    "total_count": 28,
-    "days_seen": 3
-  },
   "重回": {
     "last_seen": "2026-06-15",
     "total_count": 8,
@@ -495,9 +490,9 @@
     "days_seen": 2
   },
   "前十": {
-    "last_seen": "2026-08-03",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-10-25",
+    "total_count": 28,
+    "days_seen": 3
   },
   "年最": {
     "last_seen": "2026-07-01",
@@ -1570,11 +1565,6 @@
     "days_seen": 1
   },
   "廠區": {
-    "last_seen": "2026-07-29",
-    "total_count": 16,
-    "days_seen": 1
-  },
-  "監管": {
     "last_seen": "2026-07-29",
     "total_count": 16,
     "days_seen": 1
@@ -3450,9 +3440,9 @@
     "days_seen": 1
   },
   "資金轉向": {
-    "last_seen": "2026-09-05",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-25",
+    "total_count": 20,
+    "days_seen": 2
   },
   "貿易逆差": {
     "last_seen": "2026-09-05",
@@ -5195,9 +5185,9 @@
     "days_seen": 1
   },
   "只是": {
-    "last_seen": "2026-10-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-25",
+    "total_count": 16,
+    "days_seen": 2
   },
   "買氣": {
     "last_seen": "2026-10-01",
@@ -5959,11 +5949,6 @@
     "total_count": 24,
     "days_seen": 1
   },
-  "補跌": {
-    "last_seen": "2026-10-12",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "總經理遭羈押": {
     "last_seen": "2026-10-12",
     "total_count": 18,
@@ -6529,11 +6514,6 @@
     "total_count": 9,
     "days_seen": 1
   },
-  "TVBS": {
-    "last_seen": "2026-10-21",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "台積電擴廠": {
     "last_seen": "2026-10-18",
     "total_count": 8,
@@ -6901,6 +6881,76 @@
   },
   "強調": {
     "last_seen": "2026-10-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "信任": {
+    "last_seen": "2026-10-25",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "期中選舉": {
+    "last_seen": "2026-10-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "時間": {
+    "last_seen": "2026-10-25",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "退休": {
+    "last_seen": "2026-10-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "仰賴": {
+    "last_seen": "2026-10-25",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "失守季線": {
+    "last_seen": "2026-10-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "配置": {
+    "last_seen": "2026-10-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "戰爭": {
+    "last_seen": "2026-10-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "改變": {
+    "last_seen": "2026-10-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "大軍": {
+    "last_seen": "2026-10-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "撐起": {
+    "last_seen": "2026-10-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "複委託": {
+    "last_seen": "2026-10-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "避險資": {
+    "last_seen": "2026-10-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "學者": {
+    "last_seen": "2026-10-25",
     "total_count": 8,
     "days_seen": 1
   }

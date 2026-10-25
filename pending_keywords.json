@@ -562,5 +562,21 @@
   "大單": {
     "first_promoted": "2026-10-24",
     "total_count": 36
+  },
+  "監管": {
+    "first_promoted": "2026-10-25",
+    "total_count": 32
+  },
+  "補跌": {
+    "first_promoted": "2026-10-25",
+    "total_count": 34
+  },
+  "工廠": {
+    "first_promoted": "2026-10-25",
+    "total_count": 40
+  },
+  "TVBS": {
+    "first_promoted": "2026-10-25",
+    "total_count": 30
   }
 }
