@@ -256,7 +256,7 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-22",
+    "first_promoted": "2026-10-26",
     "total_count": 46
   },
   "重要": {
@@ -408,8 +408,8 @@
     "total_count": 34
   },
   "三季度": {
-    "first_promoted": "2026-10-16",
-    "total_count": 40
+    "first_promoted": "2026-10-26",
+    "total_count": 42
   },
   "青年": {
     "first_promoted": "2026-10-16",
@@ -578,5 +578,25 @@
   "TVBS": {
     "first_promoted": "2026-10-25",
     "total_count": 30
+  },
+  "先看": {
+    "first_promoted": "2026-10-26",
+    "total_count": 42
+  },
+  "第三季": {
+    "first_promoted": "2026-10-26",
+    "total_count": 34
+  },
+  "工具": {
+    "first_promoted": "2026-10-26",
+    "total_count": 30
+  },
+  "擴張": {
+    "first_promoted": "2026-10-26",
+    "total_count": 36
+  },
+  "債務": {
+    "first_promoted": "2026-10-26",
+    "total_count": 34
   }
 }
