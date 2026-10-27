@@ -256,7 +256,7 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-26",
+    "first_promoted": "2026-10-27",
     "total_count": 46
   },
   "重要": {
@@ -598,5 +598,17 @@
   "債務": {
     "first_promoted": "2026-10-26",
     "total_count": 34
+  },
+  "漲逾": {
+    "first_promoted": "2026-10-27",
+    "total_count": 64
+  },
+  "開高走低": {
+    "first_promoted": "2026-10-27",
+    "total_count": 38
+  },
+  "匯出": {
+    "first_promoted": "2026-10-27",
+    "total_count": 32
   }
 }

@@ -575,9 +575,9 @@
     "days_seen": 2
   },
   "科技股走": {
-    "last_seen": "2026-07-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 18,
+    "days_seen": 2
   },
   "即將": {
     "last_seen": "2026-07-02",
@@ -620,9 +620,9 @@
     "days_seen": 1
   },
   "計劃": {
-    "last_seen": "2026-07-03",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 24,
+    "days_seen": 2
   },
   "無人機概念股": {
     "last_seen": "2026-07-03",
@@ -1309,11 +1309,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "開高走低": {
-    "last_seen": "2026-07-23",
-    "total_count": 14,
-    "days_seen": 1
-  },
   "受惠": {
     "last_seen": "2026-07-23",
     "total_count": 14,
@@ -1330,9 +1325,9 @@
     "days_seen": 1
   },
   "護國": {
-    "last_seen": "2026-07-23",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 22,
+    "days_seen": 2
   },
   "國民黨要成": {
     "last_seen": "2026-07-25",
@@ -2180,9 +2175,9 @@
     "days_seen": 1
   },
   "季業績": {
-    "last_seen": "2026-08-12",
-    "total_count": 20,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 28,
+    "days_seen": 2
   },
   "騰訊音樂": {
     "last_seen": "2026-08-12",
@@ -2590,9 +2585,9 @@
     "days_seen": 1
   },
   "下滑": {
-    "last_seen": "2026-08-20",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 28,
+    "days_seen": 2
   },
   "超車": {
     "last_seen": "2026-09-23",
@@ -2960,11 +2955,6 @@
     "days_seen": 1
   },
   "量能": {
-    "last_seen": "2026-08-29",
-    "total_count": 14,
-    "days_seen": 1
-  },
-  "漲逾": {
     "last_seen": "2026-08-29",
     "total_count": 14,
     "days_seen": 1
@@ -5415,9 +5405,9 @@
     "days_seen": 1
   },
   "指標股": {
-    "last_seen": "2026-10-05",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 16,
+    "days_seen": 2
   },
   "雙創": {
     "last_seen": "2026-10-05",
@@ -5860,9 +5850,9 @@
     "days_seen": 1
   },
   "鬼故事": {
-    "last_seen": "2026-10-10",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 16,
+    "days_seen": 2
   },
   "合作有": {
     "last_seen": "2026-10-10",
@@ -6140,9 +6130,9 @@
     "days_seen": 1
   },
   "經濟學": {
-    "last_seen": "2026-10-14",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 22,
+    "days_seen": 2
   },
   "美國半導體展": {
     "last_seen": "2026-10-14",
@@ -6405,9 +6395,9 @@
     "days_seen": 1
   },
   "科技產業": {
-    "last_seen": "2026-10-17",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 21,
+    "days_seen": 2
   },
   "賴清德": {
     "last_seen": "2026-10-17",
@@ -6499,11 +6489,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "匯出": {
-    "last_seen": "2026-10-19",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "至少": {
     "last_seen": "2026-10-19",
     "total_count": 14,
@@ -6580,14 +6565,14 @@
     "days_seen": 1
   },
   "巨頭財報": {
-    "last_seen": "2026-10-20",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 20,
+    "days_seen": 2
   },
   "股回神": {
-    "last_seen": "2026-10-20",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 26,
+    "days_seen": 2
   },
   "產業發展": {
     "last_seen": "2026-10-20",
@@ -6855,9 +6840,9 @@
     "days_seen": 1
   },
   "期中選舉": {
-    "last_seen": "2026-10-25",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-27",
+    "total_count": 24,
+    "days_seen": 2
   },
   "時間": {
     "last_seen": "2026-10-25",
@@ -7011,6 +6996,76 @@
   },
   "雙重": {
     "last_seen": "2026-10-26",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "三季度": {
+    "last_seen": "2026-10-27",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "前三季": {
+    "last_seen": "2026-10-27",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "第三季": {
+    "last_seen": "2026-10-27",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "外資大": {
+    "last_seen": "2026-10-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "熱情": {
+    "last_seen": "2026-10-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "增速": {
+    "last_seen": "2026-10-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "尚未": {
+    "last_seen": "2026-10-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "淨利同比": {
+    "last_seen": "2026-10-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "逢低": {
+    "last_seen": "2026-10-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "重燃": {
+    "last_seen": "2026-10-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "勢與": {
+    "last_seen": "2026-10-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "三季度純利": {
+    "last_seen": "2026-10-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "神山": {
+    "last_seen": "2026-10-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "半根": {
+    "last_seen": "2026-10-27",
     "total_count": 8,
     "days_seen": 1
   }
