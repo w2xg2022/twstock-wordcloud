@@ -2479,11 +2479,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "留意": {
-    "last_seen": "2026-10-11",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "F20": {
     "last_seen": "2026-08-18",
     "total_count": 24,
@@ -2855,9 +2850,9 @@
     "days_seen": 1
   },
   "利同比增": {
-    "last_seen": "2026-08-27",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-10-28",
+    "total_count": 22,
+    "days_seen": 2
   },
   "強攻": {
     "last_seen": "2026-08-27",
@@ -5074,11 +5069,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "工業": {
-    "last_seen": "2026-10-22",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "股同步": {
     "last_seen": "2026-10-16",
     "total_count": 18,
@@ -5473,11 +5463,6 @@
     "last_seen": "2026-10-06",
     "total_count": 14,
     "days_seen": 1
-  },
-  "前三": {
-    "last_seen": "2026-10-07",
-    "total_count": 24,
-    "days_seen": 2
   },
   "喊買": {
     "last_seen": "2026-10-06",
@@ -6129,11 +6114,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "經濟學": {
-    "last_seen": "2026-10-27",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "美國半導體展": {
     "last_seen": "2026-10-14",
     "total_count": 8,
@@ -6380,9 +6360,9 @@
     "days_seen": 1
   },
   "連二": {
-    "last_seen": "2026-10-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-28",
+    "total_count": 22,
+    "days_seen": 2
   },
   "驗證": {
     "last_seen": "2026-10-17",
@@ -6640,9 +6620,9 @@
     "days_seen": 1
   },
   "平臺": {
-    "last_seen": "2026-10-21",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-28",
+    "total_count": 24,
+    "days_seen": 2
   },
   "終結": {
     "last_seen": "2026-10-21",
@@ -6839,11 +6819,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "期中選舉": {
-    "last_seen": "2026-10-27",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "時間": {
     "last_seen": "2026-10-25",
     "total_count": 16,
@@ -6999,15 +6974,10 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "三季度": {
-    "last_seen": "2026-10-27",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "前三季": {
-    "last_seen": "2026-10-27",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-10-28",
+    "total_count": 28,
+    "days_seen": 2
   },
   "第三季": {
     "last_seen": "2026-10-27",
@@ -7045,9 +7015,9 @@
     "days_seen": 1
   },
   "重燃": {
-    "last_seen": "2026-10-27",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-28",
+    "total_count": 24,
+    "days_seen": 2
   },
   "勢與": {
     "last_seen": "2026-10-27",
@@ -7066,6 +7036,81 @@
   },
   "半根": {
     "last_seen": "2026-10-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "匯出": {
+    "last_seen": "2026-10-28",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "股走強": {
+    "last_seen": "2026-10-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "計畫": {
+    "last_seen": "2026-10-28",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "買盤回": {
+    "last_seen": "2026-10-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "提振": {
+    "last_seen": "2026-10-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "儲存": {
+    "last_seen": "2026-10-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "補助": {
+    "last_seen": "2026-10-28",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "續彈": {
+    "last_seen": "2026-10-28",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "法人買超": {
+    "last_seen": "2026-10-28",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "櫃買": {
+    "last_seen": "2026-10-28",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "哪些": {
+    "last_seen": "2026-10-28",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "回流": {
+    "last_seen": "2026-10-28",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "升至": {
+    "last_seen": "2026-10-28",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "貨幣": {
+    "last_seen": "2026-10-28",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "上銀": {
+    "last_seen": "2026-10-28",
     "total_count": 8,
     "days_seen": 1
   }
