@@ -880,9 +880,9 @@
     "days_seen": 1
   },
   "中央": {
-    "last_seen": "2026-07-12",
-    "total_count": 9,
-    "days_seen": 1
+    "last_seen": "2026-10-29",
+    "total_count": 19,
+    "days_seen": 2
   },
   "這些族群": {
     "last_seen": "2026-07-12",
@@ -1314,11 +1314,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "燒錢": {
-    "last_seen": "2026-07-27",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "成本": {
     "last_seen": "2026-07-23",
     "total_count": 14,
@@ -1558,11 +1553,6 @@
     "last_seen": "2026-07-29",
     "total_count": 16,
     "days_seen": 1
-  },
-  "現金": {
-    "last_seen": "2026-10-17",
-    "total_count": 24,
-    "days_seen": 2
   },
   "停工": {
     "last_seen": "2026-07-29",
@@ -2214,11 +2204,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "Lumentum": {
-    "last_seen": "2026-10-10",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "CoreWeave": {
     "last_seen": "2026-08-13",
     "total_count": 28,
@@ -2684,11 +2669,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "Marvell": {
-    "last_seen": "2026-08-29",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "半導體材料": {
     "last_seen": "2026-08-24",
     "total_count": 24,
@@ -3070,9 +3050,9 @@
     "days_seen": 1
   },
   "短期": {
-    "last_seen": "2026-08-31",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-29",
+    "total_count": 20,
+    "days_seen": 2
   },
   "接單": {
     "last_seen": "2026-08-31",
@@ -3237,11 +3217,6 @@
   "G20": {
     "last_seen": "2026-09-03",
     "total_count": 12,
-    "days_seen": 1
-  },
-  "侯永清": {
-    "last_seen": "2026-09-03",
-    "total_count": 10,
     "days_seen": 1
   },
   "深化": {
@@ -3564,11 +3539,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "產值": {
-    "last_seen": "2026-09-25",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "納入港股通": {
     "last_seen": "2026-09-08",
     "total_count": 24,
@@ -3585,9 +3555,9 @@
     "days_seen": 1
   },
   "通信": {
-    "last_seen": "2026-09-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-10-29",
+    "total_count": 24,
+    "days_seen": 2
   },
   "KeyBanc": {
     "last_seen": "2026-09-08",
@@ -4434,11 +4404,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "國內": {
-    "last_seen": "2026-10-12",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "廠商": {
     "last_seen": "2026-09-22",
     "total_count": 10,
@@ -4688,11 +4653,6 @@
     "last_seen": "2026-09-25",
     "total_count": 12,
     "days_seen": 1
-  },
-  "高檔震盪": {
-    "last_seen": "2026-10-18",
-    "total_count": 28,
-    "days_seen": 3
   },
   "商業化": {
     "last_seen": "2026-09-25",
@@ -5579,11 +5539,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "核電": {
-    "last_seen": "2026-10-07",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "全線": {
     "last_seen": "2026-10-20",
     "total_count": 18,
@@ -6076,11 +6031,6 @@
   },
   "股大跌": {
     "last_seen": "2026-10-16",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "再度": {
-    "last_seen": "2026-10-20",
     "total_count": 24,
     "days_seen": 2
   },
@@ -7005,9 +6955,9 @@
     "days_seen": 1
   },
   "淨利同比": {
-    "last_seen": "2026-10-27",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-29",
+    "total_count": 28,
+    "days_seen": 2
   },
   "逢低": {
     "last_seen": "2026-10-27",
@@ -7112,6 +7062,76 @@
   "上銀": {
     "last_seen": "2026-10-28",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "前三季度": {
+    "last_seen": "2026-10-29",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "TSIA": {
+    "last_seen": "2026-10-29",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "存儲概念": {
+    "last_seen": "2026-10-29",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "盤後重挫": {
+    "last_seen": "2026-10-29",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "台中廠": {
+    "last_seen": "2026-10-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "支持": {
+    "last_seen": "2026-10-29",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "友達中科廠": {
+    "last_seen": "2026-10-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "台股失守": {
+    "last_seen": "2026-10-29",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "友達台中廠": {
+    "last_seen": "2026-10-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "存儲概念股": {
+    "last_seen": "2026-10-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "淨利同比增": {
+    "last_seen": "2026-10-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "盤後跳水": {
+    "last_seen": "2026-10-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "廠房": {
+    "last_seen": "2026-10-29",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Azure": {
+    "last_seen": "2026-10-29",
+    "total_count": 10,
     "days_seen": 1
   }
 }

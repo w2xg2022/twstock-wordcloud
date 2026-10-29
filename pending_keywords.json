@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-28",
-    "total_count": 38
+    "first_promoted": "2026-10-29",
+    "total_count": 66
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -408,8 +408,8 @@
     "total_count": 34
   },
   "三季度": {
-    "first_promoted": "2026-10-28",
-    "total_count": 42
+    "first_promoted": "2026-10-29",
+    "total_count": 48
   },
   "青年": {
     "first_promoted": "2026-10-16",
@@ -622,5 +622,45 @@
   "期中選舉": {
     "first_promoted": "2026-10-28",
     "total_count": 32
+  },
+  "現金": {
+    "first_promoted": "2026-10-29",
+    "total_count": 56
+  },
+  "產值": {
+    "first_promoted": "2026-10-29",
+    "total_count": 50
+  },
+  "核電": {
+    "first_promoted": "2026-10-29",
+    "total_count": 30
+  },
+  "侯永清": {
+    "first_promoted": "2026-10-29",
+    "total_count": 30
+  },
+  "Lumentum": {
+    "first_promoted": "2026-10-29",
+    "total_count": 40
+  },
+  "燒錢": {
+    "first_promoted": "2026-10-29",
+    "total_count": 40
+  },
+  "再度": {
+    "first_promoted": "2026-10-29",
+    "total_count": 34
+  },
+  "國內": {
+    "first_promoted": "2026-10-29",
+    "total_count": 30
+  },
+  "Marvell": {
+    "first_promoted": "2026-10-29",
+    "total_count": 32
+  },
+  "高檔震盪": {
+    "first_promoted": "2026-10-29",
+    "total_count": 36
   }
 }
