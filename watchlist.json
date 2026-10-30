@@ -280,9 +280,9 @@
     "days_seen": 1
   },
   "市值蒸發": {
-    "last_seen": "2026-06-23",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-30",
+    "total_count": 24,
+    "days_seen": 2
   },
   "科技股遭": {
     "last_seen": "2026-06-23",
@@ -305,11 +305,6 @@
     "days_seen": 1
   },
   "跌千點": {
-    "last_seen": "2026-06-23",
-    "total_count": 8,
-    "days_seen": 1
-  },
-  "盤重挫": {
     "last_seen": "2026-06-23",
     "total_count": 8,
     "days_seen": 1
@@ -6324,11 +6319,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "科技產業": {
-    "last_seen": "2026-10-27",
-    "total_count": 21,
-    "days_seen": 2
-  },
   "賴清德": {
     "last_seen": "2026-10-17",
     "total_count": 10,
@@ -6860,9 +6850,9 @@
     "days_seen": 1
   },
   "科技股財報": {
-    "last_seen": "2026-10-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-30",
+    "total_count": 22,
+    "days_seen": 2
   },
   "布局機會": {
     "last_seen": "2026-10-26",
@@ -6875,9 +6865,9 @@
     "days_seen": 1
   },
   "股異動丨": {
-    "last_seen": "2026-10-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-30",
+    "total_count": 26,
+    "days_seen": 2
   },
   "恐補跌": {
     "last_seen": "2026-10-26",
@@ -6928,11 +6918,6 @@
     "last_seen": "2026-10-28",
     "total_count": 28,
     "days_seen": 2
-  },
-  "第三季": {
-    "last_seen": "2026-10-27",
-    "total_count": 16,
-    "days_seen": 1
   },
   "外資大": {
     "last_seen": "2026-10-27",
@@ -7069,11 +7054,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "TSIA": {
-    "last_seen": "2026-10-29",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "存儲概念": {
     "last_seen": "2026-10-29",
     "total_count": 18,
@@ -7115,9 +7095,9 @@
     "days_seen": 1
   },
   "淨利同比增": {
-    "last_seen": "2026-10-29",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-30",
+    "total_count": 18,
+    "days_seen": 2
   },
   "盤後跳水": {
     "last_seen": "2026-10-29",
@@ -7132,6 +7112,101 @@
   "Azure": {
     "last_seen": "2026-10-29",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "台達電": {
+    "last_seen": "2026-10-30",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "蒸發": {
+    "last_seen": "2026-10-30",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "破半年線": {
+    "last_seen": "2026-10-30",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "半導體產值": {
+    "last_seen": "2026-10-30",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "台股崩": {
+    "last_seen": "2026-10-30",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "消化": {
+    "last_seen": "2026-10-30",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "友邦": {
+    "last_seen": "2026-10-30",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "不如預期": {
+    "last_seen": "2026-10-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "第三季度": {
+    "last_seen": "2026-10-30",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "經濟增長": {
+    "last_seen": "2026-10-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "第四季": {
+    "last_seen": "2026-10-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "七大": {
+    "last_seen": "2026-10-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "失色": {
+    "last_seen": "2026-10-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "PC": {
+    "last_seen": "2026-10-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Intel": {
+    "last_seen": "2026-10-30",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "財報不如預期": {
+    "last_seen": "2026-10-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "科技股暴跌": {
+    "last_seen": "2026-10-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "經濟成長": {
+    "last_seen": "2026-10-30",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "財報引爆": {
+    "last_seen": "2026-10-30",
+    "total_count": 8,
     "days_seen": 1
   }
 }

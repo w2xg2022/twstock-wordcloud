@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-29",
-    "total_count": 66
+    "first_promoted": "2026-10-30",
+    "total_count": 82
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -408,8 +408,8 @@
     "total_count": 34
   },
   "三季度": {
-    "first_promoted": "2026-10-29",
-    "total_count": 48
+    "first_promoted": "2026-10-30",
+    "total_count": 46
   },
   "青年": {
     "first_promoted": "2026-10-16",
@@ -584,8 +584,8 @@
     "total_count": 42
   },
   "第三季": {
-    "first_promoted": "2026-10-26",
-    "total_count": 34
+    "first_promoted": "2026-10-30",
+    "total_count": 48
   },
   "工具": {
     "first_promoted": "2026-10-26",
@@ -662,5 +662,21 @@
   "高檔震盪": {
     "first_promoted": "2026-10-29",
     "total_count": 36
+  },
+  "半年線": {
+    "first_promoted": "2026-10-30",
+    "total_count": 42
+  },
+  "盤重挫": {
+    "first_promoted": "2026-10-30",
+    "total_count": 36
+  },
+  "TSIA": {
+    "first_promoted": "2026-10-30",
+    "total_count": 34
+  },
+  "科技產業": {
+    "first_promoted": "2026-10-30",
+    "total_count": 31
   }
 }
