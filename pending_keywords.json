@@ -388,8 +388,8 @@
     "total_count": 36
   },
   "來最": {
-    "first_promoted": "2026-10-14",
-    "total_count": 36
+    "first_promoted": "2026-10-31",
+    "total_count": 34
   },
   "開高走": {
     "first_promoted": "2026-10-14",
@@ -400,8 +400,8 @@
     "total_count": 30
   },
   "台達電": {
-    "first_promoted": "2026-10-15",
-    "total_count": 32
+    "first_promoted": "2026-10-31",
+    "total_count": 38
   },
   "聯想": {
     "first_promoted": "2026-10-15",
@@ -678,5 +678,9 @@
   "科技產業": {
     "first_promoted": "2026-10-30",
     "total_count": 31
+  },
+  "蒸發": {
+    "first_promoted": "2026-10-31",
+    "total_count": 40
   }
 }

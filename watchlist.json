@@ -5325,9 +5325,9 @@
     "days_seen": 1
   },
   "探索": {
-    "last_seen": "2026-10-04",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-31",
+    "total_count": 18,
+    "days_seen": 2
   },
   "辭職": {
     "last_seen": "2026-10-04",
@@ -6015,9 +6015,9 @@
     "days_seen": 1
   },
   "股全線": {
-    "last_seen": "2026-10-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-10-31",
+    "total_count": 20,
+    "days_seen": 2
   },
   "美國半導體": {
     "last_seen": "2026-10-14",
@@ -6245,11 +6245,6 @@
     "days_seen": 1
   },
   "飛天": {
-    "last_seen": "2026-10-17",
-    "total_count": 18,
-    "days_seen": 1
-  },
-  "來最": {
     "last_seen": "2026-10-17",
     "total_count": 18,
     "days_seen": 1
@@ -7114,16 +7109,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "台達電": {
-    "last_seen": "2026-10-30",
-    "total_count": 26,
-    "days_seen": 1
-  },
-  "蒸發": {
-    "last_seen": "2026-10-30",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "破半年線": {
     "last_seen": "2026-10-30",
     "total_count": 24,
@@ -7180,14 +7165,14 @@
     "days_seen": 1
   },
   "PC": {
-    "last_seen": "2026-10-30",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-31",
+    "total_count": 20,
+    "days_seen": 2
   },
   "Intel": {
-    "last_seen": "2026-10-30",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-10-31",
+    "total_count": 22,
+    "days_seen": 2
   },
   "財報不如預期": {
     "last_seen": "2026-10-30",
@@ -7205,7 +7190,117 @@
     "days_seen": 1
   },
   "財報引爆": {
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
+    "total_count": 16,
+    "days_seen": 2
+  },
+  "三季": {
+    "last_seen": "2026-10-31",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "貴金屬": {
+    "last_seen": "2026-10-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "現金": {
+    "last_seen": "2026-10-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "石油": {
+    "last_seen": "2026-10-31",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "期中選舉": {
+    "last_seen": "2026-10-31",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "中期選舉": {
+    "last_seen": "2026-10-31",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "砍台股": {
+    "last_seen": "2026-10-31",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "費半崩": {
+    "last_seen": "2026-10-31",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "加密概念股": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "估值修正": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "逾千億": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "狂賣": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "殘酷": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "狂殺": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "狂砍": {
+    "last_seen": "2026-10-31",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "超越": {
+    "last_seen": "2026-10-31",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "TVBS": {
+    "last_seen": "2026-10-31",
+    "total_count": 9,
+    "days_seen": 1
+  },
+  "科技股崩": {
+    "last_seen": "2026-10-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股遭血洗": {
+    "last_seen": "2026-10-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股價重挫": {
+    "last_seen": "2026-10-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "支出疑慮": {
+    "last_seen": "2026-10-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "財測失": {
+    "last_seen": "2026-10-31",
     "total_count": 8,
     "days_seen": 1
   }
