@@ -4150,9 +4150,9 @@
     "days_seen": 1
   },
   "房市": {
-    "last_seen": "2026-09-18",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-01",
+    "total_count": 20,
+    "days_seen": 2
   },
   "回歸": {
     "last_seen": "2026-09-28",
@@ -5050,9 +5050,9 @@
     "days_seen": 1
   },
   "封測": {
-    "last_seen": "2026-09-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-01",
+    "total_count": 16,
+    "days_seen": 2
   },
   "開募": {
     "last_seen": "2026-09-30",
@@ -7205,18 +7205,13 @@
     "days_seen": 1
   },
   "現金": {
-    "last_seen": "2026-10-31",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-01",
+    "total_count": 28,
+    "days_seen": 2
   },
   "石油": {
     "last_seen": "2026-10-31",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "期中選舉": {
-    "last_seen": "2026-10-31",
-    "total_count": 14,
     "days_seen": 1
   },
   "中期選舉": {
@@ -7250,9 +7245,9 @@
     "days_seen": 1
   },
   "狂賣": {
-    "last_seen": "2026-10-31",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-01",
+    "total_count": 24,
+    "days_seen": 2
   },
   "殘酷": {
     "last_seen": "2026-10-31",
@@ -7301,6 +7296,111 @@
   },
   "財測失": {
     "last_seen": "2026-10-31",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "北市": {
+    "last_seen": "2026-11-01",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "資金流向": {
+    "last_seen": "2026-11-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "大逃殺": {
+    "last_seen": "2026-11-01",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "科技股大": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "主動式": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "許淑華": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "業成果": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "危險": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "亂流": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "分化": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "最多": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "答案": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "德銀": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "防禦": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "增加": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "驚人": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "承諾": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "營商": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "齊聚": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "青年": {
+    "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "社會": {
+    "last_seen": "2026-11-01",
     "total_count": 8,
     "days_seen": 1
   }
