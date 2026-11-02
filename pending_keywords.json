@@ -620,7 +620,7 @@
     "total_count": 34
   },
   "期中選舉": {
-    "first_promoted": "2026-11-01",
+    "first_promoted": "2026-11-02",
     "total_count": 34
   },
   "現金": {
@@ -682,5 +682,13 @@
   "蒸發": {
     "first_promoted": "2026-10-31",
     "total_count": 40
+  },
+  "系統": {
+    "first_promoted": "2026-11-02",
+    "total_count": 36
+  },
+  "通信": {
+    "first_promoted": "2026-11-02",
+    "total_count": 34
   }
 }

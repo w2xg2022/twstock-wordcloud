@@ -1095,9 +1095,9 @@
     "days_seen": 1
   },
   "毛利": {
-    "last_seen": "2026-07-19",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 24,
+    "days_seen": 2
   },
   "家揭": {
     "last_seen": "2026-07-19",
@@ -3094,11 +3094,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "系統": {
-    "last_seen": "2026-10-14",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "調整": {
     "last_seen": "2026-09-13",
     "total_count": 24,
@@ -3530,9 +3525,9 @@
     "days_seen": 1
   },
   "保險": {
-    "last_seen": "2026-09-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 20,
+    "days_seen": 2
   },
   "納入港股通": {
     "last_seen": "2026-09-08",
@@ -3548,11 +3543,6 @@
     "last_seen": "2026-09-08",
     "total_count": 12,
     "days_seen": 1
-  },
-  "通信": {
-    "last_seen": "2026-10-29",
-    "total_count": 24,
-    "days_seen": 2
   },
   "KeyBanc": {
     "last_seen": "2026-09-08",
@@ -4780,9 +4770,9 @@
     "days_seen": 1
   },
   "牽動": {
-    "last_seen": "2026-09-27",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 18,
+    "days_seen": 2
   },
   "跟上": {
     "last_seen": "2026-09-27",
@@ -4980,9 +4970,9 @@
     "days_seen": 1
   },
   "鳳凰城": {
-    "last_seen": "2026-09-30",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 24,
+    "days_seen": 2
   },
   "盤前盤後": {
     "last_seen": "2026-09-30",
@@ -5155,9 +5145,9 @@
     "days_seen": 1
   },
   "交付": {
-    "last_seen": "2026-10-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 18,
+    "days_seen": 2
   },
   "債券市場": {
     "last_seen": "2026-10-02",
@@ -6200,9 +6190,9 @@
     "days_seen": 1
   },
   "收購": {
-    "last_seen": "2026-10-16",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 22,
+    "days_seen": 2
   },
   "天量": {
     "last_seen": "2026-10-16",
@@ -6700,9 +6690,9 @@
     "days_seen": 2
   },
   "收斂": {
-    "last_seen": "2026-10-24",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 28,
+    "days_seen": 2
   },
   "終止": {
     "last_seen": "2026-10-24",
@@ -6730,9 +6720,9 @@
     "days_seen": 1
   },
   "還沒": {
-    "last_seen": "2026-10-24",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 18,
+    "days_seen": 2
   },
   "活動": {
     "last_seen": "2026-10-24",
@@ -6755,9 +6745,9 @@
     "days_seen": 1
   },
   "時間": {
-    "last_seen": "2026-10-25",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 28,
+    "days_seen": 2
   },
   "退休": {
     "last_seen": "2026-10-25",
@@ -6790,9 +6780,9 @@
     "days_seen": 1
   },
   "大軍": {
-    "last_seen": "2026-10-25",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 20,
+    "days_seen": 2
   },
   "撐起": {
     "last_seen": "2026-10-25",
@@ -6940,9 +6930,9 @@
     "days_seen": 2
   },
   "逢低": {
-    "last_seen": "2026-10-27",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-02",
+    "total_count": 20,
+    "days_seen": 2
   },
   "重燃": {
     "last_seen": "2026-10-28",
@@ -7090,9 +7080,9 @@
     "days_seen": 1
   },
   "淨利同比增": {
-    "last_seen": "2026-10-30",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-02",
+    "total_count": 28,
+    "days_seen": 3
   },
   "盤後跳水": {
     "last_seen": "2026-10-29",
@@ -7401,6 +7391,81 @@
   },
   "社會": {
     "last_seen": "2026-11-01",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "三季度": {
+    "last_seen": "2026-11-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "蒸發": {
+    "last_seen": "2026-11-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "IEEE": {
+    "last_seen": "2026-11-02",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "連三": {
+    "last_seen": "2026-11-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "助力": {
+    "last_seen": "2026-11-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "重要": {
+    "last_seen": "2026-11-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "回升": {
+    "last_seen": "2026-11-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "sNOVA": {
+    "last_seen": "2026-11-02",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "鋰電池概念股": {
+    "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "概念股集體": {
+    "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "避險需求": {
+    "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "指數跌": {
+    "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "重貶": {
+    "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "現在": {
+    "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "變數": {
+    "last_seen": "2026-11-02",
     "total_count": 8,
     "days_seen": 1
   }
