@@ -514,11 +514,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "大摩": {
-    "last_seen": "2026-07-13",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "科技股領軍": {
     "last_seen": "2026-07-01",
     "total_count": 8,
@@ -1485,9 +1480,9 @@
     "days_seen": 1
   },
   "血崩": {
-    "last_seen": "2026-07-28",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-03",
+    "total_count": 28,
+    "days_seen": 2
   },
   "盤中重挫": {
     "last_seen": "2026-09-11",
@@ -4715,9 +4710,9 @@
     "days_seen": 1
   },
   "一年": {
-    "last_seen": "2026-09-26",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-03",
+    "total_count": 22,
+    "days_seen": 2
   },
   "最愛": {
     "last_seen": "2026-09-26",
@@ -5429,11 +5424,6 @@
     "total_count": 22,
     "days_seen": 2
   },
-  "加劇": {
-    "last_seen": "2026-10-16",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "不能": {
     "last_seen": "2026-10-06",
     "total_count": 10,
@@ -5557,11 +5547,6 @@
   "假期": {
     "last_seen": "2026-10-12",
     "total_count": 20,
-    "days_seen": 2
-  },
-  "熱門": {
-    "last_seen": "2026-10-15",
-    "total_count": 22,
     "days_seen": 2
   },
   "首選": {
@@ -5695,9 +5680,9 @@
     "days_seen": 1
   },
   "連四": {
-    "last_seen": "2026-10-09",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-03",
+    "total_count": 22,
+    "days_seen": 2
   },
   "合計": {
     "last_seen": "2026-10-09",
@@ -6188,11 +6173,6 @@
     "last_seen": "2026-10-16",
     "total_count": 14,
     "days_seen": 1
-  },
-  "收購": {
-    "last_seen": "2026-11-02",
-    "total_count": 22,
-    "days_seen": 2
   },
   "天量": {
     "last_seen": "2026-10-16",
@@ -6744,11 +6724,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "時間": {
-    "last_seen": "2026-11-02",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "退休": {
     "last_seen": "2026-10-25",
     "total_count": 14,
@@ -7055,9 +7030,9 @@
     "days_seen": 1
   },
   "支持": {
-    "last_seen": "2026-10-29",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-03",
+    "total_count": 24,
+    "days_seen": 2
   },
   "友達中科廠": {
     "last_seen": "2026-10-29",
@@ -7183,11 +7158,6 @@
     "last_seen": "2026-10-31",
     "total_count": 16,
     "days_seen": 2
-  },
-  "三季": {
-    "last_seen": "2026-10-31",
-    "total_count": 22,
-    "days_seen": 1
   },
   "貴金屬": {
     "last_seen": "2026-10-31",
@@ -7395,9 +7365,9 @@
     "days_seen": 1
   },
   "三季度": {
-    "last_seen": "2026-11-02",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-03",
+    "total_count": 22,
+    "days_seen": 2
   },
   "蒸發": {
     "last_seen": "2026-11-02",
@@ -7466,6 +7436,101 @@
   },
   "變數": {
     "last_seen": "2026-11-02",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "期中選舉": {
+    "last_seen": "2026-11-03",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "二維半導體": {
+    "last_seen": "2026-11-03",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "科技股賣壓": {
+    "last_seen": "2026-11-03",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "美期中選舉": {
+    "last_seen": "2026-11-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "台日團隊": {
+    "last_seen": "2026-11-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "協會": {
+    "last_seen": "2026-11-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "救市": {
+    "last_seen": "2026-11-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "Lumentum": {
+    "last_seen": "2026-11-03",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "外資提款": {
+    "last_seen": "2026-11-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "盤重挫": {
+    "last_seen": "2026-11-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "Nature": {
+    "last_seen": "2026-11-03",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "產業用地": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "世代晶片": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "族群重挫": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "全球經濟": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "歷史第": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "第三季": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "多收": {
+    "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "喊話": {
+    "last_seen": "2026-11-03",
     "total_count": 8,
     "days_seen": 1
   }

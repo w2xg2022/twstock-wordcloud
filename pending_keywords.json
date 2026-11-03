@@ -84,7 +84,7 @@
     "total_count": 48
   },
   "時間": {
-    "first_promoted": "2026-10-16",
+    "first_promoted": "2026-11-03",
     "total_count": 36
   },
   "商業": {
@@ -216,12 +216,12 @@
     "total_count": 32
   },
   "熱門": {
-    "first_promoted": "2026-10-02",
-    "total_count": 38
+    "first_promoted": "2026-11-03",
+    "total_count": 32
   },
   "加劇": {
-    "first_promoted": "2026-10-02",
-    "total_count": 32
+    "first_promoted": "2026-11-03",
+    "total_count": 34
   },
   "息預期": {
     "first_promoted": "2026-10-03",
@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-10-30",
-    "total_count": 82
+    "first_promoted": "2026-11-03",
+    "total_count": 44
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -300,8 +300,8 @@
     "total_count": 36
   },
   "收購": {
-    "first_promoted": "2026-10-09",
-    "total_count": 44
+    "first_promoted": "2026-11-03",
+    "total_count": 30
   },
   "國慶": {
     "first_promoted": "2026-10-09",
@@ -690,5 +690,9 @@
   "通信": {
     "first_promoted": "2026-11-02",
     "total_count": 34
+  },
+  "大摩": {
+    "first_promoted": "2026-11-03",
+    "total_count": 40
   }
 }
