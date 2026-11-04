@@ -76,7 +76,7 @@
     "total_count": 36
   },
   "佈局": {
-    "first_promoted": "2026-09-24",
+    "first_promoted": "2026-11-04",
     "total_count": 30
   },
   "連假": {
@@ -396,8 +396,8 @@
     "total_count": 32
   },
   "收斂": {
-    "first_promoted": "2026-10-14",
-    "total_count": 30
+    "first_promoted": "2026-11-04",
+    "total_count": 36
   },
   "台達電": {
     "first_promoted": "2026-10-31",
@@ -408,8 +408,8 @@
     "total_count": 34
   },
   "三季度": {
-    "first_promoted": "2026-10-30",
-    "total_count": 46
+    "first_promoted": "2026-11-04",
+    "total_count": 38
   },
   "青年": {
     "first_promoted": "2026-10-16",
@@ -620,8 +620,8 @@
     "total_count": 34
   },
   "期中選舉": {
-    "first_promoted": "2026-11-02",
-    "total_count": 34
+    "first_promoted": "2026-11-04",
+    "total_count": 110
   },
   "現金": {
     "first_promoted": "2026-10-29",
@@ -694,5 +694,9 @@
   "大摩": {
     "first_promoted": "2026-11-03",
     "total_count": 40
+  },
+  "急拉": {
+    "first_promoted": "2026-11-04",
+    "total_count": 42
   }
 }

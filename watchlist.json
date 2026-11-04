@@ -579,11 +579,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "急拉": {
-    "last_seen": "2026-10-19",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "不怕": {
     "last_seen": "2026-07-02",
     "total_count": 8,
@@ -1085,9 +1080,9 @@
     "days_seen": 1
   },
   "世代": {
-    "last_seen": "2026-07-19",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 24,
+    "days_seen": 2
   },
   "毛利": {
     "last_seen": "2026-11-02",
@@ -1510,9 +1505,9 @@
     "days_seen": 1
   },
   "斷頭": {
-    "last_seen": "2026-07-29",
-    "total_count": 20,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 28,
+    "days_seen": 2
   },
   "熊本廠": {
     "last_seen": "2026-07-29",
@@ -1870,9 +1865,9 @@
     "days_seen": 1
   },
   "不斷": {
-    "last_seen": "2026-08-06",
-    "total_count": 20,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 28,
+    "days_seen": 2
   },
   "標的": {
     "last_seen": "2026-08-06",
@@ -4270,9 +4265,9 @@
     "days_seen": 1
   },
   "潛力": {
-    "last_seen": "2026-10-11",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-04",
+    "total_count": 26,
+    "days_seen": 3
   },
   "自主": {
     "last_seen": "2026-09-20",
@@ -5635,9 +5630,9 @@
     "days_seen": 2
   },
   "股午後": {
-    "last_seen": "2026-10-24",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-04",
+    "total_count": 28,
+    "days_seen": 3
   },
   "債券": {
     "last_seen": "2026-10-09",
@@ -6073,11 +6068,6 @@
     "last_seen": "2026-10-14",
     "total_count": 8,
     "days_seen": 1
-  },
-  "佈局": {
-    "last_seen": "2026-10-18",
-    "total_count": 20,
-    "days_seen": 2
   },
   "通膨升溫": {
     "last_seen": "2026-10-15",
@@ -6669,11 +6659,6 @@
     "total_count": 28,
     "days_seen": 2
   },
-  "收斂": {
-    "last_seen": "2026-11-02",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "終止": {
     "last_seen": "2026-10-24",
     "total_count": 12,
@@ -7175,9 +7160,9 @@
     "days_seen": 1
   },
   "中期選舉": {
-    "last_seen": "2026-10-31",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 24,
+    "days_seen": 2
   },
   "砍台股": {
     "last_seen": "2026-10-31",
@@ -7215,14 +7200,14 @@
     "days_seen": 1
   },
   "狂殺": {
-    "last_seen": "2026-10-31",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 22,
+    "days_seen": 2
   },
   "狂砍": {
-    "last_seen": "2026-10-31",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 18,
+    "days_seen": 2
   },
   "超越": {
     "last_seen": "2026-10-31",
@@ -7364,11 +7349,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "三季度": {
-    "last_seen": "2026-11-03",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "蒸發": {
     "last_seen": "2026-11-02",
     "total_count": 14,
@@ -7439,11 +7419,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "期中選舉": {
-    "last_seen": "2026-11-03",
-    "total_count": 26,
-    "days_seen": 1
-  },
   "二維半導體": {
     "last_seen": "2026-11-03",
     "total_count": 22,
@@ -7470,9 +7445,9 @@
     "days_seen": 1
   },
   "救市": {
-    "last_seen": "2026-11-03",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-04",
+    "total_count": 20,
+    "days_seen": 2
   },
   "Lumentum": {
     "last_seen": "2026-11-03",
@@ -7531,6 +7506,86 @@
   },
   "喊話": {
     "last_seen": "2026-11-03",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-11-04",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "變天": {
+    "last_seen": "2026-11-04",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "抄底": {
+    "last_seen": "2026-11-04",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "德州": {
+    "last_seen": "2026-11-04",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "遊牧": {
+    "last_seen": "2026-11-04",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "選情": {
+    "last_seen": "2026-11-04",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "拉昇": {
+    "last_seen": "2026-11-04",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "期中選舉結果": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "民主黨勝選": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "體產業": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "財報優": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "經濟學": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "狂提款": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "國會": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "何時": {
+    "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "景氣": {
+    "last_seen": "2026-11-04",
     "total_count": 8,
     "days_seen": 1
   }
