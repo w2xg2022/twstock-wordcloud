@@ -160,8 +160,8 @@
     "total_count": 34
   },
   "德州": {
-    "first_promoted": "2026-10-17",
-    "total_count": 44
+    "first_promoted": "2026-11-05",
+    "total_count": 30
   },
   "工業": {
     "first_promoted": "2026-10-28",
@@ -620,8 +620,8 @@
     "total_count": 34
   },
   "期中選舉": {
-    "first_promoted": "2026-11-04",
-    "total_count": 110
+    "first_promoted": "2026-11-05",
+    "total_count": 48
   },
   "現金": {
     "first_promoted": "2026-10-29",
@@ -698,5 +698,37 @@
   "急拉": {
     "first_promoted": "2026-11-04",
     "total_count": 42
+  },
+  "民主黨": {
+    "first_promoted": "2026-11-05",
+    "total_count": 80
+  },
+  "國會": {
+    "first_promoted": "2026-11-05",
+    "total_count": 40
+  },
+  "狂砍": {
+    "first_promoted": "2026-11-05",
+    "total_count": 36
+  },
+  "變天": {
+    "first_promoted": "2026-11-05",
+    "total_count": 38
+  },
+  "遭血洗": {
+    "first_promoted": "2026-11-05",
+    "total_count": 38
+  },
+  "千金股": {
+    "first_promoted": "2026-11-05",
+    "total_count": 42
+  },
+  "狂殺": {
+    "first_promoted": "2026-11-05",
+    "total_count": 30
+  },
+  "毛利": {
+    "first_promoted": "2026-11-05",
+    "total_count": 32
   }
 }

@@ -1034,11 +1034,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "遭血洗": {
-    "last_seen": "2026-07-18",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "作家": {
     "last_seen": "2026-07-18",
     "total_count": 20,
@@ -1081,11 +1076,6 @@
   },
   "世代": {
     "last_seen": "2026-11-04",
-    "total_count": 24,
-    "days_seen": 2
-  },
-  "毛利": {
-    "last_seen": "2026-11-02",
     "total_count": 24,
     "days_seen": 2
   },
@@ -1833,11 +1823,6 @@
     "last_seen": "2026-10-21",
     "total_count": 28,
     "days_seen": 2
-  },
-  "民主黨": {
-    "last_seen": "2026-08-05",
-    "total_count": 16,
-    "days_seen": 1
   },
   "五大": {
     "last_seen": "2026-09-27",
@@ -2758,11 +2743,6 @@
     "last_seen": "2026-08-26",
     "total_count": 22,
     "days_seen": 1
-  },
-  "千金股": {
-    "last_seen": "2026-08-30",
-    "total_count": 26,
-    "days_seen": 2
   },
   "均線": {
     "last_seen": "2026-08-26",
@@ -4760,9 +4740,9 @@
     "days_seen": 1
   },
   "牽動": {
-    "last_seen": "2026-11-02",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-05",
+    "total_count": 26,
+    "days_seen": 3
   },
   "跟上": {
     "last_seen": "2026-09-27",
@@ -5130,9 +5110,9 @@
     "days_seen": 1
   },
   "高階": {
-    "last_seen": "2026-10-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-05",
+    "total_count": 18,
+    "days_seen": 2
   },
   "交付": {
     "last_seen": "2026-11-02",
@@ -5425,9 +5405,9 @@
     "days_seen": 1
   },
   "Follow": {
-    "last_seen": "2026-10-07",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-05",
+    "total_count": 26,
+    "days_seen": 3
   },
   "百億美元": {
     "last_seen": "2026-10-06",
@@ -6080,9 +6060,9 @@
     "days_seen": 1
   },
   "KOSPI": {
-    "last_seen": "2026-10-15",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-05",
+    "total_count": 22,
+    "days_seen": 2
   },
   "通膨超預期": {
     "last_seen": "2026-10-15",
@@ -7199,16 +7179,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "狂殺": {
-    "last_seen": "2026-11-04",
-    "total_count": 22,
-    "days_seen": 2
-  },
-  "狂砍": {
-    "last_seen": "2026-11-04",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "超越": {
     "last_seen": "2026-10-31",
     "total_count": 9,
@@ -7350,9 +7320,9 @@
     "days_seen": 1
   },
   "蒸發": {
-    "last_seen": "2026-11-02",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-05",
+    "total_count": 22,
+    "days_seen": 2
   },
   "IEEE": {
     "last_seen": "2026-11-02",
@@ -7514,19 +7484,9 @@
     "total_count": 26,
     "days_seen": 1
   },
-  "變天": {
-    "last_seen": "2026-11-04",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "抄底": {
     "last_seen": "2026-11-04",
     "total_count": 18,
-    "days_seen": 1
-  },
-  "德州": {
-    "last_seen": "2026-11-04",
-    "total_count": 16,
     "days_seen": 1
   },
   "遊牧": {
@@ -7574,11 +7534,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "國會": {
-    "last_seen": "2026-11-04",
-    "total_count": 8,
-    "days_seen": 1
-  },
   "何時": {
     "last_seen": "2026-11-04",
     "total_count": 8,
@@ -7586,6 +7541,81 @@
   },
   "景氣": {
     "last_seen": "2026-11-04",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "檔跌停": {
+    "last_seen": "2026-11-05",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "民主黨大勝": {
+    "last_seen": "2026-11-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "外資狂砍": {
+    "last_seen": "2026-11-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "監管": {
+    "last_seen": "2026-11-05",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "藍潮": {
+    "last_seen": "2026-11-05",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "半導體論壇": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "逆勢漲": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "姚淳耀": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連六": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "產值": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "南科": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "控制": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "再度": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "專用": {
+    "last_seen": "2026-11-05",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "AppLovin": {
+    "last_seen": "2026-11-05",
     "total_count": 8,
     "days_seen": 1
   }
