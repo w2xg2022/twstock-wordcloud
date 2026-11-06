@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-11-03",
-    "total_count": 44
+    "first_promoted": "2026-11-06",
+    "total_count": 42
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -460,8 +460,8 @@
     "total_count": 34
   },
   "抄底": {
-    "first_promoted": "2026-10-19",
-    "total_count": 42
+    "first_promoted": "2026-11-06",
+    "total_count": 38
   },
   "台股重挫": {
     "first_promoted": "2026-10-19",
@@ -564,8 +564,8 @@
     "total_count": 36
   },
   "監管": {
-    "first_promoted": "2026-10-25",
-    "total_count": 32
+    "first_promoted": "2026-11-06",
+    "total_count": 34
   },
   "補跌": {
     "first_promoted": "2026-10-25",
@@ -624,8 +624,8 @@
     "total_count": 48
   },
   "現金": {
-    "first_promoted": "2026-10-29",
-    "total_count": 56
+    "first_promoted": "2026-11-06",
+    "total_count": 36
   },
   "產值": {
     "first_promoted": "2026-10-29",
@@ -700,8 +700,8 @@
     "total_count": 42
   },
   "民主黨": {
-    "first_promoted": "2026-11-05",
-    "total_count": 80
+    "first_promoted": "2026-11-06",
+    "total_count": 36
   },
   "國會": {
     "first_promoted": "2026-11-05",
@@ -730,5 +730,17 @@
   "毛利": {
     "first_promoted": "2026-11-05",
     "total_count": 32
+  },
+  "史詩級": {
+    "first_promoted": "2026-11-06",
+    "total_count": 30
+  },
+  "血崩": {
+    "first_promoted": "2026-11-06",
+    "total_count": 42
+  },
+  "下滑": {
+    "first_promoted": "2026-11-06",
+    "total_count": 38
   }
 }
