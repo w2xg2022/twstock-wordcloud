@@ -139,11 +139,6 @@
     "total_count": 18,
     "days_seen": 2
   },
-  "日韓股": {
-    "last_seen": "2026-08-04",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "是這": {
     "last_seen": "2026-06-17",
     "total_count": 8,
@@ -278,11 +273,6 @@
     "last_seen": "2026-06-23",
     "total_count": 10,
     "days_seen": 1
-  },
-  "市值蒸發": {
-    "last_seen": "2026-10-30",
-    "total_count": 24,
-    "days_seen": 2
   },
   "科技股遭": {
     "last_seen": "2026-06-23",
@@ -2580,9 +2570,9 @@
     "days_seen": 1
   },
   "工程師": {
-    "last_seen": "2026-08-22",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-11-07",
+    "total_count": 28,
+    "days_seen": 2
   },
   "航運股": {
     "last_seen": "2026-08-22",
@@ -2775,9 +2765,9 @@
     "days_seen": 1
   },
   "優於預期": {
-    "last_seen": "2026-08-27",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-07",
+    "total_count": 22,
+    "days_seen": 2
   },
   "利同比增": {
     "last_seen": "2026-10-28",
@@ -2857,11 +2847,6 @@
   "掃貨": {
     "last_seen": "2026-08-29",
     "total_count": 26,
-    "days_seen": 2
-  },
-  "NVDA": {
-    "last_seen": "2026-08-30",
-    "total_count": 20,
     "days_seen": 2
   },
   "沃什": {
@@ -6400,9 +6385,9 @@
     "days_seen": 1
   },
   "美股反彈": {
-    "last_seen": "2026-10-20",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-07",
+    "total_count": 20,
+    "days_seen": 2
   },
   "巨頭財報": {
     "last_seen": "2026-10-27",
@@ -6648,11 +6633,6 @@
     "last_seen": "2026-10-24",
     "total_count": 10,
     "days_seen": 1
-  },
-  "還沒": {
-    "last_seen": "2026-11-02",
-    "total_count": 18,
-    "days_seen": 2
   },
   "活動": {
     "last_seen": "2026-10-24",
@@ -7299,11 +7279,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "蒸發": {
-    "last_seen": "2026-11-05",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "IEEE": {
     "last_seen": "2026-11-02",
     "total_count": 14,
@@ -7584,16 +7559,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "年線": {
-    "last_seen": "2026-11-06",
-    "total_count": 28,
-    "days_seen": 1
-  },
-  "期中選舉": {
-    "last_seen": "2026-11-06",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "摜破": {
     "last_seen": "2026-11-06",
     "total_count": 20,
@@ -7641,6 +7606,101 @@
   },
   "受壓": {
     "last_seen": "2026-11-06",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "民主黨": {
+    "last_seen": "2026-11-07",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "先進記憶體": {
+    "last_seen": "2026-11-07",
+    "total_count": 26,
+    "days_seen": 1
+  },
+  "限空令": {
+    "last_seen": "2026-11-07",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "監管": {
+    "last_seen": "2026-11-07",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "海嘯": {
+    "last_seen": "2026-11-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "崩盤": {
+    "last_seen": "2026-11-07",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "財經部會": {
+    "last_seen": "2026-11-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "措施": {
+    "last_seen": "2026-11-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "變天": {
+    "last_seen": "2026-11-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-11-07",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "史詩級": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "馬斯克": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "縮水": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "現金": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "展現": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "買入": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "交所": {
+    "last_seen": "2026-11-07",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台積電進軍": {
+    "last_seen": "2026-11-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "體供應鏈": {
+    "last_seen": "2026-11-07",
     "total_count": 8,
     "days_seen": 1
   }

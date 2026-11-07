@@ -620,8 +620,8 @@
     "total_count": 34
   },
   "期中選舉": {
-    "first_promoted": "2026-11-05",
-    "total_count": 48
+    "first_promoted": "2026-11-07",
+    "total_count": 40
   },
   "現金": {
     "first_promoted": "2026-11-06",
@@ -680,8 +680,8 @@
     "total_count": 31
   },
   "蒸發": {
-    "first_promoted": "2026-10-31",
-    "total_count": 40
+    "first_promoted": "2026-11-07",
+    "total_count": 48
   },
   "系統": {
     "first_promoted": "2026-11-02",
@@ -742,5 +742,29 @@
   "下滑": {
     "first_promoted": "2026-11-06",
     "total_count": 38
+  },
+  "進軍": {
+    "first_promoted": "2026-11-07",
+    "total_count": 32
+  },
+  "還沒": {
+    "first_promoted": "2026-11-07",
+    "total_count": 32
+  },
+  "NVDA": {
+    "first_promoted": "2026-11-07",
+    "total_count": 34
+  },
+  "日韓股": {
+    "first_promoted": "2026-11-07",
+    "total_count": 36
+  },
+  "年線": {
+    "first_promoted": "2026-11-07",
+    "total_count": 40
+  },
+  "市值蒸發": {
+    "first_promoted": "2026-11-07",
+    "total_count": 32
   }
 }
