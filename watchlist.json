@@ -1500,9 +1500,9 @@
     "days_seen": 1
   },
   "回應": {
-    "last_seen": "2026-07-29",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-08",
+    "total_count": 24,
+    "days_seen": 2
   },
   "逐步": {
     "last_seen": "2026-07-29",
@@ -5295,9 +5295,9 @@
     "days_seen": 1
   },
   "定價": {
-    "last_seen": "2026-10-05",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-08",
+    "total_count": 16,
+    "days_seen": 2
   },
   "重組": {
     "last_seen": "2026-10-05",
@@ -7295,9 +7295,9 @@
     "days_seen": 1
   },
   "重要": {
-    "last_seen": "2026-11-02",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-08",
+    "total_count": 18,
+    "days_seen": 2
   },
   "回升": {
     "last_seen": "2026-11-02",
@@ -7570,9 +7570,9 @@
     "days_seen": 1
   },
   "選後": {
-    "last_seen": "2026-11-06",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-08",
+    "total_count": 22,
+    "days_seen": 2
   },
   "遭遇": {
     "last_seen": "2026-11-06",
@@ -7665,9 +7665,9 @@
     "days_seen": 1
   },
   "馬斯克": {
-    "last_seen": "2026-11-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-08",
+    "total_count": 22,
+    "days_seen": 2
   },
   "縮水": {
     "last_seen": "2026-11-07",
@@ -7680,9 +7680,9 @@
     "days_seen": 1
   },
   "展現": {
-    "last_seen": "2026-11-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-08",
+    "total_count": 18,
+    "days_seen": 2
   },
   "買入": {
     "last_seen": "2026-11-07",
@@ -7701,6 +7701,56 @@
   },
   "體供應鏈": {
     "last_seen": "2026-11-07",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "期中選舉": {
+    "last_seen": "2026-11-08",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "跨足": {
+    "last_seen": "2026-11-08",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "焦佑鈞": {
+    "last_seen": "2026-11-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "進軍": {
+    "last_seen": "2026-11-08",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "外資持股": {
+    "last_seen": "2026-11-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "直言": {
+    "last_seen": "2026-11-08",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "半導體大": {
+    "last_seen": "2026-11-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "搶進": {
+    "last_seen": "2026-11-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "抄底": {
+    "last_seen": "2026-11-08",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "反轉": {
+    "last_seen": "2026-11-08",
     "total_count": 8,
     "days_seen": 1
   }
