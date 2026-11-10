@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-11-06",
-    "total_count": 42
+    "first_promoted": "2026-11-10",
+    "total_count": 34
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -608,8 +608,8 @@
     "total_count": 38
   },
   "匯出": {
-    "first_promoted": "2026-10-27",
-    "total_count": 32
+    "first_promoted": "2026-11-10",
+    "total_count": 34
   },
   "前三": {
     "first_promoted": "2026-10-28",
@@ -766,5 +766,21 @@
   "市值蒸發": {
     "first_promoted": "2026-11-07",
     "total_count": 32
+  },
+  "美股盤前": {
+    "first_promoted": "2026-11-10",
+    "total_count": 30
+  },
+  "首次": {
+    "first_promoted": "2026-11-10",
+    "total_count": 30
+  },
+  "高開": {
+    "first_promoted": "2026-11-10",
+    "total_count": 34
+  },
+  "KOSPI": {
+    "first_promoted": "2026-11-10",
+    "total_count": 30
   }
 }
