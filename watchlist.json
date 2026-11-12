@@ -230,9 +230,9 @@
     "days_seen": 1
   },
   "斯達克": {
-    "last_seen": "2026-06-22",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-12",
+    "total_count": 16,
+    "days_seen": 2
   },
   "投資熱": {
     "last_seen": "2026-06-22",
@@ -904,11 +904,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "董事會": {
-    "last_seen": "2026-07-14",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "上揚": {
     "last_seen": "2026-09-13",
     "total_count": 26,
@@ -1494,11 +1489,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "回應": {
-    "last_seen": "2026-11-08",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "逐步": {
     "last_seen": "2026-07-29",
     "total_count": 16,
@@ -1683,11 +1673,6 @@
     "last_seen": "2026-08-02",
     "total_count": 8,
     "days_seen": 1
-  },
-  "風暴": {
-    "last_seen": "2026-11-10",
-    "total_count": 28,
-    "days_seen": 3
   },
   "預言": {
     "last_seen": "2026-08-02",
@@ -2228,11 +2213,6 @@
     "last_seen": "2026-08-15",
     "total_count": 16,
     "days_seen": 1
-  },
-  "減碼": {
-    "last_seen": "2026-08-16",
-    "total_count": 26,
-    "days_seen": 2
   },
   "SanDisk": {
     "last_seen": "2026-08-15",
@@ -3000,9 +2980,9 @@
     "days_seen": 1
   },
   "台股震盪": {
-    "last_seen": "2026-08-31",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-12",
+    "total_count": 16,
+    "days_seen": 2
   },
   "中期業績": {
     "last_seen": "2026-08-31",
@@ -6189,11 +6169,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "連二": {
-    "last_seen": "2026-10-28",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "驗證": {
     "last_seen": "2026-10-17",
     "total_count": 12,
@@ -6210,9 +6185,9 @@
     "days_seen": 1
   },
   "玻纖布": {
-    "last_seen": "2026-10-17",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-12",
+    "total_count": 26,
+    "days_seen": 2
   },
   "電視": {
     "last_seen": "2026-10-19",
@@ -7755,9 +7730,9 @@
     "days_seen": 1
   },
   "風波": {
-    "last_seen": "2026-11-10",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-12",
+    "total_count": 20,
+    "days_seen": 2
   },
   "進出": {
     "last_seen": "2026-11-10",
@@ -7781,6 +7756,101 @@
   },
   "再攻": {
     "last_seen": "2026-11-10",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "員工個資": {
+    "last_seen": "2026-11-12",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "NVDA": {
+    "last_seen": "2026-11-12",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "輝達董事會": {
+    "last_seen": "2026-11-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "醜聞": {
+    "last_seen": "2026-11-12",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "再爆": {
+    "last_seen": "2026-11-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "恐遭": {
+    "last_seen": "2026-11-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "系統": {
+    "last_seen": "2026-11-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "證據": {
+    "last_seen": "2026-11-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "驚傳": {
+    "last_seen": "2026-11-12",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "股價下": {
+    "last_seen": "2026-11-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "執行長": {
+    "last_seen": "2026-11-12",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-11-12",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "董事會準備": {
+    "last_seen": "2026-11-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "準備撤換": {
+    "last_seen": "2026-11-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "段婚外情": {
+    "last_seen": "2026-11-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "最快今": {
+    "last_seen": "2026-11-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "殺逾": {
+    "last_seen": "2026-11-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一週": {
+    "last_seen": "2026-11-12",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "高層": {
+    "last_seen": "2026-11-12",
     "total_count": 8,
     "days_seen": 1
   }

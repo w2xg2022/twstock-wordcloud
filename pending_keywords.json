@@ -782,5 +782,33 @@
   "KOSPI": {
     "first_promoted": "2026-11-10",
     "total_count": 30
+  },
+  "董事會": {
+    "first_promoted": "2026-11-12",
+    "total_count": 64
+  },
+  "撤換": {
+    "first_promoted": "2026-11-12",
+    "total_count": 38
+  },
+  "婚外情": {
+    "first_promoted": "2026-11-12",
+    "total_count": 30
+  },
+  "風暴": {
+    "first_promoted": "2026-11-12",
+    "total_count": 50
+  },
+  "回應": {
+    "first_promoted": "2026-11-12",
+    "total_count": 36
+  },
+  "減碼": {
+    "first_promoted": "2026-11-12",
+    "total_count": 36
+  },
+  "連二": {
+    "first_promoted": "2026-11-12",
+    "total_count": 30
   }
 }
