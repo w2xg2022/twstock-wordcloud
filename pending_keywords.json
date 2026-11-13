@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-11-10",
-    "total_count": 34
+    "first_promoted": "2026-11-13",
+    "total_count": 30
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -752,8 +752,8 @@
     "total_count": 32
   },
   "NVDA": {
-    "first_promoted": "2026-11-07",
-    "total_count": 34
+    "first_promoted": "2026-11-13",
+    "total_count": 42
   },
   "日韓股": {
     "first_promoted": "2026-11-07",
@@ -810,5 +810,21 @@
   "連二": {
     "first_promoted": "2026-11-12",
     "total_count": 30
+  },
+  "辭職": {
+    "first_promoted": "2026-11-13",
+    "total_count": 58
+  },
+  "風波": {
+    "first_promoted": "2026-11-13",
+    "total_count": 42
+  },
+  "震撼": {
+    "first_promoted": "2026-11-13",
+    "total_count": 36
+  },
+  "Follow": {
+    "first_promoted": "2026-11-13",
+    "total_count": 34
   }
 }
