@@ -436,8 +436,8 @@
     "total_count": 36
   },
   "前三季": {
-    "first_promoted": "2026-10-18",
-    "total_count": 38
+    "first_promoted": "2026-11-14",
+    "total_count": 44
   },
   "搶進": {
     "first_promoted": "2026-10-18",
@@ -796,8 +796,8 @@
     "total_count": 30
   },
   "風暴": {
-    "first_promoted": "2026-11-12",
-    "total_count": 50
+    "first_promoted": "2026-11-14",
+    "total_count": 30
   },
   "回應": {
     "first_promoted": "2026-11-12",
@@ -826,5 +826,13 @@
   "Follow": {
     "first_promoted": "2026-11-13",
     "total_count": 34
+  },
+  "半導體產": {
+    "first_promoted": "2026-11-14",
+    "total_count": 46
+  },
+  "展現": {
+    "first_promoted": "2026-11-14",
+    "total_count": 30
   }
 }

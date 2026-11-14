@@ -99,11 +99,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "半導體產": {
-    "last_seen": "2026-09-25",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "華許首": {
     "last_seen": "2026-06-17",
     "total_count": 10,
@@ -2325,9 +2320,9 @@
     "days_seen": 1
   },
   "單週": {
-    "last_seen": "2026-08-16",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 20,
+    "days_seen": 2
   },
   "上路": {
     "last_seen": "2026-08-16",
@@ -2370,9 +2365,9 @@
     "days_seen": 1
   },
   "攻防": {
-    "last_seen": "2026-08-17",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 20,
+    "days_seen": 2
   },
   "多空": {
     "last_seen": "2026-08-17",
@@ -2790,9 +2785,9 @@
     "days_seen": 2
   },
   "Nvidia": {
-    "last_seen": "2026-08-28",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 26,
+    "days_seen": 2
   },
   "MRVL": {
     "last_seen": "2026-08-28",
@@ -6660,9 +6655,9 @@
     "days_seen": 1
   },
   "大事": {
-    "last_seen": "2026-10-26",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 26,
+    "days_seen": 2
   },
   "便宜": {
     "last_seen": "2026-10-26",
@@ -6743,11 +6738,6 @@
     "last_seen": "2026-10-26",
     "total_count": 8,
     "days_seen": 1
-  },
-  "前三季": {
-    "last_seen": "2026-10-28",
-    "total_count": 28,
-    "days_seen": 2
   },
   "外資大": {
     "last_seen": "2026-10-27",
@@ -7080,9 +7070,9 @@
     "days_seen": 1
   },
   "TVBS": {
-    "last_seen": "2026-10-31",
-    "total_count": 9,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 21,
+    "days_seen": 2
   },
   "科技股崩": {
     "last_seen": "2026-11-06",
@@ -7210,9 +7200,9 @@
     "days_seen": 1
   },
   "社會": {
-    "last_seen": "2026-11-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 18,
+    "days_seen": 2
   },
   "IEEE": {
     "last_seen": "2026-11-02",
@@ -7609,11 +7599,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "展現": {
-    "last_seen": "2026-11-08",
-    "total_count": 18,
-    "days_seen": 2
-  },
   "買入": {
     "last_seen": "2026-11-07",
     "total_count": 10,
@@ -7765,9 +7750,9 @@
     "days_seen": 1
   },
   "系統": {
-    "last_seen": "2026-11-12",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-14",
+    "total_count": 24,
+    "days_seen": 2
   },
   "證據": {
     "last_seen": "2026-11-12",
@@ -7820,18 +7805,13 @@
     "days_seen": 1
   },
   "高層": {
-    "last_seen": "2026-11-13",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-11-14",
+    "total_count": 28,
+    "days_seen": 3
   },
   "台玻": {
     "last_seen": "2026-11-13",
     "total_count": 24,
-    "days_seen": 1
-  },
-  "風暴": {
-    "last_seen": "2026-11-13",
-    "total_count": 16,
     "days_seen": 1
   },
   "輝達風波": {
@@ -7871,6 +7851,96 @@
   },
   "壓抑": {
     "last_seen": "2026-11-13",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "風波": {
+    "last_seen": "2026-11-14",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "震撼": {
+    "last_seen": "2026-11-14",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-11-14",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "NVDA": {
+    "last_seen": "2026-11-14",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "請辭": {
+    "last_seen": "2026-11-14",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "黃仁勳風波": {
+    "last_seen": "2026-11-14",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "單周": {
+    "last_seen": "2026-11-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "A5": {
+    "last_seen": "2026-11-14",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "辭輝達": {
+    "last_seen": "2026-11-14",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "回頭": {
+    "last_seen": "2026-11-14",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "NVIDIA": {
+    "last_seen": "2026-11-14",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "指數漲跌": {
+    "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "熱門股": {
+    "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "廠獲利": {
+    "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "首次": {
+    "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "來最": {
+    "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "停飛": {
+    "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "接班": {
+    "last_seen": "2026-11-14",
     "total_count": 8,
     "days_seen": 1
   }
