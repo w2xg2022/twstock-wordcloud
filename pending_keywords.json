@@ -92,8 +92,8 @@
     "total_count": 30
   },
   "牽動": {
-    "first_promoted": "2026-09-25",
-    "total_count": 32
+    "first_promoted": "2026-11-15",
+    "total_count": 36
   },
   "變數": {
     "first_promoted": "2026-09-25",
@@ -576,7 +576,7 @@
     "total_count": 40
   },
   "TVBS": {
-    "first_promoted": "2026-10-25",
+    "first_promoted": "2026-11-15",
     "total_count": 30
   },
   "先看": {
@@ -752,8 +752,8 @@
     "total_count": 32
   },
   "NVDA": {
-    "first_promoted": "2026-11-13",
-    "total_count": 42
+    "first_promoted": "2026-11-15",
+    "total_count": 32
   },
   "日韓股": {
     "first_promoted": "2026-11-07",
@@ -833,6 +833,10 @@
   },
   "展現": {
     "first_promoted": "2026-11-14",
+    "total_count": 30
+  },
+  "短期": {
+    "first_promoted": "2026-11-15",
     "total_count": 30
   }
 }

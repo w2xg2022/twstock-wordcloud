@@ -2944,11 +2944,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "短期": {
-    "last_seen": "2026-10-29",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "接單": {
     "last_seen": "2026-08-31",
     "total_count": 10,
@@ -4668,11 +4663,6 @@
     "last_seen": "2026-09-27",
     "total_count": 12,
     "days_seen": 1
-  },
-  "牽動": {
-    "last_seen": "2026-11-05",
-    "total_count": 26,
-    "days_seen": 3
   },
   "跟上": {
     "last_seen": "2026-09-27",
@@ -7069,11 +7059,6 @@
     "total_count": 9,
     "days_seen": 1
   },
-  "TVBS": {
-    "last_seen": "2026-11-14",
-    "total_count": 21,
-    "days_seen": 2
-  },
   "科技股崩": {
     "last_seen": "2026-11-06",
     "total_count": 24,
@@ -7869,11 +7854,6 @@
     "total_count": 22,
     "days_seen": 1
   },
-  "NVDA": {
-    "last_seen": "2026-11-14",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "請辭": {
     "last_seen": "2026-11-14",
     "total_count": 18,
@@ -7941,6 +7921,41 @@
   },
   "接班": {
     "last_seen": "2026-11-14",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "風暴": {
+    "last_seen": "2026-11-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "深圳": {
+    "last_seen": "2026-11-15",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "APEC": {
+    "last_seen": "2026-11-15",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台中地酒": {
+    "last_seen": "2026-11-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "特色餐飲": {
+    "last_seen": "2026-11-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "農村產業": {
+    "last_seen": "2026-11-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "峰會": {
+    "last_seen": "2026-11-15",
     "total_count": 8,
     "days_seen": 1
   }
