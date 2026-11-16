@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-11-13",
-    "total_count": 30
+    "first_promoted": "2026-11-16",
+    "total_count": 46
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -816,11 +816,11 @@
     "total_count": 58
   },
   "風波": {
-    "first_promoted": "2026-11-13",
-    "total_count": 42
+    "first_promoted": "2026-11-16",
+    "total_count": 32
   },
   "震撼": {
-    "first_promoted": "2026-11-13",
+    "first_promoted": "2026-11-16",
     "total_count": 36
   },
   "Follow": {
@@ -838,5 +838,13 @@
   "短期": {
     "first_promoted": "2026-11-15",
     "total_count": 30
+  },
+  "急挫": {
+    "first_promoted": "2026-11-16",
+    "total_count": 34
+  },
+  "Nvidia": {
+    "first_promoted": "2026-11-16",
+    "total_count": 34
   }
 }

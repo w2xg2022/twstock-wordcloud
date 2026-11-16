@@ -1330,14 +1330,14 @@
     "days_seen": 1
   },
   "貢獻": {
-    "last_seen": "2026-07-26",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 20,
+    "days_seen": 2
   },
   "事件": {
-    "last_seen": "2026-07-26",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 18,
+    "days_seen": 2
   },
   "線仍": {
     "last_seen": "2026-07-26",
@@ -1443,11 +1443,6 @@
     "last_seen": "2026-07-28",
     "total_count": 14,
     "days_seen": 1
-  },
-  "急挫": {
-    "last_seen": "2026-10-15",
-    "total_count": 26,
-    "days_seen": 2
   },
   "小幅": {
     "last_seen": "2026-07-28",
@@ -2781,11 +2776,6 @@
   },
   "Salesforce": {
     "last_seen": "2026-08-30",
-    "total_count": 26,
-    "days_seen": 2
-  },
-  "Nvidia": {
-    "last_seen": "2026-11-14",
     "total_count": 26,
     "days_seen": 2
   },
@@ -4345,9 +4335,9 @@
     "days_seen": 1
   },
   "創意": {
-    "last_seen": "2026-09-23",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 21,
+    "days_seen": 2
   },
   "納斯達克": {
     "last_seen": "2026-09-23",
@@ -4840,9 +4830,9 @@
     "days_seen": 1
   },
   "初段": {
-    "last_seen": "2026-09-29",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 16,
+    "days_seen": 2
   },
   "Semiconductor": {
     "last_seen": "2026-09-29",
@@ -6055,9 +6045,9 @@
     "days_seen": 1
   },
   "匯市": {
-    "last_seen": "2026-10-16",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 20,
+    "days_seen": 2
   },
   "馬來西亞": {
     "last_seen": "2026-10-16",
@@ -6430,9 +6420,9 @@
     "days_seen": 1
   },
   "年內": {
-    "last_seen": "2026-10-21",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 18,
+    "days_seen": 2
   },
   "合併": {
     "last_seen": "2026-10-22",
@@ -7180,9 +7170,9 @@
     "days_seen": 1
   },
   "青年": {
-    "last_seen": "2026-11-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-16",
+    "total_count": 16,
+    "days_seen": 2
   },
   "社會": {
     "last_seen": "2026-11-14",
@@ -7839,21 +7829,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "風波": {
-    "last_seen": "2026-11-14",
-    "total_count": 24,
-    "days_seen": 1
-  },
-  "震撼": {
-    "last_seen": "2026-11-14",
-    "total_count": 24,
-    "days_seen": 1
-  },
-  "三季": {
-    "last_seen": "2026-11-14",
-    "total_count": 22,
-    "days_seen": 1
-  },
   "請辭": {
     "last_seen": "2026-11-14",
     "total_count": 18,
@@ -7956,6 +7931,61 @@
   },
   "峰會": {
     "last_seen": "2026-11-15",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "科技股重挫": {
+    "last_seen": "2026-11-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "重挫逾": {
+    "last_seen": "2026-11-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "三季度": {
+    "last_seen": "2026-11-16",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "千金股": {
+    "last_seen": "2026-11-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "空方": {
+    "last_seen": "2026-11-16",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股價重": {
+    "last_seen": "2026-11-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一張": {
+    "last_seen": "2026-11-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "瀉近": {
+    "last_seen": "2026-11-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "無紙": {
+    "last_seen": "2026-11-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "升逾": {
+    "last_seen": "2026-11-16",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "NVDA": {
+    "last_seen": "2026-11-16",
     "total_count": 8,
     "days_seen": 1
   }
