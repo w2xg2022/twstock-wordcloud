@@ -135,9 +135,9 @@
     "days_seen": 2
   },
   "引擎": {
-    "last_seen": "2026-06-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 16,
+    "days_seen": 2
   },
   "代表": {
     "last_seen": "2026-10-03",
@@ -1785,9 +1785,9 @@
     "days_seen": 1
   },
   "管制": {
-    "last_seen": "2026-08-05",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 22,
+    "days_seen": 2
   },
   "不斷": {
     "last_seen": "2026-11-04",
@@ -2405,9 +2405,9 @@
     "days_seen": 1
   },
   "科創": {
-    "last_seen": "2026-08-18",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 28,
+    "days_seen": 2
   },
   "死亡": {
     "last_seen": "2026-08-18",
@@ -3744,11 +3744,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "降評": {
-    "last_seen": "2026-11-10",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "園區": {
     "last_seen": "2026-09-14",
     "total_count": 14,
@@ -5050,9 +5045,9 @@
     "days_seen": 1
   },
   "守住": {
-    "last_seen": "2026-10-02",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 16,
+    "days_seen": 2
   },
   "債王": {
     "last_seen": "2026-10-02",
@@ -5385,9 +5380,9 @@
     "days_seen": 2
   },
   "全線": {
-    "last_seen": "2026-10-20",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-17",
+    "total_count": 26,
+    "days_seen": 3
   },
   "TOWA": {
     "last_seen": "2026-10-07",
@@ -7020,9 +7015,9 @@
     "days_seen": 1
   },
   "加密概念股": {
-    "last_seen": "2026-10-31",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 20,
+    "days_seen": 2
   },
   "估值修正": {
     "last_seen": "2026-10-31",
@@ -7320,9 +7315,9 @@
     "days_seen": 1
   },
   "第三季": {
-    "last_seen": "2026-11-06",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-11-17",
+    "total_count": 26,
+    "days_seen": 3
   },
   "多收": {
     "last_seen": "2026-11-03",
@@ -7820,9 +7815,9 @@
     "days_seen": 1
   },
   "芯片": {
-    "last_seen": "2026-11-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 18,
+    "days_seen": 2
   },
   "壓抑": {
     "last_seen": "2026-11-13",
@@ -7900,9 +7895,9 @@
     "days_seen": 1
   },
   "風暴": {
-    "last_seen": "2026-11-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-17",
+    "total_count": 20,
+    "days_seen": 2
   },
   "深圳": {
     "last_seen": "2026-11-15",
@@ -7985,7 +7980,52 @@
     "days_seen": 1
   },
   "NVDA": {
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "total_count": 22,
+    "days_seen": 2
+  },
+  "三季": {
+    "last_seen": "2026-11-17",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "大砍": {
+    "last_seen": "2026-11-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "禁令": {
+    "last_seen": "2026-11-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "辭職": {
+    "last_seen": "2026-11-17",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "急拉": {
+    "last_seen": "2026-11-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "日韓": {
+    "last_seen": "2026-11-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "新規": {
+    "last_seen": "2026-11-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "兩成": {
+    "last_seen": "2026-11-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "限制": {
+    "last_seen": "2026-11-17",
     "total_count": 8,
     "days_seen": 1
   }
