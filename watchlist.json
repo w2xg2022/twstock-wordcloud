@@ -309,11 +309,6 @@
     "total_count": 10,
     "days_seen": 1
   },
-  "盤後大漲": {
-    "last_seen": "2026-08-27",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "航空產業": {
     "last_seen": "2026-06-25",
     "total_count": 10,
@@ -1044,11 +1039,6 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "世代": {
-    "last_seen": "2026-11-04",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "家揭": {
     "last_seen": "2026-07-19",
     "total_count": 14,
@@ -1529,11 +1519,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "景碩": {
-    "last_seen": "2026-07-31",
-    "total_count": 18,
-    "days_seen": 1
-  },
   "宇樹科技": {
     "last_seen": "2026-07-31",
     "total_count": 16,
@@ -1783,11 +1768,6 @@
     "last_seen": "2026-08-05",
     "total_count": 14,
     "days_seen": 1
-  },
-  "管制": {
-    "last_seen": "2026-11-17",
-    "total_count": 22,
-    "days_seen": 2
   },
   "不斷": {
     "last_seen": "2026-11-04",
@@ -2285,9 +2265,9 @@
     "days_seen": 1
   },
   "轉強": {
-    "last_seen": "2026-08-16",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-18",
+    "total_count": 18,
+    "days_seen": 2
   },
   "勞工": {
     "last_seen": "2026-08-16",
@@ -4022,11 +4002,6 @@
   "房市": {
     "last_seen": "2026-11-01",
     "total_count": 20,
-    "days_seen": 2
-  },
-  "回歸": {
-    "last_seen": "2026-09-28",
-    "total_count": 22,
     "days_seen": 2
   },
   "基板": {
@@ -5770,9 +5745,9 @@
     "days_seen": 1
   },
   "以來": {
-    "last_seen": "2026-11-06",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-11-18",
+    "total_count": 28,
+    "days_seen": 3
   },
   "美國經濟學家": {
     "last_seen": "2026-10-13",
@@ -6859,11 +6834,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "支持": {
-    "last_seen": "2026-11-03",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "友達中科廠": {
     "last_seen": "2026-10-29",
     "total_count": 12,
@@ -7675,9 +7645,9 @@
     "days_seen": 1
   },
   "還沒": {
-    "last_seen": "2026-11-10",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-18",
+    "total_count": 20,
+    "days_seen": 2
   },
   "收購": {
     "last_seen": "2026-11-10",
@@ -7880,9 +7850,9 @@
     "days_seen": 1
   },
   "來最": {
-    "last_seen": "2026-11-14",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-18",
+    "total_count": 26,
+    "days_seen": 2
   },
   "停飛": {
     "last_seen": "2026-11-14",
@@ -7894,20 +7864,15 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "風暴": {
-    "last_seen": "2026-11-17",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "深圳": {
     "last_seen": "2026-11-15",
     "total_count": 12,
     "days_seen": 1
   },
   "APEC": {
-    "last_seen": "2026-11-15",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-18",
+    "total_count": 22,
+    "days_seen": 2
   },
   "台中地酒": {
     "last_seen": "2026-11-15",
@@ -7979,16 +7944,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "NVDA": {
-    "last_seen": "2026-11-17",
-    "total_count": 22,
-    "days_seen": 2
-  },
-  "三季": {
-    "last_seen": "2026-11-17",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "大砍": {
     "last_seen": "2026-11-17",
     "total_count": 12,
@@ -8026,6 +7981,86 @@
   },
   "限制": {
     "last_seen": "2026-11-17",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "波蘭": {
+    "last_seen": "2026-11-18",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "台廠": {
+    "last_seen": "2026-11-18",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "京元電": {
+    "last_seen": "2026-11-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "前景": {
+    "last_seen": "2026-11-18",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "財報前夕": {
+    "last_seen": "2026-11-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "財報報喜": {
+    "last_seen": "2026-11-18",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "回鍋": {
+    "last_seen": "2026-11-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "親訪": {
+    "last_seen": "2026-11-18",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "台積電高層親": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "科林研發": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "廠供應鏈": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "一度漲": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "本益比": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "漲跌互": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "產業日": {
+    "last_seen": "2026-11-18",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "震撼": {
+    "last_seen": "2026-11-18",
     "total_count": 8,
     "days_seen": 1
   }

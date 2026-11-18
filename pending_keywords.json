@@ -256,8 +256,8 @@
     "total_count": 36
   },
   "三季": {
-    "first_promoted": "2026-11-16",
-    "total_count": 46
+    "first_promoted": "2026-11-18",
+    "total_count": 34
   },
   "重要": {
     "first_promoted": "2026-10-19",
@@ -484,8 +484,8 @@
     "total_count": 40
   },
   "支持": {
-    "first_promoted": "2026-10-20",
-    "total_count": 40
+    "first_promoted": "2026-11-18",
+    "total_count": 34
   },
   "Duo": {
     "first_promoted": "2026-10-20",
@@ -752,8 +752,8 @@
     "total_count": 32
   },
   "NVDA": {
-    "first_promoted": "2026-11-15",
-    "total_count": 32
+    "first_promoted": "2026-11-18",
+    "total_count": 54
   },
   "日韓股": {
     "first_promoted": "2026-11-07",
@@ -796,7 +796,7 @@
     "total_count": 30
   },
   "風暴": {
-    "first_promoted": "2026-11-14",
+    "first_promoted": "2026-11-18",
     "total_count": 30
   },
   "回應": {
@@ -850,5 +850,25 @@
   "降評": {
     "first_promoted": "2026-11-17",
     "total_count": 36
+  },
+  "景碩": {
+    "first_promoted": "2026-11-18",
+    "total_count": 38
+  },
+  "管制": {
+    "first_promoted": "2026-11-18",
+    "total_count": 38
+  },
+  "盤後大漲": {
+    "first_promoted": "2026-11-18",
+    "total_count": 38
+  },
+  "回歸": {
+    "first_promoted": "2026-11-18",
+    "total_count": 32
+  },
+  "世代": {
+    "first_promoted": "2026-11-18",
+    "total_count": 34
   }
 }
