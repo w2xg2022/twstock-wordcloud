@@ -372,8 +372,8 @@
     "total_count": 42
   },
   "低開": {
-    "first_promoted": "2026-10-13",
-    "total_count": 40
+    "first_promoted": "2026-11-19",
+    "total_count": 32
   },
   "HK": {
     "first_promoted": "2026-10-13",
@@ -456,8 +456,8 @@
     "total_count": 34
   },
   "配置": {
-    "first_promoted": "2026-10-19",
-    "total_count": 34
+    "first_promoted": "2026-11-19",
+    "total_count": 36
   },
   "抄底": {
     "first_promoted": "2026-11-06",
@@ -869,6 +869,22 @@
   },
   "世代": {
     "first_promoted": "2026-11-18",
+    "total_count": 34
+  },
+  "創意": {
+    "first_promoted": "2026-11-19",
+    "total_count": 35
+  },
+  "限空令": {
+    "first_promoted": "2026-11-19",
+    "total_count": 32
+  },
+  "高階": {
+    "first_promoted": "2026-11-19",
+    "total_count": 30
+  },
+  "APEC": {
+    "first_promoted": "2026-11-19",
     "total_count": 34
   }
 }
