@@ -2660,9 +2660,9 @@
     "days_seen": 1
   },
   "小心": {
-    "last_seen": "2026-08-26",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 26,
+    "days_seen": 2
   },
   "倒數": {
     "last_seen": "2026-08-26",
@@ -5764,11 +5764,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "走弱": {
-    "last_seen": "2026-11-19",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "美光重挫": {
     "last_seen": "2026-10-13",
     "total_count": 12,
@@ -6765,9 +6760,9 @@
     "days_seen": 1
   },
   "櫃買": {
-    "last_seen": "2026-10-28",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 16,
+    "days_seen": 2
   },
   "哪些": {
     "last_seen": "2026-10-28",
@@ -6862,11 +6857,6 @@
   "半導體產值": {
     "last_seen": "2026-10-30",
     "total_count": 16,
-    "days_seen": 1
-  },
-  "台股崩": {
-    "last_seen": "2026-10-30",
-    "total_count": 14,
     "days_seen": 1
   },
   "消化": {
@@ -7005,9 +6995,9 @@
     "days_seen": 1
   },
   "股價重挫": {
-    "last_seen": "2026-10-31",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 16,
+    "days_seen": 2
   },
   "支出疑慮": {
     "last_seen": "2026-10-31",
@@ -7085,9 +7075,9 @@
     "days_seen": 1
   },
   "防禦": {
-    "last_seen": "2026-11-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 16,
+    "days_seen": 2
   },
   "增加": {
     "last_seen": "2026-11-01",
@@ -7520,9 +7510,9 @@
     "days_seen": 1
   },
   "交所": {
-    "last_seen": "2026-11-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 18,
+    "days_seen": 2
   },
   "台積電進軍": {
     "last_seen": "2026-11-07",
@@ -7570,9 +7560,9 @@
     "days_seen": 1
   },
   "搶進": {
-    "last_seen": "2026-11-08",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 16,
+    "days_seen": 2
   },
   "抄底": {
     "last_seen": "2026-11-08",
@@ -7580,9 +7570,9 @@
     "days_seen": 1
   },
   "反轉": {
-    "last_seen": "2026-11-08",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 20,
+    "days_seen": 2
   },
   "信驊": {
     "last_seen": "2026-11-10",
@@ -7750,9 +7740,9 @@
     "days_seen": 1
   },
   "蒸發": {
-    "last_seen": "2026-11-19",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-11-20",
+    "total_count": 24,
+    "days_seen": 3
   },
   "失去": {
     "last_seen": "2026-11-13",
@@ -7940,9 +7930,9 @@
     "days_seen": 1
   },
   "新規": {
-    "last_seen": "2026-11-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 18,
+    "days_seen": 2
   },
   "兩成": {
     "last_seen": "2026-11-17",
@@ -8075,9 +8065,9 @@
     "days_seen": 1
   },
   "管制": {
-    "last_seen": "2026-11-19",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-20",
+    "total_count": 20,
+    "days_seen": 2
   },
   "風暴": {
     "last_seen": "2026-11-19",
@@ -8094,8 +8084,63 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "難救": {
-    "last_seen": "2026-11-19",
+  "日韓股": {
+    "last_seen": "2026-11-20",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "限空": {
+    "last_seen": "2026-11-20",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "年線": {
+    "last_seen": "2026-11-20",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "狂殺": {
+    "last_seen": "2026-11-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "光電": {
+    "last_seen": "2026-11-20",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "多殺多": {
+    "last_seen": "2026-11-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "三季": {
+    "last_seen": "2026-11-20",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "美股拖累": {
+    "last_seen": "2026-11-20",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股崩盤": {
+    "last_seen": "2026-11-20",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "不到": {
+    "last_seen": "2026-11-20",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "空襲": {
+    "last_seen": "2026-11-20",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "Rti": {
+    "last_seen": "2026-11-20",
     "total_count": 8,
     "days_seen": 1
   }

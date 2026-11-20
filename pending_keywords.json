@@ -332,8 +332,8 @@
     "total_count": 30
   },
   "走弱": {
-    "first_promoted": "2026-10-12",
-    "total_count": 42
+    "first_promoted": "2026-11-20",
+    "total_count": 36
   },
   "金流": {
     "first_promoted": "2026-10-12",
@@ -886,5 +886,13 @@
   "APEC": {
     "first_promoted": "2026-11-19",
     "total_count": 34
+  },
+  "難救": {
+    "first_promoted": "2026-11-20",
+    "total_count": 30
+  },
+  "台股崩": {
+    "first_promoted": "2026-11-20",
+    "total_count": 30
   }
 }
