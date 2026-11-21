@@ -116,8 +116,8 @@
     "total_count": 32
   },
   "崩盤": {
-    "first_promoted": "2026-09-27",
-    "total_count": 38
+    "first_promoted": "2026-11-21",
+    "total_count": 34
   },
   "值得": {
     "first_promoted": "2026-09-27",
@@ -388,8 +388,8 @@
     "total_count": 36
   },
   "來最": {
-    "first_promoted": "2026-10-31",
-    "total_count": 34
+    "first_promoted": "2026-11-21",
+    "total_count": 42
   },
   "開高走": {
     "first_promoted": "2026-10-14",
@@ -680,8 +680,8 @@
     "total_count": 31
   },
   "蒸發": {
-    "first_promoted": "2026-11-07",
-    "total_count": 48
+    "first_promoted": "2026-11-21",
+    "total_count": 62
   },
   "系統": {
     "first_promoted": "2026-11-02",
@@ -752,8 +752,8 @@
     "total_count": 32
   },
   "NVDA": {
-    "first_promoted": "2026-11-18",
-    "total_count": 54
+    "first_promoted": "2026-11-21",
+    "total_count": 30
   },
   "日韓股": {
     "first_promoted": "2026-11-07",
@@ -894,5 +894,25 @@
   "台股崩": {
     "first_promoted": "2026-11-20",
     "total_count": 30
+  },
+  "財經首長": {
+    "first_promoted": "2026-11-21",
+    "total_count": 34
+  },
+  "單週": {
+    "first_promoted": "2026-11-21",
+    "total_count": 46
+  },
+  "救市": {
+    "first_promoted": "2026-11-21",
+    "total_count": 42
+  },
+  "交所": {
+    "first_promoted": "2026-11-21",
+    "total_count": 36
+  },
+  "股領跌": {
+    "first_promoted": "2026-11-21",
+    "total_count": 40
   }
 }

@@ -524,11 +524,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "股領跌": {
-    "last_seen": "2026-09-11",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "機器人概念股": {
     "last_seen": "2026-07-03",
     "total_count": 22,
@@ -2294,11 +2289,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "單週": {
-    "last_seen": "2026-11-14",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "上路": {
     "last_seen": "2026-08-16",
     "total_count": 8,
@@ -3165,9 +3155,9 @@
     "days_seen": 2
   },
   "Zscaler": {
-    "last_seen": "2026-09-04",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 24,
+    "days_seen": 2
   },
   "Face": {
     "last_seen": "2026-09-04",
@@ -5030,9 +5020,9 @@
     "days_seen": 1
   },
   "先進製程": {
-    "last_seen": "2026-10-03",
-    "total_count": 18,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 28,
+    "days_seen": 2
   },
   "非農數據": {
     "last_seen": "2026-10-03",
@@ -7204,11 +7194,6 @@
     "total_count": 24,
     "days_seen": 2
   },
-  "救市": {
-    "last_seen": "2026-11-04",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "Lumentum": {
     "last_seen": "2026-11-03",
     "total_count": 12,
@@ -7265,9 +7250,9 @@
     "days_seen": 1
   },
   "喊話": {
-    "last_seen": "2026-11-03",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 24,
+    "days_seen": 2
   },
   "遊牧": {
     "last_seen": "2026-11-04",
@@ -7464,20 +7449,15 @@
     "total_count": 16,
     "days_seen": 1
   },
-  "崩盤": {
-    "last_seen": "2026-11-07",
-    "total_count": 16,
-    "days_seen": 1
-  },
   "財經部會": {
     "last_seen": "2026-11-07",
     "total_count": 12,
     "days_seen": 1
   },
   "措施": {
-    "last_seen": "2026-11-07",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 28,
+    "days_seen": 2
   },
   "變天": {
     "last_seen": "2026-11-07",
@@ -7508,11 +7488,6 @@
     "last_seen": "2026-11-07",
     "total_count": 10,
     "days_seen": 1
-  },
-  "交所": {
-    "last_seen": "2026-11-20",
-    "total_count": 18,
-    "days_seen": 2
   },
   "台積電進軍": {
     "last_seen": "2026-11-07",
@@ -7739,11 +7714,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "蒸發": {
-    "last_seen": "2026-11-20",
-    "total_count": 24,
-    "days_seen": 3
-  },
   "失去": {
     "last_seen": "2026-11-13",
     "total_count": 8,
@@ -7770,9 +7740,9 @@
     "days_seen": 1
   },
   "單周": {
-    "last_seen": "2026-11-14",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 26,
+    "days_seen": 2
   },
   "A5": {
     "last_seen": "2026-11-14",
@@ -7814,11 +7784,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "來最": {
-    "last_seen": "2026-11-18",
-    "total_count": 26,
-    "days_seen": 2
-  },
   "停飛": {
     "last_seen": "2026-11-14",
     "total_count": 8,
@@ -7855,9 +7820,9 @@
     "days_seen": 1
   },
   "科技股重挫": {
-    "last_seen": "2026-11-16",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 26,
+    "days_seen": 2
   },
   "重挫逾": {
     "last_seen": "2026-11-16",
@@ -8054,11 +8019,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "NVDA": {
-    "last_seen": "2026-11-19",
-    "total_count": 12,
-    "days_seen": 1
-  },
   "紀要": {
     "last_seen": "2026-11-19",
     "total_count": 10,
@@ -8070,9 +8030,9 @@
     "days_seen": 2
   },
   "風暴": {
-    "last_seen": "2026-11-19",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-21",
+    "total_count": 24,
+    "days_seen": 2
   },
   "爆量重挫": {
     "last_seen": "2026-11-19",
@@ -8142,6 +8102,76 @@
   "Rti": {
     "last_seen": "2026-11-20",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "召集財經首長": {
+    "last_seen": "2026-11-21",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "穩定": {
+    "last_seen": "2026-11-21",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "市值蒸發": {
+    "last_seen": "2026-11-21",
+    "total_count": 18,
+    "days_seen": 1
+  },
+  "股價暴跌": {
+    "last_seen": "2026-11-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "修正區": {
+    "last_seen": "2026-11-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "部會": {
+    "last_seen": "2026-11-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "空頭": {
+    "last_seen": "2026-11-21",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "年漲幅": {
+    "last_seen": "2026-11-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "日重挫": {
+    "last_seen": "2026-11-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "急召": {
+    "last_seen": "2026-11-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "短期": {
+    "last_seen": "2026-11-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "CrowdStrike": {
+    "last_seen": "2026-11-21",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "費城半導體": {
+    "last_seen": "2026-11-21",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "在手訂單": {
+    "last_seen": "2026-11-21",
+    "total_count": 10,
     "days_seen": 1
   }
 }
