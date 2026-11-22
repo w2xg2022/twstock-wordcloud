@@ -625,9 +625,9 @@
     "days_seen": 1
   },
   "的是": {
-    "last_seen": "2026-07-05",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-22",
+    "total_count": 16,
+    "days_seen": 2
   },
   "雙虎": {
     "last_seen": "2026-07-05",
@@ -1355,9 +1355,9 @@
     "days_seen": 1
   },
   "真的": {
-    "last_seen": "2026-10-17",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-22",
+    "total_count": 26,
+    "days_seen": 3
   },
   "疊加": {
     "last_seen": "2026-07-26",
@@ -4599,11 +4599,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "併購": {
-    "last_seen": "2026-10-21",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "Mini-Loop": {
     "last_seen": "2026-09-27",
     "total_count": 12,
@@ -5250,9 +5245,9 @@
     "days_seen": 2
   },
   "不能": {
-    "last_seen": "2026-10-06",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-22",
+    "total_count": 18,
+    "days_seen": 2
   },
   "百億美元": {
     "last_seen": "2026-10-06",
@@ -7249,11 +7244,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "喊話": {
-    "last_seen": "2026-11-21",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "遊牧": {
     "last_seen": "2026-11-04",
     "total_count": 14,
@@ -7520,9 +7510,9 @@
     "days_seen": 1
   },
   "外資持股": {
-    "last_seen": "2026-11-08",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-22",
+    "total_count": 24,
+    "days_seen": 2
   },
   "直言": {
     "last_seen": "2026-11-08",
@@ -7738,11 +7728,6 @@
     "last_seen": "2026-11-14",
     "total_count": 16,
     "days_seen": 1
-  },
-  "單周": {
-    "last_seen": "2026-11-21",
-    "total_count": 26,
-    "days_seen": 2
   },
   "A5": {
     "last_seen": "2026-11-14",
@@ -8029,11 +8014,6 @@
     "total_count": 20,
     "days_seen": 2
   },
-  "風暴": {
-    "last_seen": "2026-11-21",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "爆量重挫": {
     "last_seen": "2026-11-19",
     "total_count": 8,
@@ -8085,9 +8065,9 @@
     "days_seen": 1
   },
   "股崩盤": {
-    "last_seen": "2026-11-20",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-22",
+    "total_count": 16,
+    "days_seen": 2
   },
   "不到": {
     "last_seen": "2026-11-20",
@@ -8135,9 +8115,9 @@
     "days_seen": 1
   },
   "空頭": {
-    "last_seen": "2026-11-21",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-22",
+    "total_count": 24,
+    "days_seen": 2
   },
   "年漲幅": {
     "last_seen": "2026-11-21",
@@ -8172,6 +8152,86 @@
   "在手訂單": {
     "last_seen": "2026-11-21",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "跌近": {
+    "last_seen": "2026-11-22",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "黑色星期五": {
+    "last_seen": "2026-11-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "股血洗": {
+    "last_seen": "2026-11-22",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "NVDA": {
+    "last_seen": "2026-11-22",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "科技股血洗": {
+    "last_seen": "2026-11-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "禁空令": {
+    "last_seen": "2026-11-22",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股黑色星期": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "與台積電": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "單日重挫": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股慘遭": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "限空令": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股下週": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "恐再": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "浮現": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "飯店": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "TVBS": {
+    "last_seen": "2026-11-22",
+    "total_count": 8,
     "days_seen": 1
   }
 }

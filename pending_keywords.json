@@ -468,8 +468,8 @@
     "total_count": 32
   },
   "單周": {
-    "first_promoted": "2026-10-19",
-    "total_count": 34
+    "first_promoted": "2026-11-22",
+    "total_count": 36
   },
   "哪些": {
     "first_promoted": "2026-10-19",
@@ -796,8 +796,8 @@
     "total_count": 30
   },
   "風暴": {
-    "first_promoted": "2026-11-18",
-    "total_count": 30
+    "first_promoted": "2026-11-22",
+    "total_count": 34
   },
   "回應": {
     "first_promoted": "2026-11-12",
@@ -914,5 +914,13 @@
   "股領跌": {
     "first_promoted": "2026-11-21",
     "total_count": 40
+  },
+  "喊話": {
+    "first_promoted": "2026-11-22",
+    "total_count": 34
+  },
+  "併購": {
+    "first_promoted": "2026-11-22",
+    "total_count": 34
   }
 }
