@@ -2554,11 +2554,6 @@
     "total_count": 20,
     "days_seen": 1
   },
-  "恆生": {
-    "last_seen": "2026-08-24",
-    "total_count": 20,
-    "days_seen": 1
-  },
   "應對": {
     "last_seen": "2026-08-24",
     "total_count": 18,
@@ -5605,9 +5600,9 @@
     "days_seen": 1
   },
   "來了": {
-    "last_seen": "2026-10-11",
-    "total_count": 16,
-    "days_seen": 1
+    "last_seen": "2026-11-23",
+    "total_count": 28,
+    "days_seen": 2
   },
   "重點": {
     "last_seen": "2026-10-11",
@@ -6150,9 +6145,9 @@
     "days_seen": 1
   },
   "VIX": {
-    "last_seen": "2026-11-06",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-23",
+    "total_count": 26,
+    "days_seen": 3
   },
   "網路": {
     "last_seen": "2026-10-18",
@@ -6188,11 +6183,6 @@
     "last_seen": "2026-10-19",
     "total_count": 10,
     "days_seen": 1
-  },
-  "預測": {
-    "last_seen": "2026-10-22",
-    "total_count": 22,
-    "days_seen": 2
   },
   "國銀": {
     "last_seen": "2026-10-19",
@@ -7295,9 +7285,9 @@
     "days_seen": 1
   },
   "景氣": {
-    "last_seen": "2026-11-04",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-23",
+    "total_count": 18,
+    "days_seen": 2
   },
   "檔跌停": {
     "last_seen": "2026-11-05",
@@ -7443,11 +7433,6 @@
     "last_seen": "2026-11-07",
     "total_count": 12,
     "days_seen": 1
-  },
-  "措施": {
-    "last_seen": "2026-11-21",
-    "total_count": 28,
-    "days_seen": 2
   },
   "變天": {
     "last_seen": "2026-11-07",
@@ -7870,9 +7855,9 @@
     "days_seen": 1
   },
   "急拉": {
-    "last_seen": "2026-11-17",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-23",
+    "total_count": 18,
+    "days_seen": 2
   },
   "日韓": {
     "last_seen": "2026-11-17",
@@ -8231,6 +8216,66 @@
   },
   "TVBS": {
     "last_seen": "2026-11-22",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "救市": {
+    "last_seen": "2026-11-23",
+    "total_count": 28,
+    "days_seen": 1
+  },
+  "台股反彈": {
+    "last_seen": "2026-11-23",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "恆生科技指數": {
+    "last_seen": "2026-11-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "保證金": {
+    "last_seen": "2026-11-23",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "融資保證金": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "反彈訊號": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "人才培育": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "維持率": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "底部": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "過度": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "下午": {
+    "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "各國": {
+    "last_seen": "2026-11-23",
     "total_count": 8,
     "days_seen": 1
   }

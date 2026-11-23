@@ -308,7 +308,7 @@
     "total_count": 44
   },
   "預測": {
-    "first_promoted": "2026-10-09",
+    "first_promoted": "2026-11-23",
     "total_count": 30
   },
   "前景": {
@@ -922,5 +922,13 @@
   "併購": {
     "first_promoted": "2026-11-22",
     "total_count": 34
+  },
+  "恆生": {
+    "first_promoted": "2026-11-23",
+    "total_count": 36
+  },
+  "措施": {
+    "first_promoted": "2026-11-23",
+    "total_count": 36
   }
 }
