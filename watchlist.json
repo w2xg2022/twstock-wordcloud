@@ -459,11 +459,6 @@
     "total_count": 28,
     "days_seen": 3
   },
-  "年最": {
-    "last_seen": "2026-11-19",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "延長交易": {
     "last_seen": "2026-07-01",
     "total_count": 12,
@@ -523,11 +518,6 @@
     "last_seen": "2026-07-02",
     "total_count": 14,
     "days_seen": 1
-  },
-  "機器人概念股": {
-    "last_seen": "2026-07-03",
-    "total_count": 22,
-    "days_seen": 2
   },
   "科技股走": {
     "last_seen": "2026-10-27",
@@ -1045,9 +1035,9 @@
     "days_seen": 1
   },
   "DeepSeek": {
-    "last_seen": "2026-07-19",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-24",
+    "total_count": 20,
+    "days_seen": 2
   },
   "股災": {
     "last_seen": "2026-07-19",
@@ -1397,11 +1387,6 @@
   "與科技": {
     "last_seen": "2026-07-27",
     "total_count": 12,
-    "days_seen": 1
-  },
-  "觸發": {
-    "last_seen": "2026-07-28",
-    "total_count": 28,
     "days_seen": 1
   },
   "漲跌互見": {
@@ -2750,9 +2735,9 @@
     "days_seen": 1
   },
   "英偉達": {
-    "last_seen": "2026-09-28",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-11-24",
+    "total_count": 28,
+    "days_seen": 3
   },
   "加拿大": {
     "last_seen": "2026-08-28",
@@ -4470,9 +4455,9 @@
     "days_seen": 2
   },
   "小米": {
-    "last_seen": "2026-09-25",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-24",
+    "total_count": 20,
+    "days_seen": 2
   },
   "商業化": {
     "last_seen": "2026-09-25",
@@ -4878,11 +4863,6 @@
     "last_seen": "2026-10-01",
     "total_count": 12,
     "days_seen": 1
-  },
-  "PMI": {
-    "last_seen": "2026-10-24",
-    "total_count": 22,
-    "days_seen": 2
   },
   "無塵室": {
     "last_seen": "2026-10-01",
@@ -7440,9 +7420,9 @@
     "days_seen": 1
   },
   "史詩級": {
-    "last_seen": "2026-11-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-24",
+    "total_count": 26,
+    "days_seen": 2
   },
   "馬斯克": {
     "last_seen": "2026-11-08",
@@ -7565,9 +7545,9 @@
     "days_seen": 2
   },
   "收購": {
-    "last_seen": "2026-11-10",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-24",
+    "total_count": 18,
+    "days_seen": 2
   },
   "調降": {
     "last_seen": "2026-11-10",
@@ -7623,11 +7603,6 @@
     "last_seen": "2026-11-12",
     "total_count": 12,
     "days_seen": 1
-  },
-  "執行長": {
-    "last_seen": "2026-11-13",
-    "total_count": 28,
-    "days_seen": 2
   },
   "董事會準備": {
     "last_seen": "2026-11-12",
@@ -7909,11 +7884,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "回鍋": {
-    "last_seen": "2026-11-18",
-    "total_count": 10,
-    "days_seen": 1
-  },
   "親訪": {
     "last_seen": "2026-11-18",
     "total_count": 10,
@@ -8155,9 +8125,9 @@
     "days_seen": 1
   },
   "NVDA": {
-    "last_seen": "2026-11-22",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-24",
+    "total_count": 28,
+    "days_seen": 2
   },
   "科技股血洗": {
     "last_seen": "2026-11-22",
@@ -8276,6 +8246,61 @@
   },
   "各國": {
     "last_seen": "2026-11-23",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "報價": {
+    "last_seen": "2026-11-24",
+    "total_count": 27,
+    "days_seen": 1
+  },
+  "新低": {
+    "last_seen": "2026-11-24",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "Nvidia": {
+    "last_seen": "2026-11-24",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "跳空": {
+    "last_seen": "2026-11-24",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "董事會": {
+    "last_seen": "2026-11-24",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "輝達概念股": {
+    "last_seen": "2026-11-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "回歸帶動": {
+    "last_seen": "2026-11-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "違約交割": {
+    "last_seen": "2026-11-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "開盤飆": {
+    "last_seen": "2026-11-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "回來": {
+    "last_seen": "2026-11-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "知乎": {
+    "last_seen": "2026-11-24",
     "total_count": 8,
     "days_seen": 1
   }
