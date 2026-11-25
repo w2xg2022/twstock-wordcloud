@@ -36,8 +36,8 @@
     "total_count": 30
   },
   "繼續": {
-    "first_promoted": "2026-09-22",
-    "total_count": 40
+    "first_promoted": "2026-11-25",
+    "total_count": 36
   },
   "自動化": {
     "first_promoted": "2026-09-22",
@@ -864,8 +864,8 @@
     "total_count": 38
   },
   "回歸": {
-    "first_promoted": "2026-11-24",
-    "total_count": 112
+    "first_promoted": "2026-11-25",
+    "total_count": 52
   },
   "世代": {
     "first_promoted": "2026-11-18",
@@ -949,6 +949,10 @@
   },
   "年最": {
     "first_promoted": "2026-11-24",
+    "total_count": 32
+  },
+  "一天": {
+    "first_promoted": "2026-11-25",
     "total_count": 32
   }
 }

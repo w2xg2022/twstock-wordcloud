@@ -120,9 +120,9 @@
     "days_seen": 1
   },
   "與產業": {
-    "last_seen": "2026-09-20",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-25",
+    "total_count": 28,
+    "days_seen": 3
   },
   "是這": {
     "last_seen": "2026-06-17",
@@ -1250,9 +1250,9 @@
     "days_seen": 1
   },
   "新關稅": {
-    "last_seen": "2026-07-25",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-25",
+    "total_count": 26,
+    "days_seen": 2
   },
   "空間": {
     "last_seen": "2026-07-25",
@@ -1648,11 +1648,6 @@
     "last_seen": "2026-09-14",
     "total_count": 24,
     "days_seen": 2
-  },
-  "一天": {
-    "last_seen": "2026-08-03",
-    "total_count": 12,
-    "days_seen": 1
   },
   "無人載具": {
     "last_seen": "2026-09-12",
@@ -3335,9 +3330,9 @@
     "days_seen": 1
   },
   "嗶哩": {
-    "last_seen": "2026-09-07",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-25",
+    "total_count": 20,
+    "days_seen": 2
   },
   "港股通名單": {
     "last_seen": "2026-09-07",
@@ -4433,11 +4428,6 @@
     "last_seen": "2026-09-25",
     "total_count": 18,
     "days_seen": 1
-  },
-  "繼續": {
-    "last_seen": "2026-10-22",
-    "total_count": 28,
-    "days_seen": 2
   },
   "型科技股": {
     "last_seen": "2026-09-25",
@@ -5875,9 +5865,9 @@
     "days_seen": 1
   },
   "盤中跌": {
-    "last_seen": "2026-10-15",
-    "total_count": 12,
-    "days_seen": 1
+    "last_seen": "2026-11-25",
+    "total_count": 24,
+    "days_seen": 2
   },
   "曝光": {
     "last_seen": "2026-10-15",
@@ -7030,9 +7020,9 @@
     "days_seen": 1
   },
   "防禦": {
-    "last_seen": "2026-11-20",
-    "total_count": 16,
-    "days_seen": 2
+    "last_seen": "2026-11-25",
+    "total_count": 24,
+    "days_seen": 3
   },
   "增加": {
     "last_seen": "2026-11-01",
@@ -8301,6 +8291,61 @@
   },
   "知乎": {
     "last_seen": "2026-11-24",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "德州": {
+    "last_seen": "2026-11-25",
+    "total_count": 22,
+    "days_seen": 1
+  },
+  "風暴": {
+    "last_seen": "2026-11-25",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "流感": {
+    "last_seen": "2026-11-25",
+    "total_count": 20,
+    "days_seen": 1
+  },
+  "慶祝行情": {
+    "last_seen": "2026-11-25",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股暴漲": {
+    "last_seen": "2026-11-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "回吐": {
+    "last_seen": "2026-11-25",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "關稅戰": {
+    "last_seen": "2026-11-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "看明年": {
+    "last_seen": "2026-11-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "股拉昇": {
+    "last_seen": "2026-11-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "出籠": {
+    "last_seen": "2026-11-25",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "車輛": {
+    "last_seen": "2026-11-25",
     "total_count": 8,
     "days_seen": 1
   }
