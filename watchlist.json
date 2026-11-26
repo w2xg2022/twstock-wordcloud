@@ -645,9 +645,9 @@
     "days_seen": 1
   },
   "上演": {
-    "last_seen": "2026-07-06",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-26",
+    "total_count": 24,
+    "days_seen": 2
   },
   "快手": {
     "last_seen": "2026-07-07",
@@ -1248,11 +1248,6 @@
     "last_seen": "2026-07-25",
     "total_count": 20,
     "days_seen": 1
-  },
-  "新關稅": {
-    "last_seen": "2026-11-25",
-    "total_count": 26,
-    "days_seen": 2
   },
   "空間": {
     "last_seen": "2026-07-25",
@@ -4895,9 +4890,9 @@
     "days_seen": 2
   },
   "買氣": {
-    "last_seen": "2026-10-01",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-26",
+    "total_count": 20,
+    "days_seen": 2
   },
   "年來": {
     "last_seen": "2026-10-15",
@@ -5944,11 +5939,6 @@
     "total_count": 12,
     "days_seen": 1
   },
-  "匯市": {
-    "last_seen": "2026-11-16",
-    "total_count": 20,
-    "days_seen": 2
-  },
   "馬來西亞": {
     "last_seen": "2026-10-16",
     "total_count": 10,
@@ -6303,11 +6293,6 @@
     "last_seen": "2026-10-21",
     "total_count": 12,
     "days_seen": 1
-  },
-  "跟著": {
-    "last_seen": "2026-10-26",
-    "total_count": 20,
-    "days_seen": 2
   },
   "廣告": {
     "last_seen": "2026-10-21",
@@ -6669,11 +6654,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "計畫": {
-    "last_seen": "2026-11-06",
-    "total_count": 22,
-    "days_seen": 2
-  },
   "買盤回": {
     "last_seen": "2026-10-28",
     "total_count": 12,
@@ -6865,9 +6845,9 @@
     "days_seen": 1
   },
   "經濟成長": {
-    "last_seen": "2026-10-30",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-26",
+    "total_count": 22,
+    "days_seen": 2
   },
   "財報引爆": {
     "last_seen": "2026-10-31",
@@ -7193,11 +7173,6 @@
     "last_seen": "2026-11-03",
     "total_count": 8,
     "days_seen": 1
-  },
-  "第三季": {
-    "last_seen": "2026-11-17",
-    "total_count": 26,
-    "days_seen": 3
   },
   "多收": {
     "last_seen": "2026-11-03",
@@ -8114,11 +8089,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "NVDA": {
-    "last_seen": "2026-11-24",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "科技股血洗": {
     "last_seen": "2026-11-22",
     "total_count": 10,
@@ -8347,6 +8317,111 @@
   "車輛": {
     "last_seen": "2026-11-25",
     "total_count": 8,
+    "days_seen": 1
+  },
+  "感恩節": {
+    "last_seen": "2026-11-26",
+    "total_count": 24,
+    "days_seen": 1
+  },
+  "擬對": {
+    "last_seen": "2026-11-26",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "稅率": {
+    "last_seen": "2026-11-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "破裂": {
+    "last_seen": "2026-11-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "升幅": {
+    "last_seen": "2026-11-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "HK": {
+    "last_seen": "2026-11-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "AAStock": {
+    "last_seen": "2026-11-26",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "科技產業": {
+    "last_seen": "2026-11-26",
+    "total_count": 13,
+    "days_seen": 1
+  },
+  "美國經濟數據": {
+    "last_seen": "2026-11-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "強勢反彈": {
+    "last_seen": "2026-11-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "股修正": {
+    "last_seen": "2026-11-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "外資賣": {
+    "last_seen": "2026-11-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "一天": {
+    "last_seen": "2026-11-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "豁免": {
+    "last_seen": "2026-11-26",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "泡沫破裂": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股市值": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "股跌勢": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "配額內": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "經濟恐": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "時間": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "恐陷": {
+    "last_seen": "2026-11-26",
+    "total_count": 10,
     "days_seen": 1
   }
 }

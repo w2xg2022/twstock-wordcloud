@@ -424,8 +424,8 @@
     "total_count": 38
   },
   "計畫": {
-    "first_promoted": "2026-10-17",
-    "total_count": 30
+    "first_promoted": "2026-11-26",
+    "total_count": 32
   },
   "沒有": {
     "first_promoted": "2026-10-17",
@@ -584,8 +584,8 @@
     "total_count": 42
   },
   "第三季": {
-    "first_promoted": "2026-10-30",
-    "total_count": 48
+    "first_promoted": "2026-11-26",
+    "total_count": 42
   },
   "工具": {
     "first_promoted": "2026-10-26",
@@ -752,8 +752,8 @@
     "total_count": 32
   },
   "NVDA": {
-    "first_promoted": "2026-11-21",
-    "total_count": 30
+    "first_promoted": "2026-11-26",
+    "total_count": 48
   },
   "日韓股": {
     "first_promoted": "2026-11-07",
@@ -954,5 +954,17 @@
   "一天": {
     "first_promoted": "2026-11-25",
     "total_count": 32
+  },
+  "新關稅": {
+    "first_promoted": "2026-11-26",
+    "total_count": 50
+  },
+  "匯市": {
+    "first_promoted": "2026-11-26",
+    "total_count": 32
+  },
+  "跟著": {
+    "first_promoted": "2026-11-26",
+    "total_count": 30
   }
 }
