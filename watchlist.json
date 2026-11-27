@@ -1254,11 +1254,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "一周": {
-    "last_seen": "2026-08-03",
-    "total_count": 28,
-    "days_seen": 2
-  },
   "酪梨": {
     "last_seen": "2026-07-25",
     "total_count": 14,
@@ -1717,11 +1712,6 @@
   "季營收": {
     "last_seen": "2026-10-21",
     "total_count": 28,
-    "days_seen": 2
-  },
-  "五大": {
-    "last_seen": "2026-09-27",
-    "total_count": 24,
     "days_seen": 2
   },
   "光子": {
@@ -3665,9 +3655,9 @@
     "days_seen": 1
   },
   "抗跌": {
-    "last_seen": "2026-09-13",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-27",
+    "total_count": 20,
+    "days_seen": 2
   },
   "公開": {
     "last_seen": "2026-09-30",
@@ -3700,9 +3690,9 @@
     "days_seen": 1
   },
   "股半日": {
-    "last_seen": "2026-10-06",
-    "total_count": 18,
-    "days_seen": 2
+    "last_seen": "2026-11-27",
+    "total_count": 26,
+    "days_seen": 3
   },
   "今起": {
     "last_seen": "2026-09-14",
@@ -5769,11 +5759,6 @@
     "total_count": 14,
     "days_seen": 1
   },
-  "股大跌": {
-    "last_seen": "2026-10-16",
-    "total_count": 24,
-    "days_seen": 2
-  },
   "創史上第": {
     "last_seen": "2026-10-14",
     "total_count": 12,
@@ -6115,9 +6100,9 @@
     "days_seen": 1
   },
   "台積電擴廠": {
-    "last_seen": "2026-10-18",
-    "total_count": 8,
-    "days_seen": 1
+    "last_seen": "2026-11-27",
+    "total_count": 20,
+    "days_seen": 2
   },
   "至少": {
     "last_seen": "2026-10-19",
@@ -6200,9 +6185,9 @@
     "days_seen": 2
   },
   "產業發展": {
-    "last_seen": "2026-10-20",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-27",
+    "total_count": 20,
+    "days_seen": 2
   },
   "寧德時代": {
     "last_seen": "2026-10-20",
@@ -6620,9 +6605,9 @@
     "days_seen": 2
   },
   "逢低": {
-    "last_seen": "2026-11-02",
-    "total_count": 20,
-    "days_seen": 2
+    "last_seen": "2026-11-27",
+    "total_count": 28,
+    "days_seen": 3
   },
   "重燃": {
     "last_seen": "2026-10-28",
@@ -7405,9 +7390,9 @@
     "days_seen": 1
   },
   "買入": {
-    "last_seen": "2026-11-07",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-27",
+    "total_count": 20,
+    "days_seen": 2
   },
   "台積電進軍": {
     "last_seen": "2026-11-07",
@@ -8319,11 +8304,6 @@
     "total_count": 8,
     "days_seen": 1
   },
-  "感恩節": {
-    "last_seen": "2026-11-26",
-    "total_count": 24,
-    "days_seen": 1
-  },
   "擬對": {
     "last_seen": "2026-11-26",
     "total_count": 16,
@@ -8345,9 +8325,9 @@
     "days_seen": 1
   },
   "HK": {
-    "last_seen": "2026-11-26",
-    "total_count": 14,
-    "days_seen": 1
+    "last_seen": "2026-11-27",
+    "total_count": 28,
+    "days_seen": 2
   },
   "AAStock": {
     "last_seen": "2026-11-26",
@@ -8415,13 +8395,98 @@
     "days_seen": 1
   },
   "時間": {
-    "last_seen": "2026-11-26",
-    "total_count": 10,
-    "days_seen": 1
+    "last_seen": "2026-11-27",
+    "total_count": 24,
+    "days_seen": 2
   },
   "恐陷": {
     "last_seen": "2026-11-26",
     "total_count": 10,
+    "days_seen": 1
+  },
+  "AAstocks": {
+    "last_seen": "2026-11-27",
+    "total_count": 23,
+    "days_seen": 1
+  },
+  "財經新聞": {
+    "last_seen": "2026-11-27",
+    "total_count": 16,
+    "days_seen": 1
+  },
+  "減碼": {
+    "last_seen": "2026-11-27",
+    "total_count": 14,
+    "days_seen": 1
+  },
+  "創意": {
+    "last_seen": "2026-11-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "直播": {
+    "last_seen": "2026-11-27",
+    "total_count": 12,
+    "days_seen": 1
+  },
+  "百萬顆衛星": {
+    "last_seen": "2026-11-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "績效": {
+    "last_seen": "2026-11-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "SZ": {
+    "last_seen": "2026-11-27",
+    "total_count": 10,
+    "days_seen": 1
+  },
+  "將出席台積電": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "衛星概念股": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "黃仁勳回": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "新關稅": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "拉鋸": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "佈局": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "回歸": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "連續": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
+    "days_seen": 1
+  },
+  "鋁業": {
+    "last_seen": "2026-11-27",
+    "total_count": 8,
     "days_seen": 1
   }
 }

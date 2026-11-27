@@ -966,5 +966,25 @@
   "跟著": {
     "first_promoted": "2026-11-26",
     "total_count": 30
+  },
+  "選前": {
+    "first_promoted": "2026-11-27",
+    "total_count": 42
+  },
+  "感恩節": {
+    "first_promoted": "2026-11-27",
+    "total_count": 42
+  },
+  "五大": {
+    "first_promoted": "2026-11-27",
+    "total_count": 34
+  },
+  "股大跌": {
+    "first_promoted": "2026-11-27",
+    "total_count": 32
+  },
+  "一周": {
+    "first_promoted": "2026-11-27",
+    "total_count": 36
   }
 }
